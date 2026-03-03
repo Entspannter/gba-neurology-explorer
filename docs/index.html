@@ -8,19 +8,26 @@
       name="description"
       content="Interaktive Karte und Explorer für neurologische Projekte aus dem G-BA Innovationsfonds."
     >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    >
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
     <div class="page-shell">
       <header class="hero">
         <div class="hero-copy">
-          <p class="eyebrow">G-BA Innovationsfonds</p>
-          <h1>Neurologie-Projekte als interaktive Deutschlandkarte</h1>
+          <p class="eyebrow">G-BA Innovationsfonds · Neurologie</p>
+          <h1>Neurologie-Projekte im Stil einer modernen Fachgesellschaft</h1>
           <p class="lede">
-            Die Daten werden live aus der öffentlichen Projektdatenbank gescrapt. Die Oberfläche
-            fokussiert neurologische Vorhaben und verbindet Bundesländerkarte, Filter, Suche und
-            Projektdetails in einer lokalen statischen Website.
+            Diese Oberfläche gleicht die öffentliche G-BA-Projektdatenbank mit dem Online-Filter
+            für neurologische Erkrankungen ab und verbindet Karte, Suchlogik und Detailansicht in
+            einer statischen, dokumentierten Anwendung.
           </p>
+          <div id="classification-note" class="classification-note"></div>
           <div id="hero-stats" class="hero-stats"></div>
         </div>
         <div class="hero-panel">
@@ -36,7 +43,11 @@
           </div>
           <div class="meta-card">
             <span class="meta-label">Fokus</span>
-            <strong>Alle Projekte mit Themenschwerpunkt Neurologie</strong>
+            <strong>Abgleich mit dem öffentlichen Online-Filter für neurologische Erkrankungen</strong>
+          </div>
+          <div class="meta-card meta-card-accent">
+            <span class="meta-label">Hinweis</span>
+            <strong id="hero-focus-breakdown">Wird geladen ...</strong>
           </div>
         </div>
       </header>
@@ -54,6 +65,10 @@
           </label>
 
           <div class="field-grid">
+            <label class="field">
+              <span>Neurologie-Definition</span>
+              <select id="focus-scope-filter"></select>
+            </label>
             <label class="field">
               <span>Status</span>
               <select id="status-filter"></select>
@@ -92,6 +107,9 @@
           <p class="map-hint">
             Die Karte basiert auf dem auf jeder Projektseite veröffentlichten Feld
             <strong>Bundesland</strong>. Ein Klick auf ein Bundesland filtert die Projektliste.
+            <strong>Bundesweit</strong> folgt der Originalkennzeichnung der Quellseite; fehlende
+            Bundesland-Angaben erscheinen nur dann als eigener Knoten, wenn sie im Datensatz
+            vorkommen.
           </p>
           <div class="map-shell">
             <div id="state-map" class="state-map" aria-label="Deutschlandkarte nach Bundesländern"></div>

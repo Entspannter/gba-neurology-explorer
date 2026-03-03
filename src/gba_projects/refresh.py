@@ -3,8 +3,8 @@ from __future__ import annotations
 import argparse
 import time
 
-from .scraper import ScrapeConfig, scrape_projects
-from .site_builder import build_payload, write_payload
+from .scraper import ALL_PROJECTS_JSON, ScrapeConfig, scrape_projects
+from .site_builder import build_site
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
@@ -18,9 +18,8 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 def main(argv: list[str] | None = None) -> None:
     args = parse_args(argv)
     started = time.perf_counter()
-    projects = scrape_projects(ScrapeConfig(force=args.force, delay=args.delay, limit=args.limit))
-    payload = build_payload(projects)
-    write_payload(payload)
+    scrape_projects(ScrapeConfig(force=args.force, delay=args.delay, limit=args.limit))
+    payload = build_site(ALL_PROJECTS_JSON)
     elapsed = time.perf_counter() - started
     print(
         f"Refresh complete in {elapsed:.1f}s "
@@ -31,4 +30,3 @@ def main(argv: list[str] | None = None) -> None:
 
 if __name__ == "__main__":
     main()
-

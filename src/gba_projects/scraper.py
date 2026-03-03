@@ -9,7 +9,7 @@ import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
-from urllib.parse import urlencode, urljoin, urlparse
+from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup, Tag
@@ -20,11 +20,27 @@ LIST_PARAMS = {
     "direction": "asc",
     "sort": "projekt.akronym",
 }
+NEUROLOGY_FILTER_PARAMS = {
+    "projektname": "",
+    "themenschwerpunkt": "neurologische Erkrankungen",
+    "zielgruppe": "",
+    "projektelemente[projektelementGruppe]": "",
+    "projektelemente[projektelement]": "",
+    "foerderbereich[foerderbereich]": "",
+    "foerderbereich[foerderverfahren]": "",
+    "versorgungsbereich": "",
+    "bundesland": "",
+    "status[status]": "",
+    "status[transferempfehlung]": "",
+    "sort": "projekt.akronym",
+    "direction": "asc",
+}
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR = PROJECT_ROOT / "data"
 CACHE_DIR = DATA_DIR / "cache"
 LISTING_CACHE_DIR = CACHE_DIR / "listings"
+NEUROLOGY_LISTING_CACHE_DIR = CACHE_DIR / "neurology-listings"
 PROJECT_CACHE_DIR = CACHE_DIR / "projects"
 
 ALL_PROJECTS_JSON = DATA_DIR / "projects_all.json"
@@ -47,7 +63,7 @@ class ScrapeConfig:
 
 
 def ensure_directories() -> None:
-    for path in [DATA_DIR, LISTING_CACHE_DIR, PROJECT_CACHE_DIR]:
+    for path in [DATA_DIR, LISTING_CACHE_DIR, NEUROLOGY_LISTING_CACHE_DIR, PROJECT_CACHE_DIR]:
         path.mkdir(parents=True, exist_ok=True)
 
 
@@ -69,6 +85,14 @@ def split_values(value: str) -> list[str]:
     parts = re.split(r"\s*[,;]\s*", value)
     cleaned = [clean_text(part) for part in parts if clean_text(part)]
     return list(dict.fromkeys(cleaned))
+
+
+def first_value(mapping: dict[str, str], *labels: str) -> str:
+    for label in labels:
+        value = mapping.get(label)
+        if value:
+            return value
+    return ""
 
 
 def parse_money_eur(value: str) -> int | None:
@@ -117,6 +141,10 @@ def make_session() -> requests.Session:
 
 def cache_path_for_listing(page: int) -> Path:
     return LISTING_CACHE_DIR / f"page-{page}.html"
+
+
+def cache_path_for_neurology_listing(page: int) -> Path:
+    return NEUROLOGY_LISTING_CACHE_DIR / f"page-{page}.html"
 
 
 def cache_path_for_project(url: str) -> Path:
@@ -188,6 +216,44 @@ def parse_kv_list(root: Tag | None) -> dict[str, str]:
         if label and value:
             data[label] = value
     return data
+
+
+def collect_listing_urls(
+    session: requests.Session,
+    *,
+    params: dict[str, Any],
+    first_cache_path: Path,
+    cache_factory,
+    force: bool,
+    delay: float,
+    label: str,
+) -> list[str]:
+    first_page_html = fetch_html(
+        session,
+        url=LIST_URL,
+        params={**params, "page": 1},
+        cache_path=first_cache_path,
+        force=force,
+    )
+    first_page_soup = get_soup(first_page_html)
+    last_page = parse_last_page(first_page_soup)
+
+    collected_urls: list[str] = []
+    for page in range(1, last_page + 1):
+        html = first_page_html if page == 1 else fetch_html(
+            session,
+            url=LIST_URL,
+            params={**params, "page": page},
+            cache_path=cache_factory(page),
+            force=force,
+        )
+        soup = first_page_soup if page == 1 else get_soup(html)
+        page_urls = extract_project_links(soup)
+        collected_urls.extend(page_urls)
+        print(f"Collected {len(page_urls):>2} links from {label} page {page}/{last_page}")
+        if delay:
+            time.sleep(delay)
+    return list(dict.fromkeys(collected_urls))
 
 
 def section_by_id(soup: BeautifulSoup, section_id: str) -> Tag | None:
@@ -385,9 +451,9 @@ def parse_project_page(soup: BeautifulSoup, url: str) -> dict[str, Any]:
     results_section = section_by_id(soup, "ergebnisse-und-beschluss")
     other_info_section = section_by_id(soup, "weitere-informationen")
 
-    themenschwerpunkte = split_values(project_data.get("Themenschwerpunkte", ""))
-    target_groups = split_values(project_data.get("Zielgruppen", ""))
-    states = split_values(project_data.get("Bundesland", ""))
+    themenschwerpunkte = split_values(first_value(project_data, "Themenschwerpunkte", "Themenschwerpunkt"))
+    target_groups = split_values(first_value(project_data, "Zielgruppen", "Zielgruppe"))
+    states = split_values(first_value(project_data, "Bundesland", "Bundesländer"))
     duration_raw = project_data.get("Laufzeit", "")
     start_date, end_date = parse_duration_range(duration_raw)
 
@@ -428,7 +494,7 @@ def parse_project_page(soup: BeautifulSoup, url: str) -> dict[str, Any]:
         "decision_date": parse_decision_date(results_section),
         "result_documents": parse_documents(results_section),
         "additional_documents": parse_documents(other_info_section),
-        "is_neurology": any(focus.casefold() == "neurologische erkrankungen" for focus in themenschwerpunkte),
+        "has_explicit_neurology_focus": any(focus.casefold() == "neurologische erkrankungen" for focus in themenschwerpunkte),
     }
 
 
@@ -439,6 +505,9 @@ def flatten_record(project: dict[str, Any]) -> dict[str, Any]:
         "title": project.get("title"),
         "url": project.get("url"),
         "is_neurology": project.get("is_neurology"),
+        "matches_neurology_online_filter": project.get("matches_neurology_online_filter"),
+        "has_explicit_neurology_focus": project.get("has_explicit_neurology_focus"),
+        "neurology_focus_scope": project.get("neurology_focus_scope"),
         "funding_category": project.get("funding_category"),
         "funding_area": project.get("funding_area"),
         "funding_process": project.get("funding_process"),
@@ -490,33 +559,26 @@ def scrape_projects(config: ScrapeConfig) -> list[dict[str, Any]]:
     ensure_directories()
     session = make_session()
 
-    first_page_html = fetch_html(
+    deduped_urls = collect_listing_urls(
         session,
-        url=LIST_URL,
-        params={**LIST_PARAMS, "page": 1},
-        cache_path=cache_path_for_listing(1),
+        params=LIST_PARAMS,
+        first_cache_path=cache_path_for_listing(1),
+        cache_factory=cache_path_for_listing,
         force=config.force,
+        delay=config.delay,
+        label="list",
     )
-    first_page_soup = get_soup(first_page_html)
-    last_page = parse_last_page(first_page_soup)
-
-    all_urls: list[str] = []
-    for page in range(1, last_page + 1):
-        html = first_page_html if page == 1 else fetch_html(
+    neurology_filter_urls = set(
+        collect_listing_urls(
             session,
-            url=LIST_URL,
-            params={**LIST_PARAMS, "page": page},
-            cache_path=cache_path_for_listing(page),
+            params=NEUROLOGY_FILTER_PARAMS,
+            first_cache_path=cache_path_for_neurology_listing(1),
+            cache_factory=cache_path_for_neurology_listing,
             force=config.force,
+            delay=config.delay,
+            label="neurology filter",
         )
-        soup = first_page_soup if page == 1 else get_soup(html)
-        page_urls = extract_project_links(soup)
-        all_urls.extend(page_urls)
-        print(f"Collected {len(page_urls):>2} links from list page {page}/{last_page}")
-        if config.delay:
-            time.sleep(config.delay)
-
-    deduped_urls = list(dict.fromkeys(all_urls))
+    )
     if config.limit is not None:
         deduped_urls = deduped_urls[: config.limit]
 
@@ -548,6 +610,24 @@ def scrape_projects(config: ScrapeConfig) -> list[dict[str, Any]]:
         if config.delay:
             time.sleep(config.delay)
 
+    for project in projects:
+        thematic_focuses = project.get("thematic_focuses", [])
+        matches_online_filter = project.get("url") in neurology_filter_urls
+        has_explicit_focus = any(focus.casefold() == "neurologische erkrankungen" for focus in thematic_focuses)
+        if has_explicit_focus and len(thematic_focuses) == 1:
+            focus_scope = "exclusive"
+        elif has_explicit_focus:
+            focus_scope = "multiple"
+        elif matches_online_filter:
+            focus_scope = "online_filter_only"
+        else:
+            focus_scope = "none"
+
+        project["matches_neurology_online_filter"] = matches_online_filter
+        project["has_explicit_neurology_focus"] = has_explicit_focus
+        project["neurology_focus_scope"] = focus_scope
+        project["is_neurology"] = matches_online_filter
+
     write_outputs(projects)
     return projects
 
@@ -576,4 +656,3 @@ def main(argv: list[str] | None = None) -> None:
 
 if __name__ == "__main__":
     main()
-

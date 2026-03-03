@@ -23,6 +23,21 @@ git push
 
 GitHub Pages will serve the new `docs/` contents automatically after the push.
 
+`gba-refresh` is the canonical command because it refreshes both data and the mirrored Pages output.
+
+## GitHub Actions
+
+The repository also includes `.github/workflows/refresh-pages.yml` for scheduled and manual refreshes.
+
+The workflow:
+
+- sets up Python 3.11
+- installs the package in editable mode
+- runs `gba-refresh --force`
+- commits changed datasets and `docs/` back to the default branch
+
+Pushing that workflow file requires a GitHub token with the `workflow` scope.
+
 ## Assumptions
 
 - the repository is hosted on GitHub
@@ -33,5 +48,5 @@ GitHub Pages will serve the new `docs/` contents automatically after the push.
 
 - If the source HTML structure changes, `gba-refresh` can fail or produce incomplete fields.
 - If the published Pages site is stale, regenerate the local build and push the updated `docs/`.
+- If `docs/` is stale but `site/` is current, run `gba-build-site`.
 - If GitHub Pages is disabled in repository settings, re-enable it for branch `codex/bootstrap-pages` and folder `/docs`.
-

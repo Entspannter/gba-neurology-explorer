@@ -1,17 +1,31 @@
 window.GBA_NEUROLOGY_DATA = {
-  "generatedAt": "2026-03-03T17:26:03+00:00",
+  "generatedAt": "2026-03-03T18:02:39+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 803,
-    "neurologyCount": 122
+    "neurologyCount": 167,
+    "neurologyFilterUrl": "https://innovationsfonds.g-ba.de/projekte/?projektname=&themenschwerpunkt=neurologische+Erkrankungen&zielgruppe=&projektelemente%5BprojektelementGruppe%5D=&projektelemente%5Bprojektelement%5D=&foerderbereich%5Bfoerderbereich%5D=&foerderbereich%5Bfoerderverfahren%5D=&versorgungsbereich=&bundesland=&status%5Bstatus%5D=&status%5Btransferempfehlung%5D=&sort=projekt.akronym&direction=asc"
   },
   "overview": {
     "totalProjectsScraped": 803,
-    "neurologyProjects": 122,
-    "activeNeurologyProjects": 64,
-    "completedNeurologyProjects": 58,
-    "statesWithNeurologyProjects": 14,
-    "totalFundingEur": 308951000
+    "neurologyProjects": 167,
+    "onlineFilterNeurologyProjects": 167,
+    "explicitNeurologyProjects": 167,
+    "exclusiveNeurologyProjects": 45,
+    "multiFocusNeurologyProjects": 122,
+    "onlineFilterOnlyProjects": 0,
+    "activeNeurologyProjects": 88,
+    "completedNeurologyProjects": 79,
+    "statesWithNeurologyProjects": 16,
+    "totalFundingEur": 444092497
+  },
+  "classification": {
+    "onlineFilterCount": 167,
+    "explicitCount": 167,
+    "exclusiveCount": 45,
+    "multiFocusCount": 122,
+    "onlineFilterOnlyCount": 0,
+    "note": "Die Standardansicht folgt der öffentlichen G-BA-Online-Maske für „neurologische Erkrankungen“. Ein Teil der Projekte führt Neurologie als einen von mehreren Themenschwerpunkten."
   },
   "filters": {
     "statuses": [
@@ -24,8 +38,10 @@ window.GBA_NEUROLOGY_DATA = {
       "Versorgungsforschung"
     ],
     "states": [
+      "Schleswig-Holstein",
       "Hamburg",
       "Mecklenburg-Vorpommern",
+      "Bremen",
       "Niedersachsen",
       "Berlin",
       "Brandenburg",
@@ -38,8 +54,29 @@ window.GBA_NEUROLOGY_DATA = {
       "Saarland",
       "Baden-Württemberg",
       "Bayern",
-      "bundesweit",
-      "Ohne Zuordnung"
+      "bundesweit"
+    ],
+    "focusScopes": [
+      {
+        "value": "all",
+        "label": "Alle Treffer aus dem Online-Filter",
+        "count": 167
+      },
+      {
+        "value": "exclusive",
+        "label": "Nur neurologischer Schwerpunkt",
+        "count": 45
+      },
+      {
+        "value": "multiple",
+        "label": "Neurologie unter mehreren Schwerpunkten",
+        "count": 122
+      },
+      {
+        "value": "online_filter_only",
+        "label": "Im Online-Filter, aber ohne sichtbare Schwerpunktangabe",
+        "count": 0
+      }
     ],
     "targetGroups": [
       "Angehörige",
@@ -63,53 +100,107 @@ window.GBA_NEUROLOGY_DATA = {
   "stateSummary": [
     {
       "name": "Schleswig-Holstein",
-      "count": 0,
-      "projectIds": []
+      "count": 8,
+      "projectIds": [
+        826,
+        189,
+        438,
+        194,
+        432,
+        274,
+        721,
+        176
+      ]
     },
     {
       "name": "Hamburg",
-      "count": 6,
+      "count": 18,
       "projectIds": [
+        303,
+        826,
+        23,
         118,
+        817,
         8,
         73,
         221,
+        189,
+        102,
         57,
-        236
+        194,
+        432,
+        132,
+        236,
+        274,
+        721,
+        176
       ]
     },
     {
       "name": "Mecklenburg-Vorpommern",
-      "count": 1,
+      "count": 15,
       "projectIds": [
-        227
+        28,
+        561,
+        725,
+        76,
+        227,
+        286,
+        726,
+        189,
+        438,
+        356,
+        194,
+        813,
+        183,
+        707,
+        176
       ]
     },
     {
       "name": "Bremen",
-      "count": 0,
-      "projectIds": []
+      "count": 4,
+      "projectIds": [
+        249,
+        189,
+        194,
+        176
+      ]
     },
     {
       "name": "Niedersachsen",
-      "count": 8,
+      "count": 18,
       "projectIds": [
         349,
         770,
         687,
         338,
+        505,
+        726,
+        189,
         333,
+        600,
         145,
         553,
-        140
+        194,
+        724,
+        813,
+        274,
+        140,
+        720,
+        176
       ]
     },
     {
       "name": "Berlin",
-      "count": 14,
+      "count": 31,
       "projectIds": [
+        561,
         214,
+        725,
+        76,
         124,
+        427,
         768,
         156,
         550,
@@ -119,173 +210,280 @@ window.GBA_NEUROLOGY_DATA = {
         393,
         649,
         457,
+        189,
+        710,
+        304,
+        438,
+        194,
         689,
+        276,
+        724,
         682,
-        588
+        588,
+        183,
+        506,
+        633,
+        580,
+        470,
+        176
       ]
     },
     {
       "name": "Brandenburg",
-      "count": 1,
+      "count": 18,
       "projectIds": [
-        546
+        561,
+        725,
+        76,
+        427,
+        272,
+        286,
+        189,
+        710,
+        438,
+        194,
+        276,
+        724,
+        546,
+        183,
+        506,
+        633,
+        707,
+        176
       ]
     },
     {
       "name": "Nordrhein-Westfalen",
-      "count": 23,
+      "count": 43,
       "projectIds": [
         592,
+        627,
         204,
+        826,
         383,
+        448,
         777,
         388,
+        817,
+        703,
         756,
+        505,
+        319,
         139,
         576,
+        726,
         609,
         737,
+        189,
+        438,
+        102,
         656,
         69,
         346,
         123,
+        194,
         762,
+        351,
         603,
         446,
+        724,
         223,
         387,
+        177,
         629,
+        813,
+        702,
         348,
         323,
-        462
+        105,
+        462,
+        720,
+        176
       ]
     },
     {
       "name": "Sachsen-Anhalt",
-      "count": 2,
+      "count": 8,
       "projectIds": [
+        561,
         350,
-        184
+        184,
+        189,
+        194,
+        813,
+        183,
+        176
       ]
     },
     {
       "name": "Hessen",
-      "count": 5,
+      "count": 19,
       "projectIds": [
+        725,
+        716,
         302,
+        826,
         556,
         33,
+        286,
+        567,
+        726,
         522,
-        18
+        189,
+        438,
+        194,
+        432,
+        18,
+        231,
+        177,
+        750,
+        176
       ]
     },
     {
       "name": "Thüringen",
-      "count": 2,
+      "count": 7,
       "projectIds": [
+        561,
+        725,
+        189,
+        194,
         317,
-        574
+        574,
+        176
       ]
     },
     {
       "name": "Sachsen",
-      "count": 4,
-      "projectIds": [
-        537,
-        113,
-        191,
-        767
-      ]
-    },
-    {
-      "name": "Rheinland-Pfalz",
-      "count": 2,
-      "projectIds": [
-        361,
-        512
-      ]
-    },
-    {
-      "name": "Saarland",
-      "count": 2,
-      "projectIds": [
-        494,
-        565
-      ]
-    },
-    {
-      "name": "Baden-Württemberg",
-      "count": 15,
-      "projectIds": [
-        312,
-        51,
-        1,
-        211,
-        327,
-        340,
-        573,
-        138,
-        16,
-        818,
-        659,
-        299,
-        301,
-        205,
-        247
-      ]
-    },
-    {
-      "name": "Bayern",
-      "count": 17,
-      "projectIds": [
-        45,
-        481,
-        585,
-        596,
-        311,
-        208,
-        440,
-        125,
-        131,
-        379,
-        213,
-        482,
-        683,
-        353,
-        293,
-        764,
-        107
-      ]
-    },
-    {
-      "name": "bundesweit",
-      "count": 5,
-      "projectIds": [
-        510,
-        590,
-        708,
-        436,
-        632
-      ]
-    },
-    {
-      "name": "Ohne Zuordnung",
       "count": 15,
       "projectIds": [
         561,
         725,
+        627,
+        26,
+        537,
+        505,
+        189,
+        194,
+        113,
+        191,
+        724,
+        146,
+        746,
+        767,
+        176
+      ]
+    },
+    {
+      "name": "Rheinland-Pfalz",
+      "count": 9,
+      "projectIds": [
         716,
+        279,
+        361,
+        567,
+        189,
+        194,
+        512,
+        177,
+        176
+      ]
+    },
+    {
+      "name": "Saarland",
+      "count": 6,
+      "projectIds": [
+        494,
+        189,
+        194,
+        177,
+        565,
+        176
+      ]
+    },
+    {
+      "name": "Baden-Württemberg",
+      "count": 29,
+      "projectIds": [
+        250,
+        716,
+        826,
+        312,
+        51,
+        514,
+        1,
+        211,
+        658,
+        327,
+        505,
+        340,
+        726,
+        189,
+        438,
+        229,
+        573,
+        194,
+        138,
+        16,
+        818,
+        659,
+        724,
+        299,
+        301,
+        177,
+        205,
+        247,
+        176
+      ]
+    },
+    {
+      "name": "Bayern",
+      "count": 31,
+      "projectIds": [
+        45,
+        725,
         627,
         826,
-        427,
-        817,
-        102,
+        481,
+        585,
+        596,
+        311,
+        690,
+        505,
+        476,
+        208,
+        189,
+        710,
+        438,
+        616,
+        440,
+        125,
         194,
-        276,
-        506,
-        721,
-        633,
-        720,
+        131,
+        379,
+        724,
+        213,
+        482,
+        177,
+        683,
+        353,
+        293,
+        764,
+        107,
+        176
+      ]
+    },
+    {
+      "name": "bundesweit",
+      "count": 8,
+      "projectIds": [
+        510,
+        590,
+        708,
+        189,
+        194,
+        436,
+        632,
         176
       ]
     }
@@ -309,6 +507,9 @@ window.GBA_NEUROLOGY_DATA = {
         "onkologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Angehörige",
         "Erwachsene",
@@ -404,6 +605,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Verletzung und Vergiftungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Leistungserbringer",
         "Menschen mit chronischen Krankheiten",
@@ -492,6 +696,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -548,6 +755,81 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 28,
+      "slug": "ahead.28",
+      "title": "AHeaD – Künftige Aufgabenteilung von Pflegefachpersonen und Hausärzten in der ambulanten Demenzversorgung: Aufgaben, Akzeptanz, Qualifikation",
+      "acronym": "AHeaD",
+      "url": "https://innovationsfonds.g-ba.de/projekte/ahead.28",
+      "summary": "Projektbeschreibung Mit dem demographischen Wandel nehmen die Zahl älterer Menschen und der Anteil an altersassoziierten Erkrankungen (insbesondere Demenz) in Deutschland zu. Derzeit leben bundesweit ca.",
+      "description": "Projektbeschreibung Mit dem demographischen Wandel nehmen die Zahl älterer Menschen und der Anteil an altersassoziierten Erkrankungen (insbesondere Demenz) in Deutschland zu. Derzeit leben bundesweit ca. 1,5 Millionen Menschen mit einer Demenz. Diese sind auf eine medizinisch-pflegerische Versorgung angewiesen, die dem aktuellen medizinischen Stand der Wissenschaft entspricht. Aber auch die Akteure des Gesundheitswesens altern, sodass es bereits heute eine Herausforderung darstellt, die Versorgung bedarfsgerecht sicherzustellen. Daher untersucht die AHeaD Studie, wie künftig mit einer veränderten Arbeitsteilung von Pflegefachkräften und Hausärzten die ambulante Versorgung von Menschen mit Demenz gestaltet werden kann und wie diese sowohl von Betroffenen als auch von Angehörigen akzeptiert wird. Die Studienergebnisse werden genutzt, um ein neues Versorgungskonzept (nach §63 Abs. 3c SGB V) zu gestalten. Dies soll Basis für die Weiterentwicklung der bestehenden G-BA-Richtlinie zur heilkundlichen Aufgabenübertragung in diesem Versorgungsbereich sein. Die Richtlinie regelt welche ärztlichen Tätigkeiten auf Angehörige der Kranken- und Altenpflegeberufe übertragen werden dürfen. Das Projekt wird für drei Jahre mit insgesamt ca. 629.497 Euro gefördert.",
+      "status": "beendet",
+      "states": [
+        "Mecklenburg-Vorpommern"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "ländliche Bevölkerung",
+        "Menschen mit chronischen Krankheiten",
+        "Pflegebedürftige"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 629.497 Euro",
+      "fundingSumEur": 629497,
+      "duration": "05/2017 – 04/2020",
+      "startDate": "2017-05",
+      "endDate": "2020-04",
+      "transferRecommendation": "Erprobung als neue Versorgungsform",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Wolfgang Hoffmann",
+          "Institut für Community Medicine, Abt. Versorgungsepidemiologie und Community Health Universitätsmedizin Greifswald",
+          "Ellernolzstr. 1-2",
+          "17487 Greifswald",
+          "0049 3834 867750",
+          "wolfgang.hoffmann@uni-greifswald.de"
+        ],
+        "display": "Prof. Wolfgang Hoffmann | Institut für Community Medicine, Abt. Versorgungsepidemiologie und Community Health Universitätsmedizin Greifswald | Ellernolzstr. 1-2 | 17487 Greifswald | 0049 3834 867750 | wolfgang.hoffmann@uni-greifswald.de",
+        "name": "Prof. Wolfgang Hoffmann",
+        "email": "wolfgang.hoffmann@uni-greifswald.de",
+        "phone": null,
+        "postal_code": "17487",
+        "city": "Greifswald",
+        "organization": "Institut für Community Medicine, Abt. Versorgungsepidemiologie und Community Health Universitätsmedizin Greifswald",
+        "street": "Ellernolzstr. 1-2"
+      },
+      "projectLeadCity": "Greifswald",
+      "partners": [
+        "Universitätsmedizin Rostock",
+        "Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock/Greifswald",
+        "Hochschule Neubrandenburg",
+        "Universitätsmedizin Greifswald"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "04.06.2021",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 123,66 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/65/2021-06-04_AHeaD.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 7,08 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/66/2021-10-31_AHeaD_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 770,
       "slug": "akopim.770",
       "title": "AKOPIM – Algorithmische Kipppunktanalyse zur Optimierung der Patient Journey bei Multimorbidität",
@@ -573,6 +855,9 @@ window.GBA_NEUROLOGY_DATA = {
         "onkologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Leistungserbringer",
@@ -628,13 +913,21 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "Epilepsien gehören zu den häufigsten chronischen Erkrankungen des zentralen Nervensystems mit etwa 600.000 Betroffenen in Deutschland. Daneben gibt es eine hohe Zahl ähnlicher, mit Anfällen verbundenen Leiden. Damit die Behandelnden eine passende Therapie einleiten können, ist eine frühzeitige genaue Diagnose wichtig. Üblicherweise werden die Patientinnen und Patienten hierfür stationär in einem mehrtägigen Video-EEG-Monitoring überwacht. Dieser Goldstandard in der Epilepsie-Diagnostik ist bislang aber nur in wenigen spezialisierten Zentren möglich; die Betroffenen müssen daher oft Monate auf einen Monitoringplatz warten.\n\nDie Forschenden im Projekt ALVEEG möchten dem abhelfen und die Goldstandard-Diagnostik im ambulanten Setting etablieren und erproben. Ausgestattet mit einem tragbaren Monitoring-System sollen Patientinnen und Patienten in ihrem häuslichen Umfeld für mehrere Tage Video-, EEG- sowie EKG-Daten von sich aufzeichnen. Sie werden dabei telemedizinisch begleitet und führen zusätzlich ein App-basiertes Anfallstagebuch. Alle Daten werden in einer Online-Plattform synchronisiert und von den Epilepsieambulanzen genutzt, um das jeweilige Anfallsleiden abzuklären. Ein erprobter Algorithmus soll das Fachpersonal bei der Datenauswertung und Befundung unterstützen.\n\nOb sich das ambulante Angebot genauso gut oder besser zur Diagnostik eignet und inwiefern sich damit die Versorgung verbessern lässt, untersuchen die Projektbeteiligten in einer wissenschaftlich fundierten Studie mit rund 540 Patientinnen und Patienten. Die Implementierung der neuen Versorgungsform, ihre Wirtschaftlichkeit und der Effekt auf die Versorgungskosten sollen begleitend evaluiert werden. Das Projekt wird für vier Jahre mit insgesamt ca. 5,5 Millionen Euro gefördert.\n\nIm Erfolgsfall kann den Menschen, die von Epilepsie und vergleichbaren Erkrankungen betroffen sind, ein alternativer Zugang zur Diagnose ermöglicht werden – zeitnah und in der häuslichen Umgebung. Gleichzeitig könnten das medizinische Fachpersonal entlastet und die Gesundheitskompetenz der Patientinnen und Patienten gestärkt werden.",
       "status": "laufend",
       "states": [
-        "Ohne Zuordnung"
+        "Berlin",
+        "Brandenburg",
+        "Mecklenburg-Vorpommern",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Thüringen"
       ],
       "thematicFocuses": [
         "Erkrankungen des Kreislaufsystems",
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -719,7 +1012,12 @@ window.GBA_NEUROLOGY_DATA = {
         "Impfungen und Infektionskrankheiten",
         "neurologische Erkrankungen"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Kinder und Jugendliche"
+      ],
       "careSetting": "sektorenübergreifend",
       "fundingCategory": "Versorgungsforschung",
       "fundingArea": "Versorgungsforschung",
@@ -778,12 +1076,21 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "Nach Angaben der Deutschen Alzheimer Gesellschaft e. V. lebten Ende 2023 in Deutschland ca. 1,8 Millionen Menschen mit Demenz – Tendenz steigend. Ohne die Pflege- und Betreuungsleistungen von Angehörigen wäre die Versorgung der Betroffenen nicht möglich, da der Großteil zu Hause gepflegt wird. Pflegende Angehörige sind daher vielfältigen Belastungen ausgesetzt, die sich unter anderem in Erschöpfung, Depressions- und Angstsymptomen äußern können.\n\nIm Projekt AnDem-RoSe sollen durch eine verhaltenstherapeutische Intervention Bewältigungsmöglichkeiten für die psychischen Belastungen erarbeitet sowie die Ressourcen und Selbstfürsorge pflegender Angehöriger gestärkt werden. Gleichzeitig soll das Verständnis für die Betroffenen und die Beziehung zu den Demenzerkrankten verbessert werden. Die 348 Teilnehmenden der Studie werden in zwei Gruppen eingeteilt: Die Kontrollgruppe erhält die Regelversorgung, Informationsschreiben und die Möglichkeit, nach zwölf Monaten an einer Online-Gruppenintervention teilzunehmen. Die zweite Gruppe erhält über einen Zeitraum von sechs Monaten zwölf 50-minütige verhaltenstherapeutische Einzelgespräche per Videokonferenz oder Telefon. Das präventive psychotherapeutische Angebot kann durch die angeleitete, personalisierte Nutzung eines Online-Selbsthilfe-Tools zur Festigung der erlernten Interventionsinhalte ergänzt werden. Nach sechs und zwölf Monaten werden unter anderem Depressions- und Angstsymptome, Ressourcenaktivierung, Körperbeschwerden sowie Beziehungs- und Lebensqualität der Teilnehmenden verglichen. Das Projekt wird für 45 Monate mit insgesamt ca. drei Millionen Euro gefördert.\n\nIm Erfolgsfall trägt die neue Versorgungsform dazu bei, hilfreiche Wege zum Umgang mit Pflegeanforderungen und psychischer Belastung zu finden. Dadurch können einer erhöhten Anspannung, Schlafstörungen, depressiven Symptomen und Erschöpfung kurz- und langfristig entgegengewirkt werden. Dies kann zur langfristigen Stabilität und Qualität der häuslichen Pflege beitragen.",
       "status": "laufend",
       "states": [
-        "Ohne Zuordnung"
+        "Bayern",
+        "Berlin",
+        "Brandenburg",
+        "Hessen",
+        "Mecklenburg-Vorpommern",
+        "Sachsen",
+        "Thüringen"
       ],
       "thematicFocuses": [
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Angehörige",
         "Pflegebedürftige"
@@ -826,6 +1133,166 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 76,
+      "slug": "annotem.76",
+      "title": "ANNOTeM – Akut-Neurologische Versorgung in Nord-Ost-Deutschland mit TeleMedizinischer Unterstützung",
+      "acronym": "ANNOTeM",
+      "url": "https://innovationsfonds.g-ba.de/projekte/annotem.76",
+      "summary": "Neurologische Akutkrankheiten wie Schlaganfall, Schädel-Hirn-Trauma, Querschnittssyndrome, epileptische Anfälle sowie Gehirn- und Hirnhautentzündungen gehören zu den häufigsten Ursachen für bleibende Behinderungen.",
+      "description": "Neurologische Akutkrankheiten wie Schlaganfall, Schädel-Hirn-Trauma, Querschnittssyndrome, epileptische Anfälle sowie Gehirn- und Hirnhautentzündungen gehören zu den häufigsten Ursachen für bleibende Behinderungen. Gemeinsam ist diesen Erkrankungen, dass die Zeit des ersten Auftretens von Krankheitsanzeichen bis zum Behandlungsbeginn kritisch ist: „Time is brain“. Je früher eine Behandlung beginnt, desto größer sind die Erfolgsaussichten auf eine Erholung. Gerade im ländlichen Raum ist die rasche neurologische Versorgung vor Ort aber nicht immer gewährleistet. Abhilfe schaffen hier sogenannte telemedizinische Netzwerke, in denen Fachärzte weit weg vom Geschehen die regionalen Notfallambulanzen bei Diagnose und ersten Behandlungsschritten unterstützen. Für den Schlaganfall sind solche Zentren schon erfolgreich getestet worden.\n\nIm Projekt ANNOTeM wird das Konzept der telemedizinischen Zentren zusätzlich auf andere neurologische Notfallerkrankungen ausgeweitet. Das neue Versorgungsmodell umfasst somit neben der Einrichtung spezialisierter Behandlungseinheiten für neurologische Akuterkrankungen mit elektronischen Übertragungsmöglichkeiten und fachübergreifenden Teams eine standardisierte Notfalldiagnostik für neurologische Akuterkrankungen sowie die telemedizinische Vernetzung durch einen Telekonsildienst rund um die Uhr.\n\nNach einer Testphase von zwei Jahren wird geschaut, ob der telemedizinische Einsatz die Versorgung akuter neurologischer Krankheitsbilder, verglichen mit dem Zeitpunkt vor Projektbeginn, verbessert hat. Eine begleitende Kostenanalyse ermöglicht die Berechnung einer kostendeckenden Erlösstruktur. Das Projekt wird für 48 Monate mit insgesamt ca. 6,9 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Konzept in weiteren strukturschwachen Regionen übernommen oder angepasst werden. In Regionen, in denen bereits telemedizinische Schlaganfallszentren existieren, kann die telemedizinische Beratung auf andere neurologische Notfallerkrankungen ergänzt werden.",
+      "status": "beendet",
+      "states": [
+        "Berlin",
+        "Brandenburg",
+        "Mecklenburg-Vorpommern"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Erwachsene"
+      ],
+      "careSetting": "stationär",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 6,9 Mio. Euro",
+      "fundingSumEur": 6900000,
+      "duration": "02/2017 – 01/2021",
+      "startDate": "2017-02",
+      "endDate": "2021-01",
+      "transferRecommendation": "keine Empfehlung",
+      "projectLead": {
+        "raw_lines": [
+          "Herr Prof. Dr. med. Heinrich Audebert",
+          "Charité Universitätsmedizin Berlin",
+          "Charitéplatz 1",
+          "10116 Berlin",
+          "0049 30 8445-2297",
+          "heinrich.audebert@charite.de"
+        ],
+        "display": "Herr Prof. Dr. med. Heinrich Audebert | Charité Universitätsmedizin Berlin | Charitéplatz 1 | 10116 Berlin | 0049 30 8445-2297 | heinrich.audebert@charite.de",
+        "name": "Herr Prof. Dr. med. Heinrich Audebert",
+        "email": "heinrich.audebert@charite.de",
+        "phone": null,
+        "postal_code": "10116",
+        "city": "Berlin",
+        "organization": "Charité Universitätsmedizin Berlin",
+        "street": "Charitéplatz 1"
+      },
+      "projectLeadCity": "Berlin",
+      "partners": [
+        "Universitätsklinikum Greifswald",
+        "Unfallkrankenhaus Berlin",
+        "Epilepsiezentrum Berlin-Brandenburg",
+        "MEYTEC GmbH Informationssysteme",
+        "AOK Nordost",
+        "BARMER",
+        "Techniker Krankenkasse"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "24.06.2022",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 123,05 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/203/2022-06-24_ANNOTeM.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 54,19 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/228/2022-06-24_ANNOTeM_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Evaluationsbericht",
+          "meta": "(PDF 1,35 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/205/2022-06-24_ANNOTeM_Evaluationsbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
+      "project_id": 250,
+      "slug": "apices.250",
+      "title": "APICES – Computergestützte automatische Prognose der Entwicklung eines malignen Hirnödems nach Mediainfarkt – Automatic PredICtion of Edema after Stroke",
+      "acronym": "APICES",
+      "url": "https://innovationsfonds.g-ba.de/projekte/apices.250",
+      "summary": "Schlaganfallpatienten entwickeln in bis zu zehn Prozent aller Fälle eine extreme Hirnschwellung.",
+      "description": "Schlaganfallpatienten entwickeln in bis zu zehn Prozent aller Fälle eine extreme Hirnschwellung. Man spricht dann von einem „malignen Infarkt“, der aufgrund des Druckanstieges im Gehirn zu schwerwiegenden Folgeschäden führt und häufig tödlich verläuft. Die Schwellung des malignen Infarktes ist durch Medikamente kaum beeinflussbar und bedarf einer operativen Entlastung, die ihrerseits risikobehaftet ist und deshalb häufig zu spät durchgeführt wird. Klinisch besteht somit die Herausforderung, schon frühzeitig diejenigen Patienten zu identifizieren, bei denen eine operative Therapie unerlässlich ist, um genau diese Patienten zeitnah zu operieren.\n\nZiel des Projektes ist es daher, mit Hilfe der Methode des „maschinellen Lernens“ computertomografische Aufnahmen (CT-Bilder) und klinische Daten von 1.500 Patienten zu analysieren und ein Modell zu entwickeln, das hilft, die Hirnschwellung frühzeitig zu erkennen und ihren Verlauf vorherzusagen. Zunächst identifizieren computer-basierte Algorithmen automatisch charakteristische Merkmale aus den CT-Bildern und den klinischen Daten (Lernphase). In einer anschließenden Validierungsphase wird das so entwickelte Modell an neuen Datensätzen überprüft. Mit dem Einsatz des maschinellen Lernens soll die Hirnschwellung besser verstanden und frühzeitig erkannt werden. Das Projekt wird für 54 Monate mit ca. 1,2 Millionen Euro gefördert.\n\nIm Erfolgsfall bekommen Schlaganfallzentren eine computer-assistierte Unterstützung für ihre Therapieentscheidung, die wiederum zu einer besseren Versorgung der Patienten führt.\n\nDie Forschenden gehen davon aus, dass man die im Rahmen des Projekts entwickelte Methode auch auf andere medizinische Fragestellungen anwenden kann.",
+      "status": "beendet",
+      "states": [
+        "Baden-Württemberg"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Sonstige"
+      ],
+      "careSetting": "stationär",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,2 Mio. Euro",
+      "fundingSumEur": 1200000,
+      "duration": "04/2019 – 09/2023",
+      "startDate": "2019-04",
+      "endDate": "2023-09",
+      "transferRecommendation": "keine Empfehlung",
+      "projectLead": {
+        "raw_lines": [
+          "Dr. med. Sven Poli",
+          "Universitätsklinikum Tübingen",
+          "Abteilung Neurologie mit Schwerpunkt neurovaskulare Erkrankungen und Neuroonkologie",
+          "Hertie-Institut für klinische Hirnforschung",
+          "Hoppe-Seyler-Straße 3",
+          "72076 Tübingen",
+          "+49 7071 2983269",
+          "sven.poli@uni-tuebingen.de"
+        ],
+        "display": "Dr. med. Sven Poli | Universitätsklinikum Tübingen | Abteilung Neurologie mit Schwerpunkt neurovaskulare Erkrankungen und Neuroonkologie | Hertie-Institut für klinische Hirnforschung | Hoppe-Seyler-Straße 3 | 72076 Tübingen | +49 7071 2983269 | sven.poli@uni-tuebingen.de",
+        "name": "Dr. med. Sven Poli",
+        "email": "sven.poli@uni-tuebingen.de",
+        "phone": "+49 7071 2983269",
+        "postal_code": "72076",
+        "city": "Tübingen",
+        "organization": "Universitätsklinikum Tübingen",
+        "department": "Abteilung Neurologie mit Schwerpunkt neurovaskulare Erkrankungen und Neuroonkologie | Hertie-Institut für klinische Hirnforschung",
+        "street": "Hoppe-Seyler-Straße 3"
+      },
+      "projectLeadCity": "Tübingen",
+      "partners": [
+        "Fraunhofer MEVIS"
+      ],
+      "projectWebsites": [
+        "https://apices-trial.de/"
+      ],
+      "decisionDate": "23.05.2025",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 157,19 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/865/2025-05-23_APICES.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 16,18 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/866/2025-05-23_APICES_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {
+        "E-Health": [
+          "Künstliche Intelligenz / maschinelles Lernen / Algorithmen"
+        ]
+      }
+    },
+    {
       "project_id": 716,
       "slug": "artifice.716",
       "title": "ARTIFICE – Ambulante Stroke Unit-Behandlung für ältere Menschen",
@@ -835,13 +1302,18 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "Die Akutbehandlung von Schlaganfällen erfolgt in Deutschland bisher fast ausschließlich in stationären Einrichtungen, obwohl viele Patientinnen und Patienten keine oder nur geringe neurologische Defizite aufweisen. Aktuelle Leitlinien empfehlen unabhängig vom Schweregrad des Schlaganfalls eine stationäre Behandlung in einer spezialisierten Schlaganfalleinheit. Dies führt dazu, dass viele Patientinnen und Patienten stationär im Krankenhaus behandelt werden, obwohl sie eigentlich keine intensive pflegerische Betreuung benötigen.\n\nHier setzt das Projekt ARTIFICE an. Die Forschenden untersuchen, ob eine ambulante Behandlung von Patientinnen und Patienten mit akutem Schlaganfall aufgrund einer schlechten Blutversorgung im Gehirn oder einer kurzfristigen Durchblutungsstörung des Gehirns ohne schwerwiegende Beeinträchtigungen etabliert werden kann. Es wird untersucht, ob eine ambulante Behandlung in einem gut geplanten und systematisch strukturierten Umfeld ebenso sicher und wirksam ist wie die herkömmliche stationäre Behandlung. Darüber hinaus wird untersucht, ob die ambulante Behandlung zu einer besseren Lebensqualität der Patientinnen und Patienten führt.\n\nDas Projekt richtet sich speziell an ältere Patientinnen und Patienten ab 60 Jahren, die das höchste Schlaganfallrisiko haben und daher besonders von einer optimierten Versorgung profitieren könnten. Die Teilnehmenden werden nach dem Zufallsprinzip in zwei Gruppen eingeteilt. Neben der Auswertung der erhobenen Daten und der Befragungen zur Zufriedenheit mit der neuen Versorgungsform werden auch eine Prozessevaluation und eine gesundheitsökonomische Analyse zur Beurteilung der Wirtschaftlichkeit durchgeführt. Das Projekt wird für 39 Monate mit insgesamt ca. 2,4 Millionen Euro gefördert.\n\nIm Erfolgsfall führt die neue Versorgungsform zu einer nachhaltigen Verbesserung der ambulanten Schlaganfallbehandlung als Alternative zur mehrtägigen stationären Behandlung. Dies würde die medizinische Versorgung der Patientinnen und Patienten verbessern und zu einer effizienteren Nutzung der Ressourcen im Gesundheitswesen beitragen.",
       "status": "laufend",
       "states": [
-        "Ohne Zuordnung"
+        "Baden-Württemberg",
+        "Hessen",
+        "Rheinland-Pfalz"
       ],
       "thematicFocuses": [
         "neurologische Erkrankungen",
         "Notfälle",
         "Verletzung und Vergiftungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -900,7 +1372,9 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "In Deutschland sind rund vier Millionen Menschen von einer Seltenen Erkrankung (SE) betroffen. Als „selten“ gilt eine Erkrankung, wenn nicht mehr als fünf von 10.000 Menschen von ihr betroffen sind; insgesamt gibt es mehr als 6.000 Seltene Erkrankungen. Bei den Betroffenen sind häufig mehrere Organsysteme beteiligt, was zu Einschränkungen des täglichen Lebens und einer geringeren Lebenserwartung führt. Der Anteil komplex-chronisch kranker Kinder und Jugendlicher mit SE stieg in den vergangenen Jahren kontinuierlich an. Diese Patientinnen und Patienten machen weniger als fünf Prozent aller versorgten Kinder und Jugendlichen aus, ihre Behandlung verursacht aber ein Drittel der Kosten in der Kindermedizin. Mit dem besonderen Versorgungsbedarf dieser Patientengruppe befasst sich unter anderem das Nationale Aktionsbündnis für Menschen mit Seltenen Erkrankungen (NAMSE).\n\nIm Projekt B(e) NAMSE prüfen die Forschenden, wie man die Qualität der Versorgung der betroffenen Kinder und Jugendlichen durch eine optimal koordinierte Behandlung steigern kann. Hierzu soll die bestehende Versorgung ergänzt werden durch die Erfassung der medizinischen und sozialen Bedarfe, multiprofessionelle Fallkonferenzen, partizipative Behandlungsplanung sowie strukturierte Schulungen der betroffenen Patientengruppe und deren Familien. Die Erprobung erfolgt an medizinischen Fachzentren (Typ B-Zentren), welche mit den bestehenden NAMSE Typ A-Zentren zusammenarbeiten.\n\nZum Nachweis der Wirksamkeit der neuen Versorgungsform werden jeweils rund 500 Patientinnen und Patienten mit und ohne B(e) NAMSE-Versorgung hinsichtlich der Qualität des Versorgungsprozesses verglichen. Zudem wird ermittelt, wie die Familien und die Versorgenden die neue Versorgungsform erleben und welche Kosten durch die neue Behandlung entstehen. Das Projekt wird für dreieinhalb Jahre mit insgesamt ca. 8,8 Millionen Euro gefördert.\n\nBewährt sich das neue Verfahren der kontinuierlichen Koordination der Versorgungselemente, wird sich die Lebensqualität von Kindern und Jugendlichen mit SE nachhaltig verbessern. Im Erfolgsfall könnte der neue Versorgungsansatz auch in die Regelversorgung übernommen und bundesweit eingeführt werden.",
       "status": "laufend",
       "states": [
-        "Ohne Zuordnung"
+        "Bayern",
+        "Nordrhein-Westfalen",
+        "Sachsen"
       ],
       "thematicFocuses": [
         "Atemwegserkrankungen und Beatmung",
@@ -921,6 +1395,9 @@ window.GBA_NEUROLOGY_DATA = {
         "onkologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Angehörige",
         "Erwachsene",
@@ -984,6 +1461,80 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 303,
+      "slug": "barrierefreiass.303",
+      "title": "BarrierefreiASS – Versorgungs- und Bedarfsanalyse zur barrierefreien Teilhabe an Diagnostik und Therapie von Erwachsenen mit Autismus-Spektrum-Störung",
+      "acronym": "BarrierefreiASS",
+      "url": "https://innovationsfonds.g-ba.de/projekte/barrierefreiass.303",
+      "summary": "Autismus-Spektrum-Störungen wurden für Jahrzehnte als ein ausschließliches Phänomen des Kinder- und Jugendalters angesehen. Inzwischen rücken jedoch auch die Diagnostik und Behandlung von erwachsenen Betroffenen in den Fokus.",
+      "description": "Autismus-Spektrum-Störungen wurden für Jahrzehnte als ein ausschließliches Phänomen des Kinder- und Jugendalters angesehen. Inzwischen rücken jedoch auch die Diagnostik und Behandlung von erwachsenen Betroffenen in den Fokus. Hier beklagen Angehörige und Betroffene, im Gegensatz zum Bereich des Kinder- und Jugendalters, eine massive Unterversorgung aufgrund mangelnder Strukturen.\n\nEtwa eine von hundert Personen erhält die Diagnose einer Autismus-Spektrum-Störung. Die Betroffenen weisen eine veränderte Wahrnehmung und Informationsverarbeitung auf, welche mit Schwierigkeiten im sozialen Umgang und in der Kommunikation sowie mit charakteristischen Besonderheiten im Verhalten verbunden ist. Menschen mit Autismus-Spektrum-Störungen haben oft vielfältige Begleiterkrankungen und dadurch eine erhöhte Sterblichkeit. Ihr Bedarf an Gesundheitsversorgung ist also erheblich, ihr Zugang zu den benötigten Leistungen jedoch durch vielfältige Barrieren eingeschränkt. Diese Barrieren bestehen auf individueller (z. B. autismustypische Beeinträchtigungen), struktureller (z. B. fehlende Behandlungsangebote für Erwachsene) und professioneller Ebene (z. B. mangelndes Wissen der Behandelnden). Häufig müssen dann Angehörige versuchen, die Defizite dieser drei Ebenen auszugleichen.\n\nDas Projekt erfasst in einem ersten Schritt die Bedarfe erwachsener Betroffener. Zudem werden jene Faktoren identifiziert, die eine zielgruppengerechte Versorgung auf allen drei Ebenen (individuell, strukturell, professionell) fördern bzw. hemmen. Darauf aufbauend werden die Forschenden ein Modellkonzept mit verbesserten und ergänzenden Behandlungsstrukturen entwickeln, das verschiedene Unterstützungsmöglichkeiten und Bedarfe berücksichtigt und dessen Anwendungsmöglichkeiten bewertet werden. Mögliche Auswirkungen auf die Kosten der Gesundheitsversorgung werden ebenfalls analysiert.\n\nDas Projekt BarrierefreiASS wird für 39 Monate mit insgesamt ca. 825.000 Euro gefördert.\n\nIm Erfolgsfall leistet das Projekt einen Beitrag zu einer besseren Versorgung von Erwachsenen mit Autismus-Spektrum-Störungen unter Entlastung der Angehörigen. Längerfristig könnten zudem Kosten für die Gesundheitsversorgung reduziert werden. Die Projektergebnisse können möglicherweise auf weitere Patientengruppen (z. B. andere Entwicklungsstörungen im Erwachsenenalter) übertragen werden.",
+      "status": "beendet",
+      "states": [
+        "Hamburg"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Erwachsene"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 825.000 Euro",
+      "fundingSumEur": 825000,
+      "duration": "10/2020 – 12/2023",
+      "startDate": "2020-10",
+      "endDate": "2023-12",
+      "transferRecommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Holger Schulz",
+          "Lehrstuhl Klinische Versorgungsforschung",
+          "Institut und Poliklinik für Medizinische Psychologie",
+          "Universitätsklinikum Hamburg-Eppendorf",
+          "Martinistraße 52, W26",
+          "20246 Hamburg",
+          "+49 407410 56806",
+          "schulz@uke.de"
+        ],
+        "display": "Prof. Dr. Holger Schulz | Lehrstuhl Klinische Versorgungsforschung | Institut und Poliklinik für Medizinische Psychologie | Universitätsklinikum Hamburg-Eppendorf | Martinistraße 52, W26 | 20246 Hamburg | +49 407410 56806 | schulz@uke.de",
+        "name": "Prof. Dr. Holger Schulz",
+        "email": "schulz@uke.de",
+        "phone": "+49 407410 56806",
+        "postal_code": "20246",
+        "city": "Hamburg",
+        "organization": "Lehrstuhl Klinische Versorgungsforschung",
+        "department": "Institut und Poliklinik für Medizinische Psychologie | Universitätsklinikum Hamburg-Eppendorf",
+        "street": "Martinistraße 52, W26"
+      },
+      "projectLeadCity": "Hamburg",
+      "partners": [],
+      "projectWebsites": [],
+      "decisionDate": "25.07.2025",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 159,59 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/911/2025-07-25_BarrierefreiASS.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 20,94 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/912/2025-07-25_BarrierefreiASS_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {
+        "E-Health": [
+          "digitale Informationsplattform / Wissensdatenbank / Therapiemodule"
+        ]
+      }
+    },
+    {
       "project_id": 687,
       "slug": "bd-lc-ps.687",
       "title": "BD-LC-PS – Behandlungsverläufe und Determinanten bei Long COVID und anderen postviralen Symptomkomplexen",
@@ -1000,6 +1551,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Impfungen und Infektionskrankheiten",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Kinder und Jugendliche"
@@ -1060,6 +1614,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Menschen mit Behinderung",
@@ -1144,6 +1701,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "onkologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Menschen mit chronischen Krankheiten",
@@ -1232,6 +1792,9 @@ window.GBA_NEUROLOGY_DATA = {
         "onkologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -1301,7 +1864,12 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "Ein außerklinischer Herz-Kreislauf-Stillstand (OHCA) ist ein zeitkritischer Notfall. In Deutschland sind jährlich etwa 136.000 Menschen davon betroffen. Viele Überlebende haben nach einem OHCA unterschiedlich starke geistige oder körperliche Einschränkungen und weisen psychosoziale Belastungen auf. Diese wirken sich auf den Alltag, die Arbeitsfähigkeit und die Teilhabe am gesellschaftlichen Leben aus. Gleichzeitig ist das familiäre Umfeld oft stark belastet. Bislang fehlen in Deutschland standardisierte Nachsorgekonzepte und ein strukturierter Versorgungspfad.\n\nZiel des Projekts CAROL ist es daher, für Patientinnen und Patienten mit OHCA sowie deren Angehörige einen sektorübergreifenden Nachsorgepfad zu etablieren. Dies soll den Genesungsprozess verbessern und die Rückkehr in den Alltag fördern. Zu diesem Zweck werden Zentren, die auf Herz-Kreislauf-Stillstände spezialisiert sind, um eine sogenannte Post-Reanimations-Ambulanz erweitert. Bereits auf der Intensivstation werden Betroffene und deren Angehörige von einer speziell ausgebildeten Pflegefachkraft kontaktiert. Diese begleitet sie über einen Zeitraum von einem Jahr, auch nach der Entlassung aus dem Krankenhaus. Es erfolgen regelmäßige Untersuchungen auf psychokardiologische Belastungen. Bei Patientinnen und Patienten unter 50 Jahren erfolgt zudem eine weiterführende Diagnostik, um genetisch bedingte Herzerkrankungen auszuschließen. Auf Basis der vorliegenden Untersuchungsergebnisse wird ein individueller Behandlungsplan erstellt. Die Pflegefachkraft koordiniert die Umsetzung des Behandlungsplans und ist zudem Ansprechperson für alle behandelnden Personen. Des Weiteren werden die Patientinnen und Patienten sowie deren Angehörige durch Schulungen zur aktiven Mitgestaltung ihrer Gesundheit befähigt.\n\nNach der einjährigen Begleitung überprüfen die Forschenden die Wirksamkeit der neuen Versorgungsform. Dabei wird untersucht, wie sich die psychische Belastung, die Lebensqualität und die Arbeitsfähigkeit der Patientinnen und Patienten verändert hat und ob es zu weiteren Herz-Kreislauf-Stillständen gekommen ist. Zudem werden die Angehörigen hinsichtlich einer Veränderung ihrer psychischen Belastung und Lebensqualität befragt. Ergänzend wird eine Kosten-Effektivitäts-Analyse durchgeführt.\n\nDas Projekt wird für vier Jahre mit ca. 5,9 Millionen Euro gefördert.\n\nIm Erfolgsfall steht Patientinnen und Patienten mit einem OHCA sowie deren Angehörigen ein sektorenübergreifender Nachsorgepfad zur Verfügung, so dass es zu keinen Versorgungsabbrüchen mehr kommt.",
       "status": "laufend",
       "states": [
-        "Ohne Zuordnung"
+        "Baden-Württemberg",
+        "Bayern",
+        "Hamburg",
+        "Hessen",
+        "Nordrhein-Westfalen",
+        "Schleswig-Holstein"
       ],
       "thematicFocuses": [
         "Gendiagnostik",
@@ -1311,6 +1879,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Verletzung und Vergiftungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -1372,7 +1943,8 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "Etwa 300.000 Menschen in Deutschland, darunter 40.000 Kinder und Jugendliche, leiden am Chronischen Fatigue Syndrom (CFS). Meist wird die Erkrankung durch einen Infekt ausgelöst und nimmt einen schweren Verlauf. Das Krankheitsbild ist durch schwere Erschöpfung und vielfältige Symptome gekennzeichnet, so zum Beispiel schwere Schlaf- und kognitive Störungen sowie eine ausgeprägte Belastungsintoleranz.\n\nViele CFS-Patientinnen und Patienten können alltägliche Aufgaben nicht allein bewältigen; ihr Unterstützungsbedarf reicht von Haushaltshilfe bis zur Pflegebedürftigkeit. Zudem sind die meisten Patientinnen und Patienten ohne adäquate Versorgung nicht oder nur eingeschränkt in der Lage einen Beruf auszuüben. Bei 54 Prozent der betroffenen Erwachsenen führt die Erkrankung sogar zur Arbeitsunfähigkeit.\n\nZur erfolgreichen Behandlung benötigen Patientinnen und Patienten zunächst eine adäquate und möglichst zeitnahe Diagnosestellung. Wichtig für den Erfolg einer Therapie ist das Erlernen von Techniken zur Vermeidung von zu viel Anstrengung und zur Stressreduktion, eine psychosoziale Evaluation sowie die Behandlung von Schmerzen und Schlafstörungen. Sinnvoll sind zudem eine Einschätzung der beruflichen Teilhabemöglichkeiten und der Aufenthalt in einer auf CFS spezialisierten Rehabilitationsklinik.\n\nDas Projekt CFS_CARE nimmt all diese Aspekte in den Blick: Es wird ein Gesamtkonzept vielfältiger Behandlungsansätze entwickelt und auf den Weg gebracht. Dieses Konzept umfasst verhaltenstherapeutische und symptomorientierte sowie medikamentöse und physikalische Therapien. Dieser Ansatz wird an 120 CFS-Patientinnen und -Patienten getestet und mit 120 Patientinnen und Patienten einer Kontrollgruppe verglichen, die ambulant (nach derzeitigem Behandlungsstandard) behandelt werden. Das Projekt wird für ca. dreieinhalb Jahre mit insgesamt ca. 2,8 Millionen Euro gefördert.\n\nIm Erfolgsfall trägt das Projekt zur Verbesserung der Versorgung von Menschen mit CFS bei. Insbesondere sollen die körperliche Leistungsfähigkeit der Betroffenen erhöht und damit ihre berufliche Teilhabemöglichkeiten erhalten werden.",
       "status": "Abschlussbericht wird erstellt",
       "states": [
-        "Ohne Zuordnung"
+        "Berlin",
+        "Brandenburg"
       ],
       "thematicFocuses": [
         "Blut- und Immunsystemerkrankungen",
@@ -1380,7 +1952,12 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Erwachsene"
+      ],
       "careSetting": "sektorenübergreifend",
       "fundingCategory": "Neue Versorgungsformen",
       "fundingArea": "Neue Versorgungsformen",
@@ -1440,6 +2017,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Erkrankungen des Kreislaufsystems",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -1508,6 +2088,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "onkologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Menschen mit chronischen Krankheiten",
@@ -1569,6 +2152,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Leistungserbringer",
@@ -1658,6 +2244,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -1733,6 +2322,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Erkrankungen des Kreislaufsystems",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Menschen mit chronischen Krankheiten"
@@ -1821,6 +2413,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Leistungserbringer",
@@ -1870,6 +2465,91 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 279,
+      "slug": "demstepcare.279",
+      "title": "DemStepCare – Hausarztbasierte Demenzversorgung mit koordinierter Kooperation und risikostratifiziertem Einsatz spezialisierter Pflegekräfte",
+      "acronym": "DemStepCare",
+      "url": "https://innovationsfonds.g-ba.de/projekte/demstepcare.279",
+      "summary": "Die Zahl demenzkranker Menschen steigt. Bei der Pflege der Betroffenen kommt es immer öfter zu Engpässen. Pflegenden Familienangehörigen fehlt dabei oft eine professionelle Unterstützung.",
+      "description": "Die Zahl demenzkranker Menschen steigt. Bei der Pflege der Betroffenen kommt es immer öfter zu Engpässen. Pflegenden Familienangehörigen fehlt dabei oft eine professionelle Unterstützung. Zudem kommt es häufig zu vermeidbaren Problemen, wenn unterschiedliche Haus-, Facharztpraxen und Institutionen beteiligt sind.\n\nDas Projekt DemStepCare will die medizinische Basisversorgung von Menschen mit Demenz verbessern und deren Angehörige unterstützen. Es will Haus-, Facharzt und Klinik stärker miteinander vernetzen und die Kommunikation der regionalen Demenzversorger optimieren. Zentrale Schnittstelle ist dabei ein sogenannter Case-Manager, der eng mit der Hausarztpraxis zusammenarbeitet. Er oder sie erfasst den Versorgungsbedarf der erkrankten Person ab dem Zeitpunkt der Diagnosestellung und schätzt mögliche Versorgungsrisiken ein. Das sind beispielsweise Erschöpfungszustände bei pflegenden Angehörigen oder aber fehlende Pflege bei alleinstehenden Personen. Beim Auftreten solcher Versorgungskrisen werden die Patientinnen und Patienten, bedarfsweise auch die pflegenden Angehörigen, durch eine Krisenambulanz mitbetreut. Insgesamt sollen bis zu 400 Erkrankte so untersucht und versorgt werden. Nach zwei Jahren wird evaluiert, ob dadurch die Zahl der Krankenhausaufenthalte reduziert, die Lebensqualität der Demenzkranken verbessert und die pflegenden Angehörigen entlastet werden konnten. Die Ergebnisse werden verglichen mit einer Gruppe Demenzerkrankter, die regulär behandelt wurden. Das Projekt wird für 48 Monate mit insgesamt ca. 4,4 Millionen Euro gefördert.\n\nIm Erfolgsfall können die Erkenntnisse, die bei DemStepCare gewonnen werden, flächendeckend in der Regelversorgung ausgeweitet werden. Beispielsweise könnten vielerorts Hausarztnetze als Multiplikatoren für das Konzept fungieren.",
+      "status": "beendet",
+      "states": [
+        "Rheinland-Pfalz"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Angehörige",
+        "Erwachsene"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 4,4 Mio. Euro",
+      "fundingSumEur": 4400000,
+      "duration": "04/2019 – 03/2023",
+      "startDate": "2019-04",
+      "endDate": "2023-03",
+      "transferRecommendation": "keine Empfehlung",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Andreas Fellgiebel",
+          "Zentrum für psychische Gesundheit im Alter (ZpGA)",
+          "Landeskrankenhaus (AöR)",
+          "Hartmühlenweg 2-4",
+          "55122 Mainz",
+          "+49 6131 3783101",
+          "a.fellgiebel@zpga.landeskrankenhaus.de"
+        ],
+        "display": "Prof. Dr. Andreas Fellgiebel | Zentrum für psychische Gesundheit im Alter (ZpGA) | Landeskrankenhaus (AöR) | Hartmühlenweg 2-4 | 55122 Mainz | +49 6131 3783101 | a.fellgiebel@zpga.landeskrankenhaus.de",
+        "name": "Prof. Dr. Andreas Fellgiebel",
+        "email": "a.fellgiebel@zpga.landeskrankenhaus.de",
+        "phone": "+49 6131 3783101",
+        "postal_code": "55122",
+        "city": "Mainz",
+        "organization": "Zentrum für psychische Gesundheit im Alter (ZpGA)",
+        "department": "Landeskrankenhaus (AöR)",
+        "street": "Hartmühlenweg 2-4"
+      },
+      "projectLeadCity": "Mainz",
+      "partners": [
+        "Landespflegekammer Rheinland-Pfalz",
+        "Rhein-Mosel Akademie",
+        "Techniker Krankenkasse",
+        "BKK Landesverband Mitte",
+        "DAK-Gesundheit",
+        "Universität Freiburg",
+        "Universitätsmedizin Mainz",
+        "LWL-Klinikum Gütersloh",
+        "MEDI Südwest"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "20.12.2024",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 159,18 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/760/2024-12-20_DemStepCare.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 6,49 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/761/2024-12-20_DemStepCare_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Evaluationsbericht",
+          "meta": "(PDF 24,24 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/762/2024-12-20_DemStepCare_Evaluationsbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 156,
       "slug": "demtab.156",
       "title": "DemTab – Tabletgestützte ambulante Versorgung von Menschen mit Demenz: Leitlinienbasierte Behandlungsplanung, individuelles Krankheitsmanagement und Vernetzung",
@@ -1886,6 +2566,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -1942,6 +2625,79 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 249,
+      "slug": "demwg.249",
+      "title": "DemWG – Reduktion des Risikos für Krankenhauseinweisungen bei Menschen mit Demenz in ambulant betreuten Wohngemeinschaften",
+      "acronym": "DemWG",
+      "url": "https://innovationsfonds.g-ba.de/projekte/demwg.249",
+      "summary": "Die Lebenserwartung in Deutschland nimmt stetig zu und ebenso die Zahl älterer und hochbetagter Menschen in unserer Gesellschaft.",
+      "description": "Die Lebenserwartung in Deutschland nimmt stetig zu und ebenso die Zahl älterer und hochbetagter Menschen in unserer Gesellschaft. Damit geht einher, dass auch die Zahl pflegebedürftiger Menschen steigt, die oftmals von neuropsychiatrischen Erkrankungen, wie Demenz, betroffen sind. Für die Mehrzahl der Demenzerkrankungen gibt es derzeit keine ursächliche Therapie. Damit steht diese Erkrankung im Mittelpunkt der pflegerischen Versorgung. Aus diesem Grund erfahren neuere Wohnmodelle, wie ambulant betreute Wohngemeinschaften (WG), zunehmend Zuspruch. Das Risiko einer Krankenhauseinweisung für Bewohnerinnen und Bewohner solcher WGs ist als hoch einzustufen. Krankenhauseinweisungen haben neben den Kosten im Gesundheitssystem vielfältige negative Folgen auf individueller Ebene für die Menschen mit Demenz.\n\nDas Projekt geht der Frage nach, ob Menschen mit Demenz, die in einer ambulant betreuten WG leben, seltener im Krankenhaus behandelt werden müssen, seltener stürzen und eine bessere Lebensqualität haben, wenn in der WG eine komplexe Intervention mit folgenden Elementen stattfindet: (A) Schulung des Pflegepersonals im Erkennen von Risiken für eine Krankenhauseinweisung, (B) frühzeitige Kontaktierung der zuständigen Ärzte bei gesundheitlichen Problemen und (C) Training zur Verbesserung motorischer und kognitiver Fähigkeiten.\n\nDie Daten werden mit standardisierten Messverfahren sowie mit Hilfe von Experteninterviews und Fokusgruppendiskussionen erhoben. Ergänzend werden anonymisierte Krankenkassendaten ausgewertet. Die Intervention wird zuerst in der Interventionsgruppe angewandt und später in einer Kontrollgruppe. Die Zuordnung zu diesen Gruppen erfolgt WG-weise und per Zufall. Das Projekt wird für 45 Monate mit insgesamt ca. 1,4 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Projekt dazu beitragen, dass Krankenhauseinweisungen vorgebeugt und Menschen mit Demenz eine längere Partizipation in der Demenz-WG ermöglicht wird.",
+      "status": "beendet",
+      "states": [
+        "Bremen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Menschen mit chronischen Krankheiten"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,4 Mio. Euro",
+      "fundingSumEur": 1400000,
+      "duration": "04/2019 – 12/2022",
+      "startDate": "2019-04",
+      "endDate": "2022-12",
+      "transferRecommendation": "keine Empfehlung",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Karin Wolf-Ostermann",
+          "Universität Bremen",
+          "Institut für Public Health und Pflegeforschung (IPP)",
+          "Abt. 7: Pflegewissenschaftliche Versorgungsforschung",
+          "Grazer Straße 4",
+          "28359 Bremen",
+          "+49 421 21868960",
+          "wolf-ostermann@uni-bremen.de"
+        ],
+        "display": "Prof. Dr. Karin Wolf-Ostermann | Universität Bremen | Institut für Public Health und Pflegeforschung (IPP) | Abt. 7: Pflegewissenschaftliche Versorgungsforschung | Grazer Straße 4 | 28359 Bremen | +49 421 21868960 | wolf-ostermann@uni-bremen.de",
+        "name": "Prof. Dr. Karin Wolf-Ostermann",
+        "email": "wolf-ostermann@uni-bremen.de",
+        "phone": "+49 421 21868960",
+        "postal_code": "28359",
+        "city": "Bremen",
+        "organization": "Universität Bremen",
+        "department": "Institut für Public Health und Pflegeforschung (IPP)",
+        "street": "Abt. 7: Pflegewissenschaftliche Versorgungsforschung"
+      },
+      "projectLeadCity": "Bremen",
+      "partners": [
+        "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+        "AOK Bremen/Bremerhaven"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "17.05.2024",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 155,24 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/591/2024-05-17_DemWG.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 5,15 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/592/2024-06-30_DemWG_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 51,
       "slug": "dentatprevent.51",
       "title": "Dent@Prevent – Implementierung von Routinedaten & PROMS in die evidenz-informierte intersektorale (zahn-)medizinische Versorgung",
@@ -1961,6 +2717,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -2056,6 +2815,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -2140,6 +2902,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Notfälle",
         "Verletzung und Vergiftungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ländliche Bevölkerung",
         "Pflegebedürftige"
@@ -2193,6 +2958,82 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 514,
+      "slug": "dithequel.514",
+      "title": "DiTheQueL – Diagnostik und Therapie der akuten Querschnittlähmung",
+      "acronym": "DiTheQueL",
+      "url": "https://innovationsfonds.g-ba.de/projekte/dithequel.514",
+      "summary": "Jedes Jahr erleiden ca. 2.000 Menschen in Deutschland eine Querschnittlähmung, eine Schädigung des Rückenmarks beziehungsweise der darin befindlichen Nervenstränge infolge einer Verletzung oder einer Erkrankung.",
+      "description": "Jedes Jahr erleiden ca. 2.000 Menschen in Deutschland eine Querschnittlähmung, eine Schädigung des Rückenmarks beziehungsweise der darin befindlichen Nervenstränge infolge einer Verletzung oder einer Erkrankung. Meist sind damit irreversible funktionelle Einschränkungen und der Ausfall verschiedener Körperfunktionen verbunden. Für das Leben der Betroffenen und ihrer Angehörigen ist dies ein schwerwiegender Einschnitt. Deshalb gilt es, die Ursachen einer Querschnittlähmung möglichst früh zu erkennen und zu behandeln, um das Ausmaß der funktionellen Einschränkungen so gering wie möglich zu halten und daraus folgende Komplikationen so gut wie möglich zu vermeiden.\n\nZiel des Projekts DiTheQueL ist die Erstellung einer S3-Leitlinie zur Diagnostik und Therapie der traumatischen und nicht-traumatischen Querschnittlähmung in der Akutphase, d. h. zum Zeitpunkt der stationären Klinikaufnahme bis 14 Tage nach Eintritt der Querschnittlähmung. Um Ärztinnen und Ärzte bei der Diagnosestellung und der Therapie zu unterstützen und Entscheidungs- und Handlungsoptionen aufzuzeigen, soll diese Leitlinie auf Grundlage der bestmöglichen verfügbaren Evidenz erstellt und in einem Expertengremium abgestimmt werden.\n\nDie Erstellung der Leitlinie orientiert sich an den Vorgaben der Arbeitsgemeinschaft Wissenschaftlicher Medizinischer Fachgesellschaften (AWMF). Zertifizierte Moderatoren der AWMF werden den Prozess begleiten. Zunächst werden Vertreterinnen und Vertreter verschiedener Leitliniengruppen benannt und Schlüsselfragen formuliert. Ihre Empfehlungen werden in einem strukturierten Konsensprozess interdisziplinär und interprofessionell bewertet. Das Projekt wird für zwei Jahre mit insgesamt ca. 208.000 Euro gefördert.\n\nDie Umsetzung der Leitlinie in die Praxis soll zu einer verbesserten, angemessenen Initialbehandlung von Menschen mit akut eingetretener Querschnittlähmung beitragen, um die daraus resultierenden Beeinträchtigungen der Betroffenen möglichst gering zu halten.",
+      "status": "beendet",
+      "states": [
+        "Baden-Württemberg"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Angehörige",
+        "Erwachsene",
+        "Leistungserbringer",
+        "Menschen mit Behinderung"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Medizinische Leitlinien",
+      "fundingSumLabel": "ca. 208.000 Euro",
+      "fundingSumEur": 208000,
+      "duration": "10/2022 – 09/2024",
+      "startDate": "2022-10",
+      "endDate": "2024-09",
+      "transferRecommendation": "Prüfbitte/Überführung",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Norbert Weidner",
+          "Universitätsklinikum Heidelberg",
+          "Klinik für Paraplegiologie",
+          "Schlierbacher Landstraße 200a",
+          "69118 Heidelberg",
+          "+49 622 1562 6322",
+          "norbert.weidner@med.uni-heidelberg.de"
+        ],
+        "display": "Prof. Dr. Norbert Weidner | Universitätsklinikum Heidelberg | Klinik für Paraplegiologie | Schlierbacher Landstraße 200a | 69118 Heidelberg | +49 622 1562 6322 | norbert.weidner@med.uni-heidelberg.de",
+        "name": "Prof. Dr. Norbert Weidner",
+        "email": "norbert.weidner@med.uni-heidelberg.de",
+        "phone": "+49 622 1562 6322",
+        "postal_code": "69118",
+        "city": "Heidelberg",
+        "organization": "Universitätsklinikum Heidelberg",
+        "department": "Klinik für Paraplegiologie",
+        "street": "Schlierbacher Landstraße 200a"
+      },
+      "projectLeadCity": "Heidelberg",
+      "partners": [
+        "Schweizer Paraplegiker-Forschung",
+        "Universität zu Köln"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "21.02.2025",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 137,58 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/809/2025-02-21_DiTheQuel.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 5,72 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/810/2025-02-21_DiTheQuel_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 558,
       "slug": "diversity-on.558",
       "title": "Diversity-On – Prävention und Gesundheitsförderung für pflegende Angehörige. Entwicklung und Evaluation eines diversitätssensiblen Online-Selbsthilfeangebots zur Stärkung des Selbstmanagements am Beispiel von Menschen mit türkischem Migrationshintergrund",
@@ -2208,6 +3049,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Angehörige",
         "Migrantinnen und Migranten"
@@ -2250,6 +3094,76 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 448,
+      "slug": "ds-demenz.448",
+      "title": "DS-Demenz – (Zugang zur) Diagnostik und Therapie demenzieller Erkrankungen bei Menschen mit einem Down-Syndrom",
+      "acronym": "DS-Demenz",
+      "url": "https://innovationsfonds.g-ba.de/projekte/ds-demenz.448",
+      "summary": "Die Lebenserwartung von Menschen mit Down-Syndrom (Trisomie 21) ist in den vergangenen Jahrzehnten deutlich gestiegen, doch steigt für diese Personengruppe mit zunehmendem Alter auch das Risiko eine Demenz zu entwickeln.",
+      "description": "Die Lebenserwartung von Menschen mit Down-Syndrom (Trisomie 21) ist in den vergangenen Jahrzehnten deutlich gestiegen, doch steigt für diese Personengruppe mit zunehmendem Alter auch das Risiko eine Demenz zu entwickeln. Rund 80 Prozent der Menschen mit Down-Syndrom erhalten im Laufe ihres Lebens die Diagnose Alzheimer-Demenz. Aufgrund ihrer Leistungsfähigkeit und möglicher gesundheitlicher Beeinträchtigungen werden für diese Menschen Strategien benötigt, die zum einen über die herkömmliche Demenzdiagnostik hinausgehen als auch zu individuell angepassten Therapien führen. Eine umfassende Versorgungsstruktur gibt es für diese Zielgruppe bisher aber noch nicht.\n\nZiel des Projekts DS-Demenz ist deshalb die Entwicklung von gesundheitspolitischen Handlungsempfehlungen zur Verbesserung der medizinischen Versorgung von Menschen mit Trisomie 21 und gleichzeitigen demenziellen Erkrankungen. Die Forschenden wollen Schwachstellen in der Versorgung und darauf aufbauend Verbesserungsmöglichkeiten aufzeigen, wie sich die Versorgung patienten- und ergebnisorientiert vereinfachen lässt.\n\nUm dieses Ziel zu erreichen, wird zunächst eine umfassende Literaturrecherche durchgeführt. Zusätzlich werden die forschenden Expertinnen und Experten, Patientinnen und Patienten sowie Angehörige zu bestehenden Versorgungsdefiziten befragt. Anhand von Routinedaten der Krankenkassen vergleichen sie den Status Quo der Diagnostik und Therapie von demenzkranken Menschen mit und ohne Down-Syndrom und leiten daraus entsprechende Vorschläge zur Verbesserung der Versorgung ab. Das Projekt wird für dreieinhalb Jahre mit insgesamt ca. 1,2 Millionen Euro gefördert.\n\nIm Erfolgsfall sollen dem Gesetzgeber und der Selbstverwaltung der gesetzlichen Krankenkassen sowie den Pflegekassen zielgerichtete Handlungsempfehlungen bereitgestellt werden.",
+      "status": "Abschlussbericht wird erstellt",
+      "states": [
+        "Nordrhein-Westfalen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Erwachsene",
+        "Leistungserbringer",
+        "Menschen mit Behinderung",
+        "Menschen mit chronischen Krankheiten",
+        "Pflegebedürftige"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,2 Mio. Euro",
+      "fundingSumEur": 1200000,
+      "duration": "02/2022 – 07/2025",
+      "startDate": "2022-02",
+      "endDate": "2025-07",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Jürgen Wasem",
+          "Universität Duisburg-Essen",
+          "Lehrstuhl für Medizinmanagement",
+          "Thea-Leymann-Straße 9",
+          "45127 Essen",
+          "+49 201 183-4072",
+          "juergen.wasem@uni-due.de"
+        ],
+        "display": "Prof. Dr. Jürgen Wasem | Universität Duisburg-Essen | Lehrstuhl für Medizinmanagement | Thea-Leymann-Straße 9 | 45127 Essen | +49 201 183-4072 | juergen.wasem@uni-due.de",
+        "name": "Prof. Dr. Jürgen Wasem",
+        "email": "juergen.wasem@uni-due.de",
+        "phone": "+49 201 183-4072",
+        "postal_code": "45127",
+        "city": "Essen",
+        "organization": "Universität Duisburg-Essen",
+        "department": "Lehrstuhl für Medizinmanagement",
+        "street": "Thea-Leymann-Straße 9"
+      },
+      "projectLeadCity": "Essen",
+      "partners": [
+        "AOK-Bundesverband GbR: Wissenschaftliches Institut der AOK (WIdO)",
+        "Goethe-Universität Frankfurt am Main",
+        "Essener Forschungsinstitut für Medizinmanagement GmbH",
+        "LMU Klinikum München"
+      ],
+      "projectWebsites": [
+        "https://www.uni-due.de/ds-demenz/ds-demenz.php"
+      ],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
       "project_id": 481,
       "slug": "ds22q.481",
       "title": "DS22q – Erstellung einer S3-Leitlinie Deletion- und Duplikationssyndrom 22q11.2 bei Kindern, Jugendlichen und Erwachsenen",
@@ -2274,6 +3188,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Angehörige",
         "Erwachsene",
@@ -2344,6 +3261,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Verletzung und Vergiftungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -2418,6 +3338,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -2472,6 +3395,75 @@ window.GBA_NEUROLOGY_DATA = {
       }
     },
     {
+      "project_id": 23,
+      "slug": "epos.23",
+      "title": "EPOS – Ergebnisqualität durch Patient Reported Outcome Measures (PROMs) bei Schlaganfallpatienten in der klinischen Routine",
+      "acronym": "EPOS",
+      "url": "https://innovationsfonds.g-ba.de/projekte/epos.23",
+      "summary": "Der Schlaganfall ist nach Krebs- und Herzerkrankungen die dritthäufigste Todesursache in Deutschland.",
+      "description": "Der Schlaganfall ist nach Krebs- und Herzerkrankungen die dritthäufigste Todesursache in Deutschland. Nach einem Schlaganfall erleben Patienten, über die objektiv beurteilbaren Symptome und Einschränkungen hinaus, häufig dramatische Veränderungen des Alltagslebens und der Lebensqualität. Bei der Bewertung des Erfolgs einer medizinischen Maßnahme spielt insofern die Sicht des Patienten auf Symptome, die körperliche Funktionsfähigkeit und die Lebensqualität eine wichtige Rolle.\n\nIn dem Projekt soll eine standardisierte Erfassung des Behandlungserfolgs in der Routineversorgung von Schlaganfallpatienten eingeführt und bewertet werden. Hierbei spielen sogenannte „Patient Reported Outcome Measures“ eine wichtige Rolle. Dies sind Einschätzungen des Patienten hinsichtlich des Behandlungsergebnisses. Es wird untersucht, wie der Behandlungserfolg bei Schlaganfallpatienten ausgeprägt ist und durch welche Faktoren dieser beeinflusst wird.\n\nBisher wird die Patientenperspektive in der systematischen Ergebnismessung und Qualitätssicherung beim Schlaganfall im klinischen Alltag nicht berücksichtigt. Ein Projektziel ist es, dies zu ändern und die Beurteilung der Ergebnisqualität der Behandlung durch die Patienten in die klinische Routine dauerhaft zu integrieren. In dem Projekt soll darüber hinaus untersucht werden, wie diese Erweiterung der Ergebnisqualitätsmessung von Patienten und medizinischem Personal akzeptiert wird. Das Projekt wird für drei Jahre mit insgesamt ca. 536.000 Euro gefördert.\n\nIm Erfolgsfall können die Projektergebnisse auf die Versorgungssituation von Schlaganfallpatienten im Alltag übertragen werden. Dies kann zu Verbesserungen der Behandlung führen, da man nun konkret auf diejenigen Faktoren einwirken kann (z.B. Häufigkeit der Inanspruchnahme bestimmter therapeutischer Leistungen), welche sich auf die individuelle Lebensqualität auswirken. Eine Übertragbarkeit dieser Messung des Behandlungserfolgs auf andere Diagnosebereiche ist gegeben.",
+      "status": "beendet",
+      "states": [
+        "Hamburg"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Erwachsene"
+      ],
+      "careSetting": "stationär",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 536.000 Euro",
+      "fundingSumEur": 536000,
+      "duration": "01/2017 – 12/2019",
+      "startDate": "2017-01",
+      "endDate": "2019-12",
+      "transferRecommendation": "Erprobung als neue Versorgungsform",
+      "projectLead": {
+        "raw_lines": [
+          "PD Dr. Götz Thomalla",
+          "Universitätsklinikum Hamburg-Eppendorf (UKE)",
+          "Klinik und Poliklinik für Neurologie",
+          "Martinistr. 52",
+          "20246 Hamburg",
+          "0049 40 7410 50137",
+          "thomalla@uke.de"
+        ],
+        "display": "PD Dr. Götz Thomalla | Universitätsklinikum Hamburg-Eppendorf (UKE) | Klinik und Poliklinik für Neurologie | Martinistr. 52 | 20246 Hamburg | 0049 40 7410 50137 | thomalla@uke.de",
+        "name": "PD Dr. Götz Thomalla",
+        "email": "thomalla@uke.de",
+        "phone": null,
+        "postal_code": "20246",
+        "city": "Hamburg",
+        "organization": "Universitätsklinikum Hamburg-Eppendorf (UKE)",
+        "department": "Klinik und Poliklinik für Neurologie",
+        "street": "Martinistr. 52"
+      },
+      "projectLeadCity": "Hamburg",
+      "partners": [],
+      "projectWebsites": [],
+      "decisionDate": "16.04.2021",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 120,42 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/55/2021-04-16_EPOS.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 3,26 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/56/2021-04-16_EPOS_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 118,
       "slug": "esc.118",
       "title": "ESC+ – Evaluation des bestehenden Selektivvertrages nach § 140a SGB V – careplus",
@@ -2494,6 +3486,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "multimorbide Menschen",
@@ -2582,6 +3577,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Schwangerschaft",
         "Geburt und Wochenbett"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -2656,7 +3654,12 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Erwachsene"
+      ],
       "careSetting": "ambulant",
       "fundingCategory": "Versorgungsforschung",
       "fundingArea": "Versorgungsforschung",
@@ -2726,6 +3729,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -2788,6 +3794,77 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 26,
+      "slug": "eyellis.26",
+      "title": "EyeLLIS – Eyetracking-basierte Erhebung der Lebensqualität von Patienten mit Locked-in-Syndrom",
+      "acronym": "EyeLLIS",
+      "url": "https://innovationsfonds.g-ba.de/projekte/eyellis.26",
+      "summary": "Patienten mit Locked-in-Syndrom (LIS) sind fast vollständig gelähmt und können bei vollem Bewusstsein weder über Sprache noch durch Gesten mit der Außenwelt in Kontakt treten. Sie kommunizieren nur mittels Augenbewegungen.",
+      "description": "Patienten mit Locked-in-Syndrom (LIS) sind fast vollständig gelähmt und können bei vollem Bewusstsein weder über Sprache noch durch Gesten mit der Außenwelt in Kontakt treten. Sie kommunizieren nur mittels Augenbewegungen. Daher können ihre Lebensqualität und ihr Wohlbefinden bisher nur unzureichend über Angehörige oder Suggestivfragen erhoben werden.\n\nDas Projektziel ist die Erhebung der Lebensqualität und des Wohlbefindens sowie der Einstellung zu bzw. Zufriedenheit mit Therapiemaßnahmen in der aktuellen Lebenssituation mittels Augensteuerung (Eyetracking). Dies soll mittels Blickerfassungssystemen erfolgen. Diese Technik ermöglicht den Patienten eine direkte Kommunikation. So wird eine größtmögliche Unabhängigkeit der Ergebnisse von Untersuchern, Angehörigen und Pflegekräften erreicht. Dies ist von großer Wichtigkeit, da bekannt ist, dass die soziale Umwelt die Lebensqualität von LIS-Patienten oft dramatisch unterschätzt. Daraus können negative Konsequenzen in Bezug auf die Initiierung und Aufrechterhaltung lebensverlängernder Maßnahmen und überhaupt die Gestaltung der Versorgungssituation resultieren. Das Projekt wird für 41 Monate mit insgesamt 572.000 Euro gefördert.\n\nIm Erfolgsfall werden so die Faktoren, welche die Lebensqualität von LIS-Patienten beeinflussen, sowie Optimierungsmöglichkeiten der Versorgungssituation ermittelt und eventuelle Divergenzen zur Wahrnehmung des sozialen Umfeldes erkannt. Dies geschieht in der Breitenversorgung erstmalig routinemäßig. Die Erkenntnisse können unmittelbar zu mehr Patientensicherheit (z.B. bei Änderung der Einstellung zu lebenserhaltenden Maßnahmen) und zu höherer Bedarfsgerechtigkeit der Versorgung führen. Die Ergebnisse werden zudem konkrete Ansatzpunkte für die Weiterentwicklung der technischen Möglichkeiten der Augenbewegungstechnologie liefern. Davon könnten breitere Anwendergruppen und Anwendungsgebiete (z.B. Umfeldsteuerung durch Augenbewegungen) profitieren.",
+      "status": "beendet",
+      "states": [
+        "Sachsen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Erwachsene"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 572.000 Euro",
+      "fundingSumEur": 572000,
+      "duration": "04/2017 – 08/2020",
+      "startDate": "2017-04",
+      "endDate": "2020-08",
+      "transferRecommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
+      "projectLead": {
+        "raw_lines": [
+          "Elisa Aust, M.Sc. psych",
+          "Klinik für Neurologie, Medizinische Fakultät an der TU Dresden",
+          "Fetscherstraße 74",
+          "01307 Dresden",
+          "+49 351 4584463",
+          "Elisa.aust@ukdd.de"
+        ],
+        "display": "Elisa Aust, M.Sc. psych | Klinik für Neurologie, Medizinische Fakultät an der TU Dresden | Fetscherstraße 74 | 01307 Dresden | +49 351 4584463 | Elisa.aust@ukdd.de",
+        "name": "Elisa Aust, M.Sc. psych",
+        "email": "Elisa.aust@ukdd.de",
+        "phone": "+49 351 4584463",
+        "postal_code": "01307",
+        "city": "Dresden",
+        "organization": "Klinik für Neurologie, Medizinische Fakultät an der TU Dresden",
+        "street": "Fetscherstraße 74"
+      },
+      "projectLeadCity": "Dresden",
+      "partners": [
+        "Technische Universität Dresden",
+        "Interactive Minds Dresden GmbH",
+        "Hochschule Zwickau"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "14.12.2021",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 116,65 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/120/2021-12-14_EyeLLIS.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 1,16 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/121/2021-12-14_EyeLLIS_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 361,
       "slug": "famous.361",
       "title": "FAMOUS – Fallbezogene Versorgung multimorbider Patientinnen und Patienten in der Hausarztpraxis durch Advanced Practice Nurses (APN)",
@@ -2810,6 +3887,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "ländliche Bevölkerung",
@@ -2878,6 +3958,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Kinder und Jugendliche",
         "ländliche Bevölkerung",
@@ -2963,6 +4046,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Schwangerschaft",
         "Geburt und Wochenbett"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Früh- und Neugeborene",
         "Kinder und Jugendliche"
@@ -3001,7 +4087,12 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Angehörige"
+      ],
       "careSetting": "ambulant",
       "fundingCategory": "Versorgungsforschung",
       "fundingArea": "Versorgungsforschung",
@@ -3074,7 +4165,12 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "onkologische Erkrankungen"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Erwachsene"
+      ],
       "careSetting": "ambulant",
       "fundingCategory": "Versorgungsforschung",
       "fundingArea": "Versorgungsforschung",
@@ -3144,6 +4240,82 @@ window.GBA_NEUROLOGY_DATA = {
       }
     },
     {
+      "project_id": 658,
+      "slug": "grappa.658",
+      "title": "GRAPPA – Multidimensionale Versorgungsverbesserung durch digitale Sprachtherapie in gemischten GRuppen bei APhasie und PArkinson",
+      "acronym": "GRAPPA",
+      "url": "https://innovationsfonds.g-ba.de/projekte/grappa.658",
+      "summary": "In der ambulanten logopädischen Versorgung ist der Fachkräftemangel allgegenwärtig. Dadurch fehlen Therapieplätze und Patientinnen und Patienten müssen bis zu zwölf Monate auf einen Therapieplatz warten.",
+      "description": "In der ambulanten logopädischen Versorgung ist der Fachkräftemangel allgegenwärtig. Dadurch fehlen Therapieplätze und Patientinnen und Patienten müssen bis zu zwölf Monate auf einen Therapieplatz warten. Eine zunehmende Unterversorgung entsteht zudem durch die Mehrbelastung der Logopädinnen und Logopäden, die sich häufiger krankmelden oder den Beruf ganz verlassen. Unter dieser Entwicklung leiden insbesondere Personen mit Sprachstörung, z. B. infolge eines Schlaganfalls oder des Parkinson-Syndroms, deren Teilhabe am gesellschaftlichen Leben ohnehin stark beeinträchtigt ist. Eine solche Sprachstörung wird jedes Jahr bei ca. 270.000 Menschen der genannten Erkrankungen neu diagnostiziert.\n\nHilfe für die Betroffenen und eine Entlastung des Gesundheitssystems wollen die Forschenden im Projekt GRAPPA über eine verbesserte Versorgung dank gruppentherapeutischer Behandlungen erreichen. Bislang werden Gruppentherapien jedoch nur selten eingesetzt und dann ambulant bei Menschen durchgeführt, die von derselben Erkrankung betroffen sind. Ziel des Projekts ist es, ein Online-Angebot zur Gruppentherapie zu entwickeln und in gemischten Gruppen von Patientinnen und Patienten mit Schlaganfall und Parkinson-Syndrom anzubieten. Zunächst werden die Forschenden ausgewählte Patientengruppen befragen und ermitteln, welche Faktoren für den Einsatz einer solchen Gruppentherapie förderlich bzw. hinderlich sind. Es folgt eine Online-Befragung von ambulant tätigen Logopädinnen und Logopäden; auch werden Krankenkassendaten zur aktuellen Versorgungssituation analysiert. In einer begleitenden Studie wollen die Forschenden die Wirksamkeit verschiedener Gruppenzusammensetzungen sowie ambulant und online durchgeführter Therapien untersuchen und entsprechende Handlungsempfehlungen ableiten.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. einer Million Euro gefördert.\n\nIm Erfolgsfall kann nachgewiesen werden, dass online durchgeführte Gruppentherapien wirksam sind, die Wartezeiten auf eine logopädische Behandlung verringern sowie Logopädinnen und Logopäden entlasten.",
+      "status": "laufend",
+      "states": [
+        "Baden-Württemberg"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Erwachsene"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1 Mio. Euro",
+      "fundingSumEur": 1000000,
+      "duration": "01/2025 – 12/2027",
+      "startDate": "2025-01",
+      "endDate": "2027-12",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Juliane Klann",
+          "SRH Hochschulen GmbH",
+          "Department Therapiewissenschaften",
+          "Ludwig-Guttmann-Str. 2/1",
+          "69123 Heidelberg",
+          "+49 6221 882102",
+          "Juliane.klann@srh.de"
+        ],
+        "display": "Prof. Dr. Juliane Klann | SRH Hochschulen GmbH | Department Therapiewissenschaften | Ludwig-Guttmann-Str. 2/1 | 69123 Heidelberg | +49 6221 882102 | Juliane.klann@srh.de",
+        "name": "Prof. Dr. Juliane Klann",
+        "email": "Juliane.klann@srh.de",
+        "phone": "+49 6221 882102",
+        "postal_code": "69123",
+        "city": "Heidelberg",
+        "organization": "SRH Hochschulen GmbH",
+        "department": "Department Therapiewissenschaften",
+        "street": "Ludwig-Guttmann-Str. 2/1"
+      },
+      "projectLeadCity": "Heidelberg",
+      "partners": [
+        "LiKe Healthcare Research GmbH",
+        "Techniker Krankenkasse",
+        "Universität zu Köln"
+      ],
+      "projectWebsites": [
+        "https://www.srh-university.de/de/forschung/forschungsprojekte/multidimensionale-versorgungsverbesserung-durch-digitale-sprachtherapie-in-gemischten-gruppen-bei-aphasie-und-parkinson-grappa/"
+      ],
+      "decisionDate": null,
+      "documents": [
+        {
+          "title": "01VSF24015 GRAPPA Flyer",
+          "meta": "(PDF 1,16 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/292/01VSF24015%20GRAPPA_Flyer.pdf"
+        },
+        {
+          "title": "01VSF24015 GRAPPA Projektvorstellung",
+          "meta": "(PDF 1,40 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/293/01VSF24015%20GRAPPA_Projektvorstellung.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 596,
       "slug": "hirgev.596",
       "title": "HIRGEV – Hitzeresiliente Gesundheitsversorgung: Integrierte Daten für die Versorgungspraxis und -planung für aktuelle und zukünftige Generationen",
@@ -3167,6 +4339,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Geburt und Wochenbett",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -3239,7 +4414,8 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "In Deutschland werden jährlich etwa 600 neue Hirntumore bei Kindern und Jugendlichen diagnostiziert. Durch diese Erkrankung bleiben oft Spätfolgen wie z. B. neurologische Defizite, hormonelle Störungen, Seh- und Hörstörungen, Herz- und Nierenfunktionsstörungen, Unfruchtbarkeit sowie ein erhöhtes Risiko für weitere Tumore zurück. Ebenso bedarf es besonderer Maßnahmen zur Wiedererlangung und Erhaltung sozialer Teilhabe sowie physischer und psychischer Rehabilitation. Eine regelmäßige, strukturierte Nachsorge ist daher wichtig, um diese Einschränkungen zu identifizieren, zu vermindern und wenn möglich Ihnen vorzubeugen. Diese findet derzeit jedoch nicht systematisch statt, sondern ist stark abhängig von regionalen Gegebenheiten sowie der individuellen Gesundheitskompetenz der Betroffenen. Zudem sind die Zuständigkeiten innerhalb des Versorgungssystems nicht klar zugeordnet und die Angebote sind oft nicht auf die spezifischen Bedürfnisse der Erkrankten zugeschnitten.\n\nAn dieser Stelle setzt HIT-Life an. Das Projekt zielt auf eine verbesserte Identifizierung der von Patientinnen und Patienten berichteten medizinischen und unterstützenden Versorgungsbedarfe (sogenannte „needs“). Zu diesem Zweck sollen regional zentralisierte, interdisziplinäre Nachsorgezentren zur Erkennung, Vorbeugung und Versorgung medizinischer und psychosozialer Probleme etabliert werden. In diesen Zentren erhalten die Patientinnen und Patienten Untersuchungen, Beratungen sowie individuelle Empfehlungen für ihre speziellen „needs“ und die zukünftige Nachsorge. Durch die Vernetzung aller relevanten Berufsgruppen wird die interdisziplinäre Zusammenarbeit vor Ort gefördert und eine bessere Versorgungsqualität erreicht. Zur Messung der Wirksamkeit der neuen Versorgungsform werden u. a. die professionell erfassten objektiven „needs“ mit den patientenberichteten „needs“ verglichen. Zudem werden die Lebensqualität und Teilhabe analysiert sowie die Inanspruchnahme von Rehabilitationsmaßnahmen erfasst. Darüber hinaus wird das Kosten-Nutzen-Verhältnis der neuen Versorgungsform in einer gesundheitsökonomischen Analyse ermittelt.\n\nDas Projekt wird für 42 Monate mit ca. 4,6 Millionen Euro gefördert.\n\nIm Erfolgsfall erleichtert die neue Versorgungsform den Zugang zu einer individuellen bedarfsgerechten Versorgung, deckt den Versorgungsbedarf und hilft so, langfristig Folgeprobleme nach einer Hirntumorerkrankung im Kindes- und Jugendalter zu vermeiden.",
       "status": "laufend",
       "states": [
-        "Ohne Zuordnung"
+        "Hamburg",
+        "Nordrhein-Westfalen"
       ],
       "thematicFocuses": [
         "Augenerkrankungen",
@@ -3253,6 +4429,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Kinder und Jugendliche",
@@ -3317,7 +4496,12 @@ window.GBA_NEUROLOGY_DATA = {
         "Verletzung und Vergiftungen",
         "onkologische Erkrankungen"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Erwachsene"
+      ],
       "careSetting": "stationär",
       "fundingCategory": "Versorgungsforschung",
       "fundingArea": "Versorgungsforschung",
@@ -3370,6 +4554,163 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 272,
+      "slug": "ida.272",
+      "title": "IdA – Interdisziplinäre demenzsensible Akutversorgung – sektorübergreifend",
+      "acronym": "IdA",
+      "url": "https://innovationsfonds.g-ba.de/projekte/ida.272",
+      "summary": "Knapp 40 Prozent der älteren Patienten, die wegen einer körperlichen Krankheit im Krankenhaus behandelt werden, haben außerdem Gedächtnisbeeinträchtigungen, ca. 20 Prozent vom Schweregrad einer Demenz.",
+      "description": "Knapp 40 Prozent der älteren Patienten, die wegen einer körperlichen Krankheit im Krankenhaus behandelt werden, haben außerdem Gedächtnisbeeinträchtigungen, ca. 20 Prozent vom Schweregrad einer Demenz. Aus dieser Begleiterkrankung ergibt sich im Krankenhaus ein erhöhtes Risiko für Verwirrtheitszustände, Krankenhausinfektionen, Mangelernährung und Stürze. Daher liegen diese Patienten oft länger im Krankenhaus, müssen häufiger verlegt werden und es entsteht ein erhöhter Behandlungs- und Betreuungsaufwand. Weil die somatischen Akutstationen derzeit nicht auf diese Patientengruppe eingestellt sind, steht das Pflegepersonal vor zusätzlichen inhaltlichen und zeitlichen Herausforderungen. Die Angehörigen werden häufig nicht einbezogen.\n\nIm Projekt IdA werden geschulte Koordinatoren und Tagesbegleiter regelhaft eingesetzt. Die Koordinatoren sammeln und führen alle für die Behandlung des Patienten notwendigen Informationen zusammen. Dies sind z. B. regelmäßige Beurteilungen der Gedächtnisleistung des Patienten sowie Einschätzungen von Angehörigen, niedergelassenen Behandlern und Pflegepersonal. Basierend darauf erstellt und terminiert der Koordinator den Behandlungs- und Maßnahmenplan. Während des Krankenhausaufenthalts betreuen die Tagesbegleiter die Patienten, strukturieren deren Tag und entlasten damit das Pflegepersonal. An fünf Standorten der drei beteiligten Kliniken sollen rund 2.600 Patienten ab 70 Jahren diese neue Versorgungsform erhalten. Die Qualität der Behandlung wird mit den Ergebnissen von Patienten dreier weiterer Kliniken verglichen. Dies geschieht mithilfe von Daten der Krankenhäuser und der beteiligten Krankenkassen, der durchgeführten Assessments und den Einschätzungen der Pflegepersonen und Angehörigen. Das Projekt wird für vier Jahre mit insgesamt ca. 7,25 Millionen Euro gefördert.\n\nDurch das Projekt soll sich die Zusammenarbeit innerhalb und zwischen verschiedenen Versorgungsbereichen, -einrichtungen und Berufsgruppen bei der Versorgung älterer Patienten verbessern. Im Erfolgsfall hilft die neue Versorgungsform die Häufigkeit von Delirien, Stürzen, freiheitsbeschränkenden Maßnahmen und Notfallverlegungen in die Akutpsychiatrie sowie die Zahl der Behandlungstage im Krankenhaus zu senken. Hierdurch könnten auch die Behandlungs- und Pflegefolgekosten signifikant verringert werden.",
+      "status": "beendet",
+      "states": [
+        "Brandenburg"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Menschen mit chronischen Krankheiten",
+        "multimorbide Menschen",
+        "Pflegebedürftige"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 7,25 Mio. Euro",
+      "fundingSumEur": 7250000,
+      "duration": "10/2019 – 09/2023",
+      "startDate": "2019-10",
+      "endDate": "2023-09",
+      "transferRecommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
+      "projectLead": {
+        "raw_lines": [
+          "Dorothea Mantei",
+          "Oberhavel Kliniken GmbH",
+          "Robert-Koch-Straße 2–12",
+          "16515 Oranienburg",
+          "+49 3301 66-2016",
+          "mantei@oberhavel-kliniken.de"
+        ],
+        "display": "Dorothea Mantei | Oberhavel Kliniken GmbH | Robert-Koch-Straße 2–12 | 16515 Oranienburg | +49 3301 66-2016 | mantei@oberhavel-kliniken.de",
+        "name": "Dorothea Mantei",
+        "email": "mantei@oberhavel-kliniken.de",
+        "phone": "+49 3301 66-2016",
+        "postal_code": "16515",
+        "city": "Oranienburg",
+        "organization": "Oberhavel Kliniken GmbH",
+        "street": "Robert-Koch-Straße 2–12"
+      },
+      "projectLeadCity": "Oranienburg",
+      "partners": [],
+      "projectWebsites": [],
+      "decisionDate": "23.05.2025",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 188,30 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/838/2025-05-23_IdA.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 13,55 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/839/2025-05-23_IdA_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Evaluationsbericht",
+          "meta": "(PDF 15,01 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/840/2025-05-23_IdA_Evaluationsbericht.pdf"
+        },
+        {
+          "title": "01NVF18020 IdA Ergebnisbericht Anlage 7 Patientenflyer OHV",
+          "meta": "(PDF 220,22 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/101/01NVF18020_IdA_Ergebnisbericht_Anlage%207_Patientenflyer%20OHV.pdf"
+        },
+        {
+          "title": "01NVF18020 IdA Ergebnisbericht Anlage 8 Falzflyer Arzt",
+          "meta": "(PDF 253,56 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/102/01NVF18020_IdA_Ergebnisbericht_Anlage%208_Falzflyer%20Arzt.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
+      "project_id": 703,
+      "slug": "idem-support.703",
+      "title": "iDEM-Support – Empowerment pflegender Angehöriger von Demenzerkrankten durch eine angepasste und erweiterte Version der WHO e-health Intervention iSupport",
+      "acronym": "iDEM-Support",
+      "url": "https://innovationsfonds.g-ba.de/projekte/idem-support.703",
+      "summary": "Demenz ist bei älteren Erwachsenen die häufigste chronische Erkrankung. Die meisten Betroffenen leben zu Hause und werden von Familienangehörigen betreut.",
+      "description": "Demenz ist bei älteren Erwachsenen die häufigste chronische Erkrankung. Die meisten Betroffenen leben zu Hause und werden von Familienangehörigen betreut. Viele Pflegende sind durch die alltäglichen Herausforderungen überlastet und erschöpft . Mit iSupport hat die Weltgesundheitsorganisation ein digitales Weiterbildungs- und Trainingsprogramm entwickelt, das pflegende Angehörige unterstützen soll. Eine Anpassung der Plattform an die deutschen Gegebenheiten ist bislang noch nicht erfolgt. Zudem tun sich viele Menschen schwer, digitale Informationsangebote zu finden, zu verstehen und sinnvoll anzuwenden.\n\nDas Projektteam iDEM-Support möchte dazu beitragen, iSupport in Deutschland nutzbar und breit verfügbar zu machen. Durch die Erweiterung um ein zusätzliches Modul soll die Nutzung des Angebots zudem verbessert werden. Dazu lässt das Forschungsteam die bereits bestehenden iSupport-Module in die deutsche Sprache übersetzen und richtet das Programm inhaltlich auf die Versorgungssituation in Deutschland aus. Parallel dazu werden Angehörige von Menschen mit Demenz zu ihren Bedürfnissen befragt und wie sie gesundheitsbezogene Informationen im Internet suchen und nutzen. Aus den Ergebnissen sowie vorhandenen wissenschaftlichen Erkenntnissen stellt das Projektteam Hilfestellungen zum Umgang mit digitalen Gesundheitsinformationen in einem neuen Modul zusammen. Nachdem pflegende Angehörige und Expertinnen und Experten das so adaptierte Programm getestet haben, wird es auf eine barrierefreie Plattform für PC und Smartphones überführt. Abschließend überprüfen die Forschenden in einer wissenschaftlichen Studie mit ca. 140 Teilnehmenden, ob das deutsche iSupport die gewünschte Unterstützung für die Betroffenen bietet.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,3 Millionen Euro gefördert.\n\nIm Erfolgsfall erweist sich die optimierte Plattform für Angehörige von Menschen mit Demenz als wichtiges Hilfsmittel, um die Versorgungs- und Lebensqualität in der häuslichen Pflege zu verbessern.",
+      "status": "laufend",
+      "states": [
+        "Nordrhein-Westfalen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Angehörige"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,3 Mio. Euro",
+      "fundingSumEur": 1300000,
+      "duration": "01/2025 – 12/2027",
+      "startDate": "2025-01",
+      "endDate": "2027-12",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Ina Otte",
+          "Ruhr-Universität Bochum",
+          "Abteilung für Versorgungsforschung, Institut für Diversitätsmedizin",
+          "Universitätsstraße 150",
+          "44801 Bochum",
+          "+49 23 43227846",
+          "ina.otte@ruhr-uni-bochum.de"
+        ],
+        "display": "Prof. Dr. Ina Otte | Ruhr-Universität Bochum | Abteilung für Versorgungsforschung, Institut für Diversitätsmedizin | Universitätsstraße 150 | 44801 Bochum | +49 23 43227846 | ina.otte@ruhr-uni-bochum.de",
+        "name": "Prof. Dr. Ina Otte",
+        "email": "ina.otte@ruhr-uni-bochum.de",
+        "phone": "+49 23 43227846",
+        "postal_code": "44801",
+        "city": "Bochum",
+        "organization": "Ruhr-Universität Bochum",
+        "department": "Abteilung für Versorgungsforschung, Institut für Diversitätsmedizin",
+        "street": "Universitätsstraße 150"
+      },
+      "projectLeadCity": "Bochum",
+      "partners": [
+        "Ergosign GmbH",
+        "Private Universität Witten/Herdecke gGmbH"
+      ],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [
+        {
+          "title": "01VSF24033 iDEM-Support_Abbildung Inhalte der erweiterten iSupport-Plattform",
+          "meta": "(PDF 108,09 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/294/01VSF24033%20iDEM-Support_Abbildung1_InhaltePlattform.pdf"
+        },
+        {
+          "title": "01VSF24033 iDEM-Support Abbildung Projektvorhaben",
+          "meta": "(PDF 95,47 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/295/01VSF24033%20iDEM-Support_Abbildung2_Projektvorhaben%20.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 8,
       "slug": "idomeneo-studie.8",
       "title": "IDOMENEO Studie – Ist die Versorgungsrealität in der Gefäßmedizin leitlinien- und versorgungsgerecht",
@@ -3386,6 +4727,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Erkrankungen des Kreislaufsystems",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -3470,6 +4814,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Erkrankungen des Kreislaufsystems",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -3555,6 +4902,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -3610,6 +4960,175 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 286,
+      "slug": "independent.286",
+      "title": "InDePendent – Interprofessionelle Demenzversorgung: Aufgabenneuverteilung zwischen Ärzten und qualifizierten Pflegefachpersonen in der häuslichen Versorgung",
+      "acronym": "InDePendent",
+      "url": "https://innovationsfonds.g-ba.de/projekte/independent.286",
+      "summary": "Derzeit leben 1,7 Millionen Menschen mit Demenz (MmD) in Deutschland. Die Erkrankungswahrscheinlichkeit steigt dabei mit höherem Alter stark an. Gegenwärtig existiert keine kurative Behandlung der Demenz.",
+      "description": "Derzeit leben 1,7 Millionen Menschen mit Demenz (MmD) in Deutschland. Die Erkrankungswahrscheinlichkeit steigt dabei mit höherem Alter stark an. Gegenwärtig existiert keine kurative Behandlung der Demenz. Das Fortschreiten der Erkrankung führt daher zu einem hohen Versorgungsbedarf, dessen Komplexität das Gesundheitssystem bei vielen Betroffenen nicht umfassend befriedigen kann. Bislang erhält deshalb nur eine Minderheit der MmD eine optimale, bedarfsgerechte und leitlinienkonforme Versorgung.\n\nZiel der InDePendent Studie ist es, durch eine Aufgabenneuverteilung zwischen Hausärzten und Pflegefachkräften die Lebens- und Versorgungssitutation von MmD in der Häuslichkeit zu verbessern. Dabei sollen demenz-spezifisch qualifizierte Pflegefachpersonen (PFP) Tätigkeiten übernehmen, die bisher typischerweise vom ärztlichem Personal ausgeführt werden, wie z. B. einfache Assessments, Abstimmungen mit den beteiligten Professionen (z. B. Physio-, Ergo- und Logotherapie) oder die Verschreibung von Heil- und Hilfsmitteln. Die PFP werden in fünf Ärztenetzen in Mecklenburg-Vorpommern, Brandenburg und Hessen eingesetzt. In jedem Netz erfolgt eine Randomisierung der Arztpraxen in die Kontrollgruppe, in der weiterhin die übliche Versorgung geleistet wird, bzw. in die Interventionsgruppe, in der die Aufgabenneuverteilung zwischen Hausärzten und Pflegefachpersonen erfolgt. Zu Beginn der Studie sowie nach zwölf Monaten wird die Lebens- und Versorgungssituation der Patienten erfasst und im Anschluss die Unterschiede zwischen beiden Gruppen identifiziert. Das primäre Outcome stellen dabei die ungedeckten Bedarfe der Patienten dar. Das Projekt wird für 4 Jahre mit insgesamt ca. 4,3 Millionen Euro gefördert.\n\nIm Erfolgsfall soll die neue Versorgungsform in die Regelversorgung überführt werden. Die Übertragbarkeit der neuen Versorgungsform auf andere Regionen sowie weitere Patientengruppen ist gegeben und eine bundesweite Ausweitung des Versorgungsmodells nach Projektende wird angestrebt.",
+      "status": "beendet",
+      "states": [
+        "Brandenburg",
+        "Hessen",
+        "Mecklenburg-Vorpommern"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Angehörige",
+        "multimorbide Menschen",
+        "Pflegebedürftige"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 4,3 Mio. Euro",
+      "fundingSumEur": 4300000,
+      "duration": "04/2020 – 03/2024",
+      "startDate": "2020-04",
+      "endDate": "2024-03",
+      "transferRecommendation": "Prüfbitte/Überführung",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Wolfgang Hoffmann",
+          "Deutsches Zentrum für Neurodegenerative Erkrankungen e. V.",
+          "Ellernholzstraße 1-2",
+          "17487 Greifswald",
+          "+49 38 34867751",
+          "wolfgang.hoffmann@dzne.de"
+        ],
+        "display": "Prof. Dr. Wolfgang Hoffmann | Deutsches Zentrum für Neurodegenerative Erkrankungen e. V. | Ellernholzstraße 1-2 | 17487 Greifswald | +49 38 34867751 | wolfgang.hoffmann@dzne.de",
+        "name": "Prof. Dr. Wolfgang Hoffmann",
+        "email": "wolfgang.hoffmann@dzne.de",
+        "phone": "+49 38 34867751",
+        "postal_code": "17487",
+        "city": "Greifswald",
+        "organization": "Deutsches Zentrum für Neurodegenerative Erkrankungen e. V.",
+        "street": "Ellernholzstraße 1-2"
+      },
+      "projectLeadCity": "Greifswald",
+      "partners": [
+        "Universitätsmedizin Greifswald / Institut für Community Medicine",
+        "Abt. Versorgungsepidemiologie & Community Health",
+        "Techniker Krankenkasse/Landesvertretung Mecklenburg-Vorpommern",
+        "Demenz-Netzwerk-Uckermark e. V.",
+        "Universitätsmedizin Rostock",
+        "GNEF Gesundheitsnetz Frankfurt am Main eG",
+        "HaffNet",
+        "AOK Nordost – Die Gesundheitskasse"
+      ],
+      "projectWebsites": [
+        "https://www.dzne.de/forschung/studien/projekte-der-versorgungsforschung/independent/"
+      ],
+      "decisionDate": "19.09.2025",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 167,26 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/947/2025-09-19_InDePendent.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 7,30 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/948/2025-09-19_InDePendent_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Evaluationsbericht",
+          "meta": "(PDF 1,59 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/949/2025-09-19_InDePendent_Evaluationsbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
+      "project_id": 567,
+      "slug": "inspire-pnrm.567",
+      "title": "INSPIRE-PNRM+ – INterdiSziPlinäre und InteRsektorale telemedizinische Evaluation, Koordination und Behandlung im ParkinsonNetz RheinMain+",
+      "acronym": "INSPIRE-PNRM+",
+      "url": "https://innovationsfonds.g-ba.de/projekte/inspire-pnrm.567",
+      "summary": "Das Parkinson-Syndrom ist nach der Alzheimer-Demenz die zweithäufigste neurodegenerative Erkrankung, die zu Behinderungen, Pflegebedürftigkeit, eingeschränkter Lebensqualität und oft zum vorzeitigen Tod führt. In Deutschland sind ca.",
+      "description": "Das Parkinson-Syndrom ist nach der Alzheimer-Demenz die zweithäufigste neurodegenerative Erkrankung, die zu Behinderungen, Pflegebedürftigkeit, eingeschränkter Lebensqualität und oft zum vorzeitigen Tod führt. In Deutschland sind ca. 500.000 Menschen betroffen. Mit Alterung der Gesellschaft wird die Zahl der Betroffenen weiter zunehmen.\n\nUm ein Fortschreiten der Erkrankung zu verzögern und den Patientinnen und Patienten eine bestmögliche Lebensqualität zu ermöglichen, bedarf es einer individuellen Versorgung durch Therapeutinnen und Therapeuten aus verschiedenen Fachrichtungen. Aufgrund der unterschiedlichen Ausprägung der Symptomatik und der stark variierenden Krankheitsverläufe ist eine Verzahnung von Behandlungsketten und eine gezielte Kooperation zwischen ärztlichem, therapeutischem und pflegerischem Personal besonders wichtig. Das Projektteam erprobt einen neuen Ansatz, bei dem die Versorgungsqualität und sektorenübergreifende Vernetzung durch eine telemedizinisch gestützte Intervention und speziell für die Versorgung von Menschen mit Parkinson-Syndrom ausgebildete Pflegefachpersonen mit Masterabschluss (sog. Advanced Practice Nurses) verbessert werden soll. Dieser Ansatz stellt sicher, dass die Betroffenen in allen Versorgungsbereichen bedarfs- und patientenzentriert betreut werden.\n\nIn der Studie werden insgesamt über 800 Menschen mit Parkinson-Syndrom aus dem Rhein-Main-Gebiet, dem Saarland sowie benachbarten Regionen teilnehmen. Nach zwölf Monaten Intervention werden die Lebensqualität und Merkmale wie klinische, kognitive und soziale Variablen evaluiert. Das Projekt wird für 48 Monate mit insgesamt ca. 5,6 Millionen Euro gefördert.\n\nIm Erfolgsfall soll der neue Behandlungsansatz die Vernetzung der beteiligten Therapeutinnen und Therapeuten verbessern sowie neue Strukturen für eine optimierte, effektive und bedarfsgerechte Versorgung von Menschen mit Parkinson-Syndrom etablieren. Die Studienerkenntnisse sollen auf ganz Deutschland ausgeweitet werden.",
+      "status": "laufend",
+      "states": [
+        "Hessen",
+        "Rheinland-Pfalz"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Erwachsene",
+        "Menschen mit chronischen Krankheiten",
+        "Pflegebedürftige"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "zweistufig lang",
+      "fundingSumLabel": "ca. 5,6 Mio. Euro",
+      "fundingSumEur": 5600000,
+      "duration": "08/2023 – 07/2027",
+      "startDate": "2023-08",
+      "endDate": "2027-07",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Sergiu Groppa",
+          "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
+          "Klinik und Poliklinik für Neurologie",
+          "Langenbeckstraße 1",
+          "55131 Mainz",
+          "+49 6131 172998",
+          "segroppa@uni-mainz.de"
+        ],
+        "display": "Prof. Dr. Sergiu Groppa | Universitätsmedizin der Johannes Gutenberg-Universität Mainz | Klinik und Poliklinik für Neurologie | Langenbeckstraße 1 | 55131 Mainz | +49 6131 172998 | segroppa@uni-mainz.de",
+        "name": "Prof. Dr. Sergiu Groppa",
+        "email": "segroppa@uni-mainz.de",
+        "phone": "+49 6131 172998",
+        "postal_code": "55131",
+        "city": "Mainz",
+        "organization": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
+        "department": "Klinik und Poliklinik für Neurologie",
+        "street": "Langenbeckstraße 1"
+      },
+      "projectLeadCity": "Mainz",
+      "partners": [
+        "DAK-Gesundheit",
+        "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
+        "Katholische Hochschule Mainz",
+        "Techniker Krankenkasse",
+        "Universitätsklinikum Frankfurt"
+      ],
+      "projectWebsites": [
+        "https://inspire.parkinsonnetzwerk.de"
+      ],
+      "decisionDate": null,
+      "documents": [
+        {
+          "title": "01NVF22107 INSPIRE - PNRM+ Flyer",
+          "meta": "(PDF 658,61 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/184/01NVF22107%20INSPIRE%20-%20PNRM+_Flyer.pdf"
+        },
+        {
+          "title": "01NVF22107 INSPIRE - PNRM+ Plakat",
+          "meta": "(PDF 1,37 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/185/01NVF22107%20INSPIRE%20-%20PNRM+_Plakat.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 510,
       "slug": "integrate-atmp.510",
       "title": "INTEGRATE-ATMP – Integrierte Versorgung Neuer Therapien durch Telemedizin, Empowerment, Gentherapeutika, Registeretablierung, Arzneimittelsicherheit, Therapiepfaden und Erstattung",
@@ -3627,6 +5146,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "onkologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Früh- und Neugeborene",
@@ -3738,6 +5260,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Erkrankungen des Kreislaufsystems",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -3825,6 +5350,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Geburt und Wochenbett",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -3917,6 +5445,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -3995,6 +5526,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -4064,6 +5598,78 @@ window.GBA_NEUROLOGY_DATA = {
       }
     },
     {
+      "project_id": 690,
+      "slug": "kidscarepvs.690",
+      "title": "KidsCarePVS – Versorgungslage und -bedarfe junger Menschen mit postviralen Symptomkomplexen: Status quo-Analyse und Entwicklung eines Versorgungskonzepts",
+      "acronym": "KidsCarePVS",
+      "url": "https://innovationsfonds.g-ba.de/projekte/kidscarepvs.690",
+      "summary": "Nach einer COVID-19-Infektion, aber auch nach anderen viralen Erkrankungen können anhaltende Gesundheitsstörungen auftreten – Fachleute sprechen von einem postviralen Symptomkomplex (PVS). Die Symptome sind vielfältig und variabel.",
+      "description": "Nach einer COVID-19-Infektion, aber auch nach anderen viralen Erkrankungen können anhaltende Gesundheitsstörungen auftreten – Fachleute sprechen von einem postviralen Symptomkomplex (PVS). Die Symptome sind vielfältig und variabel. Hierzu gehören u. a. eine ausgeprägte Erschöpfung, Muskelschmerzen und neurokognitive Probleme. Die Symptome bestehen über einige Wochen bis hin zu Monaten und sogar Jahren. Über die Versorgungssituation von Kindern, Jugendlichen und jungen Erwachsenen mit PVS in Deutschland ist kaum etwas bekannt.\n\nZiel des Projekts KidsCarePVS ist eine Beschreibung der bundesweiten und regionalen Versorgungslage von Kindern, Jugendlichen und jungen Erwachsenen sowie von Anforderungen an die Versorgungslage. Als Basis dienen Angaben über junge Menschen ab der Geburt bis zum Alter von 20 Jahren. Sie stammen von gesetzlichen Krankenkassen, ärztlich gemeldeten Fällen von PVS und einer bundesweiten Kartierung von PVS-Anlaufstellen. Die behandelnden Fachkräfte geben in Interviews Auskunft über ihre alltäglichen Erfahrungen in der Behandlungspraxis und ihre Erwartungen an die PVS-Betroffenen und deren Familien. Die Betroffenen und Angehörigen werden ebenfalls nach ihrer Sicht auf die Versorgungsleistungen und ihre Zufriedenheit damit befragt. Die Datenauswertung erfolgt vorwiegend beschreibend und durch die inhaltliche Auswertung der Interviews. Basierend auf den Ergebnissen sollen gemeinsam mit Betroffenen (Jugendliche, Angehörige) und Versorgungsakteuren innovative Vorschläge für ein patientenorientiertes, bedarfsgerechtes Versorgungskonzept formuliert werden.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,9 Millionen Euro gefördert.\n\nIm Erfolgsfall können die Projektergebnisse zukünftige gesundheitspolitische Entscheidungen für die Implementierung innovativer Versorgungselemente für junge Menschen mit PVS erleichtern und dazu beitragen, die Ressourcen der gesetzlichen Krankenkassen effizienter zu nutzen.",
+      "status": "laufend",
+      "states": [
+        "Bayern"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Kinder und Jugendliche",
+        "Leistungserbringer",
+        "Menschen mit chronischen Krankheiten",
+        "Pflegebedürftige"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,9 Mio. Euro",
+      "fundingSumEur": 1900000,
+      "duration": "04/2025 – 03/2028",
+      "startDate": "2025-04",
+      "endDate": "2028-03",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Uta Behrends",
+          "Klinikum rechts der Isar der Technischen Universität München",
+          "Klinik und Poliklinik für Kinder- und Jugendmedizin",
+          "Ismaninger Straße 22",
+          "81675 München",
+          "+49 89 3068 2645",
+          "Uta.Behrends@mri.tum.de"
+        ],
+        "display": "Prof. Dr. Uta Behrends | Klinikum rechts der Isar der Technischen Universität München | Klinik und Poliklinik für Kinder- und Jugendmedizin | Ismaninger Straße 22 | 81675 München | +49 89 3068 2645 | Uta.Behrends@mri.tum.de",
+        "name": "Prof. Dr. Uta Behrends",
+        "email": "Uta.Behrends@mri.tum.de",
+        "phone": "+49 89 3068 2645",
+        "postal_code": "81675",
+        "city": "München",
+        "organization": "Klinikum rechts der Isar der Technischen Universität München",
+        "department": "Klinik und Poliklinik für Kinder- und Jugendmedizin",
+        "street": "Ismaninger Straße 22"
+      },
+      "projectLeadCity": "München",
+      "partners": [
+        "Albert-Ludwigs-Universität Freiburg",
+        "AOK Baden-Württemberg",
+        "Berufsverband der Kinder- und Jugendärzt*innen e. V.",
+        "Charité – Universitätsmedizin Berlin",
+        "Otto-von-Guericke-Universität Magdeburg",
+        "Technische Universität Dresden",
+        "Universitätsklinikum Regensburg",
+        "Zentralinstitut für die kassenärztliche Versorgung in der Bundesrepublik Deutschland"
+      ],
+      "projectWebsites": [
+        "https://www.mcfc.mri.tum.de/de/kidscarepvs"
+      ],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
       "project_id": 590,
       "slug": "klimgesvor.590",
       "title": "KlimGesVor – Auswirkungen des Klimawandels auf die Gesundheitsversorgung von Patienten mit kardiovaskulären, metabolischen und respiratorischen Erkrankungen",
@@ -4082,6 +5688,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Hygiene- und Umweltmedizin",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -4139,6 +5748,167 @@ window.GBA_NEUROLOGY_DATA = {
       }
     },
     {
+      "project_id": 505,
+      "slug": "kocon.505",
+      "title": "KoCoN – IT-gestützte sektorenübergreifende Patientenpfade für die Versorgung von Kindern mit KOmplex-ChrOnischen Neurologischen Erkrankungen",
+      "acronym": "KoCoN",
+      "url": "https://innovationsfonds.g-ba.de/projekte/kocon.505",
+      "summary": "Kinder mit komplex-chronischen, neurologischen Erkrankungen sind oft angewiesen auf medizinische Hilfen bis hin zu einer Beatmung im heimischen Umfeld.",
+      "description": "Kinder mit komplex-chronischen, neurologischen Erkrankungen sind oft angewiesen auf medizinische Hilfen bis hin zu einer Beatmung im heimischen Umfeld. Ihre Versorgung ist äußerst anspruchsvoll und aufwändig; es fehlen Strukturen für eine sektorenübergreifende, interdisziplinäre und multiprofessionelle Versorgung, die Bedarfe der jungen Menschen und ihrer Familien berücksichtigen. Hier setzt das Projekt KoCoN an. Ein IT-gestützter Patientenpfad soll die Versorgung für Betroffene, deren Eltern sowie stationäre und ambulante Versorger verbessern.\n\nIn prästationären Videokonferenzen mit den Familien gewinnt das KoCoN-Team einen Überblick. Ist keine Einweisung angezeigt, wird mit den niedergelassenen Hauptversorgern und der Familie ein ambulanter Diagnostik- und Behandlungsplan erstellt. Bei einer stationären Aufnahme koordiniert ein engmaschiges Case-Management den Patientenpfad. Eine vorausschauende Versorgungsplanung unterstützt die Eltern. Multiprofessionelle Fallkonferenzen mit externen Spezialisten erlauben weitreichende Diagnostik- und Therapieentscheidungen. Für den bedarfsgerechten Übergang wird frühzeitig zur Weiterversorgung ein ambulantes Versorgungsnetzwerk aktiviert und die elektronische Patientenakte genutzt. Wiedereinweisungen werden vermieden.\n\nDie Wirksamkeit der neuen Versorgungsform KoCoN wird im Vergleich zu einer Kontrollgruppe ermittelt. Es werden die Lebensqualität, Krankheitssymptomlast, Handlungskompetenz der Familien und Versorgungsqualität untersucht. Gesundheitskosten werden über Krankenkassendaten und Selbstauskunft der Familien erfasst. Betroffene und das KoCoN-Team werden zur Akzeptanz von KoCoN befragt. Das Projekt wird für 44 Monate mit ca. 8,1 Millionen Euro gefördert.\n\nIm Erfolgsfall wird die Versorgungsqualität komplex-chronisch, neurologisch erkrankter Kinder und Jugendlicher verbessert sowie die Lebensqualität der Familien erhöht. Die Übertragung der Erkenntnisse auf andere Bereiche der Gesundheitsversorgung ist möglich.",
+      "status": "laufend",
+      "states": [
+        "Baden-Württemberg",
+        "Bayern",
+        "Niedersachsen",
+        "Nordrhein-Westfalen",
+        "Sachsen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Angehörige",
+        "Kinder und Jugendliche",
+        "Menschen mit Behinderung",
+        "Menschen mit chronischen Krankheiten",
+        "Menschen mit seltenen Krankheiten"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "zweistufig lang",
+      "fundingSumLabel": "ca. 8,1 Mio. Euro",
+      "fundingSumEur": 8100000,
+      "duration": "12/2022 – 07/2026",
+      "startDate": "2022-12",
+      "endDate": "2026-07",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Boris Zernikow",
+          "Vestische Kinder- und Jugendklinik",
+          "Vestische Caritas-Kliniken GmbH",
+          "Dr.-Friedrich-Steiner Straße 5",
+          "45711 Datteln",
+          "+49 2363 975187",
+          "b.zernikow@kinderklinik-datteln.de"
+        ],
+        "display": "Prof. Dr. Boris Zernikow | Vestische Kinder- und Jugendklinik | Vestische Caritas-Kliniken GmbH | Dr.-Friedrich-Steiner Straße 5 | 45711 Datteln | +49 2363 975187 | b.zernikow@kinderklinik-datteln.de",
+        "name": "Prof. Dr. Boris Zernikow",
+        "email": "b.zernikow@kinderklinik-datteln.de",
+        "phone": "+49 2363 975187",
+        "postal_code": "45711",
+        "city": "Datteln",
+        "organization": "Vestische Kinder- und Jugendklinik",
+        "department": "Vestische Caritas-Kliniken GmbH",
+        "street": "Dr.-Friedrich-Steiner Straße 5"
+      },
+      "projectLeadCity": "Datteln",
+      "partners": [
+        "AOK Baden-Württemberg",
+        "AOK Bayern - Die Gesundheitskasse",
+        "AOK – Die Gesundheitskasse für Niedersachsen",
+        "AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen",
+        "BARMER",
+        "Evangelisches Klinikum Bethel",
+        "Hannoversche Kinderheilanstalt Stiftung des bürgerlichen Rechts",
+        "Kindernetzwerk e. V.",
+        "Klinikum der Landeshauptstadt Stuttgart gKAöR",
+        "PedScience Vestische Forschungs-gGmbH",
+        "Private Universität Witten/Herdecke gGmbH",
+        "Techniker Krankenkasse",
+        "Technische Universität Dresden",
+        "Universitätsklinikum Augsburg"
+      ],
+      "projectWebsites": [
+        "https://kocon-projekt.de/"
+      ],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
+      "project_id": 319,
+      "slug": "kokos-ms.319",
+      "title": "KOKOS-MS – Kommunikation, Koordination und Sicherheit für Menschen mit Multipler Sklerose",
+      "acronym": "KOKOS-MS",
+      "url": "https://innovationsfonds.g-ba.de/projekte/kokos-ms.319",
+      "summary": "Menschen mit Multipler Sklerose (MS) haben hochkomplexe Gesundheits- und Sozialversorgungsbedarfe, z. B. in Bezug auf krankheitsspezifische Therapien, Beratung der Lebensplanung bis hin zur palliativen Behandlung.",
+      "description": "Menschen mit Multipler Sklerose (MS) haben hochkomplexe Gesundheits- und Sozialversorgungsbedarfe, z. B. in Bezug auf krankheitsspezifische Therapien, Beratung der Lebensplanung bis hin zur palliativen Behandlung. Gerade schwer betroffene MS-Patientinnen und ‑patienten und ihre Bezugspersonen fühlen sich in der Koordination der Vielzahl der Prozesse und der sektorübergreifenden Leistungserbringer oft überfordert und vermissen eine langfristige koordinierende Ansprechperson. Das Projekt KOKOS-MS dient der Evaluierung der Implementierung eines sektorübergreifenden Care- und Case-Managements (CCM). Das CCM soll helfen, schwer betroffene Patientinnen und Patienten zu identifizieren, ihre individuellen Sozial- und Gesundheitsbedarfe zu klären, notwendige Dienstleister zu finden und deren Inanspruchnahme zu koordinieren. Es steuert die Prozesse als übergeordnete Ansprechperson im bestehenden Versorgungsnetzwerk und hilft z. B. beim Umgang mit Behörden, Ärzten und Therapeuten.\n\nIn der Vorbereitungsphase des Projekts wird u. a. ein standardisiertes CCM Manual für die Implementierung des CCMs erarbeitet. In der anschließenden randomisierten Studie werden MS-Kranke der Kontroll- oder Interventionsgruppe zugeordnet. Während die Kontrollgruppe die Standardversorgung erhält, wird den Patient*innen der Interventionsgruppe zusätzlich ein Care- und Case-Manager zur Seite gestellt. Mit Hilfe von Interviews/Gruppendiskussionen und wissenschaftlichen Fragebögen wird das CCM und seine Auswirkungen auf die Versorgungsqualität umfassend bewertet. Im Fokus stehen hierbei die Ermittlung der Lebensqualität und Belastung der Patient*innen und ihrer Bezugspersonen im Verlauf. Des Weiteren werden die entstehenden Kosten in der Kontroll- und Interventionsgruppe analysiert. Aus den erhobenen Daten können die Ansprüche an ein Studiendesign für eine nachfolgende Studie mit einem erweiterten Probandenkollektiv modelliert werden.\n\nDas Projekt wird über 48 Monate mit ca. 1,6 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Projekt erstmals den Nutzen eines CCMs für Menschen mit schwerer MS evaluieren. Das Konzept des CCMs kann modifiziert auf andere komplexe neurologische Krankheitsbilder (z. B. Motoneuronerkrankungen, schwere Parkinsonsyndrome) übertragen und auch dort angewandt werden.",
+      "status": "Abschlussbericht wird erstellt",
+      "states": [
+        "Nordrhein-Westfalen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Angehörige",
+        "Erwachsene",
+        "Menschen in palliativmedizinischer Behandlung",
+        "Menschen mit Behinderung",
+        "Menschen mit chronischen Krankheiten",
+        "Pflegebedürftige"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,6 Mio. Euro",
+      "fundingSumEur": 1600000,
+      "duration": "08/2020 – 08/2024",
+      "startDate": "2020-08",
+      "endDate": "2024-08",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Heidrun Golla",
+          "Universität zu Köln",
+          "Universitätsklinikum Köln,",
+          "Zentrum für Palliativmedizin",
+          "Kerpener Straße 62",
+          "50924 Köln",
+          "+49 221 478 3368",
+          "heidrun.golla@uk-koeln.de"
+        ],
+        "display": "Prof. Dr. Heidrun Golla | Universität zu Köln | Universitätsklinikum Köln, | Zentrum für Palliativmedizin | Kerpener Straße 62 | 50924 Köln | +49 221 478 3368 | heidrun.golla@uk-koeln.de",
+        "name": "Prof. Dr. Heidrun Golla",
+        "email": "heidrun.golla@uk-koeln.de",
+        "phone": "+49 221 478 3368",
+        "postal_code": "50924",
+        "city": "Köln",
+        "organization": "Universität zu Köln",
+        "department": "Universitätsklinikum Köln, | Zentrum für Palliativmedizin",
+        "street": "Kerpener Straße 62"
+      },
+      "projectLeadCity": "Köln",
+      "partners": [],
+      "projectWebsites": [
+        "https://palliativzentrum.uk-koeln.de/forschung/neuro-palliativ/kokos-ms/"
+      ],
+      "decisionDate": null,
+      "documents": [
+        {
+          "title": "01VSF19029 KOKOS-M Flyer",
+          "meta": "(PDF 850,41 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/236/01VSF19029%20KOKOS-MS_Flyer.pdf"
+        },
+        {
+          "title": "01VSF19029 KOKOS-MS Studienablauf",
+          "meta": "(PDF 108,91 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/237/01VSF19029%20KOKOS-MS_Studienablauf.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 221,
       "slug": "kopal.221",
       "title": "KOPAL – Entwicklung und Evaluation eines Konzeptes zur berufsübergreifenden Zusammenarbeit bei Patienten mit palliativem Versorgungsbedarf",
@@ -4155,6 +5925,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Erkrankungen des Kreislaufsystems",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Leistungserbringer",
         "Menschen in palliativmedizinischer Behandlung",
@@ -4245,6 +6018,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Schwangerschaft",
         "Geburt und Wochenbett"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Früh- und Neugeborene",
         "Menschen mit chronischen Krankheiten",
@@ -4324,6 +6100,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Notfälle",
         "Verletzung und Vergiftungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -4415,6 +6194,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Erkrankungen des Kreislaufsystems",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -4471,6 +6253,139 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 726,
+      "slug": "livingathome.726",
+      "title": "living@home – Multimodale, dyadische Intervention für pflegende Angehörige von Menschen mit Demenz",
+      "acronym": "living@home",
+      "url": "https://innovationsfonds.g-ba.de/projekte/livingathome.726",
+      "summary": "Mit 1,8 Millionen Betroffenen stellen Menschen mit Demenz einen Großteil der Pflegebedürftigen in Deutschland dar. Viele wünschen sich, so lange wie möglich zu Hause versorgt zu werden.",
+      "description": "Mit 1,8 Millionen Betroffenen stellen Menschen mit Demenz einen Großteil der Pflegebedürftigen in Deutschland dar. Viele wünschen sich, so lange wie möglich zu Hause versorgt zu werden. Die zunehmenden kognitiven und körperlichen Einschränkungen machen die Pflege jedoch zeitintensiv und sind für die Angehörigen oft sehr belastend. Ohne Unterstützung kann die häusliche Versorgung nur schwer aufrechterhalten werden, was auch das Gesundheitssystem vor Herausforderungen stellt.\n\nHier setzt das Projekt living@home an. Es bietet ein neues Unterstützungsangebot für pflegende Angehörige und Menschen mit Demenz ausgehend von Memory-Kliniken. Kernstück der neuen Versorgungsform ist eine App. Über diese tauschen sich die Angehörigen mit speziell für die Demenzversorgung qualifizierten Pflegeexpertinnen und -experten aus und berichten regelmäßig über ihre häusliche Situation sowie ihren Gesundheits- und Belastungszustand. Bei sich abzeichnenden Krisen und wachsenden Herausforderungen erhalten die Betroffenen rechtzeitig professionelle und bedarfsgerechte Hilfestellungen. Zusätzlich können sich Angehörige via App über regionale Pflege- und Unterstützungsangebote informieren.\n\nOb das App-gestützte Angebot geeignet ist, Belastungen der Angehörigen zu verringern und die häusliche Versorgungssituation zu stabilisieren, untersuchen die Projektbeteiligten in einer Studie mit rund 540 Menschen mit Demenz und pflegenden Angehörigen. Darüber hinaus beobachtet das Projektteam, wie gut die Umsetzung der neuen Versorgungsform gelingt und wie sie sich auf die Versorgungskosten auswirkt. Das Projekt wird für dreieinhalb Jahre mit insgesamt ca. 5,5 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die häusliche Versorgungssituation von Menschen mit Demenz und pflegenden Angehörigen verbessert und damit insgesamt länger aufrechterhalten werden – ein Zugewinn für Betroffene und angesichts der anhaltenden Personalengpässe zugleich eine Entlastung für das Gesundheitssystem und die Pflege.",
+      "status": "laufend",
+      "states": [
+        "Baden-Württemberg",
+        "Hessen",
+        "Mecklenburg-Vorpommern",
+        "Niedersachsen",
+        "Nordrhein-Westfalen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Angehörige",
+        "Erwachsene",
+        "Menschen mit chronischen Krankheiten",
+        "Pflegebedürftige"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "zweistufig lang",
+      "fundingSumLabel": "ca. 5,5 Mio. Euro",
+      "fundingSumEur": 5500000,
+      "duration": "07/2025 – 12/2028",
+      "startDate": "2025-07",
+      "endDate": "2028-12",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Dr. Dr. Bernhard Michalowsky",
+          "Deutsches Zentrum für Neurodegenerative Erkrankungen e. V.",
+          "Ellernholzstraße 1-2",
+          "17489 Greifswald",
+          "+49 3834 868530",
+          "bernhard.michalowsky@dzne.de"
+        ],
+        "display": "Dr. Dr. Bernhard Michalowsky | Deutsches Zentrum für Neurodegenerative Erkrankungen e. V. | Ellernholzstraße 1-2 | 17489 Greifswald | +49 3834 868530 | bernhard.michalowsky@dzne.de",
+        "name": "Dr. Dr. Bernhard Michalowsky",
+        "email": "bernhard.michalowsky@dzne.de",
+        "phone": "+49 3834 868530",
+        "postal_code": "17489",
+        "city": "Greifswald",
+        "organization": "Deutsches Zentrum für Neurodegenerative Erkrankungen e. V.",
+        "street": "Ellernholzstraße 1-2"
+      },
+      "projectLeadCity": "Greifswald",
+      "partners": [],
+      "projectWebsites": [
+        "https://www.dzne.de/forschung/studien/projekte-der-versorgungsforschung/livingathome/"
+      ],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
+      "project_id": 476,
+      "slug": "ll-ucp.476",
+      "title": "LL-uCP – Diagnostik und Therapie der unilateralen spastischen Zerebralparese",
+      "acronym": "LL-uCP",
+      "url": "https://innovationsfonds.g-ba.de/projekte/ll-ucp.476",
+      "summary": "Eines von 2.000 Neugeborenen in Deutschland leidet an einer einseitigen spastischen Zerebralparese (uCP), die leichte motorische Unbeholfenheit, aber auch schwere Bewegungsstörungen bis hin zur Lähmung verursachen kann.",
+      "description": "Eines von 2.000 Neugeborenen in Deutschland leidet an einer einseitigen spastischen Zerebralparese (uCP), die leichte motorische Unbeholfenheit, aber auch schwere Bewegungsstörungen bis hin zur Lähmung verursachen kann. Zurückzuführen ist eine solche uCP auf eine Schädigung des sich entwickelnden Gehirns während der Schwangerschaft oder der Geburt. Häufig leiden die betroffenen Kinder auch unter kognitiven Beeinträchtigungen oder Teilleistungsstörungen, Epilepsien und Sprachstörungen. Aufgrund der Seltenheit der Erkrankung ist das Wissen um ihre Entstehung und bestmögliche Behandlung jedoch nur unzureichend.\n\nDas Projekt LL-uCP knüpft daran an und will eine S3-Leitlinie entwickeln, die Informationen auf Grundlage des aktuellen Forschungsstands sammelt und Ärztinnen und Ärzte in der Behandlung von uCP unterstützt.\n\nDie Leitlinie wird unter Beteiligung von vier medizinischen Fachgesellschaften erstellt (Sozialpädiatrie und Jugendmedizin, Orthopädie, Kinderneurologie, Kinderheilkunde), die einen wissenschaftlichen Beirat bildet (Leitliniengruppe). Betroffenenverbände und ein Leitlinienberater der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF) werden diese Leitliniengruppe unterstützen. Nach einer systematischen Literaturrecherche wird im Rahmen des ersten Leitlinientreffens das methodische Vorgehen festgelegt. In einem mehrstufigen Beratungsverfahren (Delphiverfahren) befindet die Leitliniengruppe im Konsens über die erarbeiteten Empfehlungen. Für die Schlüsselempfehlungen werden Qualitätsindikatoren erstellt, welche eine Überprüfung der Umsetzbarkeit ermöglichen sollen. Das Projekt wird für drei Jahre mit insgesamt ca. 369.000 Euro gefördert.\n\nIm Erfolgsfall würde eine Leitlinie die Therapie vereinfachen und Ärztinnen und Ärzten klar definierte Handlungsempfehlungen zu Therapieverfahren zur Verfügung stellen. Die Behandlung kann damit optimiert und vereinheitlicht werden und zu einer höheren Lebensqualität von Betroffenen beitragen.",
+      "status": "Abschlussbericht wird erstellt",
+      "states": [
+        "Bayern"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Angehörige",
+        "Erwachsene",
+        "Leistungserbringer",
+        "Menschen mit Behinderung",
+        "Menschen mit chronischen Krankheiten",
+        "Menschen mit seltenen Krankheiten"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Medizinische Leitlinien",
+      "fundingSumLabel": "ca. 369.000 Euro",
+      "fundingSumEur": 369000,
+      "duration": "06/2022 – 05/2025",
+      "startDate": "2022-06",
+      "endDate": "2025-05",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Volker Mall",
+          "Klinikum rechts der Isar der Technischen Universität München",
+          "Lehrstuhl für Sozialpädiatrie",
+          "Heiglhofstraße 65",
+          "81377 München",
+          "+49 89 71009233",
+          "volker.mall@kbo.de"
+        ],
+        "display": "Prof. Dr. Volker Mall | Klinikum rechts der Isar der Technischen Universität München | Lehrstuhl für Sozialpädiatrie | Heiglhofstraße 65 | 81377 München | +49 89 71009233 | volker.mall@kbo.de",
+        "name": "Prof. Dr. Volker Mall",
+        "email": "volker.mall@kbo.de",
+        "phone": "+49 89 71009233",
+        "postal_code": "81377",
+        "city": "München",
+        "organization": "Klinikum rechts der Isar der Technischen Universität München",
+        "department": "Lehrstuhl für Sozialpädiatrie",
+        "street": "Heiglhofstraße 65"
+      },
+      "projectLeadCity": "München",
+      "partners": [
+        "LMU Klinikum München",
+        "Universitätsklinikum Düsseldorf",
+        "Universitätsklinikum Tübingen"
+      ],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
       "project_id": 522,
       "slug": "llkvp.522",
       "title": "LLKVP – S3-Leitlinie Hausärztliche Risikoberatung zur kardiovaskulären Prävention",
@@ -4486,6 +6401,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Erkrankungen des Kreislaufsystems",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -4561,6 +6479,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -4628,6 +6549,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "ländliche Bevölkerung",
@@ -4699,6 +6623,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "onkologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -4779,6 +6706,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -4845,6 +6775,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Transplantation",
         "Organspende und Amputation"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -4930,6 +6863,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Menschen mit chronischen Krankheiten"
@@ -4982,6 +6918,240 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 189,
+      "slug": "moma.189",
+      "title": "moma – Entwicklungsbezogene, multimodale, interdisziplinäre Frühintervention im Rahmen eines Strukturierten Therapiekonzeptes für Kinder mit Migräne – Modules on migraine activity",
+      "acronym": "moma",
+      "url": "https://innovationsfonds.g-ba.de/projekte/moma.189",
+      "summary": "Immer häufiger leiden Kinder unter Kopfschmerzen. Bereits im Grundschulalter wird etwa bei jedem 75. Kind die Diagnose Migräne gestellt, die die betroffenen Kinder häufig ein Leben lang begleitet und negativ beeinträchtigt.",
+      "description": "Immer häufiger leiden Kinder unter Kopfschmerzen. Bereits im Grundschulalter wird etwa bei jedem 75. Kind die Diagnose Migräne gestellt, die die betroffenen Kinder häufig ein Leben lang begleitet und negativ beeinträchtigt. Die Diagnostik und Versorgung von Kindern mit Migräne ist noch nicht hinreichend auf die spezifischen Belange dieser Zielgruppe zugeschnitten.\n\nDas Projekt entwickelt und untersucht ein neues Versorgungskonzept, das die Lebensqualität und Langzeitprognose von Kindern mit Migräne verbessern soll. Kernelemente des Versorgungskonzeptes sind (1) eine standardisierte Migränediagnostik durch den Kinder- und Jugendarzt und (2) eine multimodale, interdisziplinäre Frühtherapie (moma). Den Kinder- und Jugendärzten werden zur Diagnostik spezifische Instrumente zur Verfügung gestellt, mit denen sie sowohl die Migräne-charakteristische Symptome als auch die psychologischen und sozialen Faktoren besser erfassen können. Kinder, bei denen Migräne diagnostiziert wurde, erhalten die Frühtherapie in einem Sozialpädiatrischen Zentrum (SPZ). Die Frühtherapie beinhaltet eine umfassende Diagnostik und Abgrenzung zu Kopfschmerzen, die andere Ursachen haben (z.B. Infektionen, Hirntumore). Es findet eine medizinische Therapie und eine kinderneurologische Beratung statt, die auch die Eltern einschließt. Zudem erhalten die Kinder physiotherapeutische Behandlungen. Darüber hinaus werden Untersuchungen durchgeführt, um psychische Belastungen zu bestimmen und diese zu behandeln. Im SPZ arbeiten Kinderärzte, Kinderneurologen, Psychologen und Physiotherapeuten eng zusammen.\n\nDie Effektivität des neuen Versorgungskonzeptes wird im Vergleich zur Regelversorgung untersucht. Hierzu werden insbesondere folgende Parameter erhoben: Reduktion der Kopfschmerztage, Medikamenteneinnahme und Schulfehltage sowie Verbesserung der Lebensqualität. Das Projekt wird für drei Jahre mit insgesamt ca. 2,7 Millionen Euro gefördert.\n\nIm Erfolgsfall steht ein spezifisches, strukturiertes Versorgungskonzept zur Behandlung von Kindern mit Migräne zur Verfügung, welches in die bestehende Versorgungslandschaft übertragen werden kann.",
+      "status": "beendet",
+      "states": [
+        "Baden-Württemberg",
+        "Bayern",
+        "Berlin",
+        "Brandenburg",
+        "Bremen",
+        "bundesweit",
+        "Hamburg",
+        "Hessen",
+        "Mecklenburg-Vorpommern",
+        "Niedersachsen",
+        "Nordrhein-Westfalen",
+        "Rheinland-Pfalz",
+        "Saarland",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Schleswig-Holstein",
+        "Thüringen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Kinder und Jugendliche"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 2,7 Mio. Euro",
+      "fundingSumEur": 2700000,
+      "duration": "10/2018 – 09/2021",
+      "startDate": "2018-10",
+      "endDate": "2021-09",
+      "transferRecommendation": "keine Empfehlung",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Rüdiger von Kries",
+          "Ludwig-Maximilians-Universität München",
+          "Institut für Soziale Pädiatrie und Jugendmedizin",
+          "Haydnstr. 5",
+          "80336 München",
+          "0049 89 552734140",
+          "ruediger.kries@med.uni-muenchen.de"
+        ],
+        "display": "Prof. Dr. Rüdiger von Kries | Ludwig-Maximilians-Universität München | Institut für Soziale Pädiatrie und Jugendmedizin | Haydnstr. 5 | 80336 München | 0049 89 552734140 | ruediger.kries@med.uni-muenchen.de",
+        "name": "Prof. Dr. Rüdiger von Kries",
+        "email": "ruediger.kries@med.uni-muenchen.de",
+        "phone": null,
+        "postal_code": "80336",
+        "city": "München",
+        "organization": "Ludwig-Maximilians-Universität München",
+        "department": "Institut für Soziale Pädiatrie und Jugendmedizin",
+        "street": "Haydnstr. 5"
+      },
+      "projectLeadCity": "München",
+      "partners": [
+        "Klinikum der Universität München",
+        "BARMER",
+        "Hochschule für Angewandte Wissenschaften Hof",
+        "BVKJ-Service GmbH"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "24.01.2023",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 131,93 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/359/2023-01-24_moma.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 95,10 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/360/2023-01-24_moma_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Evaluationsbericht",
+          "meta": "(PDF 464,25 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/361/2023-01-24_moma_Evaluationsbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
+      "project_id": 710,
+      "slug": "move-it.710",
+      "title": "moVe-it – Evidenzbasierte Botulinumtoxin-Behandlung bei einer Spastik nach Schlaganfall und Verbesserung der interdisziplinären Zusammenarbeit",
+      "acronym": "moVe-it",
+      "url": "https://innovationsfonds.g-ba.de/projekte/move-it.710",
+      "summary": "In Deutschland erleiden jährlich ca. 1,6 Prozent der Erwachsenen einen Schlaganfall und 40 Prozent der Betroffenen entwickeln ein spastisches Syndrom . Menschen mit einer Spastik leiden u. a.",
+      "description": "In Deutschland erleiden jährlich ca. 1,6 Prozent der Erwachsenen einen Schlaganfall und 40 Prozent der Betroffenen entwickeln ein spastisches Syndrom . Menschen mit einer Spastik leiden u. a. an M uskelverkürzungen, Kontrakturen, Schmerzen oder Bewegungsstörungen und sind in ihrem Alltag oft eingeschränkt. Durch eine frühzeitige Erkennung und Behandlung der Spastik lassen sich Langzeitschäden vermeiden.\n\nDie Leitlinienempfehlung für Schlaganfallpatienten mit Spastik sieht eine Behandlung mit Botulinumtoxin A und Physiotherapie vor. Diese Behandlungsempfehlung wird in der Praxis kaum umgesetzt. So haben in Deutschland im Jahr 2021 nur ca. vier Prozent der Patientinnen und Patienten mit Spastik diese Behandlung erhalten. Das Projekt moVe-it will diese Versorgungslücke mittels eines vernetzenden digitalen Versorgungsmanagements schließen. Kernelemente sind interprofessionelle Fallkonferenzen (webbasiert und digital) in Koordination durch einen moVe-it-medical-Manager zur patientenindividuellen Optimierung der Therapie (Physiotherapie, Botulinumtoxin-A-Injektionen) und die stetige Patientenbegleitung durch die moVe-it-App. Mit dieser App lassen sich Behandlungen interdisziplinär planen und Veränderungen des Gesundheitszustands schnell erfassen.\n\nIn einer randomisierten Studie prüfen die Projektbeteiligten, ob diese neue Versorgungsform zu einer Verbesserung des Gesundheitszustands der Betroffenen beitragen kann. Dazu werden Schlaganfallpatientinnen und -patienten mit Spastik in eine Interventions- und eine Kontrollgruppe eingeteilt. Zusätzlich erfolgt eine Prozessevaluation und gesundheitsökonomische Analyse. Das Projekt wird für drei Jahre mit insgesamt ca. 6,8 Millionen Euro gefördert.\n\nIm Erfolgsfall trägt die neue Versorgungsform dazu bei, Schlaganfallpatientinnen und -patienten mit Spastik leitliniengerecht zu behandeln, Versorgungslücken zu schließen und besser medizinisch zu versorgen. Eine Übertragbarkeit auf andere chronische Erkrankungen ist möglich.",
+      "status": "laufend",
+      "states": [
+        "Bayern",
+        "Berlin",
+        "Brandenburg"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Angehörige",
+        "Erwachsene",
+        "Leistungserbringer",
+        "Menschen mit Behinderung",
+        "Menschen mit chronischen Krankheiten",
+        "Pflegebedürftige"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "zweistufig lang",
+      "fundingSumLabel": "ca. 6,8 Mio. Euro",
+      "fundingSumEur": 6800000,
+      "duration": "10/2025 – 09/2028",
+      "startDate": "2025-10",
+      "endDate": "2028-09",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Dr. Sarah Rudolph",
+          "Mobil Krankenkasse",
+          "Hühnerposten 2",
+          "20097 Hamburg",
+          "+49 40 3002-13202",
+          "Sarah.Rudolph@mobil-krankenkasse.de"
+        ],
+        "display": "Dr. Sarah Rudolph | Mobil Krankenkasse | Hühnerposten 2 | 20097 Hamburg | +49 40 3002-13202 | Sarah.Rudolph@mobil-krankenkasse.de",
+        "name": "Dr. Sarah Rudolph",
+        "email": "Sarah.Rudolph@mobil-krankenkasse.de",
+        "phone": "+49 40 3002-13202",
+        "postal_code": "20097",
+        "city": "Hamburg",
+        "organization": "Mobil Krankenkasse",
+        "street": "Hühnerposten 2"
+      },
+      "projectLeadCity": "Hamburg",
+      "partners": [],
+      "projectWebsites": [
+        "https://mobil-krankenkasse.de/move-it.html"
+      ],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
+      "project_id": 304,
+      "slug": "movebase.304",
+      "title": "MOVEBASE – Multiaxiale Datenintegration zur individuellen, kontinuierlichen Therapieanpassung für neurologische Bewegungsstörungen und tiefe Hirnstimulation",
+      "acronym": "MOVEBASE",
+      "url": "https://innovationsfonds.g-ba.de/projekte/movebase.304",
+      "summary": "Neurologische Bewegungsstörungen erfordern eine hoch individualisierte Therapie, die oft nur spezialisierte Zentren und Fachkliniken anbieten.",
+      "description": "Neurologische Bewegungsstörungen erfordern eine hoch individualisierte Therapie, die oft nur spezialisierte Zentren und Fachkliniken anbieten. Zudem brauchen die Betroffenen eine langjährige und möglichst kontinuierliche ambulante ärztliche Therapiebegleitung, die den langfristigen Verlauf ihrer Erkrankung und deren Alltagsrelevanz berücksichtigt. Die besondere Herausforderung besteht darin, die Therapie der meist lebenslang fortschreitenden Erkrankung kontinuierlich an die individuellen Bedürfnisse der Betroffenen anzupassen.\n\nZiel des Projekts ist es, die Behandlungsqualität von Patienten mit neurologischen Bewegungsstörungen zu verbessern und bedarfsgerechter zu machen. Um die Behandlungsqualität bewerten zu können, erfassen die Forschenden u. a. die Einschätzungen der Betroffenen zu ihrer Lebensqualität, zur Patientenzufriedenheit und zu der empfundenen Krankheitslast (patient-reported outcomes, PRO). Insbesondere Patienten mit dem sog. idiopathischen Parkinsonsyndrom erfordern eine hoch individualisierte Therapie, die über eine große Zeitspanne zahlreiche klinische und medizintechnische Daten berücksichtigen muss. Alle relevanten Daten werden sektorenübergreifend – von der hochspezialisierten Universitätsmedizin über die Fachklinik bis zur ambulanten Therapie – zusammengeführt.\n\nEine an der Charité entwickelte Patientendatenbank wird für das Therapie-Monitoring per Smartphone (PRO und sensorbasierte Messung der Krankheitsentwicklung) erweitert. Kriterien zur automatisierten Erfassung klinischer Verschlechterungen werden in einer Studie entwickelt und überprüft. Der sektorenübergreifende Datenaustausch wird in Kooperation mit einer Parkinson-Fachklinik evaluiert.\n\nDas Projekt wird für 48 Monate mit insgesamt ca. einer Million Euro gefördert.\n\nIm Erfolgsfall entsteht durch die Weiterentwicklung der aktuellen Softwarelösung der Charité eine neue Plattform, die zur Verbesserung von Versorgungsabläufen und zu mehr Patientensicherheit beiträgt. Die Funktionalitäten des Therapie-Monitorings und des Datenaustauschs könnten künftig auch die Regelversorgung anderer chronischer Erkrankungen verbessern.",
+      "status": "beendet",
+      "states": [
+        "Berlin"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Menschen mit chronischen Krankheiten"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1 Mio. Euro",
+      "fundingSumEur": 1000000,
+      "duration": "04/2020 – 03/2024",
+      "startDate": "2020-04",
+      "endDate": "2024-03",
+      "transferRecommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Andrea A. Kühn",
+          "Charité - Universitätsmedizin Berlin",
+          "Klinik für Neurologie, Sektion Bewegungsstörungen und Neuromodulation",
+          "Chariteplatz 1",
+          "10117 Berlin",
+          "+49 30 450 560 123",
+          "andrea.kuehn@charite.de"
+        ],
+        "display": "Prof. Dr. Andrea A. Kühn | Charité - Universitätsmedizin Berlin | Klinik für Neurologie, Sektion Bewegungsstörungen und Neuromodulation | Chariteplatz 1 | 10117 Berlin | +49 30 450 560 123 | andrea.kuehn@charite.de",
+        "name": "Prof. Dr. Andrea A. Kühn",
+        "email": "andrea.kuehn@charite.de",
+        "phone": "+49 30 450 560 123",
+        "postal_code": "10117",
+        "city": "Berlin",
+        "organization": "Charité - Universitätsmedizin Berlin",
+        "department": "Klinik für Neurologie, Sektion Bewegungsstörungen und Neuromodulation",
+        "street": "Chariteplatz 1"
+      },
+      "projectLeadCity": "Berlin",
+      "partners": [],
+      "projectWebsites": [],
+      "decisionDate": "23.05.2025",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 157,91 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/861/2025-05-23_MOVEBASE.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 3,28 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/862/2025-05-23_MOVEBASE_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {
+        "E-Health": [
+          "digitale Informationsplattform / Wissensdatenbank / Therapiemodule"
+        ]
+      }
+    },
+    {
       "project_id": 333,
       "slug": "ms-pov.333",
       "title": "MS-PoV – Multiple Sklerose – Patientenorientierte Versorgung in Niedersachsen",
@@ -4997,6 +7167,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Blut- und Immunsystemerkrankungen",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -5057,6 +7230,161 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 600,
+      "slug": "ms-vita.600",
+      "title": "MS-Vita – Patientenorientierte Hilfsmittelversorgung von Blasen- und Darmfunktionsstörungen von Menschen mit Multipler Sklerose",
+      "acronym": "MS-Vita",
+      "url": "https://innovationsfonds.g-ba.de/projekte/ms-vita.600",
+      "summary": "Die Multiple Sklerose (MS) ist die häufigste chronisch entzündlich-degenerative Erkrankung des Zentralen Nervensystems im jungen Erwachsenenalter.",
+      "description": "Die Multiple Sklerose (MS) ist die häufigste chronisch entzündlich-degenerative Erkrankung des Zentralen Nervensystems im jungen Erwachsenenalter. Jedes Jahr wird MS bei mehr als 15.000 Menschen neu diagnostiziert – allein in Deutschland und in der Regel bei Menschen zwischen dem 20. und 40. Lebensjahr. Die Krankheit kann individuell sehr unterschiedlich verlaufen, doch nimmt die Anzahl der Menschen mit Blasenfunktions- und Darmstörungen (inklusive Urin- und Stuhlinkontinenz) mit der Dauer ihrer Erkrankung zu. Nach 15 Jahren Krankheitsdauer leiden etwa 74 Prozent der Erkrankten an einer Blasenfunktionsstörung und 31 Prozent an einer Störung der Darmfunktion.\n\nFür die Betroffenen ist dies sehr belastend; die Inkontinenz schränkt ihre Mobilität und damit auch ihre Teilhabe am sozialen Leben beträchtlich ein. Zudem ist das Thema gesellschaftlich sehr schambehaftet, was dazu beiträgt, dass diese Symptome oft nicht oder erst sehr spät diagnostiziert und daher nicht adäquat behandelt werden.\n\nDas Forschungsteam im Projekt MS-Vita möchte die Lebensqualität der Betroffenen deutlich verbessern, indem es Wege zu einer frühzeitigen Diagnose mit individuell angepasstem Inkontinenzmanagement und entsprechender Versorgung mit Hilfsmitteln aufzeigt. Zu diesem Zweck wird es die Hilfsmittelversorgung anhand einer Literaturrecherche sowie durch die Befragung von Patientinnen und Patienten sowie deren Angehörigen ermitteln. Zudem werden die Forschenden routinemäßig erhobene Daten der Krankenkassen auswerten und Pflegefachkräfte sowie behandelnde Ärztinnen und Ärzte befragen, um ein umfassendes Bild der Versorgungsituation zu erhalten. Das Projekt wird für drei Jahre mit insgesamt ca. 1,4 Millionen Euro gefördert.\n\nDie im Projekt gewonnenen Erkenntnisse sollen genutzt werden, um die Behandlung von MS-Patientinnen und Patienten zu verbessern und Handlungsempfehlungen für eine bedarfsgerechte Hilfsmittelversorgung bei Harnblasen- und Darmentleerungsstörungen zu formulieren.",
+      "status": "laufend",
+      "states": [
+        "Niedersachsen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Angehörige",
+        "Erwachsene",
+        "Menschen mit chronischen Krankheiten",
+        "Pflegebedürftige"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,4 Mio. Euro",
+      "fundingSumEur": 1400000,
+      "duration": "01/2024 – 12/2026",
+      "startDate": "2024-01",
+      "endDate": "2026-12",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Martina Hasseler",
+          "Ostfalia Hochschule für angewandte Wissenschaften",
+          "Campus Wolfsburg, Fakultät Gesundheitswesen",
+          "Rothenfelder Straße 10",
+          "38440 Wolfsburg",
+          "+49 5361 8922 23170",
+          "m.hasseler@ostfalia.de"
+        ],
+        "display": "Prof. Dr. Martina Hasseler | Ostfalia Hochschule für angewandte Wissenschaften | Campus Wolfsburg, Fakultät Gesundheitswesen | Rothenfelder Straße 10 | 38440 Wolfsburg | +49 5361 8922 23170 | m.hasseler@ostfalia.de",
+        "name": "Prof. Dr. Martina Hasseler",
+        "email": "m.hasseler@ostfalia.de",
+        "phone": "+49 5361 8922 23170",
+        "postal_code": "38440",
+        "city": "Wolfsburg",
+        "organization": "Ostfalia Hochschule für angewandte Wissenschaften",
+        "department": "Campus Wolfsburg, Fakultät Gesundheitswesen",
+        "street": "Rothenfelder Straße 10"
+      },
+      "projectLeadCity": "Wolfsburg",
+      "partners": [
+        "Carl von Ossietzky Universität Oldenburg",
+        "Deutsche Multiple Sklerose Gesellschaft Bundesverband e. V.",
+        "Deutsche Multiple Sklerose Gesellschaft Landesverband Niedersachsen e. V",
+        "Medizinische Hochschule Hannover",
+        "MS Forschungs- und Projektentwicklungs-gGmbH"
+      ],
+      "projectWebsites": [
+        "https://www.msregister.de/forschung/ms-vita/"
+      ],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
+      "project_id": 438,
+      "slug": "msnetwork.438",
+      "title": "MSnetWork – Netzwerk zur Stärkung der Teilhabe von chronisch Kranken am Beispiel von MS",
+      "acronym": "MSnetWork",
+      "url": "https://innovationsfonds.g-ba.de/projekte/msnetwork.438",
+      "summary": "Multiple Sklerose (MS) ist eine der häufigsten entzündlichen Erkrankungen des zentralen Nervensystems und wird insbesondere bei Menschen jüngeren Alters zwischen 20 und 40 Jahren diagnostiziert.",
+      "description": "Multiple Sklerose (MS) ist eine der häufigsten entzündlichen Erkrankungen des zentralen Nervensystems und wird insbesondere bei Menschen jüngeren Alters zwischen 20 und 40 Jahren diagnostiziert. Die Krankheit bedeutet für viele Betroffene den Verlust der Arbeitsfähigkeit. Aktuell sind 50 Prozent der Erkrankten im erwerbsfähigen Alter vorzeitig berentet und nur ein Drittel der Erwerbstätigen arbeiten in Vollzeit. Somit steht MS prototypisch für chronische Erkrankungen, die die Arbeitsfähigkeit und die Teilhabe am Arbeitsleben gefährden oder mindern.\n\nDurch ein integriertes Netzwerk unterschiedlicher Leistungsträger verfolgt das Projekt MSnetWork einen sozialleistungsträgerübergreifenden Ansatz zur Verbesserung der Versorgung von MS-Patientinnen und -Patienten. MSnetWork bündelt Versorgungsangebote und sorgt so für einen koordinierten Abruf von Leistungen, um Betroffenen die jeweils erforderliche Behandlung zukommen zu lassen. Durch Aufklärung und der gezielten Inanspruchnahme von Versorgungsleistungen sollen Überforderung und Hilflosigkeit überwunden sowie ein positiver Einfluss auf den Krankheitsverlauf genommen werden.\n\nIn einer randomisierten, kontrollierten Studie wird die Anzahl der Arbeitsunfähigkeitstage über zwölf Monate hinweg statistisch untersucht. Ergänzend messen die Forschenden die Wirkung der Intervention u. a. mit Blick auf die durch Arbeitsunfähigkeit entstehenden Kosten, Behandlungskosten, Wirksamkeit und Umsetzungspotenzial in die Regelversorgung. Das Projekt wird für vier Jahre mit insgesamt ca. 4,1 Millionen Euro gefördert.\n\nDas Projekt zielt auf die Verbesserung der Gesundheit und Verhinderung/Reduzierung der Arbeitsunfähigkeit von chronisch Erkrankten. Im Erfolgsfall werden Arbeitsunfähigkeits- sowie Krankengeldbezugszeiten reduziert und es wird chronisch Erkrankten eine Teilhabe im Sinne einer selbstbestimmten Lebensführung ermöglicht.",
+      "status": "Abschlussbericht wird erstellt",
+      "states": [
+        "Baden-Württemberg",
+        "Bayern",
+        "Berlin",
+        "Brandenburg",
+        "Hessen",
+        "Mecklenburg-Vorpommern",
+        "Nordrhein-Westfalen",
+        "Schleswig-Holstein"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Erwachsene"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 4,1 Mio. Euro",
+      "fundingSumEur": 4100000,
+      "duration": "07/2021 – 06/2025",
+      "startDate": "2021-07",
+      "endDate": "2025-06",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Bernhard Michatz",
+          "Berufsverband Deutscher Neurologen e. V.",
+          "Wulffstraße 8",
+          "12165 Berlin",
+          "+49 30 9487 8310",
+          "b.michatz@berufsverband-neurologen.de"
+        ],
+        "display": "Bernhard Michatz | Berufsverband Deutscher Neurologen e. V. | Wulffstraße 8 | 12165 Berlin | +49 30 9487 8310 | b.michatz@berufsverband-neurologen.de",
+        "name": "Bernhard Michatz",
+        "email": "b.michatz@berufsverband-neurologen.de",
+        "phone": "+49 30 9487 8310",
+        "postal_code": "12165",
+        "city": "Berlin",
+        "organization": "Berufsverband Deutscher Neurologen e. V.",
+        "street": "Wulffstraße 8"
+      },
+      "projectLeadCity": "Berlin",
+      "partners": [
+        "GWQ ServicePlus AG Gesellschaft für Wirtschaftlichkeit und Qualität bei Krankenkassen",
+        "Verband Deutscher Betriebs- und Werkärzte Berlin e. V. - Berufsverband Deutscher Arbeitsmediziner",
+        "Universitätsmedizin Greifswald",
+        "Universität Greifswald"
+      ],
+      "projectWebsites": [
+        "https://www.msnetwork.info/"
+      ],
+      "decisionDate": null,
+      "documents": [
+        {
+          "title": "01NVF20025 MSnetWork Flyer Patienten",
+          "meta": "(PDF 569,44 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/145/01NVF20025%20MSnetWork_Flyer%20Patienten.pdf"
+        },
+        {
+          "title": "01NVF20025 MSnetWork Flyer Praxen",
+          "meta": "(PDF 4,96 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/146/01NVF20025%20MSnetWork_Flyer_Praxen.pdf"
+        },
+        {
+          "title": "01NVF20025 MSnetWork Grafik Netzwerk",
+          "meta": "(PDF 122,15 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/147/01NVF20025%20MSnetWork_Grafik%20Netzwerk.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 102,
       "slug": "muk.102",
       "title": "MUK – Erweiterung des Selektivvertrages zu Maßnahmen der Unterstützten Kommunikation",
@@ -5066,12 +7394,16 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "Menschen, die aufgrund angeborener oder erworbener Behinderungen nicht bzw. nicht mehr sprechen können, sind in ihrer Kommunikationsfähigkeit umfassend gestört. Ihre Lebensqualität, soziale Teilhabe und Selbstbestimmung sind in erheblichem Maße beeinträchtigt. Durch den Einsatz des kommunikationstherapeutischen Konzepts der „Unterstützten Kommunikation“ können diese Menschen ihre Verständigung und Lebensqualität erheblich verbessern. Jedoch erschweren ungeklärte Zuständigkeiten, fehlende rechtsverbindliche Regelungen und Versorgungsstandards sowie unzureichende Qualifikationen der beteiligten Berufsgruppen derzeit die effektive Umsetzung. Auch liegen deutliche regionale Unterschiede in der Versorgung vor.\n\nZiel des Projekts ist es daher, die personalisierte Versorgung zu verbessern und die Lücken in der Versorgungskette zur „Unterstützten Kommunikation“ zu schließen. Hierzu wird ein bereits bestehender Selektivvertrag um ein personalisiertes und organisiertes Fallmanagement, Patiententraining sowie einen individualisierten Therapieplan erweitert und umgesetzt. Der bereits bestehende Selektivvertrag beinhaltet eine qualitätsgesicherte, firmenunabhängige Diagnostik und Beratung sowie eine Empfehlung für eine anschließende Hilfsmittelversorgung.\n\nIn einer Studie wird die Wirksamkeit des erweiterten Selektivvertrags im Vergleich zur Versorgung auf Basis des bestehenden Selektivvertrags sowie im Vergleich zur ungeregelten Versorgung untersucht. Dazu werden die Zufriedenheit, die Kommunikationsfähigkeit, die Entwicklungsförderung und die Lebensqualität der Betroffenen analysiert. Des Weiteren werden Patienten und Patientinnen, deren Angehörige und Professionelle (Ärzte, Therapeuten, Berater) zu ihren Erfahrungen in Bezug auf die neue Versorgungsform befragt. Das Projekt wird für 45 Monate mit insgesamt ca. 2,17 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die neue Versorgungsform bundesweit umgesetzt werden und eine einheitliche Versorgungsqualität sowie Versorgungsstruktur ermöglichen.",
       "status": "beendet",
       "states": [
-        "Ohne Zuordnung"
+        "Hamburg",
+        "Nordrhein-Westfalen"
       ],
       "thematicFocuses": [
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Kinder und Jugendliche",
         "Menschen mit Behinderung",
@@ -5165,6 +7497,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Transplantation",
         "Organspende und Amputation"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Menschen mit chronischen Krankheiten",
@@ -5249,6 +7584,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Schwangerschaft",
         "Geburt und Wochenbett"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Früh- und Neugeborene",
@@ -5301,6 +7639,151 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 356,
+      "slug": "netkoh.356",
+      "title": "NeTKoH – Neurologisches TeleKonsil mit Hausärzten zur Stärkung der fachärztlichen Versorgung in Vorpommern",
+      "acronym": "NeTKoH",
+      "url": "https://innovationsfonds.g-ba.de/projekte/netkoh.356",
+      "summary": "Die Region Vorpommern zählt zu den strukturschwachen Gebieten in Deutschland und weist einen hohen Bevölkerungsanteil älterer Menschen auf.",
+      "description": "Die Region Vorpommern zählt zu den strukturschwachen Gebieten in Deutschland und weist einen hohen Bevölkerungsanteil älterer Menschen auf. Etwa zehn Prozent der Bevölkerung leiden an neurologischen Erkrankungen, womit ein hoher Bedarf an einer adäquaten Versorgung einhergeht. In den ländlichen Gebieten stehen jedoch nur sehr wenige Fachärzte zur Verfügung.\n\nNeTKoH wird eine telemedizinische Vernetzung zwischen der Universitätsmedizin Greifswald und rund 40 hausärztlichen Praxen etablieren. Die Hausärzte können während der Sprechstunde direkt auf ein fachärztliches Konsil zurückgreifen und Empfehlungen zur neurologischen Weiterbehandlung nach einem festgelegten und regional abgestimmten Standard erhalten. So kann eine schnellere und wohnortnahe Versorgung in der vertrauten Hausarztpraxis erfolgen.\n\nEs wird eine prospektive Interventionsstudie in einem „Stepped-Wedge Cluster Design“ durchgeführt. Die Intervention erfolgt zu versetzten Zeitpunkten in allen beteiligten Hausarztpraxen, wobei die Daten vor Beginn der Intervention als Kontrolle dienen und mit den beim telemedizinischen Konsil gewonnenen Daten verglichen werden. Die jeweiligen Startzeitpunkte für die Praxen werden randomisiert vergeben. Die Studie schließt etwa 1.000 Patientinnen und Patienten über 18 Jahre ein, die bei der AOK Nordost versichert sind und für die ein neurologisches Konsil als notwendig erachtet wird. Verglichen werden unter anderem die Zeit, die bis zur Einleitung einer spezifischen Diagnostik vergeht sowie Anzahl und Länge nachfolgender Krankenhausaufenthalte. Das Projekt wird für 55 Monate mit ca. 5,2 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die neue Versorgungsform dazu beitragen, nicht notwendige Untersuchungen zu vermeiden und die Diagnosestellung – und damit den Beginn einer zielführenden Therapie – für Menschen mit neurologischen Beschwerden zu beschleunigen. Eine somit verbesserte Steuerung im Sinne standardisierter Behandlungspfade könnte auf andere ländliche und strukturschwache Regionen übertragen und weitere Erkrankungen ausgeweitet werden.",
+      "status": "Abschlussbericht wird erstellt",
+      "states": [
+        "Mecklenburg-Vorpommern"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Erwachsene",
+        "ländliche Bevölkerung"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 5,2 Mio. Euro",
+      "fundingSumEur": 5200000,
+      "duration": "01/2021 – 07/2025",
+      "startDate": "2021-01",
+      "endDate": "2025-07",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "PD Dr. Felix von Podewils",
+          "Universitätsmedizin Greifswald",
+          "Klinik und Poliklinik für Neurologie",
+          "Sauerbruchstraße 1",
+          "17489 Greifswald",
+          "+49 3834 866815",
+          "felix.vonpodewils@med.uni-greifswald.de"
+        ],
+        "display": "PD Dr. Felix von Podewils | Universitätsmedizin Greifswald | Klinik und Poliklinik für Neurologie | Sauerbruchstraße 1 | 17489 Greifswald | +49 3834 866815 | felix.vonpodewils@med.uni-greifswald.de",
+        "name": "PD Dr. Felix von Podewils",
+        "email": "felix.vonpodewils@med.uni-greifswald.de",
+        "phone": "+49 3834 866815",
+        "postal_code": "17489",
+        "city": "Greifswald",
+        "organization": "Universitätsmedizin Greifswald",
+        "department": "Klinik und Poliklinik für Neurologie",
+        "street": "Sauerbruchstraße 1"
+      },
+      "projectLeadCity": "Greifswald",
+      "partners": [
+        "AOK Nordost – Die Gesundheitskasse",
+        "Charité – Universitätsmedizin Berlin",
+        "MEYTEC GmbH Informationssysteme",
+        "Universitätsmedizin Greifswald"
+      ],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
+      "project_id": 229,
+      "slug": "neuromoves.229",
+      "title": "NeuroMoves – Teilhabebezogene Zielerreichung durch Heil- und Hilfsmittel bei Patienten mit mobilitätseinschränkenden Lähmungssyndromen",
+      "acronym": "NeuroMoves",
+      "url": "https://innovationsfonds.g-ba.de/projekte/neuromoves.229",
+      "summary": "Ein zentrales Ziel der Rehabilitation ist die Wiederherstellung der selbständigen Mobilität als Fußgänger oder Rollstuhlfahrer.",
+      "description": "Ein zentrales Ziel der Rehabilitation ist die Wiederherstellung der selbständigen Mobilität als Fußgänger oder Rollstuhlfahrer. Allerdings nimmt die Mobilität bei Patienten mit Lähmungssyndromen nach Schlaganfall oder Querschnittlähmung nach stationärer medizinischer Rehabilitation trotz Heil- und Hilfsmittelerbringung kontinuierlich ab. Das Ziel der Studie ist die Identifikation von Faktoren der bestehenden ambulanten Versorgungsstruktur (Physiotherapie, Ergotherapie, Sanitätshaus, Hausarzt, Facharzt), welche zu einer Abnahme der Mobilität führen.\n\nPatienten mit neu aufgetretenen mobilitätseinschränkenden Lähmungssyndromen werden am Ende der stationär-rehabilitativen Behandlung rekrutiert und bis zu einem Jahr im ambulanten Umfeld nachbeobachtet. Die Gehfähigkeit und Rollstuhlmobilität werden mittels Activity Tracking sowie anhand funktioneller Scores systematisch erfasst. Das Mobilitätsniveau wird mit der teilhabebezogenen Zielerreichung, der Art und dem Umfang der Heil- und Hilfsmittelversorgung und der Analyse des Ausmaßes der Zusammenarbeit ambulanter Leistungserbringer korreliert. Das Projekt wird für 48 Monate mit insgesamt ca. 1,6 Millionen Euro gefördert.\n\nDie Studienerkenntnisse sollen zu einer neuen Versorgungsform führen, in der patientenzielorientiert, bedarfsgerecht und koordiniert ambulante Hilfs- und Heilmittel erbracht werden, welche zu einer Stabilisierung bzw. Steigerung der Mobilität bei Patienten mit Schlaganfall und Querschnittlähmung mit mobilitätseinschränkenden Lähmungssyndromen im häuslichen Umfeld führen.",
+      "status": "beendet",
+      "states": [
+        "Baden-Württemberg"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Erwachsene",
+        "Menschen mit Behinderung"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,6 Mio. Euro",
+      "fundingSumEur": 1600000,
+      "duration": "05/2019 – 04/2023",
+      "startDate": "2019-05",
+      "endDate": "2023-04",
+      "transferRecommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
+      "projectLead": {
+        "raw_lines": [
+          "Herr Prof. Dr. Norbert Weidner",
+          "Universitätsklinikum Heidelberg",
+          "Klinik für Paraplegiologie",
+          "Schlierbacher Landstraße 200a",
+          "69118 Heidelberg",
+          "+49 6221 562-6322",
+          "norbert.weidner@med.uniheidelberg.de"
+        ],
+        "display": "Herr Prof. Dr. Norbert Weidner | Universitätsklinikum Heidelberg | Klinik für Paraplegiologie | Schlierbacher Landstraße 200a | 69118 Heidelberg | +49 6221 562-6322 | norbert.weidner@med.uniheidelberg.de",
+        "name": "Herr Prof. Dr. Norbert Weidner",
+        "email": "norbert.weidner@med.uniheidelberg.de",
+        "phone": "+49 6221 562-6322",
+        "postal_code": "69118",
+        "city": "Heidelberg",
+        "organization": "Universitätsklinikum Heidelberg",
+        "department": "Klinik für Paraplegiologie",
+        "street": "Schlierbacher Landstraße 200a"
+      },
+      "projectLeadCity": "Heidelberg",
+      "partners": [
+        "August-Bier-Klinik Bad Malente",
+        "BG Klinikum Hamburg",
+        "Berufsförderwerk Bad Wildbad gGmbH",
+        "Klinikum Bad Bramstedt GmbH",
+        "Kliniken Schmieder Heidelberg GmbH",
+        "Sankt Rochus Kliniken",
+        "Segeberger Kliniken GmbH"
+      ],
+      "projectWebsites": [
+        "https://www.klinikum.uni-heidelberg.de/zentrum-fuer-orthopaedie-unfallchirurgie-und-paraplegiologie/klinik-fuer-paraplegiologie-querschnittzentrum/forschung/klinische-studien/neuromoves"
+      ],
+      "decisionDate": "16.08.2024",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 140,04 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/648/2024-08-16_NeuroMoves.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 9,78 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/649/2024-08-16_NeuroMoves_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 573,
       "slug": "nopics-kids.573",
       "title": "NoPICS-Kids – Kinderintensivmedizin neu gedacht – Vermeidung von Post Intensive Care Syndrom bei kritisch kranken Kindern und deren Familien",
@@ -5317,6 +7800,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Angehörige",
         "Früh- und Neugeborene",
@@ -5385,6 +7871,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Leistungserbringer",
@@ -5446,6 +7935,78 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 616,
+      "slug": "nutsen.616",
+      "title": "NUTSEN – Neue Therapien bei Seltenen Erkrankungen am Beispiel der NMOSD",
+      "acronym": "NUTSEN",
+      "url": "https://innovationsfonds.g-ba.de/projekte/nutsen.616",
+      "summary": "In Deutschland leiden rund vier Millionen Menschen an einer Seltenen Erkrankung.",
+      "description": "In Deutschland leiden rund vier Millionen Menschen an einer Seltenen Erkrankung. Die Neuromyelitis-optica-Spektrum-Erkrankung (NMOSD) gehört mit 2.000 bis 3.000 Betroffenen dazu; dabei kommt es zu autoimmun ausgelösten Entzündungen des zentralen Nervensystems und nachfolgend zu Schäden insbesondere an Sehnerv oder Rückenmark. Wie viele Seltene Erkrankungen wurde auch NMOSD lange Zeit mit verschiedenen Medikamenten behandelt, die nicht ausdrücklich für diese Erkrankung zugelassen waren (Off-Label-Use, OLU). Seit 2020 gibt es einige für die Behandlung von NMOSD zugelassene Medikamente.\n\nIm Projekt NUTSEN untersucht das Forschungsteam, ob diese neuen Medikamente im Vergleich zum OLU die medizinische Versorgungssituation verändert haben. Außerdem prüfen die Forschenden, wie sich die Verwendung der neuen Medikamente gesundheitsökonomisch auswirkt und verwerten dazu Daten des Wissenschaftlichen Instituts der Allgemeinen Ortskrankenkasse (AOK) zu Versicherten mit NMOSD. Diese enthalten beispielsweise Angaben zu Kosten, Inanspruchnahme stationärer und ambulanter Leistungen, Medikamenten, weiteren Erkrankungen, Heilmitteln sowie zur Arbeitsunfähigkeit. Zudem nutzen die Forschenden das Register der Neuromyelitis optica Studiengruppe (NEMOS) mit klinischen Daten von 750 Betroffenen. Das NEMOS-Register enthält Daten über die Versorgung und die Kosten bei NMOSD im zeitlichen Verlauf von 2015 bis 2025 und in Abhängigkeit von der Therapieform. Mittels des Propensity Score Matching, einem Analyseverfahren zur Abschätzung von Kausalzusammenhängen, vergleichen sie den Nutzen der neuen Medikamente gegenüber OLU. Durch Befragungen von Betroffenen und deren Bezugspersonen werden Therapiezufriedenheit, -last und ungedeckte Bedarfe erfasst. Des Weiteren befragt das NUTSEN-Team die behandelnden Ärztinnen und Ärzte nach ihren Gründen für Therapieentscheidungen für On- oder Off-Label-Use. Das Projekt wird für vier Jahre mit insgesamt ca. 1,5 Millionen Euro gefördert.\n\nIm Erfolgsfall ermöglichen die Ergebnisse des Projekts nicht nur NMOSD-Erkrankte gezielter zu therapieren, sondern dienen auch als Modell für Untersuchungen von weiteren Seltenen Erkrankungen, bei denen ein Wechsel von OLU zu krankheitsspezifisch zugelassenen Medikamenten bevorsteht.",
+      "status": "laufend",
+      "states": [
+        "Bayern"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Angehörige",
+        "Erwachsene",
+        "Leistungserbringer",
+        "Menschen mit chronischen Krankheiten",
+        "Menschen mit seltenen Krankheiten"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,5 Mio. Euro",
+      "fundingSumEur": 1500000,
+      "duration": "01/2024 – 12/2027",
+      "startDate": "2024-01",
+      "endDate": "2027-12",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Achim Berthele",
+          "Klinikum rechts der Isar der Technischen Universität München",
+          "Klinik und Poliklinik für Neurologie",
+          "Ismaninger Straße 22",
+          "81675 München",
+          "+49 89 4140 4673",
+          "Achim.berthele@tum.de"
+        ],
+        "display": "Prof. Dr. Achim Berthele | Klinikum rechts der Isar der Technischen Universität München | Klinik und Poliklinik für Neurologie | Ismaninger Straße 22 | 81675 München | +49 89 4140 4673 | Achim.berthele@tum.de",
+        "name": "Prof. Dr. Achim Berthele",
+        "email": "Achim.berthele@tum.de",
+        "phone": "+49 89 4140 4673",
+        "postal_code": "81675",
+        "city": "München",
+        "organization": "Klinikum rechts der Isar der Technischen Universität München",
+        "department": "Klinik und Poliklinik für Neurologie",
+        "street": "Ismaninger Straße 22"
+      },
+      "projectLeadCity": "München",
+      "partners": [
+        "Charité – Universitätsmedizin Berlin",
+        "Heinrich-Heine-Universität Düsseldorf",
+        "Medizinische Hochschule Hannover",
+        "Technische Universität Dresden"
+      ],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {
+        "Einsatz von Arzneimitteln": [
+          "Medikationsmanagement",
+          "Off-Label-Use"
+        ]
+      }
+    },
+    {
       "project_id": 346,
       "slug": "op-us-opioidhaltige-analgetika.346",
       "title": "Op-US Opioidhaltige Analgetika – Untersuchung zu Entwicklungstrends in der Versorgung bei nicht-tumorbedingten Schmerzen",
@@ -5462,6 +8023,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -5527,6 +8091,9 @@ window.GBA_NEUROLOGY_DATA = {
         "onkologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -5609,6 +8176,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Atemwegserkrankungen und Beatmung",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "multimorbide Menschen",
@@ -5669,6 +8239,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Notfälle",
         "Verletzung und Vergiftungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Leistungserbringer"
@@ -5750,7 +8323,12 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "ältere Menschen"
+      ],
       "careSetting": "stationär",
       "fundingCategory": "Versorgungsforschung",
       "fundingArea": "Versorgungsforschung",
@@ -5806,6 +8384,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Atemwegserkrankungen und Beatmung",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -5878,14 +8459,35 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "Etwa 27 Prozent der Bevölkerung leiden unter chronischen Schmerzen. Oft sind die Betroffenen auch körperlich und psychisch beeinträchtigt, was ihre Lebensqualität stark einschränkt. Die Therapie chronischer Schmerzen ist zurzeit häufig von einer Über-, Unter- oder Fehlversorgung geprägt. Um chronische Schmerzen zu vermeiden, müssen die an der Diagnostik und an der Therapie beteiligten Berufsgruppen (Fachärzte, Physiotherapeuten und Psychotherapeuten) künftig stärker und rechtzeitig zusammenarbeiten. Zudem sind die Betroffenen im Umgang mit ihrer Erkrankung besser zu schulen und in die Therapieentscheidungen einzubeziehen.\n\nDas Projekt untersucht, ob eine neue Versorgungsform die Versorgungsqualität und -effizienz von Menschen mit Risikofaktoren für chronische Schmerzen verbessern kann. Ein Element dieser neuen Versorgungsform ist die umfassende Untersuchung der Betroffenen in Form eines interdisziplinären multimodalen Assessments durch ein Team aus ärztlichen, psychologischen und physiotherapeutischen Disziplinen. Sie sollen Diagnosen gemeinsam stellen und Therapien gemeinsam empfehlen. Zudem bietet die neue Versorgungsform – ergänzend zur Regelversorgung – zwei ambulante Therapien an: (1) Eine begleitende, interdisziplinäre und multimodale Schmerz-Behandlung in Form von Gruppentherapien und (2) eine Gruppenschulung mit Informationen zur Erkrankung und zu Methoden der Schmerzbewältigung. Die Behandlungsverläufe und -ergebnisse der neuen Versorgungsform werden mit denen der Regelversorgung verglichen. Das Projekt wird für 48 Monate mit insgesamt ca. 7 Millionen Euro gefördert.\n\nIm Erfolgsfall entsteht das Modell einer ressourcenorientierten und interdisziplinären Diagnostik sowie eine patientenorientierte und bedarfsgerechte Therapie für Menschen mit Risikofaktoren für eine chronische Schmerzentwicklung generell.",
       "status": "beendet",
       "states": [
-        "Ohne Zuordnung"
+        "Baden-Württemberg",
+        "Bayern",
+        "Berlin",
+        "Brandenburg",
+        "Bremen",
+        "bundesweit",
+        "Hamburg",
+        "Hessen",
+        "Mecklenburg-Vorpommern",
+        "Niedersachsen",
+        "Nordrhein-Westfalen",
+        "Rheinland-Pfalz",
+        "Saarland",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Schleswig-Holstein",
+        "Thüringen"
       ],
       "thematicFocuses": [
         "Erkrankungen des Muskel-Skelett-Systems",
         "neurologische Erkrankungen",
         "Sonstige"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Erwachsene"
+      ],
       "careSetting": "sektorenübergreifend",
       "fundingCategory": "Neue Versorgungsformen",
       "fundingArea": "Neue Versorgungsformen",
@@ -5962,7 +8564,12 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Erwachsene"
+      ],
       "careSetting": "ambulant",
       "fundingCategory": "Neue Versorgungsformen",
       "fundingArea": "Neue Versorgungsformen",
@@ -6042,7 +8649,12 @@ window.GBA_NEUROLOGY_DATA = {
         "Impfungen und Infektionskrankheiten",
         "neurologische Erkrankungen"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Erwachsene"
+      ],
       "careSetting": "ambulant",
       "fundingCategory": "Versorgungsforschung",
       "fundingArea": "Versorgungsforschung",
@@ -6099,6 +8711,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "onkologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -6176,6 +8791,9 @@ window.GBA_NEUROLOGY_DATA = {
         "onkologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Menschen in palliativmedizinischer Behandlung",
@@ -6255,7 +8873,12 @@ window.GBA_NEUROLOGY_DATA = {
         "Geburt und Wochenbett",
         "Sonstige"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Erwachsene"
+      ],
       "careSetting": "sektorenübergreifend",
       "fundingCategory": "Versorgungsforschung",
       "fundingArea": "Versorgungsforschung",
@@ -6303,6 +8926,161 @@ window.GBA_NEUROLOGY_DATA = {
       }
     },
     {
+      "project_id": 351,
+      "slug": "parkinson-aktiv.351",
+      "title": "Parkinson AKTIV – Parkinson: Aktivierende Therapien im innovativen Versorgungsnetz",
+      "acronym": "Parkinson AKTIV",
+      "url": "https://innovationsfonds.g-ba.de/projekte/parkinson-aktiv.351",
+      "summary": "Mehr als 300.000 Menschen leiden an Parkinson, der in Deutschland häufigsten neurodegenerativen Bewegungsstörung.",
+      "description": "Mehr als 300.000 Menschen leiden an Parkinson, der in Deutschland häufigsten neurodegenerativen Bewegungsstörung. Aufgrund absterbender Nervenzellen in einem bestimmten Hirnareal werden zunächst die Bewegungen der Betroffenen langsamer und steifer. Typisch sind auch ein Zittern der Arme und Beine. Zudem können Gang-, Sprech- und Schluckstörungen hinzukommen. Weitere Symptome können Blasenstörungen oder kognitive Beeinträchtigungen bis hin zur Demenz sein. Parkinson ist nicht heilbar, kann allerdings mithilfe von Medikamenten und einer aktivierenden Therapie, bestehend aus Physio-, Ergo- und/oder Logopädie positiv beeinflusst werden. Bislang erhält jedoch lediglich ein Drittel aller Parkinsonpatienten eine spezifische aktivierende Therapie.\n\nIn diesem Projekt soll eine webbasierte Kommunikationsplattform zum optimierten Austausch zwischen den beteiligten Leistungserbringern aufgebaut werden, um eine individuell abgestimmte Behandlung unter Berücksichtigung einer aktivierenden Therapie zu ermöglichen. Mithilfe von Quickcards soll der Austausch der verschiedenen Berufsgruppen verbessert werden. Die Quickcards enthalten patientenrelevante Informationen sowie leitliniengerechte Therapieempfehlungen und werden allen Behandlern und Behandlerinnen zugänglich gemacht. Diese Kommunikationsplattform wird mit dem bereits bestehenden, multidisziplinären Parkinsonnetz Münsterland+ verknüpft, in dem bereits eine Vielzahl von Experten und Expertinnen vernetzt sind.\n\nIn der Studie wird die Lebensqualität von Parkinsonpatienten und -patientinnen, die mithilfe der webbasierten Kommunikationsplattform und unter verstärktem Einsatz aktivierender Therapien behandelt wurden mit einer Kontrollgruppe, die in der Regelversorgung verbleibt, verglichen. Das Projekt wird für 48 Monate mit ca. 2,6 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die Vernetzung aller beteiligten Leistungserbringer mithilfe der webbasierten Kommunikationsplattform auch in anderen Regionen umgesetzt werden. Die Quickcards könnten unabhängig von einer spezifischen Infrastruktur als wichtiges Element der neuen Versorgungsform etabliert werden.\n\nProjekteinblick vom 22.11.2023",
+      "status": "Abschlussbericht wird erstellt",
+      "states": [
+        "Nordrhein-Westfalen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Erwachsene",
+        "ländliche Bevölkerung",
+        "Leistungserbringer",
+        "Menschen mit chronischen Krankheiten"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 2,6 Mio. Euro",
+      "fundingSumEur": 2600000,
+      "duration": "10/2020 – 09/2024",
+      "startDate": "2020-10",
+      "endDate": "2024-09",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Tobias Warnecke",
+          "Klinik für Neurologie",
+          "Universität Münster",
+          "Albert-Schweitzer-Campus 1",
+          "48129 Münster",
+          "+49 251 83 44463",
+          "pnmplus@ukmuenster.de"
+        ],
+        "display": "Prof. Dr. Tobias Warnecke | Klinik für Neurologie | Universität Münster | Albert-Schweitzer-Campus 1 | 48129 Münster | +49 251 83 44463 | pnmplus@ukmuenster.de",
+        "name": "Prof. Dr. Tobias Warnecke",
+        "email": "pnmplus@ukmuenster.de",
+        "phone": "+49 251 83 44463",
+        "postal_code": "48129",
+        "city": "Münster",
+        "organization": "Klinik für Neurologie",
+        "department": "Universität Münster",
+        "street": "Albert-Schweitzer-Campus 1"
+      },
+      "projectLeadCity": "Münster",
+      "partners": [
+        "AOK NORDWEST − Die Gesundheitskasse",
+        "ECONUM Unternehmensberatung GmbH",
+        "inav – Privates Institut für angewandte Versorgungsforschung GmbH",
+        "Nuromedia GmbH"
+      ],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [
+        {
+          "title": "01NVF19002 Parkinson AKTIV Flyer",
+          "meta": "(PDF 340,08 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/106/01NVF19002%20Parkinson%20AKTIV_Flyer.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
+      "project_id": 432,
+      "slug": "parkproreakt.432",
+      "title": "ParkProReakt – Proaktive statt reaktive Symptomerkennung bei Parkinson-Patientinnen und Patienten",
+      "acronym": "ParkProReakt",
+      "url": "https://innovationsfonds.g-ba.de/projekte/parkproreakt.432",
+      "summary": "In Deutschland leiden derzeit rund 400.000 Menschen an einer Parkinson-Erkrankung.",
+      "description": "In Deutschland leiden derzeit rund 400.000 Menschen an einer Parkinson-Erkrankung. Expertinnen und Experten gehen davon aus, dass die Zahl der Parkinson-Patientinnen und -Patienten angesichts des demographischen Wandels und einer immer älter werdenden Bevölkerung weiter steigen wird. Parkinson ist eine komplexe Erkrankung mit individuell unterschiedlichen Symptomen. Häufig sind Patientinnen und Patienten jedoch von einer verminderten Lebensqualität betroffen und pflegende Angehörige stark belastet.\n\nDie Behandlung von Parkinson-Patientinnen und -Patienten ist komplex, doch findet eine Betreuung oft nur einmal pro Quartal statt, manchmal sogar noch seltener, da der Weg zum Arzt für viele Patientinnen und Patienten eine Herausforderung ist. Digitale Lösungen können hier eine integriertere Versorgung ermöglichen. Im Rahmen des Projekts wird eine digitale Plattform etabliert, um die Versorgung von Patientinnen und Patienten und deren Angehörigen zu verbessern, indem der Informationsaustausch zwischen Patientinnen und Patienten und behandelndem Team gestärkt, die Selbsthilfe unterstützt und ein Langzeit-Monitoring ermöglicht wird. Zusätzlich werden sogenannte Wearables eingesetzt, um Daten zu sammeln, den Krankheitsverlauf zu protokollieren und die Behandlung individuell anzupassen. Ein wesentliches Ziel ist es, frühzeitig und proaktiv Symptomänderungen im Krankheitsverlauf zu erkennen, den Patientinnen und Patienten Handlungsstrategien an die Hand zu geben und somit den Krankheitsverlauf günstig zu beeinflussen.\n\nDas Projekt analysiert, ob die Plattform dazu beitragen kann, die Lebensqualität Parkinson-Erkrankter zu erhöhen, und ob sich u. a. die Inanspruchnahme gesundheitlicher Leistungen, die Zahl von Krankenhausaufenthalten sowie ein Eintritt der Pflegebedürftigkeit verändert. Dazu vergleichen die Forschenden Patientinnen und Patienten in der Intervention mit Patientinnen und Patienten aus der Regelversorgung, untersuchen die Belastung der Angehörigen und die Akzeptanz der digitalen Plattform. Das Projekt wird für vier Jahre mit insgesamt ca. 3,8 Millionen Euro gefördert.\n\nIm Erfolgsfall dienen die Erkenntnisse des Projekts dazu, die Versorgung von Parkinson-Patientinnen und -Patienten in Deutschland zu verbessern. Langfristig können die Ergebnisse der digital unterstützten Behandlung anderer chronischer Erkrankungen den Weg ebnen.",
+      "status": "Abschlussbericht wird erstellt",
+      "states": [
+        "Hamburg",
+        "Hessen",
+        "Schleswig-Holstein"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Menschen mit chronischen Krankheiten"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 3,8 Mio. Euro",
+      "fundingSumEur": 3800000,
+      "duration": "01/2022 – 12/2025",
+      "startDate": "2022-01",
+      "endDate": "2025-12",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Dr. David Pedrosa",
+          "Philipps-Universität Marburg",
+          "Universitätsklinikum Gießen und Marburg GmbH, Klinik für Neurologie",
+          "Baldingerstraße",
+          "35043 Marburg",
+          "+49 64 215865 299",
+          "david.pedrosa@staff.uni-marburg.de"
+        ],
+        "display": "Dr. David Pedrosa | Philipps-Universität Marburg | Universitätsklinikum Gießen und Marburg GmbH, Klinik für Neurologie | Baldingerstraße | 35043 Marburg | +49 64 215865 299 | david.pedrosa@staff.uni-marburg.de",
+        "name": "Dr. David Pedrosa",
+        "email": "david.pedrosa@staff.uni-marburg.de",
+        "phone": "+49 64 215865 299",
+        "postal_code": "35043",
+        "city": "Marburg",
+        "organization": "Philipps-Universität Marburg",
+        "department": "Universitätsklinikum Gießen und Marburg GmbH, Klinik für Neurologie | Baldingerstraße"
+      },
+      "projectLeadCity": "Marburg",
+      "partners": [
+        "Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V.",
+        "MVB Telemed GmbH",
+        "Justus-Liebig-Universität Gießen",
+        "Philipps-Universität Marburg",
+        "Praxis für Neurologie und Psychiatrie Hamburg Walddörfer",
+        "Techniker Krankenkasse",
+        "Technische Hochschule Mittelhessen",
+        "Universität zu Köln",
+        "Universität zu Lübeck"
+      ],
+      "projectWebsites": [
+        "https://parkpro.parkinson-marburg.de/"
+      ],
+      "decisionDate": null,
+      "documents": [
+        {
+          "title": "01NVF20019 ParkProReakt Ablauf Ersttermin Stand Mai 2024",
+          "meta": "(PDF 104,29 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/142/01NVF20019%20ParkProReakt_Ablauf_Ersttermin_Mai24.pdf"
+        },
+        {
+          "title": "01NVF20019 ParkProReakt Versorgungsmodell",
+          "meta": "(PDF 149,52 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/141/01NVF20019%20ParkProReakt_Versorgungsmodell.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 138,
       "slug": "part-child.138",
       "title": "PART-CHILD – Verbesserung der Versorgungsqualität von Kindern mit chronischen Erkrankungen und Behinderungen in Sozialpädiatrischen Zentren",
@@ -6324,6 +9102,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Kinder und Jugendliche",
         "Menschen mit Behinderung",
@@ -6419,6 +9200,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Geburt und Wochenbett",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -6515,6 +9299,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "multimorbide Menschen"
@@ -6602,6 +9389,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Früh- und Neugeborene",
@@ -6680,7 +9470,12 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Kinder und Jugendliche"
+      ],
       "careSetting": "sektorenübergreifend",
       "fundingCategory": "Versorgungsforschung",
       "fundingArea": "Versorgungsforschung",
@@ -6756,6 +9551,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Angehörige",
         "Kinder und Jugendliche",
@@ -6816,7 +9614,12 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Erwachsene"
+      ],
       "careSetting": "ambulant",
       "fundingCategory": "Neue Versorgungsformen",
       "fundingArea": "Neue Versorgungsformen",
@@ -6865,6 +9668,83 @@ window.GBA_NEUROLOGY_DATA = {
       }
     },
     {
+      "project_id": 132,
+      "slug": "poweratms.132",
+      "title": "POWER@MS – Interaktive Webplattform zum EmPOWERment bei Multipler Sklerose",
+      "acronym": "POWER@MS",
+      "url": "https://innovationsfonds.g-ba.de/projekte/poweratms.132",
+      "summary": "Mehr als 200.000 Menschen in Deutschland leiden an Multipler Sklerose (MS). Bei den meisten Betroffenen schreitet die Krankheit zunächst in Schüben, später dann chronisch fort.",
+      "description": "Mehr als 200.000 Menschen in Deutschland leiden an Multipler Sklerose (MS). Bei den meisten Betroffenen schreitet die Krankheit zunächst in Schüben, später dann chronisch fort. MS wird häufig von Depressionen, Ermüdbarkeit (Fatigue) und kognitiven Störungen begleitet und verursacht im Gesundheitswesen hohe Kosten. Die vielfältigen und unübersichtlichen Therapieoptionen stellen die Patienten häufig vor schwierige Entscheidungen.\n\nDie Plattform POWER@MS stellt den verständlich aufbereiteten aktuellen Wissensstand– sogenannte evidenzbasierte Patienteninformationen (EBPI) – und komplexe Verhaltensmaßnahmen bereit. Diese Plattform soll Betroffenen helfen, mit ihrer Erkrankung besser und selbstbestimmter umzugehen. POWER@MS entwickelt ein krankheitsbegleitendes Programm, das über die Deutsche Multiple Sklerose Gesellschaft, Bundesverband e.V. zugänglich sein und kontinuierlich weiterentwickelt wird. Zwei Programm-Module sollen die MS-Patienten durch den Krankheitsverlauf begleiten: POWER@MS1 unterstützt sie darin, eine mit dem behandelnden Arzt gemeinsam verantwortete Entscheidung zur Immuntherapie zu treffen. Außerdem vermittelt POWER@MS1 Aspekte der Krankheitsbewältigung und des gesundheitsfördernden Lebensstils. In POWER@MS2 lernen die Patienten durch EBPI, mit Krankheitsschüben selbstbestimmt umzugehen und trainieren dies gemeinsam mit anderen Betroffenen in moderierten Chats.\n\nPOWER@MS1 basiert auf einer bereits bestehenden Verhaltensintervention und wird ergänzt und aktualisiert. POWER@MS2 wird aus aktualisierten EBPI und einer interaktiven Gruppenschulung für den Onlinebetrieb entwickelt. Nach erfolgreich abgeschlossenen Testläufen wird in Studien mit 330 bzw. 170 Patienten überprüft, wie sich die Module auf die Krankheitsschübe bzw. auf die Wahl der Schubtherapie auswirken. Begleitend wird untersucht, wie das Programm die Kostenentwicklung beeinflusst. POWER@MS wird für 60 Monate mit insgesamt ca. 2,7 Millionen Euro gefördert.\n\nIm Erfolgsfall ermöglicht POWER@MS1 einen gezielteren Immuntherapiestart, eine bessere Therapietreue und fördert einen Lebensstil, der Krankheitsschüben vorbeugen oder sie hinauszögern kann. POWER@MS2 kann einen kritischeren und kosteneffizienteren Umgang mit Therapiealternativen fördern.",
+      "status": "beendet",
+      "states": [
+        "Hamburg"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Erwachsene"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 2,7 Mio. Euro",
+      "fundingSumEur": 2700000,
+      "duration": "07/2018 – 06/2023",
+      "startDate": "2018-07",
+      "endDate": "2023-06",
+      "transferRecommendation": "keine Empfehlung",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Christoph Heesen",
+          "Universitätsklinikum Hamburg-Eppendorf, Institut für Neuroimmunologie und Multiple Sklerose",
+          "Martinistr. 52",
+          "20246 Hamburg",
+          "0049 40 7410 54076",
+          "heesen@uke.de",
+          "multiplesklerose@uke.de"
+        ],
+        "display": "Prof. Dr. Christoph Heesen | Universitätsklinikum Hamburg-Eppendorf, Institut für Neuroimmunologie und Multiple Sklerose | Martinistr. 52 | 20246 Hamburg | 0049 40 7410 54076 | heesen@uke.de | multiplesklerose@uke.de",
+        "name": "Prof. Dr. Christoph Heesen",
+        "email": "heesen@uke.de",
+        "phone": null,
+        "postal_code": "20246",
+        "city": "Hamburg",
+        "organization": "Universitätsklinikum Hamburg-Eppendorf, Institut für Neuroimmunologie und Multiple Sklerose",
+        "department": "multiplesklerose@uke.de",
+        "street": "Martinistr. 52"
+      },
+      "projectLeadCity": "Hamburg",
+      "partners": [
+        "Charité Universitätsmedizin Berlin",
+        "Universität zu Köln",
+        "GAIA AG",
+        "Universitätsmedizin Göttingen",
+        "Uni Düsseldorf",
+        "DMSG-Bundesverband",
+        "BKK Dachverband"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "23.05.2025",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 133,74 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/859/2025-05-23_POWER@MS.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 12,13 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/860/2025-05-23_POWER@MS_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 659,
       "slug": "priopeg.659",
       "title": "PrioPEG – Prioritär umsetzbare Physio- und Ergotherapeutische Gruppentherapien",
@@ -6881,6 +9761,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -6945,7 +9828,12 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Kinder und Jugendliche"
+      ],
       "careSetting": "ambulant",
       "fundingCategory": "Neue Versorgungsformen",
       "fundingArea": "Neue Versorgungsformen",
@@ -7030,6 +9918,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -7106,7 +9997,8 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "Derzeit werden jedes Jahr in Deutschland knapp 16 Millionen chirurgische Eingriffe in Krankenhäusern durchgeführt. Etwa 40 Prozent dieser Eingriffe finden bei Patienten über 70 Jahren statt. Viele Patienten haben mit zunehmendem Alter eine eingeschränkte funktionelle Reserve (Gebrechlichkeitssyndrom, englisch: Frailty-Syndrom). Das Frailty-Syndrom geht mit Einschränkungen in Mobilität, Muskelkraft und körperliche Reserven einher. Das Risiko für Komplikationen nach operativen Eingriffen ist bei Vorliegen eines Frailty-Syndroms deutlich erhöht. Schwerwiegende langfristige Konsequenzen können ein Verlust der Selbstständigkeit und Lebensqualität sein.\n\nZiel des Projekts ist es, bei chirurgischen Patienten mit Frailty-Syndrom die Selbständigkeit nach einer Operation zu erhalten oder zu verbessern und Pflegebedürftigkeit zu vermeiden. Dafür soll das Frailty-Syndrom im Vorfeld der Operation zielgerichtet behandelt werden.\n\nIn zwölf chirurgischen Zentren werden Patienten über 70 Jahre vor einer Operation hinsichtlich ihrer funktionellen Reserven untersucht und 1.400 Patienten mit Frailty-Syndrom zufällig in zwei Gruppen eingeteilt. Patienten der Interventionsgruppe werden partizipativ vor der Operation in eine Entscheidungsfindungskonferenz eingebunden und erhalten eine gezielte ambulante oder stationäre Vorbereitung auf die Operation. Die Kontrollgruppe erhält eine übliche Behandlung. Ein Jahr nach der Operation wird verglichen, ob sich die Pflegegrade der Patienten zwischen den beiden Gruppen unterscheiden. Zusätzlich werden medizinische und gesundheitsökonomische Parameter sowie die Lebensqualität evaluiert. Das Projekt wird für 60 Monate mit insgesamt ca. 8,8 Millionen Euro gefördert.\n\nDas Umsetzungspotenzial der neuen Versorgungsform wird bei steigenden Operationszahlen und komplexeren Eingriffen und dem zu erwartenden individuellen und gesellschaftlichen Nutzen als hoch eingeschätzt.",
       "status": "beendet",
       "states": [
-        "Ohne Zuordnung"
+        "Berlin",
+        "Brandenburg"
       ],
       "thematicFocuses": [
         "Augenerkrankungen",
@@ -7122,6 +10014,9 @@ window.GBA_NEUROLOGY_DATA = {
         "onkologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -7206,6 +10101,72 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 724,
+      "slug": "praevpfleg.724",
+      "title": "PrävPfleg – Prävention von Pflegebedürftigkeit durch Prevention Nursing",
+      "acronym": "PrävPfleg",
+      "url": "https://innovationsfonds.g-ba.de/projekte/praevpfleg.724",
+      "summary": "Schätzungen zufolge wird die Zahl der Pflegebedürftigen in Deutschland bis zum Jahr 2030 auf über sechs Millionen Menschen ansteigen.",
+      "description": "Schätzungen zufolge wird die Zahl der Pflegebedürftigen in Deutschland bis zum Jahr 2030 auf über sechs Millionen Menschen ansteigen. Ihre medizinische und pflegerische Versorgung stellt das Gesundheits- und Pflegesystem, die Betroffenen und ihre Angehörigen vor große Herausforderungen. Vor diesem Hintergrund gilt es, Ansätze zu finden, um die Nachfrage nach Pflegeleistungen zu reduzieren und die Pflegeprävention zu stärken.\n\nDas Projekt PrävPfleg setzt hier an und zielt darauf ab, die Selbständigkeit von Menschen mit beginnenden kognitiven Einschränkungen zu erhalten und eine Pflegebedürftigkeit hinauszuzögern. Dazu soll eine Intervention beitragen, die von speziell geschulten Pflegekräften durchgeführt wird – das Prevention Nursing. Die im Projekt entwickelte Intervention greift auf bestehende Präventionsinstrumente unter Einbeziehung technischer Assistenzsysteme zurück, die in Anlehnung an die sechs Module des Begutachtungsassessments bei Pflegebedürftigkeit entwickelt wurden. Dazu gehören z. B. die Förderung der Mobilität, der kognitiven Leistungsfähigkeit und der sozialen Teilhabe.\n\nIn die Studie werden 384 Patientinnen und Patienten eingeschlossen, die nach Antragstellung beim Medizinischen Dienst keine Einstufung in einen Pflegegrad erhalten haben. Um den Nutzen der neuen Versorgungsform zu untersuchen, werden zwei Patientengruppen gebildet, von denen eine das Prevention Nursing erhält, um einer weiteren Verschlechterung des Gesundheitszustandes entgegenzuwirken. Den Nutzen der neuen Versorgungsform untersuchen die Forschenden anhand einer Vielzahl von Vergleichen, z. B. in Bezug auf Selbstständigkeit, Mobilität, Angemessenheit der Medikation, Hilfsmittelversorgung, Lebensqualität oder die empfundene Belastung der Angehörigen. Das Projekt wird für 42 Monate mit insgesamt ca. 6,8 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Prevention Nursing den Erhalt der Selbstständigkeit stärken, den Pflegebedarf mittel- bis langfristig reduzieren und die Lebensqualität der Betroffenen und ihrer Angehörigen erhöhen.",
+      "status": "laufend",
+      "states": [
+        "Baden-Württemberg",
+        "Bayern",
+        "Berlin",
+        "Brandenburg",
+        "Niedersachsen",
+        "Nordrhein-Westfalen",
+        "Sachsen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "zweistufig lang",
+      "fundingSumLabel": "ca. 6,8 Mio. Euro",
+      "fundingSumEur": 6800000,
+      "duration": "11/2025 – 04/2029",
+      "startDate": "2025-11",
+      "endDate": "2029-04",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Adelheid Kuhlmey",
+          "Charité - Universitätsmedizin Berlin",
+          "Institut für Medizinische Soziologie und Rehabilitationswissenschaft",
+          "Charitéplatz 1",
+          "10117 Berlin",
+          "+49 30 450 529 064",
+          "adelheid.kuhlmey@charite.de"
+        ],
+        "display": "Prof. Dr. Adelheid Kuhlmey | Charité - Universitätsmedizin Berlin | Institut für Medizinische Soziologie und Rehabilitationswissenschaft | Charitéplatz 1 | 10117 Berlin | +49 30 450 529 064 | adelheid.kuhlmey@charite.de",
+        "name": "Prof. Dr. Adelheid Kuhlmey",
+        "email": "adelheid.kuhlmey@charite.de",
+        "phone": "+49 30 450 529 064",
+        "postal_code": "10117",
+        "city": "Berlin",
+        "organization": "Charité - Universitätsmedizin Berlin",
+        "department": "Institut für Medizinische Soziologie und Rehabilitationswissenschaft",
+        "street": "Charitéplatz 1"
+      },
+      "projectLeadCity": "Berlin",
+      "partners": [
+        "BKK mkk – meine krankenkasse"
+      ],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
       "project_id": 682,
       "slug": "psi-bund.682",
       "title": "PSI-BUND – Bundesweites Patientensicherheitsindikatoren-Kern-Set für eine bürokratiearme Qualitätssicherung und Transparenz der Gesundheitsversorgung",
@@ -7244,6 +10205,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Transplantation",
         "Organspende und Amputation"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -7329,7 +10293,12 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
-      "targetGroups": [],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
+      "targetGroups": [
+        "Pflegebedürftige"
+      ],
       "careSetting": "sektorenübergreifend",
       "fundingCategory": "Versorgungsforschung",
       "fundingArea": "Versorgungsforschung",
@@ -7383,6 +10352,82 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 231,
+      "slug": "quasch.231",
+      "title": "QUASCH – Ergebnisse qualitätsgesicherter Schlaganfallversorgung: Hessen im Vergleich zum übrigen Bundesgebiet",
+      "acronym": "QUASCH",
+      "url": "https://innovationsfonds.g-ba.de/projekte/quasch.231",
+      "summary": "International werden unterschiedliche Strategien eingesetzt, um die Qualität der Versorgung systematisch zu sichern und zu fördern. In Deutschland spielt für Krankenhäuser die externe Qualitätssicherung (eQS) eine prominente Rolle.",
+      "description": "International werden unterschiedliche Strategien eingesetzt, um die Qualität der Versorgung systematisch zu sichern und zu fördern. In Deutschland spielt für Krankenhäuser die externe Qualitätssicherung (eQS) eine prominente Rolle. Die Krankenhäuser sind dabei verpflichtet, zu bestimmten Krankheitsbildern und Behandlungsverfahren lückenlos zu allen Patienten Daten zu erfassen. Die Daten werden auf der Landes- und Bundesebene zusammengeführt und die Qualität der Versorgung anhand von Indikatoren wie beispielsweise der Komplikationsrate nach Eingriffen analysiert und verglichen. Die Rückmeldung der Ergebnisse an die Krankenhäuser soll zu einer Verbesserung der Qualität führen. Ob dies tatsächlich funktioniert, ist aber bisher unklar.\n\nDas Projekt untersucht die Effektivität der eQS an einem Krankheitsbeispiel, für das bisher nur in einzelnen Bundesländern eine verpflichtende eQS eingeführt wurde. Es wird analysiert, ob die in Hessen verpflichtende eQS zum akuten Schlaganfall im Verlauf der Jahre und im Vergleich mit anderen Regionen mit und ohne verpflichtende eQS zum Schlaganfall mit einer besseren Versorgung der Patientinnen und Patienten einherging.\n\nGrundlage bilden die eQS-Daten der Geschäftsstelle Qualitätssicherung Hessen, Daten aus eQS-Projekten anderer Regionen und Abrechnungsdaten der AOK, die routinemäßig erhoben werden. Beobachtet werden alle Fälle nach einem Schlaganfall im Zeitraum 2007–2016. Die Daten erlauben es, u. a. die Sterblichkeit, Rückfallrate, Krankenhauseinweisungen, Blutungskomplikationen sowie die Notwendigkeit von Langzeitpflege über die Zeit darzustellen. So können Unterschiede zwischen den Ergebnissen in Hessen mit verpflichtender eQS und anderen Regionen mit und ohne eQS abgebildet werden. Das Projekt wird für zwei Jahre mit insgesamt ca. 330.000 Euro gefördert.\n\nIm Erfolgsfall liefern die Ergebnisse eine Grundlage für die Weiterentwicklung der gesetzlichen Qualitätssicherung.",
+      "status": "beendet",
+      "states": [
+        "Hessen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Erwachsene"
+      ],
+      "careSetting": "stationär",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 330.000 Euro",
+      "fundingSumEur": 330000,
+      "duration": "12/2018 – 11/2020",
+      "startDate": "2018-12",
+      "endDate": "2020-11",
+      "transferRecommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Max Geraedts",
+          "Philipps-Universität Marburg",
+          "Institut für Versorgungsforschung u. Klinische Epidemiologie",
+          "Karl-von-Frisch-Straße 4",
+          "35043 Marburg",
+          "+49 6421 2866243",
+          "geraedts@uni-marburg"
+        ],
+        "display": "Prof. Dr. Max Geraedts | Philipps-Universität Marburg | Institut für Versorgungsforschung u. Klinische Epidemiologie | Karl-von-Frisch-Straße 4 | 35043 Marburg | +49 6421 2866243 | geraedts@uni-marburg",
+        "name": "Prof. Dr. Max Geraedts",
+        "email": "geraedts@uni-marburg",
+        "phone": "+49 6421 2866243",
+        "postal_code": "35043",
+        "city": "Marburg",
+        "organization": "Philipps-Universität Marburg",
+        "department": "Institut für Versorgungsforschung u. Klinische Epidemiologie",
+        "street": "Karl-von-Frisch-Straße 4"
+      },
+      "projectLeadCity": "Marburg",
+      "partners": [
+        "Geschäftsstelle Qualitätssicherung Hessen",
+        "Wissenschaftliches Institut der AOK",
+        "Universität Münster",
+        "Justus-Liebig-Universität Gießen",
+        "KP Ruhr-Universität Bochum"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "16.02.2022",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 125,91 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/146/2022-02-16_QUASCH.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 6,33 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/147/2022-02-16_QUASCH_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 387,
       "slug": "quasiapps.387",
       "title": "QuaSiApps – Fortlaufende Qualitätssicherung von in der GKV-Regelversorgung eingesetzten Gesundheits-Apps",
@@ -7409,6 +10454,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Leistungserbringer"
@@ -7489,6 +10537,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Verletzung und Vergiftungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -7550,6 +10601,78 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 146,
+      "slug": "redezeit-reha.146",
+      "title": "Redezeit-REHA – Telefonische Nachsorgegruppen für pflegende Angehörige",
+      "acronym": "Redezeit-REHA",
+      "url": "https://innovationsfonds.g-ba.de/projekte/redezeit-reha.146",
+      "summary": "In Deutschland leben über eine Million Menschen mit Demenz. Die meisten von ihnen werden von Angehörigen zuhause betreut.",
+      "description": "In Deutschland leben über eine Million Menschen mit Demenz. Die meisten von ihnen werden von Angehörigen zuhause betreut. Die Unterstützung und Pflege von Menschen mit Demenz ist zeitaufwändig und mit hoher Verantwortung und persönlichem Engagement verbunden. Daher leiden pflegende Angehörige von Menschen mit Demenz häufig unter Stress und haben ein erhöhtes Risiko, körperlich und psychisch krank zu werden. Eine medizinische Rehabilitation entlastet pflegende Angehörige und vermittelt ihnen Strategien zur Stressbewältigung. Allerdings ist die Rehabilitation zwar wirksam, aber oft nicht nachhaltig.\n\nDas Projekt Redezeit-REHA bietet pflegenden Angehörigen innerhalb der ersten sechs Monate nach der Rehabilitation monatliche telefonische Nachsorgegruppen an. In diesen tauschen sich die Teilnehmer untereinander aus. Erfahrene Sozialarbeiter moderieren die Gruppengespräche. Es werden Belastungssituationen, emotionale Probleme und pflegerelevante Informationen angesprochen. Dies soll den Transfer des in der Rehabilitation Gelernten in den Alltag sowie die Inanspruchnahme von Unterstützungsangeboten fördern. So sollen die pflegenden Angehörigen entlastet werden, um besser am gesellschaftlichen Leben teilhaben können. Die in der Rehabilitation erzielten gesundheitsbezogenen Effekte sollen verstetigt werden.\n\nEs wird untersucht, ob die Teilnahme an den Nachsorgegruppen zu mehr sozialer Teilhabe der pflegenden Angehörigen führt und ob die gesundheitsbezogenen Effekte nach Rehabilitation verstetigt oder gesteigert werden können. Hierzu werden die Teilnehmer mit pflegenden Angehörigen verglichen, die nach der Rehabilitation keine weitere Nachsorge erhalten. Außerdem wird das Kosten-Nutzen-Verhältnis der Intervention bewertet. Das Projekt wird für drei Jahre mit insgesamt ca. 480.000 Euro gefördert.\n\nIm Erfolgsfall kann die Intervention dazu beitragen, die Situation pflegender Angehöriger im Anschluss an eine Rehabilitation nachhaltig zu verbessern. Das niedrigschwellige Angebot lässt sich bundesweit auf andere Rehabilitationseinrichtungen übertragen. Das Prinzip der telefongestützten Nachsorge kann auch für andere Indikationen aufgegriffen und angepasst werden.",
+      "status": "beendet",
+      "states": [
+        "Sachsen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Angehörige"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 480.000 Euro",
+      "fundingSumEur": 480000,
+      "duration": "03/2018 – 02/2021",
+      "startDate": "2018-03",
+      "endDate": "2021-02",
+      "transferRecommendation": "keine Empfehlung",
+      "projectLead": {
+        "raw_lines": [
+          "Dr. med. Martin Berwig",
+          "Universität Leipzig KöR",
+          "Medizinische Fakultät",
+          "c/o Klinik für kognitive Neurologie",
+          "Liebigstraße 16",
+          "04103 Leipzig",
+          "0049 341 97 24 465",
+          "martin.berwig@medizin.uni-leipzig.de"
+        ],
+        "display": "Dr. med. Martin Berwig | Universität Leipzig KöR | Medizinische Fakultät | c/o Klinik für kognitive Neurologie | Liebigstraße 16 | 04103 Leipzig | 0049 341 97 24 465 | martin.berwig@medizin.uni-leipzig.de",
+        "name": "Dr. med. Martin Berwig",
+        "email": "martin.berwig@medizin.uni-leipzig.de",
+        "phone": null,
+        "postal_code": "04103",
+        "city": "Leipzig",
+        "organization": "Universität Leipzig KöR",
+        "department": "Medizinische Fakultät | c/o Klinik für kognitive Neurologie",
+        "street": "Liebigstraße 16"
+      },
+      "projectLeadCity": "Leipzig",
+      "partners": [
+        "Universität zu Lübeck"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "01.04.2022",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 115,36 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/162/2022-04-01_Redezeit-REHA.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 8,00 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/163/2022-04-01_Redezeit-REHA_Ergebnisbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 299,
       "slug": "redurisk.299",
       "title": "ReduRisk – Reduktion von pflegerelevanten Risiken älterer Patienten in und nach dem Akutkrankenhaus",
@@ -7568,6 +10691,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "multimorbide Menschen"
@@ -7631,6 +10757,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -7702,6 +10831,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Erkrankungen des Kreislaufsystems",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene"
@@ -7782,6 +10914,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Schwangerschaft",
         "Geburt und Wochenbett"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Angehörige",
         "Kinder und Jugendliche",
@@ -7876,6 +11011,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Transplantation",
         "Organspende und Amputation"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -7942,6 +11080,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Schwangerschaft",
         "Geburt und Wochenbett"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Angehörige",
         "Erwachsene",
@@ -8014,6 +11155,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Menschen mit Behinderung"
@@ -8067,6 +11211,86 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 177,
+      "slug": "sano.177",
+      "title": "SANO – Strukturierte ambulante Nachsorge nach Schlaganfall",
+      "acronym": "SANO",
+      "url": "https://innovationsfonds.g-ba.de/projekte/sano.177",
+      "summary": "In Deutschland erleiden jährlich rund 260.000 Menschen einen Schlaganfall. Nach Schlaganfällen ist das Risiko für schwerwiegende Komplikationen deutlich erhöht.",
+      "description": "In Deutschland erleiden jährlich rund 260.000 Menschen einen Schlaganfall. Nach Schlaganfällen ist das Risiko für schwerwiegende Komplikationen deutlich erhöht. Dabei können schwerwiegende Folgen oft durch eine gezielte Nachsorge verringert werden.\n\nZiel des Projektes „SANO“ ist die Verbesserung der Versorgung nach ischämischem Schlaganfall sowie einer besseren Diagnose und Therapie von Komplikationen. Dafür wird ein berufsgruppenübergreifendes Netzwerk bestehend aus Hausärzten, einem Schlaganfallkoordinator und einer geschulten Schlaganfallpflegekraft, der „Stroke Nurse“ an Kliniken sowie Therapeuten, Diätassistenten und Sozialarbeitern aufgebaut. Die Patienten erhalten hier eine ausführliche Beratung, führen Motivationsgespräche und formulieren individuelle Zielvereinbarungen unter Einbeziehung von Angehörigen. Ein Gesunderhaltungspass dient als Steuerungsinstrument. Durch regelmäßige Vorstellungen in der Klinik und beim Hausarzt kann eine Behandlung von Risikofaktoren direkt eingeleitet werden und mögliche Folgeerkrankungen besser überprüft werden. Im Anschluss wird evaluiert, inwieweit Folgekomplikationen und erneute Krankenhauseinweisungen durch die neue Versorgungsform reduziert werden können. Dafür werden insgesamt rund 1500 Patienten aus 15 Regionen, in der die neue Versorgungsform angeboten wird, mit rund 1500 Patienten aus 15 Vergleichsregionen verglichen, die regulär versorgt werden. Zudem werden auch die Folgekosten im ersten Jahr nach Schlaganfällen ermittelt. Das Projekt wird für 48 Monate mit insgesamt ca. 5,8 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die neue Versorgungsform auf weite Teile Deutschlands und auf andere vaskuläre und neurologische Erkrankungen übertragen werden. Dadurch können für zahlreiche Patienten Komplikationen und Risikofaktoren und schließlich Folgekosten reduziert werden.",
+      "status": "beendet",
+      "states": [
+        "Baden-Württemberg",
+        "Bayern",
+        "Hessen",
+        "Nordrhein-Westfalen",
+        "Rheinland-Pfalz",
+        "Saarland"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Erwachsene"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 5,8 Mio. Euro",
+      "fundingSumEur": 5800000,
+      "duration": "07/2018 – 06/2022",
+      "startDate": "2018-07",
+      "endDate": "2022-06",
+      "transferRecommendation": "keine Empfehlung",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Armin Grau",
+          "Klinikum Ludwigshafen, Neurologische Klinik",
+          "Bremserstr. 79",
+          "67063 Ludwigshafen",
+          "0049 621 5034200",
+          "graua@klilu.de"
+        ],
+        "display": "Prof. Dr. Armin Grau | Klinikum Ludwigshafen, Neurologische Klinik | Bremserstr. 79 | 67063 Ludwigshafen | 0049 621 5034200 | graua@klilu.de",
+        "name": "Prof. Dr. Armin Grau",
+        "email": "graua@klilu.de",
+        "phone": null,
+        "postal_code": "67063",
+        "city": "Ludwigshafen",
+        "organization": "Klinikum Ludwigshafen, Neurologische Klinik",
+        "street": "Bremserstr. 79"
+      },
+      "projectLeadCity": "Ludwigshafen",
+      "partners": [
+        "Universitätsklinikum Würzburg",
+        "Westfälische Hochschule"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "17.05.2024",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 172,29 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/576/2024-05-17_SANO.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 60,77 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/577/2024-05-17_SANO_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Evaluationsbericht",
+          "meta": "(PDF 8,15 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/578/2024-05-17_SANO_Evaluationsbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 629,
       "slug": "save-safe.629",
       "title": "SAVE&SAFE – KI-gestützte Entlastung von Pflegefachkräften auf Grundlage einer neuen Versorgungsform für geriatrische Patient:innen mit Sturzhistorie",
@@ -8083,6 +11307,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -8157,6 +11384,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Notfälle",
         "Verletzung und Vergiftungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Angehörige",
         "Kinder und Jugendliche"
@@ -8212,6 +11442,69 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 813,
+      "slug": "sdpm.813",
+      "title": "SDPM – Sektorenübergreifendes Demenz-Präventions-Management",
+      "acronym": "SDPM",
+      "url": "https://innovationsfonds.g-ba.de/projekte/sdpm.813",
+      "summary": "Schätzungsweise sind in Deutschland 1,8 Millionen Menschen von einer Demenzerkrankung betroffen. Die Mehrheit von ihnen ist über 65 Jahre alt, wobei die Häufigkeit mit zunehmendem Alter stark ansteigt.",
+      "description": "Schätzungsweise sind in Deutschland 1,8 Millionen Menschen von einer Demenzerkrankung betroffen. Die Mehrheit von ihnen ist über 65 Jahre alt, wobei die Häufigkeit mit zunehmendem Alter stark ansteigt. Die häufigste Ursache dafür ist die Alzheimer-Krankheit. Die bestehenden Therapieansätze können den Krankheitsverlauf zwar verlangsamen, aber nicht vollständig stoppen. Eine erfolgversprechende Strategie ist daher die Prävention. Eine Demenzprävention ist jedoch derzeit nicht regulär im Gesundheitssystem verankert, obwohl Studien 14 Risikofaktoren für die Entstehung einer Demenz identifizieren konnten. Durch die frühzeitige Identifizierung dieser Risikofaktoren lässt sich das Demenzrisiko um bis zu 45 % reduzieren.\n\nDas Ziel des Projekts SDPM besteht in einem systematischen Screening sowie einer nachhaltigen, regelmäßigen Kontrolle und konsequenten Behandlung der Risikofaktoren. Dies erfolgt im Rahmen eines Demenz-Präventions-Managements, das telemedizinische Ansätze, wie Videosprechstunden und digitale Umfragen kombiniert. Konkret wird beispielsweise eine medikamentöse Therapie zur Behandlung von Bluthochdruck eingeleitet oder eine Hörschwäche durch Hörgeräte ausgeglichen. Hier arbeiten Neurologinnen und Neurologen, Psychiaterinnen und Psychiater, Geriaterinnen und Geriater sowie Allgemeinmedizinerinnen und -mediziner eng zusammen. Die Therapiepläne werden regelmäßig von Fachärztinnen und -ärzten und speziell ausgebildeten Demenz-Präventions-Managerinnen und -Managern kontrolliert und patientenindividuell angepasst. Die neue Versorgungsform richtet sich an Patientinnen und Patienten in einem frühen Stadium einer kognitiven Störung mit erhöhtem Demenzrisiko. Im Laufe des Projekts werden unter anderem die Veränderung der Demenzrisikofaktoren, die Kognition und die Patientenzufriedenheit gemessen und mit den Werten der Kontrollgruppe verglichen, um zu evaluieren, ob die neue Versorgungsform zur Reduzierung der Demenzrisikofaktoren beiträgt. Für die ökonomische Bewertung der neuen Versorgungsform ist eine gesundheitsökonomische Evaluation vorgesehen, die den Ressourceneinsatz und die Behandlungskosten der Intervention mit denen der Regelversorgung vergleicht. Zudem werden die Praktikabilität und die Akzeptanz des Interventionsansatzes erhoben.\n\nDas Projekt wird für 42 Monate mit ca. 6,3 Millionen Euro gefördert.\n\nIm Erfolgsfall können systematische Präventionsmaßnahmen den Verlauf einer kognitiven Störung und das Auftreten einer Demenz verringern oder sogar verhindern.",
+      "status": "laufend",
+      "states": [
+        "Mecklenburg-Vorpommern",
+        "Niedersachsen",
+        "Nordrhein-Westfalen",
+        "Sachsen-Anhalt"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Erwachsene",
+        "Menschen mit chronischen Krankheiten"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 6,3 Mio. Euro",
+      "fundingSumEur": 6300000,
+      "duration": "01/2027 – 06/2030",
+      "startDate": "2027-01",
+      "endDate": "2030-06",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Kathrin Reetz",
+          "Universitätsklinikum Aachen",
+          "Sektion Translationale Neurodegeneration, Klinik für Neurologie",
+          "Pauwelsstraße 30",
+          "52074 Aachen",
+          "+49 241 80-85522",
+          "kreetz@ukaachen.de"
+        ],
+        "display": "Prof. Dr. Kathrin Reetz | Universitätsklinikum Aachen | Sektion Translationale Neurodegeneration, Klinik für Neurologie | Pauwelsstraße 30 | 52074 Aachen | +49 241 80-85522 | kreetz@ukaachen.de",
+        "name": "Prof. Dr. Kathrin Reetz",
+        "email": "kreetz@ukaachen.de",
+        "phone": "+49 241 80-85522",
+        "postal_code": "52074",
+        "city": "Aachen",
+        "organization": "Universitätsklinikum Aachen",
+        "department": "Sektion Translationale Neurodegeneration, Klinik für Neurologie",
+        "street": "Pauwelsstraße 30"
+      },
+      "projectLeadCity": "Aachen",
+      "partners": [],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
       "project_id": 565,
       "slug": "sebdem.565",
       "title": "SEBDem – Sektorenübergreifender Einsatz gewohnter Betreuungskräfte für Demenzkranke",
@@ -8227,6 +11520,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -8283,6 +11579,68 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 702,
+      "slug": "ses-empower.702",
+      "title": "SES-Empower – Familienzentrierte Intervention bei Sprachentwicklungsstörungen mittels individualisiert-sprachlautverstärkender Hörbücher zur heimischen Anwendung",
+      "acronym": "SES-Empower",
+      "url": "https://innovationsfonds.g-ba.de/projekte/ses-empower.702",
+      "summary": "Laut der Deutschen Gesellschaft für Phoniatrie und Pädaudiologie zeigt in Deutschland etwa jedes fünfte Kind im Kindesalter eine Sprachentwicklungsstörung.",
+      "description": "Laut der Deutschen Gesellschaft für Phoniatrie und Pädaudiologie zeigt in Deutschland etwa jedes fünfte Kind im Kindesalter eine Sprachentwicklungsstörung. Diejenigen Betroffenen, die am phonologischen Subtyp der Aussprachestörungen (PA) leiden, können bestimmte Laute nicht richtig aussprechen, hören und unterscheiden. Ohne Behandlung zieht die PA häufig schwerwiegende schulische und berufliche, aber auch persönliche und soziale Einschränkungen nach sich. Zudem gibt es Belege, dass die PA häufig mit Lese- und Rechtschreibstörungen einhergeht.\n\nDas Projektteam SES-Empower will die Therapie von PA verbessern. Im Mittelpunkt steht die Stärkung von Kindern und Eltern: Die Projektpartner möchten eine familienzentrierte Methode erproben, in welcher die Eltern mit ihrem Kind die Sprachübungen ähnlich einer Hausaufgabe gemeinsam durchführen. Mit einem KI-basierten Verfahren wird ein auf das jeweilige Kind zugeschnittenes Kinderbuch verfasst, in dem die problematischen Laute verstärkt wiedergegeben werden. Die Texte werden mittels Sprachsynthese in ein individuelles Hörbuch umgewandelt, welches mit der Stimme eines der Elternteile vorgelesen wird. Das Kind hört das Hörbuch zu Hause und arbeitet den Inhalt anschließend mit den Eltern auf.\n\nDurch Messungen der Sprachfähigkeit soll der Effekt der Methode analysiert werden, im Vergleich zu Kindern, die lediglich eine Standardtherapie und ein Hörbuch ohne Lautverstärkung erhalten. Dabei werden unter anderem die Aussprache, das Sprachverständnis und der Wortschatz mit Standardtests ausgewertet. Zudem werden Lebensqualität und Sprachlernstrategien der Eltern gemessen.\n\nDas Projekt wird für 39 Monate mit insgesamt ca. 1,2 Millionen Euro gefördert.\n\nIm Erfolgsfall kann gezeigt werden, dass ein familienzentriertes Verfahren mit individuellen, therapeutisch wirksamen Hörbüchern Aussprache und Wahrnehmung von Sprache bei PA langfristig verbessert.",
+      "status": "laufend",
+      "states": [
+        "Nordrhein-Westfalen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Angehörige",
+        "Kinder und Jugendliche"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,2 Mio. Euro",
+      "fundingSumEur": 1200000,
+      "duration": "09/2025 – 11/2028",
+      "startDate": "2025-09",
+      "endDate": "2028-11",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Dr. Lars Meyer",
+          "Universität Münster",
+          "Klinik für Phoniatrie und Pädaudiologie",
+          "Malmedyweg 13",
+          "48149 Münster",
+          "+49 3419 9402266",
+          "lmeyer@cbs.mpg.de"
+        ],
+        "display": "Dr. Lars Meyer | Universität Münster | Klinik für Phoniatrie und Pädaudiologie | Malmedyweg 13 | 48149 Münster | +49 3419 9402266 | lmeyer@cbs.mpg.de",
+        "name": "Dr. Lars Meyer",
+        "email": "lmeyer@cbs.mpg.de",
+        "phone": "+49 3419 9402266",
+        "postal_code": "48149",
+        "city": "Münster",
+        "organization": "Universität Münster",
+        "department": "Klinik für Phoniatrie und Pädaudiologie",
+        "street": "Malmedyweg 13"
+      },
+      "projectLeadCity": "Münster",
+      "partners": [
+        "Essener Forschungsinstitut für Medizinmanagement GmbH",
+        "Universität Bremen"
+      ],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
       "project_id": 205,
       "slug": "sma-c.205",
       "title": "SMA-C+ – Entwicklung und Evaluation eines IT-gestützten Case Managements zur Verbesserung der Versorgung von Patienten mit Spinaler Muskelatrophie (SMA)",
@@ -8298,6 +11656,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Erkrankungen des Muskel-Skelett-Systems",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Angehörige",
         "Kinder und Jugendliche",
@@ -8352,6 +11713,92 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 183,
+      "slug": "smartgem.183",
+      "title": "SMARTGEM – Smartphone-gestützte Migränetherapie",
+      "acronym": "SMARTGEM",
+      "url": "https://innovationsfonds.g-ba.de/projekte/smartgem.183",
+      "summary": "Weltweit leiden 15 bis 25 Prozent aller Frauen und ca. 6 bis 8 Prozent der Männer unter einer Migräne. Sie ist eine der häufigsten Ursachen für eine Behinderung.",
+      "description": "Weltweit leiden 15 bis 25 Prozent aller Frauen und ca. 6 bis 8 Prozent der Männer unter einer Migräne. Sie ist eine der häufigsten Ursachen für eine Behinderung. Zur Senkung der Migränehäufigkeit werden präventive medikamentöse, aber auch nicht-medikamentöse Verfahren wie Ausdauersport, Entspannungstechniken und kognitiv-verhaltenstherapeutische Verfahren eingesetzt. Der Zugang zu medizinischen Kopfschmerzexperten und auf Schmerz spezialisierte Psychotherapeuten ist jedoch sowohl im städtischen und noch mehr im ländlichen Bereich begrenzt.\n\nIn dem Projekt SMARTGEM soll eine effektive, zeit- und kostensparende Therapie bei häufiger Migräne ermöglicht werden: Mittels einer Smartphone-App (M-sense) können die Patienten ihre Kopfschmerzen dokumentieren und mögliche auslösende Faktoren identifizieren. Mit Hilfe eines integrierten Therapiemoduls werden die Patienten in der Durchführung von Entspannungsverfahren und Ausdauersport unterstützt und durch Vermittlung von individuellen verhaltenstherapeutischen Ansätzen geschult. Die behandelnden niedergelassenen Ärzte können sich mit den Ärzten des universitären Kopfschmerzzentrums telemedizinisch vernetzen und sich gegenseitig zu Patienten beraten. Für die Patienten werden ärztlich moderierte Foren und Expertenchats angeboten, um so die Kommunikation zwischen Patient und Arzt zu verkürzen. Die Effektivität der neuen Versorgungsform wird in dem Projekt mittels einer kontrollierten Studie untersucht. Als Vergleichsgruppe dienen Patienten, die die App zur reinen Kopfschmerzdokumentation verwenden und keinen Zugang zu den erweiterten Funktionen haben. Das Projekt wird für 48 Monate mit insgesamt ca. 3,3 Millionen Euro gefördert.\n\nIm Erfolgsfall hat SMARTGEM Modellcharakter für universitäre Kopfschmerzambulanzen, auf Kopfschmerzerkrankungen spezialisierte Kliniken sowie Kopfschmerzschwerpunktpraxen - vor allem in strukturschwachen Regionen. Sie kann zusätzlich bestehende Selektivverträge zur Integrierten Versorgung von Kopfschmerzen ergänzen.",
+      "status": "beendet",
+      "states": [
+        "Berlin",
+        "Brandenburg",
+        "Mecklenburg-Vorpommern",
+        "Sachsen-Anhalt"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Erwachsene",
+        "Menschen mit chronischen Krankheiten"
+      ],
+      "careSetting": "ambulant",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 3,3 Mio. Euro",
+      "fundingSumEur": 3300000,
+      "duration": "07/2018 – 06/2022",
+      "startDate": "2018-07",
+      "endDate": "2022-06",
+      "transferRecommendation": "keine Empfehlung",
+      "projectLead": {
+        "raw_lines": [
+          "PD Dr. med. Lars Neeb",
+          "Klinik für Neurologie",
+          "Charité Universitätsmedizin",
+          "Campus Charité Mitte – CCM",
+          "Charitéplatz 1",
+          "10117 Berlin",
+          "+49 30 450 560 884",
+          "lars.neeb@charite.de"
+        ],
+        "display": "PD Dr. med. Lars Neeb | Klinik für Neurologie | Charité Universitätsmedizin | Campus Charité Mitte – CCM | Charitéplatz 1 | 10117 Berlin | +49 30 450 560 884 | lars.neeb@charite.de",
+        "name": "PD Dr. med. Lars Neeb",
+        "email": "lars.neeb@charite.de",
+        "phone": "+49 30 450 560 884",
+        "postal_code": "10117",
+        "city": "Berlin",
+        "organization": "Klinik für Neurologie",
+        "department": "Charité Universitätsmedizin | Campus Charité Mitte – CCM",
+        "street": "Charitéplatz 1"
+      },
+      "projectLeadCity": "Berlin",
+      "partners": [
+        "AOK Nordost",
+        "IKK gesund plus",
+        "Medizinische Fakultät der Martin Luther Universität Halle Wittenberg",
+        "mkk – meine krankenkasse",
+        "Newsenselab GmbH",
+        "Universitätsmedizin Rostock"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "17.05.2024",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 154,41 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/573/2024-05-17_SMARTGEM.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 34,10 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/574/2024-05-17_SMARTGEM_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Evaluationsbericht",
+          "meta": "(PDF 8,78 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/575/2024-05-17_SMARTGEM_Evaluationsbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 348,
       "slug": "soko.348",
       "title": "SoKo – Die somatische Versorgung von Patientinnen und Patienten mit psychischer Komorbidität",
@@ -8371,6 +11818,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Leistungserbringer",
@@ -8451,6 +11901,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -8506,7 +11959,8 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "Durch den demographischen Wandel wächst die Zahl der ambulant gepflegten Menschen, z. B. wurden in Berlin seit 2019 rund 38.500 ambulant betreute Pflegeempfangende erfasst. Bei diesen Menschen tritt häufig ein akuter Behandlungsbedarf auf, der zu einer Notfallaufnahme bzw. Krankenhauseinweisung führt. Studien bei Pflegeheimpatienten zeigen, dass bei bis zu 30 Prozent der Fälle keine Behandlungen in der Notaufnahme bzw. Krankenhaus notwendig wären, wenn gesundheitliche Veränderungen der Pflegeempfangenden frühzeitig erkannt, kommuniziert und eine ärztliche Einschätzung und Behandlung zeitnah organisiert würden. Für den ambulanten Bereich ist von ähnlichen Raten auszugehen.\n\nZiel des Projekts STAY@HOME-TREAT@HOME ist, die Gesundheit der Betroffenen zu stärken und die Zahl ungeplanter Krankenhausaufnahmen zu reduzieren. Dazu wird ein telemedizinisches Netzwerk für eine lückenlose, rund um die Uhr erfolgende ambulante Versorgung pflegebedürftiger Menschen in Berlin etabliert. Dieses ermöglicht den Betroffenen, niedrigschwellig einen Hilferuf an eine Leitstelle zu melden und den Leistungserbringern, mit neuen abgestuften Maßnahmen zu reagieren: z. B. die Einbindung des Bereitschaftsdienstes (116 117) statt der Rettungsleitstelle (112) oder bei medizinisch weniger schwerwiegenden Problemen die Einbindung einer Hilfsorganisation vor Ort.\n\nFür die Studie werden 1.125 ambulante Pflegeempfangende an das neue telemedizinische Netzwerk angebunden. Um den Nutzen der Intervention zu untersuchen, werden die ausgewählten Personen mit einer Kontrollgruppe von Nicht-Teilnehmenden verglichen mit einem Fokus auf der Zahl von Notfalleinsätzen, Krankenhausbehandlungen, Behandlungskosten und Lebensqualität. Das Projekt wird für vier Jahre mit ca. neun Millionen Euro gefördert.\n\nIm Erfolgsfall verbessert sich die Gesundheit der ambulant betreuten Pflegeempfangenden durch die frühzeitige und vernetzte Intervention und es verringern sich die Gesundheitsausgaben, auch durch die Reduktion von dann nicht mehr notwendigen Notfalleinsätzen und Krankenhausaufnahmen.",
       "status": "laufend",
       "states": [
-        "Ohne Zuordnung"
+        "Berlin",
+        "Brandenburg"
       ],
       "thematicFocuses": [
         "Atemwegserkrankungen und Beatmung",
@@ -8520,6 +11974,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Verletzung und Vergiftungen",
         "onkologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -8609,6 +12066,9 @@ window.GBA_NEUROLOGY_DATA = {
         "onkologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -8664,6 +12124,94 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 274,
+      "slug": "strocare.274",
+      "title": "StroCare – Optimierte sektorenübergreifende, koordinierte und evidenzbasierte Behandlung von Schlaganfallpatienten durch übergreifende Prozessverantwortung und patientenorientierte Ergebnisqualitätsmessung",
+      "acronym": "StroCare",
+      "url": "https://innovationsfonds.g-ba.de/projekte/strocare.274",
+      "summary": "Der Schlaganfall ist die häufigste Ursache für bleibende Behinderung im Erwachsenenalter. Jährlich erleiden in Deutschland mehr als 200.000 Menschen einen Schlaganfall.",
+      "description": "Der Schlaganfall ist die häufigste Ursache für bleibende Behinderung im Erwachsenenalter. Jährlich erleiden in Deutschland mehr als 200.000 Menschen einen Schlaganfall. Dabei verändert der Schlaganfall das tägliche Leben und die Lebensqualität der Betroffenen oft dramatisch. Dank besserer Behandlungsmöglichkeiten überleben heute immer mehr Menschen einen Schlaganfall. Durch die steigende Zahl Langzeitüberlebender wird die Nachsorge der Patienten immer wichtiger. Dabei gilt es, drohende Rückfälle frühzeitig zu erkennen und zu verhindern.\n\nAusgangspunkt für StroCare ist die aktuell verbesserungswürdige Schlaganfallnachsorge, in der den Patienten nach der Rehabilitation häufig direkte Ansprechpartner für ihre Fragen und Sorgen und für die Steuerung der medizinischen Maßnahmen zur Vorbeugung neuer Schlaganfälle fehlen. StroCare will die Nachsorge verbessern, indem es Ärzte verschiedener Fachrichtungen sowie ambulante und stationäre Therapien stärker miteinander vernetzt und eine patientenzentrierte Messung der Ergebnisqualität integriert. Das Ziel sind bessere Behandlungsprozesse, die die Wartezeiten der Patienten auf weiterführende Therapien verkürzen und die Betroffenen besser informieren. Die Behandlung von Risikofaktoren wie einem erhöhten Blutdruck oder erhöhten Blutfetten soll verbessert und eine optimale medikamentöse Behandlung zur Verhinderung weiterer Schlaganfälle soll sichergestellt werden. Eine höhere Behandlungsqualität soll Komplikationen und erneute Schlaganfällen verhindern, sie soll die Lebensqualität und die Teilhabe vieler Patienten verbessern. Im Projekt StroCare erhält eine Gruppe von Patienten die neue Form der vernetzten Schlaganfallnachsorge, während die Vergleichsgruppe die derzeit übliche Schlaganfallnachsorge erhält. Um den Erfolg der vernetzten Nachsorge bestimmen zu können, werden die dafür relevanten Daten bereits kurz nach dem Schlaganfall in der Klinik, während der Rehabilitation und während der ambulanten Nachsorge erhoben. Das Projekt wird für 54 Monate mit insgesamt ca. 3,8 Millionen Euro gefördert.\n\nIm Erfolgsfall reduzieren die neuen Behandlungspfade die Zahl der Komplikationen und der erneuten Schlaganfälle – zugleich verbessern sie die Lebensqualität und Teilhabe der Betroffenen. Die optimierte Nachsorge kann zudem Behandlungskosten einsparen und die Zahl der Krankenhauseinweisungen verringern.",
+      "status": "beendet",
+      "states": [
+        "Hamburg",
+        "Niedersachsen",
+        "Schleswig-Holstein"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Erwachsene"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 3,8 Mio. Euro",
+      "fundingSumEur": 3800000,
+      "duration": "07/2019 – 12/2023",
+      "startDate": "2019-07",
+      "endDate": "2023-12",
+      "transferRecommendation": "keine Empfehlung",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Götz Thomalla",
+          "Klinik und Poliklinik für Neurologie",
+          "Universitätsklinikum Hamburg-Eppendorf",
+          "Martinistraße 52",
+          "20246 Hamburg",
+          "+49 40 741050137",
+          "thomalla@uke.de"
+        ],
+        "display": "Prof. Dr. Götz Thomalla | Klinik und Poliklinik für Neurologie | Universitätsklinikum Hamburg-Eppendorf | Martinistraße 52 | 20246 Hamburg | +49 40 741050137 | thomalla@uke.de",
+        "name": "Prof. Dr. Götz Thomalla",
+        "email": "thomalla@uke.de",
+        "phone": "+49 40 741050137",
+        "postal_code": "20246",
+        "city": "Hamburg",
+        "organization": "Klinik und Poliklinik für Neurologie",
+        "department": "Universitätsklinikum Hamburg-Eppendorf",
+        "street": "Martinistraße 52"
+      },
+      "projectLeadCity": "Hamburg",
+      "partners": [
+        "Albertinen-Krankenhaus",
+        "Elbe-Kliniken Stade",
+        "RehaCentrum Hamburg",
+        "Klinikum Bad Bramstedt",
+        "MediClin Klinikum Soltau",
+        "VAMED Klinik Geesthacht",
+        "VAMED Rehaklinik Damp",
+        "BARMER",
+        "Lohmann-Birkner medizinisches ServiceCenter GmbH",
+        "Forcare GmbH"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "21.03.2025",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 146,71 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/811/2025-03-21_StroCare.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 8,38 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/812/2025-03-21_StroCare_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Evaluationsbericht",
+          "meta": "(PDF 1,28 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/813/2025-03-21_StroCare_Evaluationsbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 721,
       "slug": "stroconnect.721",
       "title": "StroConnect – Kooperative Schlaganfallakutversorgung mit verbessertem Therapiezugang durch Einbindung des Rettungsdienstes in ein neurovaskuläres Netzwerk",
@@ -8673,13 +12221,17 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "In Hamburg erleiden jedes Jahr mehr als 10.000 Menschen einen Schlaganfall. Schlaganfälle stellen die häufigste Ursache für bleibende Behinderungen im Erwachsenenalter dar; bei einem akuten ischämischem Schlaganfall ist eine schnelle Reperfusionstherapie notwendig, um Folgeschäden zu reduzieren. Dazu gehört beispielsweise die mechanische Wiederöffnung einer verschlossenen Hirnarterie. Da diese sogenannte Thrombektomie jedoch nicht in jedem Krankenhaus zu jeder Zeit durchgeführt werden kann, sind geeignete zielgerichtete Zuweisungskonzepte erforderlich, um Verzögerungen insbesondere beim Zugang zu dieser wirksamen Akuttherapie zu minimieren.\n\nZiel des Projekts StroConnect ist es daher, die Schnittstelle zwischen Rettungsdienst und akuter Schlaganfallversorgung zu optimieren. Bereits am Einsatzort soll der Rettungsdienst mittels telemedizinischer Konsultation durch Neurologinnen und Neurologen in der Einschätzung von Patientinnen und Patienten mit Schlaganfallsymptomen unterstützt werden, um auf Basis der klinischen Befunde und der verfügbaren Akuttherapiemöglichkeiten eine patientenzentrierte Zuweisung vorzunehmen. Während des Patiententransports erfolgt dann eine digitale Übergabe des Telekonsultationsprotokolls an das Behandlungsteam der aufnehmenden Klinik, so dass die anschließende stationäre Akutversorgung beschleunigt und der Zugang zur Thrombektomie verbessert werden können. Dieses Konzept wird, aufbauend auf bestehenden Strukturen eines neurovaskulären Versorgungsnetzwerks, in Zusammenarbeit von sieben Kliniken im Großraum Hamburg erprobt.\n\nUm den Effekt der Intervention messen zu können, wird die Zeit vom Eintreffen des Rettungsdienstes am Einsatzort bis zum Beginn einer durchgeführten Thrombektomie erfasst. Diese Daten werden aus der Einsatz- und Prozessdokumentation der Rettungsdienste und der kooperierenden Kliniken gewonnen und mit der bestehenden Regelversorgung verglichen. Zusätzlich werden die so versorgten Patientinnen und Patienten nach drei Monaten zu ihrer Lebensqualität und alltagsrelevanten Einschränkungen befragt. Neben einer Prozessevaluation zur Untersuchung der Implementierung der StroConnect-Intervention wird eine Kosten-Nutzen-Analyse durchgeführt. Das Projekt wird für 42 Monate mit insgesamt ca. 6,7 Millionen Euro gefördert.\n\nIm Erfolgsfall sind die im Projekt gewonnenen Erkenntnisse auf andere Regionen sowie weitere medizinische Fachrichtungen übertragbar und leisten einen wichtigen Beitrag zu einer besseren Akutversorgung von Schlaganfallpatientinnen und -patienten.",
       "status": "laufend",
       "states": [
-        "Ohne Zuordnung"
+        "Hamburg",
+        "Schleswig-Holstein"
       ],
       "thematicFocuses": [
         "neurologische Erkrankungen",
         "Notfälle",
         "Verletzung und Vergiftungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -8724,6 +12276,85 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 105,
+      "slug": "stroke-owl.105",
+      "title": "STROKE OWL – Sektorübergreifend organisierte Versorgung komplexer chronischer Erkrankungen: Schlaganfall-Lotsen in Ostwestfalen-Lippe",
+      "acronym": "STROKE OWL",
+      "url": "https://innovationsfonds.g-ba.de/projekte/stroke-owl.105",
+      "summary": "Knapp 270.000 Menschen erleiden jährlich in Deutschland einen Schlaganfall. Über ein Drittel stirbt innerhalb eines Jahres an dieser Erkrankung.",
+      "description": "Knapp 270.000 Menschen erleiden jährlich in Deutschland einen Schlaganfall. Über ein Drittel stirbt innerhalb eines Jahres an dieser Erkrankung. Die, die überleben, haben ein höheres Risiko für einen erneuten Schlaganfall: Je nach Ursache erleidet fast jeder Fünfte erneut einen Schlaganfall. Rund die Hälfte der überlebenden Schlaganfall-Patientinnen und -Patienten ist ein Jahr nach dem Ereignis dauerhaft behindert und auf fremde Hilfe angewiesen.\n\nZiel des Projektes STROKE OWL ist es, die Rate der wiederholten Schlaganfälle innerhalb eines Jahres nach dem Schlaganfallereignis zu verringern. Außerdem soll die Lebensqualität und Zufriedenheit der Betroffenen verbessert werden. Im Projekt werden dafür sogenannte Schlaganfall-Lotsen eingesetzt, die die Patientinnen und Patienten für ein Jahr begleiten. Die Leistungen der Lotsen bestehen darin, Betroffene und Angehörige über mögliche Schlaganfall-Komplikationen zu informieren und frühzeitig auf mögliche Risiken hinzuweisen. Sie koordinieren auch regelmäßige Rücksprachemöglichkeiten mit den behandelnden Ärzten sowie die Medikation, wobei die Verwaltung der Daten durch eine digitale Belotsungsakte („Lotsen-APP“) unterstützt wird. Im Projekt sollen in Ostwestfalen-Lippe 1.587 Schlaganfall-Patientinnen und -Patienten von Schlaganfall-Lotsen betreut werden. Um prüfen zu können, ob die Betroffenen mit Lotsen besser versorgt sind, werden die Krankheitsverläufe mit einer gleichen Anzahl an Erkrankten aus zwei Vergleichs-Regionen verglichen, in der die Lotsen nicht eingesetzt werden. Gleichzeitig kann ausgewertet werden, ob durch diese neue Versorgungsform insgesamt Kosten gesenkt werden. Das Projekt wird für vier Jahre mit insgesamt ca. 7,1 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Vorgehen auf andere Indikationen, vor allem chronische Erkrankungen, angepasst und übertragen werden.",
+      "status": "beendet",
+      "states": [
+        "Nordrhein-Westfalen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Erwachsene"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 7,1 Mio. Euro",
+      "fundingSumEur": 7100000,
+      "duration": "10/2017 – 09/2021",
+      "startDate": "2017-10",
+      "endDate": "2021-09",
+      "transferRecommendation": "keine Empfehlung",
+      "projectLead": {
+        "raw_lines": [
+          "Dr. Georg Galle",
+          "Leitung STROKE OWL",
+          "Stiftung Deutsche Schlaganfall-Hilfe",
+          "Schulstraße 22",
+          "33330 Gütersloh",
+          "+49 5241 97700",
+          "stroke.owl@schlaganfall-hilfe.de"
+        ],
+        "display": "Dr. Georg Galle | Leitung STROKE OWL | Stiftung Deutsche Schlaganfall-Hilfe | Schulstraße 22 | 33330 Gütersloh | +49 5241 97700 | stroke.owl@schlaganfall-hilfe.de",
+        "name": "Dr. Georg Galle",
+        "email": "stroke.owl@schlaganfall-hilfe.de",
+        "phone": "+49 5241 97700",
+        "postal_code": "33330",
+        "city": "Gütersloh",
+        "organization": "Leitung STROKE OWL",
+        "department": "Stiftung Deutsche Schlaganfall-Hilfe",
+        "street": "Schulstraße 22"
+      },
+      "projectLeadCity": "Gütersloh",
+      "partners": [
+        "Universität Bielefeld",
+        "OFFIS e.V.",
+        "IKK classic",
+        "Techniker Krankenkasse"
+      ],
+      "projectWebsites": [],
+      "decisionDate": "23.02.2023",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 115,07 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/370/2023-02-23_STROKE%20OWL.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 4,67 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/371/2023-02-23_STROKE%20OWL_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Evaluationsbericht",
+          "meta": "(PDF 11,96 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/372/2023-02-23_STROKE%20OWL_Evaluationsbericht.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
       "project_id": 633,
       "slug": "t-cabs.633",
       "title": "T-CABS – Telemedizinisches Centrum für Außerklinische Beatmung und Sauerstofftherapie",
@@ -8733,13 +12364,17 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "Jedes Jahr steigt die Anzahl der Menschen, die in ihrem häuslichen Umfeld künstlich beatmet werden um ca. 15.000 Personen. Besonders groß ist der Versorgungsaufwand, wenn die Heimbeatmung invasiv über eine Kanüle erfolgen muss. Kontrollen der Beatmungstherapie erfolgen in Zentren für außerklinische Beatmung und sind nicht immer bedarfsorientiert. Oft erfolgen Kontrollen, die sich nachträglich als nicht notwendig herausstellen. Auch führen Verschlechterungen des Gesundheitszustands in der Häuslichkeit oft unbeobachtet zu akuten Notfällen. Die hierdurch entstehenden Belastungen der Betroffenen und Kosten für das Gesundheitssystem sind beträchtlich.\n\nIm Projekt T-CABS wollen Forschende mit Hilfe telemedizinischer Maßnahmen die Versorgung ambulant beatmeter Menschen verbessern. Kernstück der neuen Versorgungsform ist eine patientenzentrierte Gesundheitsversorgung durch die Erfassung medizinischer Daten auf einer telemedizinischen Plattform, dem sogenannten T-CABS (Telemedizinisches Centrum für Außerklinische Beatmung und Sauerstofftherapie). Die Daten umfassen die Lungenfunktion, Beatmungswerte, die allgemeine körperliche Verfassung und Lebenszufriedenheit. Bedarfsorientiert werden Videosprechstunden zwischen Betroffenen und medizinischen Fachkräften angeboten und interdisziplinäre Fallkonferenzen durchgeführt. In einer wissenschaftlichen Studie mit 200 Betroffenen wird untersucht, ob das digitale Angebot die gewünschten Effekte zeigt. Die Forschenden erhoffen sich eine Stabilisierung der Lungenfunktion, eine Verbesserung der körperlichen Kondition und eine höhere Lebensqualität der Betroffenen, verbunden mit mehr Selbstbestimmung. Das Projekt wird für 39 Monate mit insgesamt ca. 5,5 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die Telemedizinplattform eine individuell angepasste Versorgung von ambulant beatmeten Menschen sicherstellen, indem sie dazu beiträgt, potenzielle Komplikationen zu vermeiden, Betroffene in ihrem Krankheitsmanagement zu stärken und ressourcenintensive und belastende Transporte in die Klinik zu vermeiden.",
       "status": "laufend",
       "states": [
-        "Ohne Zuordnung"
+        "Berlin",
+        "Brandenburg"
       ],
       "thematicFocuses": [
         "Atemwegserkrankungen und Beatmung",
         "Erkrankungen des Muskel-Skelett-Systems",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -8819,6 +12454,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -8890,6 +12528,68 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 746,
+      "slug": "telestrokergm.746",
+      "title": "TeleStrokeRGM – Reifegradmodell für telemedizinische Akutversorgungs-Netzwerke am Beispiel Schlaganfall",
+      "acronym": "TeleStrokeRGM",
+      "url": "https://innovationsfonds.g-ba.de/projekte/telestrokergm.746",
+      "summary": "Bei einem Schlaganfall zählt jede Minute.",
+      "description": "Bei einem Schlaganfall zählt jede Minute. Für eine effektive Versorgung braucht es eine effiziente Rettungskette, eine enge Zusammenarbeit zwischen zertifizierten Stroke-Units und regionalen Krankenhäusern ohne neurologische Notfallspezialisten. Durch die telemedizinische Vernetzung mit zertifizierten Stroke-Units können regionale Krankenhäuser einen wesentlichen Beitrag für eine hochwertige und flächendeckende neurologische Notfallversorgung leisten.\n\nSeit den 2000er Jahren übernehmen telemedizinische Schlaganfall-Netzwerke einen wesentlichen Teil der Akutversorgung von Patientinnen und Patienten mit akutem Schlaganfall. Vor dem Hintergrund des Fachkräftemangels ist eine Weiterentwicklung dieser Netzwerke besonders wichtig. Ziel des Projekts „TeleStrokeRGM“ ist daher die empirische Entwicklung eines Reifegradmodells für telemedizinische Netzwerke der Akutversorgung. Dieses Modell erfasst und bewertet die für die Qualität relevanten Merkmale systematisch. Ein solches Reifegradmodell ist besonders gut geeignet, da es eine strukturierte Orientierung zur Selbsteinschätzung bietet. Damit lässt sich der „Status quo“ erfassen, Verbesserungspotenziale identifizieren und Empfehlungen geben, wie die nächste Entwicklungsstufe erreicht werden kann. Zudem ermöglicht das Reifegradmodell den Vergleich zwischen telemedizinischen Netzwerken und bildet die Grundlage für standardisierte Qualitätssicherung.\n\nIm Projekt „TeleStrokeRGM“ werden mit Hilfe einer Literaturrecherche bestehende Reifegradmodelle auf Übertragbarkeit für TeleStroke-Netzwerke analysiert und Erfolgs- und Misserfolgsfaktoren identifiziert, die für die Entwicklung und Implementierung des Reifegradmodells von Bedeutung sind. Diese Grundlagen werden mit Hilfe von Experteninterviews angereichert. Darauf aufbauend folgt ein partizipativer Entwicklungsprozess mit Schlüsselakteuren aus der Versorgungspraxis. Im Ergebnis entsteht ein Werkzeug zur Stärkung bestehender Netzwerkstrukturen und eine fundierte Entscheidungsgrundlage zur zukünftigen Weiterentwicklung von Telemedizinnetzwerken zur Akutversorgung im Allgemeinen und TeleStroke-Netzwerken im Besonderen.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,1 Millionen Euro gefördert.\n\nIm Erfolgsfall liegt ein Reifegradmodell vor, das TeleStroke-Netzwerken die Optimierung ihrer Prozesse ermöglicht und darüber hinaus auf andere telemedizinische Akut-Versorgungsstrukturen übertragbar ist. Das Modell unterstützt eine standardisierte und somit optimierte leitliniengerechte Schlaganfall-Versorgung und die Weiterentwicklung notwendiger Versorgungsstrukturen.",
+      "status": "laufend",
+      "states": [
+        "Sachsen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Erwachsene",
+        "ländliche Bevölkerung",
+        "Leistungserbringer"
+      ],
+      "careSetting": "stationär",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,1 Mio. Euro",
+      "fundingSumEur": 1100000,
+      "duration": "01/2026 – 12/2028",
+      "startDate": "2026-01",
+      "endDate": "2028-12",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Dr. Jessica Barlinn",
+          "Technische Universität Dresden",
+          "Medizinische Fakultät Carl Gustav Carus",
+          "Klinik für Neurologie, Geschäftsstelle SOS-TeleNET",
+          "Fetscherstraße 74",
+          "01307 Dresden",
+          "+49 351 45818515",
+          "Jessica.barlinn@ukdd.de"
+        ],
+        "display": "Dr. Jessica Barlinn | Technische Universität Dresden | Medizinische Fakultät Carl Gustav Carus | Klinik für Neurologie, Geschäftsstelle SOS-TeleNET | Fetscherstraße 74 | 01307 Dresden | +49 351 45818515 | Jessica.barlinn@ukdd.de",
+        "name": "Dr. Jessica Barlinn",
+        "email": "Jessica.barlinn@ukdd.de",
+        "phone": "+49 351 45818515",
+        "postal_code": "01307",
+        "city": "Dresden",
+        "organization": "Technische Universität Dresden",
+        "department": "Medizinische Fakultät Carl Gustav Carus | Klinik für Neurologie, Geschäftsstelle SOS-TeleNET",
+        "street": "Fetscherstraße 74"
+      },
+      "projectLeadCity": "Dresden",
+      "partners": [],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
       "project_id": 293,
       "slug": "tempis.293",
       "title": "TEMPiS – Gesundheitsökonomische Analyse des Flying Intervention Teams als neues Schlaganfall-Versorgungssystem im ländlichen Raum",
@@ -8906,6 +12606,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Notfälle",
         "Verletzung und Vergiftungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -8968,6 +12671,140 @@ window.GBA_NEUROLOGY_DATA = {
       }
     },
     {
+      "project_id": 707,
+      "slug": "teneam.707",
+      "title": "TENEAM – TeleNeurologisch ambulante Versorgung in Brandenburg und Mecklenburg-Vorpommern",
+      "acronym": "TENEAM",
+      "url": "https://innovationsfonds.g-ba.de/projekte/teneam.707",
+      "summary": "Für Menschen mit chronischen neurologischen Erkrankungen wie Parkinson oder Multipler Sklerose ist eine regelmäßige und wohnortnahe Versorgung von entscheidender Bedeutung für einen nachhaltigen Therapieerfolg.",
+      "description": "Für Menschen mit chronischen neurologischen Erkrankungen wie Parkinson oder Multipler Sklerose ist eine regelmäßige und wohnortnahe Versorgung von entscheidender Bedeutung für einen nachhaltigen Therapieerfolg. Die zeitnahe neurologische Diagnostik und Versorgung von Patientinnen und Patienten stellt dabei insbesondere in ländlichen Regionen eine Herausforderung für das deutsche Gesundheitssystem dar. So standen z. B. in den ländlich geprägten Kreisen Mecklenburg-Vorpommerns und Brandenburgs im Jahr 2020 nur 1,5 Fachärztinnen und Fachärzte für Neurologie pro 1.000.000 Einwohnerinnen und Einwohner zur Verfügung. Telemedizin kann hier eine wichtige Rolle spielen, um bestehende Barrieren zwischen Betroffenen sowie Behandlerinnen und Behandlern zu überwinden und eine bessere Versorgungsqualität zu erreichen.\n\nHier setzen die Forschenden des Projekts TENEAM an. Sie werden ein sektorenübergreifendes telemedizinisches Versorgungskonzept etablieren, bei dem erwachsene Patientinnen und Patienten mit neurologischen Auffälligkeiten wie z. B. peripheren Neuropathien, Kopfschmerzen oder Epilepsien von ihrer Hausärztin oder ihrem Hausarzt in eine spezielle teleneurologische Sprechstunde überwiesen werden. In diesen Tele-Sprechstunden erfolgt eine zeitnahe und wohnortunabhängige diagnostische Abklärung und Empfehlung für die weitere Behandlung durch teilnehmende Fachärztinnen und Fachärzte.\n\nUm den Effekt der Intervention messen zu können, wird das neue telemedizinische Versorgungskonzept mit der bestehenden Regelversorgung verglichen. Dazu werden die Patientinnen und Patienten beispielsweise zu ihrer Lebensqualität nach der Behandlung sowie zu ihrer Versorgungssituation befragt. Neben einer Prozessevaluation wird auch eine Kosten-Nutzen-Analyse durchgeführt. Das Projekt wird für 45 Monate mit insgesamt ca. 8,4 Millionen Euro gefördert.\n\nIm Erfolgsfall tragen die Projektergebnisse dazu bei, die Versorgung in ländlichen Regionen durch einen alternativen und effizienten Weg der patientenorientierten Versorgung zu verbessern. Darüber hinaus kann der Ansatz dazu beitragen, dem bundesweiten Fachkräftemangel in der Ärzteschaft entgegenzuwirken.",
+      "status": "laufend",
+      "states": [
+        "Brandenburg",
+        "Mecklenburg-Vorpommern"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ländliche Bevölkerung"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Neue Versorgungsformen",
+      "fundingArea": "Neue Versorgungsformen",
+      "fundingProcess": "einstufig lang",
+      "fundingSumLabel": "ca. 8,4 Mio. Euro",
+      "fundingSumEur": 8400000,
+      "duration": "07/2025 – 03/2029",
+      "startDate": "2025-07",
+      "endDate": "2029-03",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Dr. Christiana Franke",
+          "Charité – Universitätsmedizin Berlin",
+          "Klinik für Neurologie",
+          "Charitéplatz 1",
+          "10117 Berlin",
+          "+49 30 450-660883",
+          "christiana.franke@charite.de"
+        ],
+        "display": "Dr. Christiana Franke | Charité – Universitätsmedizin Berlin | Klinik für Neurologie | Charitéplatz 1 | 10117 Berlin | +49 30 450-660883 | christiana.franke@charite.de",
+        "name": "Dr. Christiana Franke",
+        "email": "christiana.franke@charite.de",
+        "phone": "+49 30 450-660883",
+        "postal_code": "10117",
+        "city": "Berlin",
+        "organization": "Charité – Universitätsmedizin Berlin",
+        "department": "Klinik für Neurologie",
+        "street": "Charitéplatz 1"
+      },
+      "projectLeadCity": "Berlin",
+      "partners": [],
+      "projectWebsites": [
+        "https://www.teneam.de/"
+      ],
+      "decisionDate": null,
+      "documents": [
+        {
+          "title": "01NVF24001 TENEAM Flyer Fachpersonal",
+          "meta": "(PDF 1,41 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/204/01NVF24001%20TENEAM_Flyer_Fachpersonal.pdf"
+        },
+        {
+          "title": "01NVF24001 TENEAM Plakat A3",
+          "meta": "(PDF 1,02 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/205/01NVF24001%20TENEAM_Plakat%20A3.pdf"
+        }
+      ],
+      "essentialElements": {}
+    },
+    {
+      "project_id": 580,
+      "slug": "themos.580",
+      "title": "TheMoS – Entwicklung der medizinischen S3-Leitlinie zur Therapie der Mobilität nach Schlaganfall",
+      "acronym": "TheMoS",
+      "url": "https://innovationsfonds.g-ba.de/projekte/themos.580",
+      "summary": "Innerhalb eines Jahres erleiden in Deutschland rund 1,6 Prozent aller Erwachsenen einen Schlaganfall. Zwei Drittel der Patientinnen und Patienten sind danach pflegebedürftig oder auf Unterstützung im Alltag angewiesen.",
+      "description": "Innerhalb eines Jahres erleiden in Deutschland rund 1,6 Prozent aller Erwachsenen einen Schlaganfall. Zwei Drittel der Patientinnen und Patienten sind danach pflegebedürftig oder auf Unterstützung im Alltag angewiesen. Der Schlaganfall ist die häufigste Ursache einer erworbenen Behinderung im Erwachsenenalter. Die dadurch ausgelösten Einschränkungen der Mobilität sind der häufigste Grund für die Beantragung einer Pflegestufe oder einer vollstationären Unterbringung. Wird eine spezifische Therapie rasch und konsequent umgesetzt, kann die jeweilige Störung häufig verringert werden.\n\nDie Projektpartner von TheMoS wollen gemeinsam eine S3-Leitlinie zur Therapie von Störungen der Mobilität nach einem Schlaganfall erarbeiten und damit vor allem die Standardisierung der Therapie verbessern. Dabei sollen die Therapieempfehlungen konkreten Zielkriterien folgen, wie beispielsweise der Fähigkeit, eigenständig gehen zu lernen oder weniger zu stürzen. Die vorhandene S2k-Leitlinie „Rehabilitation der Mobilität nach Schlaganfall“ (ReMoS) wird damit ersetzt.\n\nDie Besonderheit des geplanten Projekts besteht darin, dass die Forschungsgruppe über die systematische Literatursuche und –bewertung hinaus zielgruppenspezifische Versionen der Leitlinie entwickeln wird. Dafür werden unterschiedliche Berufsgruppen und Disziplinen wie Neurologie, Allgemeinmedizin oder Altersmedizin beteiligt. Die Perspektive der Betroffenen wird durch die Einbindung von Patientenvertretungen berücksichtigt. Das Projekt wird für zweieinhalb Jahre mit ca. 449.000 Euro gefördert.\n\nIm Erfolgsfall trägt die neue S3-Leitlinie zu einer besseren Versorgung von Patientinnen und Patienten mit Mobilitätsstörungen nach einem Schlaganfall bei. Ein Schlüssel wird dabei eine kontinuierliche Qualitätskontrolle der empfohlenen Therapien sein.",
+      "status": "laufend",
+      "states": [
+        "Berlin"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Sonstige"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Medizinische Leitlinien",
+      "fundingSumLabel": "ca. 449.000 Euro",
+      "fundingSumEur": 449000,
+      "duration": "10/2023 – 03/2026",
+      "startDate": "2023-10",
+      "endDate": "2026-03",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Dr. Christian Dohle",
+          "P.A.N. Zentrum für Post-Akute Neurorehabilitation der Fürst Donnersmarck-Stiftung zu Berlin",
+          "Rauentaler Straße 32",
+          "13465 Berlin",
+          "+49 30 40606231",
+          "c.dohle@panzentrum.de"
+        ],
+        "display": "Dr. Christian Dohle | P.A.N. Zentrum für Post-Akute Neurorehabilitation der Fürst Donnersmarck-Stiftung zu Berlin | Rauentaler Straße 32 | 13465 Berlin | +49 30 40606231 | c.dohle@panzentrum.de",
+        "name": "Dr. Christian Dohle",
+        "email": "c.dohle@panzentrum.de",
+        "phone": "+49 30 40606231",
+        "postal_code": "13465",
+        "city": "Berlin",
+        "organization": "P.A.N. Zentrum für Post-Akute Neurorehabilitation der Fürst Donnersmarck-Stiftung zu Berlin",
+        "street": "Rauentaler Straße 32"
+      },
+      "projectLeadCity": "Berlin",
+      "partners": [
+        "Ernst-Abbe-Hochschule Jena"
+      ],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {
+        "Prävention, Gesundheitsförderung und Gesundheitsverhalten": [
+          "Rehabilitation und Therapie"
+        ]
+      }
+    },
+    {
       "project_id": 764,
       "slug": "theratrain.764",
       "title": "TheraTrain – Erfolgreiche Durchführung von Eigenübungsprogrammen in der Heilmittelversorgung",
@@ -8984,6 +12821,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -9056,6 +12896,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Verletzung und Vergiftungen",
         "onkologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Pflegebedürftige"
@@ -9135,6 +12978,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Angehörige",
@@ -9239,6 +13085,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Menschen mit chronischen Krankheiten"
@@ -9281,6 +13130,69 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 750,
+      "slug": "ungleich.750",
+      "title": "UNGLEICH – Geschlechtsabhängige Unterschiede der Schlaganfall-Nachsorge",
+      "acronym": "UNGLEICH",
+      "url": "https://innovationsfonds.g-ba.de/projekte/ungleich.750",
+      "summary": "Der Schlaganfall zählt in Deutschland weiterhin zu den häufigsten Ursachen für Tod und erworbene Behinderungen wie Lähmungen, Gang- oder Sprachstörungen. Im Jahr 2022 traten beispielsweise 283.000 Fälle auf.",
+      "description": "Der Schlaganfall zählt in Deutschland weiterhin zu den häufigsten Ursachen für Tod und erworbene Behinderungen wie Lähmungen, Gang- oder Sprachstörungen. Im Jahr 2022 traten beispielsweise 283.000 Fälle auf. Nach der Akutbehandlung werden Schlaganfallbetroffene ambulant versorgt. Im Vordergrund stehen die Wiederherstellung der Fähigkeiten, für sich selbst zu sorgen, und die Vermeidung weiterer Schlaganfälle. In der wichtigen Versorgung nach einem Schlaganfall treten jedoch Unterschiede auf, durch die Frauen benachteiligt sind. Auch weitere Aspekte wie die Herkunft, die Bildung oder die wirtschaftliche Situation können sich nachteilig auswirken.\n\nDas Projektteam von UNGLEICH analysiert, ob die Versorgung nach einem Schlaganfall patientenzentriert, geschlechtergerecht und an medizinischen Leitlinien ausgerichtet erfolgt und wo es Verbesserungspotenzial gibt. Zu diesem Zweck werden zunächst anonymisierte Daten von Versicherten analysiert, die bereits einen Schlaganfall erlitten haben. Einbezogen werden dabei Daten des Krankenhausaufenthalts, beispielsweise Art und Schwere des Schlaganfalls oder die Medikation. Zudem werden Daten zur Leistungsinanspruchnahme nach dem Krankenhausaufenthalt berücksichtigt, beispielsweise Arzneimittelverordnungen, stationäre Rehabilitationsaufenthalte oder Heilmittelleistungen. Anschließend werden Schlaganfallbetroffene zu drei Zeitpunkten gebeten, einen Fragebogen auszufüllen. Damit wollen die Forschenden ihre Versorgung, deren Ergebnisse und die Zufriedenheit mit der Versorgung nachvollziehen. Ein weiterer Baustein des Projekts sind Interviews mit Schlaganfallbetroffenen, Hausärztinnen und Hausärzten sowie Neurologinnen und Neurologen zu deren Erfahrungen mit der Schlaganfall-Nachsorge. Die Daten der drei Erhebungen werden gemeinsam ausgewertet, um daraus Schlussfolgerungen für die Versorgung abzuleiten.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,4 Millionen Euro gefördert.\n\nMithilfe dieser Ergebnisse kann die Versorgung von Frauen sowie weiterer identifizierter benachteiligter Gruppen, die von einem Schlaganfall betroffen sind, verbessert werden. Sie können dabei in medizinische Leitlinien, Versorgungsverträge oder sektorenübergreifende Qualitätsmaßnahmen einfließen.",
+      "status": "laufend",
+      "states": [
+        "Hessen"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "ältere Menschen",
+        "Angehörige",
+        "Erwachsene"
+      ],
+      "careSetting": "sektorenübergreifend",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 1,4 Mio. Euro",
+      "fundingSumEur": 1400000,
+      "duration": "01/2026 – 12/2028",
+      "startDate": "2026-01",
+      "endDate": "2028-12",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Prof. Dr. Max Geraedts",
+          "Philipps-Universität Marburg",
+          "Institut für Gesundheitsversorgungsforschung und Klinische Epidemiologie",
+          "Karl-von-Frisch-Straße 4",
+          "35043 Marburg",
+          "+49 6421 28 66243",
+          "geraedts@uni-marburg.de"
+        ],
+        "display": "Prof. Dr. Max Geraedts | Philipps-Universität Marburg | Institut für Gesundheitsversorgungsforschung und Klinische Epidemiologie | Karl-von-Frisch-Straße 4 | 35043 Marburg | +49 6421 28 66243 | geraedts@uni-marburg.de",
+        "name": "Prof. Dr. Max Geraedts",
+        "email": "geraedts@uni-marburg.de",
+        "phone": "+49 6421 28 66243",
+        "postal_code": "35043",
+        "city": "Marburg",
+        "organization": "Philipps-Universität Marburg",
+        "department": "Institut für Gesundheitsversorgungsforschung und Klinische Epidemiologie",
+        "street": "Karl-von-Frisch-Straße 4"
+      },
+      "projectLeadCity": "Marburg",
+      "partners": [
+        "AOK-Bundesverband eGbR",
+        "Landesarbeitsgemeinschaft Qualitätssicherung Hessen GbR"
+      ],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
       "project_id": 462,
       "slug": "vac-mac.462",
       "title": "VAC-MAC – Impf- und Infektraten bei Multipler Sklerose (MS), chronisch entzündlich-rheumatischen Erkrankungen (CIRD) oder chronisch entzündlichen Darmerkrankungen (CED)",
@@ -9299,6 +13211,9 @@ window.GBA_NEUROLOGY_DATA = {
         "Impfungen und Infektionskrankheiten",
         "neurologische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -9372,6 +13287,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "Erwachsene",
         "Kinder und Jugendliche"
@@ -9437,12 +13355,16 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "In Deutschland leben heute ca. 1,8 Millionen Menschen mit Demenz, jährlich erkranken ca. 440.000 neu. Die häufigste Ursache einer Demenz ist die Alzheimer-Krankheit, die meist mit einer leichten kognitiven Störung beginnt. Nach und nach verlieren die Betroffenen ihre kognitiven, emotionalen und sozialen Fähigkeiten. Sie sind mittel- und langfristig auf Hilfe und Pflege angewiesen. Eine frühzeitige Beratung und Unterstützung ist sinnvoll. Die S3-Leitlinie Demenzen empfiehlt daher eine rechtzeitige Diagnose von Alzheimer.\n\nAlzheimer kann mit Hilfe von Biomarkern bereits im Stadium leichter kognitiver Beeinträchtigungen und leichter Demenz erkannt werden. Dennoch werden Demenzerkrankungen oft spät und nicht ursächlich diagnostiziert. Besonders Hausärztinnen und Hausärzte stehen oft vor der Herausforderung, eine frühe Alzheimer-Diagnose zu stellen, da die Symptome in den Anfangsstadien unspezifisch und schwer einzuordnen sind. Spezialisierte Diagnostikzentren sind in ihrer Kapazität begrenzt, was zu langen Wartezeiten führt. Hier setzt das Projekt VERF-AK an, indem es speziell geschultes Personal als expertenbasierte Schnittstelle zwischen Hausarztpraxen und spezialisierten Zentren etabliert. Diese Personen übernehmen eine erste Untersuchung bei Verdacht auf eine leichte kognitive Störung und informieren über weitere diagnostische Schritte, wie z. B eine Biomarker-Bestimmung. Dazu erfassen sie die Krankengeschichte und mögliche aktuelle Funktionseinschränkungen der Patientinnen und Patienten und führen neurophysiologische Tests durch. Je nach Ergebnis überweisen sie die Patientinnen und Patienten an die auf Demenz spezialisierten Diagnostikzentren oder zurück an die zuweisende Praxis.\n\nDieses Vorgehen soll den Betroffenen eine zielgerichtete Diagnostik und Versorgung ermöglichen und die Leistungserbringer entlasten. Untersucht wird auch, wie die Teilnehmerinnen und Teilnehmer sowie die Leistungserbringer die neue Versorgungsform bewerten, und ob diese im Vergleich zur bisherigen Regelversorgung kostengünstiger ist. Das Projekt wird für drei Jahre mit insgesamt ca. 3,4 Millionen Euro gefördert.\n\nIm Erfolgsfall trägt das Projekt dazu bei, Menschen mit Demenz frühzeitig besser zu versorgen und die vorhandenen Ressourcen effizienter zu nutzen.",
       "status": "laufend",
       "states": [
-        "Ohne Zuordnung"
+        "Niedersachsen",
+        "Nordrhein-Westfalen"
       ],
       "thematicFocuses": [
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene"
@@ -9492,6 +13414,64 @@ window.GBA_NEUROLOGY_DATA = {
       "essentialElements": {}
     },
     {
+      "project_id": 470,
+      "slug": "visit-stroke.470",
+      "title": "VISIT STROKE – Effektivität telemedizinischer Visiten in der stationären Schlaganfallversorgung",
+      "acronym": "VISIT STROKE",
+      "url": "https://innovationsfonds.g-ba.de/projekte/visit-stroke.470",
+      "summary": "Jährlich erleiden in Deutschland rund 270.000 Menschen einen Schlaganfall.",
+      "description": "Jährlich erleiden in Deutschland rund 270.000 Menschen einen Schlaganfall. Eine schnelle Diagnose und angemessene Versorgung ist für die Betroffenen deshalb überlebenswichtig, angesichts des Fachkräftemangels gerade im ländlichen Raum aber oft nur schwer zu gewährleisten. In vielen ländlichen Kliniken ist fachärztliche neurologische Expertise für stationär behandelte Schlaganfallpatientinnen und -patienten nicht kontinuierlich verfügbar. Mit Hilfe von Telemedizin soll das Projekt VISIT STROKE hier Abhilfe schaffen.\n\nEs soll untersucht werden, ob telemedizinische Visiten – d. h. eine unterstützende medizinische Abklärung per Video – bei stationär behandelten Patientinnen und Patienten eine gleichwertige oder sogar bessere Versorgung erlauben als Visiten von Neurologinnen und Neurologen, die vor Ort tätig sind. So könnten mehr Patientinnen und Patienten im ländlichen Raum von der spezialisierten Expertise in der Diagnostik und Behandlung von Schlaganfällen profitieren. Dies würde die Sterblichkeitsrate senken und die Therapie verbessern.\n\nDazu führen die Projektbeteiligten eine multizentrische Studie mit 523 Patientinnen und Patienten durch, die einen Schlaganfall erlitten haben. Diese werden mittels telemedizinischer Visite und durch Neurologinnen und Neurologen vor Ort untersucht. Unabhängige Expertinnen und Experten überprüfen und vergleichen die fachliche Qualität der Behandlungsempfehlungen aus den telemedizinischen und den Vor-Ort-Visiten miteinander. Das Projekt wird für 40 Monate mit insgesamt ca. 493.000 Euro gefördert.\n\nDer Nachweis der Gleichwertigkeit beider Optionen würde es erlauben, die telemedizinische Unterstützung auf die stationäre Schlaganfallbehandlung auszudehnen. Dies wird bisher nur in der Akutversorgung des Schlaganfalls praktiziert, könnte aber dazu beitragen den Mangel an neurologischen Fachkräften im ländlichen Raum zumindest teilweise zu kompensieren.",
+      "status": "Abschlussbericht wird erstellt",
+      "states": [
+        "Berlin"
+      ],
+      "thematicFocuses": [
+        "neurologische Erkrankungen"
+      ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "exclusive",
+      "targetGroups": [
+        "Erwachsene"
+      ],
+      "careSetting": "stationär",
+      "fundingCategory": "Versorgungsforschung",
+      "fundingArea": "Versorgungsforschung",
+      "fundingProcess": "Versorgungsforschung",
+      "fundingSumLabel": "ca. 493.000 Euro",
+      "fundingSumEur": 493000,
+      "duration": "03/2022 – 06/2025",
+      "startDate": "2022-03",
+      "endDate": "2025-06",
+      "transferRecommendation": "",
+      "projectLead": {
+        "raw_lines": [
+          "Dr. Janina Behrens",
+          "Charité-Universitätsmedizin Berlin",
+          "Klinik für Neurologie und Experimentelle Neurologie CBF",
+          "Hindenburgdamm 30",
+          "12200 Berlin",
+          "+49 30 450 544 596",
+          "janina.behrens@charite.de"
+        ],
+        "display": "Dr. Janina Behrens | Charité-Universitätsmedizin Berlin | Klinik für Neurologie und Experimentelle Neurologie CBF | Hindenburgdamm 30 | 12200 Berlin | +49 30 450 544 596 | janina.behrens@charite.de",
+        "name": "Dr. Janina Behrens",
+        "email": "janina.behrens@charite.de",
+        "phone": "+49 30 450 544 596",
+        "postal_code": "12200",
+        "city": "Berlin",
+        "organization": "Charité-Universitätsmedizin Berlin",
+        "department": "Klinik für Neurologie und Experimentelle Neurologie CBF",
+        "street": "Hindenburgdamm 30"
+      },
+      "projectLeadCity": "Berlin",
+      "partners": [],
+      "projectWebsites": [],
+      "decisionDate": null,
+      "documents": [],
+      "essentialElements": {}
+    },
+    {
       "project_id": 574,
       "slug": "watch.574",
       "title": "WATCH – Mobile WohnortnAhe Versorgung zur Steuerung der sektorübergreifenden Therapie bei Post-COVID-19 in THüringen",
@@ -9511,6 +13491,9 @@ window.GBA_NEUROLOGY_DATA = {
         "neurologische Erkrankungen",
         "psychische Erkrankungen"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",
@@ -9575,7 +13558,23 @@ window.GBA_NEUROLOGY_DATA = {
       "description": "Das Nationale Aktionsbündnis für Menschen mit Seltenen Erkrankungen sieht für die Versorgung der Betroffenen spezialisierte Zentren vor. Eine der wichtigsten Aufgaben dieser Zentren ist es, geeignete krankheitsübergreifende Strukturen und Abläufe zur Diagnosefindung bei Menschen mit unklarer Diagnose und Verdacht auf eine seltene Erkrankung zu etablieren. Eine besondere Herausforderung stellen dabei die Anfragen von Menschen mit komplexen Beschwerdebildern dar, bei denen eine seltene Erkrankung als Ursache vermutet wird.\n\nZiele der neuen Versorgungsform sind deshalb:\n\nUm die vier Ziele zu erreichen, wird in den elf am Projekt beteiligten Zentren für seltene Erkrankungen eine besondere zweigleisige oder duale Lotsen-Anlaufstelle geschaffen. Die psychiatrisch-somatische Expertise ist hier – neben einer somatisch-fachärztlichen – von Anfang gleichberechtigt beteiligt. An der Studie sollen etwa 1.300 Patienten teilnehmen. Da die Patienten häufig weit vom Zentrum entfernt leben und zum Teil stark eingeschränkt sind, sollen zusätzlich telemedizinische Ansätze eingeführt werden. Sie werden neben den etablierten Strukturen einer Präsenzsprechstunde bzw. psychosomatischen Betreuung im Rahmen der Regelversorgung etabliert. Neu in der geplanten Versorgungsform ist, dass der Patient von Anfang an bei der Abklärung seiner Erkrankung von einem fachärztlichen Lotsen-Duo begleitet wird. Das Projekt wird für 48 Monate mit insgesamt ca. 5,5 Millionen Euro gefördert.\n\nDie Erfahrungen aus dem Projekt sollen zudem als Modell für andere Versorgungsstrukturen dienen, bei denen eine komplexe Symptomatik die zeitgleiche Betreuung durch Ärzte unterschiedlicher Fachrichtungen sinnvoll erscheinen lässt. Dies ist beispielsweise bei Schmerzpatienten der Fall.",
       "status": "beendet",
       "states": [
-        "Ohne Zuordnung"
+        "Baden-Württemberg",
+        "Bayern",
+        "Berlin",
+        "Brandenburg",
+        "Bremen",
+        "bundesweit",
+        "Hamburg",
+        "Hessen",
+        "Mecklenburg-Vorpommern",
+        "Niedersachsen",
+        "Nordrhein-Westfalen",
+        "Rheinland-Pfalz",
+        "Saarland",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Schleswig-Holstein",
+        "Thüringen"
       ],
       "thematicFocuses": [
         "Atemwegserkrankungen und Beatmung",
@@ -9599,6 +13598,9 @@ window.GBA_NEUROLOGY_DATA = {
         "psychische Erkrankungen",
         "Sonstige"
       ],
+      "neurologySourceMatch": true,
+      "neurologyExplicitFocus": true,
+      "neurologyFocusScope": "multiple",
       "targetGroups": [
         "ältere Menschen",
         "Erwachsene",

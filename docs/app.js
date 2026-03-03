@@ -1,26 +1,28 @@
 const BASE_STATE_LAYOUT = [
-  { name: "bundesweit", label: "Bundesweit", code: "DE", x: 3, y: 8, w: 16, h: 22 },
-  { name: "Ohne Zuordnung", label: "Ohne Bundesland", code: "NA", x: 3, y: 34, w: 18, h: 16 },
-  { name: "Schleswig-Holstein", code: "SH", x: 37, y: 4, w: 18, h: 12 },
-  { name: "Hamburg", code: "HH", x: 42, y: 18, w: 13, h: 11 },
-  { name: "Mecklenburg-Vorpommern", code: "MV", x: 66, y: 6, w: 24, h: 14 },
-  { name: "Bremen", code: "HB", x: 27, y: 28, w: 12, h: 11 },
-  { name: "Niedersachsen", code: "NI", x: 40, y: 27, w: 27, h: 16 },
-  { name: "Berlin", code: "BE", x: 69, y: 29, w: 12, h: 11 },
-  { name: "Brandenburg", code: "BB", x: 81, y: 26, w: 16, h: 18 },
-  { name: "Nordrhein-Westfalen", code: "NW", x: 16, y: 44, w: 20, h: 17 },
-  { name: "Sachsen-Anhalt", code: "ST", x: 60, y: 45, w: 17, h: 14 },
-  { name: "Hessen", code: "HE", x: 41, y: 50, w: 17, h: 15 },
-  { name: "Thüringen", code: "TH", x: 60, y: 59, w: 15, h: 13 },
-  { name: "Sachsen", code: "SN", x: 76, y: 58, w: 17, h: 15 },
-  { name: "Rheinland-Pfalz", code: "RP", x: 27, y: 64, w: 15, h: 15 },
-  { name: "Saarland", code: "SL", x: 17, y: 79, w: 12, h: 10 },
-  { name: "Baden-Württemberg", code: "BW", x: 39, y: 73, w: 22, h: 18 },
-  { name: "Bayern", code: "BY", x: 63, y: 74, w: 29, h: 19 },
+  { name: "bundesweit", label: "Bundesweit", code: "DE", x: 2, y: 8, w: 15, h: 18 },
+  { name: "Ohne Zuordnung", label: "Ohne Bundesland", code: "NA", x: 2, y: 30, w: 17, h: 14 },
+  { name: "Schleswig-Holstein", code: "SH", x: 36, y: 5, w: 17, h: 10 },
+  { name: "Hamburg", code: "HH", x: 41, y: 18, w: 12, h: 9 },
+  { name: "Mecklenburg-Vorpommern", code: "MV", x: 67, y: 7, w: 23, h: 12 },
+  { name: "Bremen", code: "HB", x: 27, y: 29, w: 11, h: 10 },
+  { name: "Niedersachsen", code: "NI", x: 39, y: 28, w: 28, h: 15 },
+  { name: "Berlin", code: "BE", x: 70, y: 30, w: 10, h: 10 },
+  { name: "Brandenburg", code: "BB", x: 81, y: 27, w: 15, h: 16 },
+  { name: "Nordrhein-Westfalen", code: "NW", x: 16, y: 46, w: 20, h: 15 },
+  { name: "Sachsen-Anhalt", code: "ST", x: 59, y: 45, w: 16, h: 13 },
+  { name: "Hessen", code: "HE", x: 42, y: 51, w: 16, h: 13 },
+  { name: "Thüringen", code: "TH", x: 60, y: 58, w: 14, h: 12 },
+  { name: "Sachsen", code: "SN", x: 76, y: 57, w: 17, h: 13 },
+  { name: "Rheinland-Pfalz", code: "RP", x: 28, y: 64, w: 14, h: 14 },
+  { name: "Saarland", code: "SL", x: 17, y: 78, w: 11, h: 9 },
+  { name: "Baden-Württemberg", code: "BW", x: 40, y: 72, w: 21, h: 17 },
+  { name: "Bayern", code: "BY", x: 63, y: 73, w: 28, h: 18 },
 ];
+const AUXILIARY_MAP_NODES = new Set(["bundesweit", "Ohne Zuordnung"]);
 
 const appState = {
   search: "",
+  focusScope: "all",
   status: "all",
   funding: "all",
   target: "all",
@@ -31,9 +33,12 @@ const appState = {
 
 const elements = {
   heroStats: document.querySelector("#hero-stats"),
+  classificationNote: document.querySelector("#classification-note"),
+  heroFocusBreakdown: document.querySelector("#hero-focus-breakdown"),
   sourceLink: document.querySelector("#source-link"),
   generatedAt: document.querySelector("#generated-at"),
   searchInput: document.querySelector("#search-input"),
+  focusScopeFilter: document.querySelector("#focus-scope-filter"),
   statusFilter: document.querySelector("#status-filter"),
   fundingFilter: document.querySelector("#funding-filter"),
   targetFilter: document.querySelector("#target-filter"),
@@ -55,7 +60,7 @@ const data = window.GBA_NEUROLOGY_DATA;
 
 if (!data) {
   document.body.innerHTML =
-    "<p style='padding:24px;font-family:sans-serif'>Die Datendatei fehlt. Führen Sie zuerst <code>gba-refresh</code> aus.</p>";
+    "<p style='padding:24px;font-family:Arial,sans-serif'>Die Datendatei fehlt. Führen Sie zuerst <code>gba-refresh</code> aus.</p>";
   throw new Error("Missing site payload.");
 }
 
@@ -69,17 +74,22 @@ const stateLayout = (() => {
       name,
       label: name,
       code: "EX",
-      x: 4 + (index % 2) * 20,
-      y: 82 + Math.floor(index / 2) * 12,
+      x: 3 + (index % 2) * 20,
+      y: 82 + Math.floor(index / 2) * 11,
       w: 18,
-      h: 11,
+      h: 10,
     }));
   return [...BASE_STATE_LAYOUT, ...extras];
 })();
+
 const stateLabelByName = new Map(stateLayout.map((entry) => [entry.name, entry.label || entry.name]));
 
 function stateLabel(name) {
   return stateLabelByName.get(name) || name;
+}
+
+function isAuxiliaryMapNode(name) {
+  return AUXILIARY_MAP_NODES.has(name);
 }
 
 function formatNumber(value) {
@@ -117,6 +127,24 @@ function normalize(value) {
     .toLowerCase();
 }
 
+function focusScopeLabel(value) {
+  const option = data.filters.focusScopes.find((item) => item.value === value);
+  return option ? option.label : value;
+}
+
+function focusScopeBadge(project) {
+  if (project.neurologyFocusScope === "exclusive") {
+    return { label: "nur Neurologie", className: "scope-exclusive" };
+  }
+  if (project.neurologyFocusScope === "multiple") {
+    return { label: "mehrere Schwerpunkte", className: "scope-multiple" };
+  }
+  if (project.neurologyFocusScope === "online_filter_only") {
+    return { label: "im Online-Filter", className: "scope-online-only" };
+  }
+  return { label: "neurologisch", className: "scope-default" };
+}
+
 function setSelectOptions(select, options, label, formatter = (value) => value) {
   const values = ["all", ...options];
   select.innerHTML = values
@@ -127,14 +155,55 @@ function setSelectOptions(select, options, label, formatter = (value) => value) 
     .join("");
 }
 
+function fillFocusScopeOptions() {
+  const options = data.filters.focusScopes.filter((option) => option.value === "all" || option.count > 0);
+  elements.focusScopeFilter.innerHTML = options
+    .map(
+      (option) =>
+        `<option value="${option.value}">${option.label} (${formatNumber(option.count)})</option>`
+    )
+    .join("");
+}
+
 function renderHero() {
-  elements.sourceLink.href = data.source.listUrl;
+  elements.sourceLink.href = data.source.neurologyFilterUrl || data.source.listUrl;
   elements.generatedAt.textContent = formatDate(data.generatedAt);
+
+  const breakdownParts = [
+    `${formatNumber(data.overview.onlineFilterNeurologyProjects)} Treffer in der Online-Maske`,
+    `${formatNumber(data.overview.exclusiveNeurologyProjects)} nur neurologisch`,
+    `${formatNumber(data.overview.multiFocusNeurologyProjects)} mit weiteren Schwerpunkten`,
+  ];
+  if (data.overview.onlineFilterOnlyProjects) {
+    breakdownParts.push(
+      `${formatNumber(data.overview.onlineFilterOnlyProjects)} ohne sichtbare Schwerpunktangabe`
+    );
+  }
+  elements.heroFocusBreakdown.textContent = breakdownParts.join(" · ");
+
+  elements.classificationNote.innerHTML = `
+    <p>
+      <strong>Abgleich mit der öffentlichen G-BA-Maske:</strong>
+      <a href="${data.source.neurologyFilterUrl}" target="_blank" rel="noreferrer">
+        ${formatNumber(data.classification.onlineFilterCount)} Treffer
+      </a>
+      am Online-Filter für neurologische Erkrankungen. Davon haben
+      ${formatNumber(data.classification.exclusiveCount)} Projekte ausschließlich Neurologie als
+      Schwerpunkt, ${formatNumber(data.classification.multiFocusCount)} führen Neurologie als einen
+      von mehreren Schwerpunkten.
+      ${
+        data.classification.onlineFilterOnlyCount
+          ? ` ${formatNumber(data.classification.onlineFilterOnlyCount)} Projekte erscheinen im Online-Filter, ohne dass auf der Detailseite ein Schwerpunktfeld sichtbar ist.`
+          : ""
+      }
+    </p>
+  `;
+
   elements.heroStats.innerHTML = [
-    { label: "Neurologie-Projekte", value: data.overview.neurologyProjects },
-    { label: "Gesamt gescrapte Projekte", value: data.overview.totalProjectsScraped },
-    { label: "Bundesländer mit Projekten", value: data.overview.statesWithNeurologyProjects },
-    { label: "Fördervolumen Neurologie", value: formatCurrency(data.overview.totalFundingEur) },
+    { label: "Online-Filter-Treffer", value: data.overview.onlineFilterNeurologyProjects },
+    { label: "nur Neurologie", value: data.overview.exclusiveNeurologyProjects },
+    { label: "mehrere Schwerpunkte", value: data.overview.multiFocusNeurologyProjects },
+    { label: "Fördervolumen", value: formatCurrency(data.overview.totalFundingEur) },
   ]
     .map(
       (item) => `
@@ -148,6 +217,7 @@ function renderHero() {
 }
 
 function fillFilters() {
+  fillFocusScopeOptions();
   setSelectOptions(elements.statusFilter, data.filters.statuses, "Status");
   setSelectOptions(elements.fundingFilter, data.filters.fundingCategories, "Förderkategorien");
   setSelectOptions(elements.targetFilter, data.filters.targetGroups, "Zielgruppen");
@@ -156,6 +226,8 @@ function fillFilters() {
 
 function projectMatches(project, options = {}) {
   const ignoreState = options.ignoreState === true;
+
+  if (appState.focusScope !== "all" && project.neurologyFocusScope !== appState.focusScope) return false;
   if (appState.status !== "all" && project.status !== appState.status) return false;
   if (appState.funding !== "all" && project.fundingCategory !== appState.funding) return false;
   if (appState.target !== "all" && !project.targetGroups.includes(appState.target)) return false;
@@ -173,6 +245,7 @@ function projectMatches(project, options = {}) {
       project.projectLeadCity,
       project.partners.join(" "),
       project.states.join(" "),
+      project.thematicFocuses.join(" "),
     ].join(" ")
   );
   return haystack.includes(normalize(appState.search));
@@ -202,6 +275,7 @@ function getFilteredProjects(options = {}) {
 function buildSelectionSummary(filteredProjects) {
   const pills = [
     `${formatNumber(filteredProjects.length)} Treffer`,
+    appState.focusScope !== "all" ? focusScopeLabel(appState.focusScope) : null,
     appState.state ? `Bundesland: ${stateLabel(appState.state)}` : null,
     appState.status !== "all" ? `Status: ${appState.status}` : null,
     appState.funding !== "all" ? `Förderkategorie: ${appState.funding}` : null,
@@ -215,16 +289,19 @@ function buildSelectionSummary(filteredProjects) {
 function mapTileAppearance(count, maxCount) {
   if (!count) {
     return {
-      background:
-        "linear-gradient(180deg, rgba(255, 255, 255, 0.58), rgba(244, 239, 231, 0.7))",
-      shadow: "0 8px 18px rgba(19, 32, 55, 0.04)",
+      background: "linear-gradient(180deg, rgba(255,255,255,0.88), rgba(240,244,249,0.92))",
+      textColor: "var(--muted)",
+      borderColor: "rgba(32, 58, 102, 0.10)",
+      shadow: "0 12px 22px rgba(13, 31, 66, 0.05)",
     };
   }
 
   const intensity = count / maxCount;
   return {
-    background: `linear-gradient(180deg, rgba(255, 255, 255, ${0.95 - intensity * 0.25}), rgba(215, 107, 26, ${0.14 + intensity * 0.28}), rgba(19, 32, 55, ${0.12 + intensity * 0.18}))`,
-    shadow: `0 18px 34px rgba(19, 32, 55, ${0.1 + intensity * 0.12})`,
+    background: `linear-gradient(180deg, rgba(255,255,255,0.98), rgba(0, 168, 223, ${0.12 + intensity * 0.22}), rgba(28, 47, 105, ${0.08 + intensity * 0.22}))`,
+    textColor: "var(--ink)",
+    borderColor: `rgba(0, 168, 223, ${0.18 + intensity * 0.32})`,
+    shadow: `0 18px 32px rgba(28, 47, 105, ${0.08 + intensity * 0.14})`,
   };
 }
 
@@ -236,7 +313,7 @@ function renderMapSummary(counts, totalProjects) {
   elements.mapActiveCount.textContent = formatProjectCount(activeCount);
 
   const topStates = [...counts.entries()]
-    .filter(([, count]) => count > 0)
+    .filter(([name, count]) => count > 0 && !isAuxiliaryMapNode(name))
     .sort((left, right) => right[1] - left[1] || stateLabel(left[0]).localeCompare(stateLabel(right[0]), "de"))
     .slice(0, 5);
 
@@ -281,8 +358,9 @@ function renderMap(mapProjects) {
   });
 
   const maxCount = Math.max(1, ...counts.values());
+  const visibleLayout = stateLayout.filter((state) => !isAuxiliaryMapNode(state.name) || (counts.get(state.name) || 0) > 0);
 
-  elements.stateMap.innerHTML = stateLayout
+  elements.stateMap.innerHTML = visibleLayout
     .map((state) => {
       const count = counts.get(state.name) || 0;
       const appearance = mapTileAppearance(count, maxCount);
@@ -304,15 +382,16 @@ function renderMap(mapProjects) {
             width:${state.w}%;
             height:${state.h}%;
             background:${appearance.background};
+            border-color:${appearance.borderColor};
             box-shadow:${appearance.shadow};
+            color:${appearance.textColor};
           "
         >
           <div class="state-code">${state.code}</div>
           <div class="state-copy">
             <span class="state-name">${state.label || state.name}</span>
-            <span class="state-count">${count ? tileLabel : "Keine Treffer"}</span>
+            <span class="state-count">${tileLabel}</span>
           </div>
-          <span class="count-burst">${count}</span>
         </button>
       `;
     })
@@ -330,16 +409,17 @@ function renderMap(mapProjects) {
 }
 
 function renderProjectList(filteredProjects) {
+  const focusLabel = appState.focusScope !== "all" ? focusScopeLabel(appState.focusScope) : "Neurologie-Projekte";
   elements.resultsTitle.textContent = appState.state
-    ? `Neurologie-Projekte in ${stateLabel(appState.state)}`
-    : "Neurologie-Projekte";
+    ? `${focusLabel} in ${stateLabel(appState.state)}`
+    : focusLabel;
   elements.resultsCount.textContent = `${formatNumber(filteredProjects.length)} angezeigt`;
 
   if (!filteredProjects.length) {
     appState.projectId = null;
     elements.projectList.innerHTML = `
       <p class="empty-results">
-        Keine Projekte passen zu der aktuellen Kombination aus Suche, Filtern und Bundesland.
+        Keine Projekte passen zu der aktuellen Kombination aus Suche, Neurologie-Definition und Filtern.
       </p>
     `;
     return;
@@ -352,13 +432,14 @@ function renderProjectList(filteredProjects) {
   elements.projectList.innerHTML = filteredProjects
     .map((project) => {
       const activeClass = appState.projectId === project.project_id ? "active" : "";
+      const scopeBadge = focusScopeBadge(project);
       return `
         <article class="project-card ${activeClass}" data-project-id="${project.project_id}">
           <h3>${project.title}</h3>
           <div class="project-meta">
-            <span class="meta-pill">${project.status || "Status offen"}</span>
+            <span class="meta-pill meta-pill-strong">${project.status || "Status offen"}</span>
             <span class="meta-pill">${project.states.join(", ") || "ohne Bundesland"}</span>
-            <span class="meta-pill">${project.fundingCategory || "Förderkategorie k. A."}</span>
+            <span class="meta-pill ${scopeBadge.className}">${scopeBadge.label}</span>
           </div>
           <p>${project.summary || "Keine Kurzbeschreibung verfügbar."}</p>
         </article>
@@ -387,6 +468,7 @@ function renderDetail(project) {
     return;
   }
 
+  const scopeBadge = focusScopeBadge(project);
   elements.detailTitle.textContent = project.acronym || project.title;
 
   const websites = project.projectWebsites.length
@@ -419,14 +501,22 @@ function renderDetail(project) {
   elements.detailBody.innerHTML = `
     <div class="detail-block">
       <div class="detail-meta">
-        <span class="meta-pill">${project.status || "Status k. A."}</span>
+        <span class="meta-pill meta-pill-strong">${project.status || "Status k. A."}</span>
         <span class="meta-pill">${project.states.join(", ") || "Bundesland k. A."}</span>
-        <span class="meta-pill">${project.fundingCategory || "Förderkategorie k. A."}</span>
+        <span class="meta-pill ${scopeBadge.className}">${scopeBadge.label}</span>
       </div>
       <p>${project.description || "Keine ausführliche Projektbeschreibung verfügbar."}</p>
     </div>
 
     <div class="detail-block detail-kv">
+      <div class="detail-kv-row">
+        <strong>Neurologie-Einordnung</strong>
+        <span>${scopeBadge.label}</span>
+      </div>
+      <div class="detail-kv-row">
+        <strong>Themenschwerpunkte</strong>
+        <span>${project.thematicFocuses.length ? project.thematicFocuses.join(", ") : "nicht sichtbar ausgewiesen"}</span>
+      </div>
       <div class="detail-kv-row">
         <strong>Laufzeit</strong>
         <span>${project.duration || "k. A."}</span>
@@ -498,6 +588,11 @@ function wireEvents() {
     rerender();
   });
 
+  elements.focusScopeFilter.addEventListener("change", (event) => {
+    appState.focusScope = event.target.value;
+    rerender();
+  });
+
   elements.statusFilter.addEventListener("change", (event) => {
     appState.status = event.target.value;
     rerender();
@@ -520,12 +615,14 @@ function wireEvents() {
 
   elements.resetFilters.addEventListener("click", () => {
     appState.search = "";
+    appState.focusScope = "all";
     appState.status = "all";
     appState.funding = "all";
     appState.target = "all";
     appState.state = null;
     appState.sort = "title";
     elements.searchInput.value = "";
+    elements.focusScopeFilter.value = "all";
     elements.statusFilter.value = "all";
     elements.fundingFilter.value = "all";
     elements.targetFilter.value = "all";

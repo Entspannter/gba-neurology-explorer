@@ -80,6 +80,9 @@ def compact_project(project: dict[str, Any]) -> dict[str, Any]:
         "status": project.get("status", ""),
         "states": states,
         "thematicFocuses": project.get("thematic_focuses", []),
+        "neurologySourceMatch": project.get("matches_neurology_online_filter", False),
+        "neurologyExplicitFocus": project.get("has_explicit_neurology_focus", False),
+        "neurologyFocusScope": project.get("neurology_focus_scope", "none"),
         "targetGroups": project.get("target_groups", []),
         "careSetting": project.get("care_setting", ""),
         "fundingCategory": project.get("funding_category", ""),
@@ -103,7 +106,11 @@ def compact_project(project: dict[str, Any]) -> dict[str, Any]:
 
 def build_payload(projects: list[dict[str, Any]]) -> dict[str, Any]:
     valid_projects = [project for project in projects if not project.get("error")]
-    neurology_projects = [compact_project(project) for project in valid_projects if project.get("is_neurology")]
+    neurology_projects = [
+        compact_project(project)
+        for project in valid_projects
+        if project.get("matches_neurology_online_filter")
+    ]
     neurology_projects.sort(key=lambda project: clean_text(project["title"]).casefold())
 
     state_counter: Counter[str] = Counter()
@@ -114,6 +121,10 @@ def build_payload(projects: list[dict[str, Any]]) -> dict[str, Any]:
     status_counter: Counter[str] = Counter(project.get("status", "") for project in neurology_projects)
     total_funding = sum(project.get("fundingSumEur") or 0 for project in neurology_projects)
     states_for_ui = ordered_states(state_counter)
+    exclusive_count = sum(1 for project in neurology_projects if project.get("neurologyFocusScope") == "exclusive")
+    multiple_count = sum(1 for project in neurology_projects if project.get("neurologyFocusScope") == "multiple")
+    online_only_count = sum(1 for project in neurology_projects if project.get("neurologyFocusScope") == "online_filter_only")
+    explicit_count = sum(1 for project in neurology_projects if project.get("neurologyExplicitFocus"))
 
     payload = {
         "generatedAt": datetime.now(UTC).replace(microsecond=0).isoformat(),
@@ -121,14 +132,39 @@ def build_payload(projects: list[dict[str, Any]]) -> dict[str, Any]:
             "listUrl": LIST_URL,
             "projectCount": len(valid_projects),
             "neurologyCount": len(neurology_projects),
+            "neurologyFilterUrl": (
+                "https://innovationsfonds.g-ba.de/projekte/"
+                "?projektname=&themenschwerpunkt=neurologische+Erkrankungen&zielgruppe="
+                "&projektelemente%5BprojektelementGruppe%5D=&projektelemente%5Bprojektelement%5D="
+                "&foerderbereich%5Bfoerderbereich%5D=&foerderbereich%5Bfoerderverfahren%5D="
+                "&versorgungsbereich=&bundesland=&status%5Bstatus%5D=&status%5Btransferempfehlung%5D="
+                "&sort=projekt.akronym&direction=asc"
+            ),
         },
         "overview": {
             "totalProjectsScraped": len(valid_projects),
             "neurologyProjects": len(neurology_projects),
+            "onlineFilterNeurologyProjects": len(neurology_projects),
+            "explicitNeurologyProjects": explicit_count,
+            "exclusiveNeurologyProjects": exclusive_count,
+            "multiFocusNeurologyProjects": multiple_count,
+            "onlineFilterOnlyProjects": online_only_count,
             "activeNeurologyProjects": sum(1 for project in neurology_projects if project.get("status") != "beendet"),
             "completedNeurologyProjects": status_counter.get("beendet", 0),
             "statesWithNeurologyProjects": sum(1 for state in STATE_ORDER if state_counter.get(state, 0)),
             "totalFundingEur": total_funding,
+        },
+        "classification": {
+            "onlineFilterCount": len(neurology_projects),
+            "explicitCount": explicit_count,
+            "exclusiveCount": exclusive_count,
+            "multiFocusCount": multiple_count,
+            "onlineFilterOnlyCount": online_only_count,
+            "note": (
+                "Die Standardansicht folgt der öffentlichen G-BA-Online-Maske für "
+                "„neurologische Erkrankungen“. Ein Teil der Projekte führt Neurologie "
+                "als einen von mehreren Themenschwerpunkten."
+            ),
         },
         "filters": {
             "statuses": sorted({project.get("status", "") for project in neurology_projects if project.get("status")}),
@@ -136,6 +172,28 @@ def build_payload(projects: list[dict[str, Any]]) -> dict[str, Any]:
                 {project.get("fundingCategory", "") for project in neurology_projects if project.get("fundingCategory")}
             ),
             "states": [state for state in states_for_ui if state_counter.get(state, 0)],
+            "focusScopes": [
+                {
+                    "value": "all",
+                    "label": "Alle Treffer aus dem Online-Filter",
+                    "count": len(neurology_projects),
+                },
+                {
+                    "value": "exclusive",
+                    "label": "Nur neurologischer Schwerpunkt",
+                    "count": exclusive_count,
+                },
+                {
+                    "value": "multiple",
+                    "label": "Neurologie unter mehreren Schwerpunkten",
+                    "count": multiple_count,
+                },
+                {
+                    "value": "online_filter_only",
+                    "label": "Im Online-Filter, aber ohne sichtbare Schwerpunktangabe",
+                    "count": online_only_count,
+                },
+            ],
             "targetGroups": sorted(
                 {
                     target
