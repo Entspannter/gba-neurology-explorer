@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gba-neurology-explorer"
+version = "0.1.0"
+description = "Scraper and interactive explorer for G-BA Innovationsfonds projects"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "beautifulsoup4>=4.13,<5",
+  "lxml>=5.3,<6",
+  "requests>=2.32,<3",
+]
+
+[project.scripts]
+gba-scrape = "gba_projects.scraper:main"
+gba-build-site = "gba_projects.site_builder:main"
+gba-refresh = "gba_projects.refresh:main"
+
+[tool.setuptools.package-dir]
+"" = "src"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
