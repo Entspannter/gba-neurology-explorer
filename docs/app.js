@@ -1,21 +1,21 @@
 const BASE_STATE_LAYOUT = [
-  { name: "bundesweit", label: "Bundesweit", code: "DE", x: 2, y: 8, w: 15, h: 18 },
-  { name: "Ohne Zuordnung", label: "Ohne Bundesland", code: "NA", x: 2, y: 30, w: 17, h: 14 },
-  { name: "Schleswig-Holstein", code: "SH", x: 36, y: 5, w: 17, h: 10 },
+  { name: "bundesweit", label: "Bundesweit", labelLines: ["Bundesweit"], code: "DE", x: 2, y: 8, w: 15, h: 18 },
+  { name: "Ohne Zuordnung", label: "Ohne Bundesland", labelLines: ["Ohne", "Bundesland"], code: "NA", x: 2, y: 30, w: 17, h: 14 },
+  { name: "Schleswig-Holstein", labelLines: ["Schleswig-", "Holstein"], code: "SH", x: 36, y: 5, w: 17, h: 10 },
   { name: "Hamburg", code: "HH", x: 41, y: 18, w: 12, h: 9 },
-  { name: "Mecklenburg-Vorpommern", code: "MV", x: 67, y: 7, w: 23, h: 12 },
+  { name: "Mecklenburg-Vorpommern", labelLines: ["Mecklenburg-", "Vorpommern"], code: "MV", x: 67, y: 7, w: 23, h: 12 },
   { name: "Bremen", code: "HB", x: 27, y: 29, w: 11, h: 10 },
   { name: "Niedersachsen", code: "NI", x: 39, y: 28, w: 28, h: 15 },
   { name: "Berlin", code: "BE", x: 70, y: 30, w: 10, h: 10 },
   { name: "Brandenburg", code: "BB", x: 81, y: 27, w: 15, h: 16 },
-  { name: "Nordrhein-Westfalen", code: "NW", x: 16, y: 46, w: 20, h: 15 },
-  { name: "Sachsen-Anhalt", code: "ST", x: 59, y: 45, w: 16, h: 13 },
+  { name: "Nordrhein-Westfalen", labelLines: ["Nordrhein-", "Westfalen"], code: "NW", x: 16, y: 46, w: 20, h: 15 },
+  { name: "Sachsen-Anhalt", labelLines: ["Sachsen-", "Anhalt"], code: "ST", x: 59, y: 45, w: 16, h: 13 },
   { name: "Hessen", code: "HE", x: 42, y: 51, w: 16, h: 13 },
   { name: "Thüringen", code: "TH", x: 60, y: 58, w: 14, h: 12 },
   { name: "Sachsen", code: "SN", x: 76, y: 57, w: 17, h: 13 },
-  { name: "Rheinland-Pfalz", code: "RP", x: 28, y: 64, w: 14, h: 14 },
+  { name: "Rheinland-Pfalz", labelLines: ["Rheinland-", "Pfalz"], code: "RP", x: 28, y: 64, w: 14, h: 14 },
   { name: "Saarland", code: "SL", x: 17, y: 78, w: 11, h: 9 },
-  { name: "Baden-Württemberg", code: "BW", x: 40, y: 72, w: 21, h: 17 },
+  { name: "Baden-Württemberg", labelLines: ["Baden-", "Württemberg"], code: "BW", x: 40, y: 72, w: 21, h: 17 },
   { name: "Bayern", code: "BY", x: 63, y: 73, w: 28, h: 18 },
 ];
 const AUXILIARY_MAP_NODES = new Set(["bundesweit", "Ohne Zuordnung"]);
@@ -74,6 +74,7 @@ const stateLayout = (() => {
     .map((name, index) => ({
       name,
       label: name,
+      labelLines: [name],
       code: "EX",
       x: 3 + (index % 2) * 20,
       y: 82 + Math.floor(index / 2) * 11,
@@ -386,6 +387,9 @@ function renderMap(mapProjects) {
       const activeClass = appState.state === state.name ? "active" : "";
       const emptyClass = count === 0 ? "empty" : "";
       const tileLabel = count ? formatProjectCount(count) : "Keine Treffer";
+      const labelLines = (state.labelLines && state.labelLines.length ? state.labelLines : [state.label || state.name])
+        .map((line) => `<span class="state-name-line">${line}</span>`)
+        .join("");
 
       return `
         <button
@@ -408,7 +412,7 @@ function renderMap(mapProjects) {
         >
           <div class="state-code">${state.code}</div>
           <div class="state-copy">
-            <span class="state-name">${state.label || state.name}</span>
+            <span class="state-name">${labelLines}</span>
             <span class="state-count">${tileLabel}</span>
           </div>
         </button>
