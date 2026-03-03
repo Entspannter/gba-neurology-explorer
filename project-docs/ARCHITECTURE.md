@@ -8,7 +8,7 @@ The project is intentionally simple:
 2. The scraper walks the paginated G-BA index and caches the HTML under `data/cache/`.
 3. Each detail page is normalized into a structured project record.
 4. `site_builder.py` creates a frontend-friendly payload for neurology-only exploration.
-5. The static site loads `site/data.js` and renders the UI entirely in the browser.
+5. The static site loads `site/data.js` and the same publishable files are mirrored into `docs/` for GitHub Pages.
 
 ## Scraper
 
@@ -34,6 +34,13 @@ Key behaviors:
 - renders the map tiles from the generated payload
 - keeps filters, search, list view, and detail panel in sync
 - handles special source cases such as `bundesweit` and projects without any `Bundesland`
+
+## Publish Layout
+
+- `site/` is the editable frontend source
+- `docs/` is the committed Pages artifact
+
+This split keeps GitHub Pages simple while preserving a clear working directory for the frontend source.
 
 ## Why The Site Is Static
 

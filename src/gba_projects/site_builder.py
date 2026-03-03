@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import shutil
 import json
 from collections import Counter
 from datetime import UTC, datetime
@@ -10,6 +11,7 @@ from typing import Any
 from .scraper import ALL_PROJECTS_JSON, DATA_DIR, LIST_URL, PROJECT_ROOT
 
 SITE_DIR = PROJECT_ROOT / "site"
+PAGES_DIR = PROJECT_ROOT / "docs"
 SITE_DATA_JS = SITE_DIR / "data.js"
 UI_PAYLOAD_JSON = DATA_DIR / "neurology_ui_payload.json"
 
@@ -168,11 +170,19 @@ def write_payload(payload: dict[str, Any]) -> None:
     )
 
 
+def mirror_site_for_pages() -> None:
+    PAGES_DIR.mkdir(parents=True, exist_ok=True)
+    for filename in ["index.html", "styles.css", "app.js", "data.js"]:
+        shutil.copy2(SITE_DIR / filename, PAGES_DIR / filename)
+    (PAGES_DIR / ".nojekyll").write_text("", encoding="utf-8")
+
+
 def build_site(input_path: Path) -> dict[str, Any]:
     SITE_DIR.mkdir(parents=True, exist_ok=True)
     projects = load_projects(input_path)
     payload = build_payload(projects)
     write_payload(payload)
+    mirror_site_for_pages()
     return payload
 
 

@@ -73,25 +73,27 @@ src/gba_projects/
   site_builder.py   transform scraped data into the frontend payload
   refresh.py        run scrape + site build in one command
 site/
-  index.html        static frontend shell
-  styles.css        UI styling
-  app.js            map, filters, and detail interactions
+  *                 source frontend files
+docs/
+  *                 published GitHub Pages artifact mirrored from site/
 data/
   *.json, *.csv     generated datasets committed for deployment
+project-docs/
+  *.md              repository and operational documentation
 ```
 
 ## Deployment
 
-GitHub Pages is deployed with GitHub Actions. The workflow publishes the contents of `site/` as the final Pages artifact.
+GitHub Pages is served directly from the `docs/` folder on the default branch. The build step mirrors the current static site from `site/` into `docs/`.
 
-- Workflow file: `.github/workflows/deploy-pages.yml`
-- Trigger: pushes to the default branch and manual runs
-- Output: GitHub Pages site
+- Source branch: `codex/bootstrap-pages`
+- Source folder: `/docs`
+- Published URL: `https://entspannter.github.io/gba-neurology-explorer/`
 
 More detail:
 
-- [Architecture Notes](./docs/ARCHITECTURE.md)
-- [Deployment Notes](./docs/DEPLOYMENT.md)
+- [Architecture Notes](./project-docs/ARCHITECTURE.md)
+- [Deployment Notes](./project-docs/DEPLOYMENT.md)
 
 ## Current Snapshot
 
@@ -100,4 +102,3 @@ The checked-in dataset was generated on March 3, 2026 and currently contains:
 - 803 scraped projects in total
 - 122 neurology projects
 - 0 scrape errors in the latest full run
-

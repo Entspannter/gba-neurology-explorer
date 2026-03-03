@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Neurologie-Projekte im Innovationsfonds</title>
+    <meta
+      name="description"
+      content="Interaktive Karte und Explorer für neurologische Projekte aus dem G-BA Innovationsfonds."
+    >
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">G-BA Innovationsfonds</p>
+          <h1>Neurologie-Projekte als interaktive Deutschlandkarte</h1>
+          <p class="lede">
+            Die Daten werden live aus der öffentlichen Projektdatenbank gescrapt. Die Oberfläche
+            fokussiert neurologische Vorhaben und verbindet Bundesländerkarte, Filter, Suche und
+            Projektdetails in einer lokalen statischen Website.
+          </p>
+          <div id="hero-stats" class="hero-stats"></div>
+        </div>
+        <div class="hero-panel">
+          <div class="meta-card">
+            <span class="meta-label">Quelle</span>
+            <a id="source-link" href="https://innovationsfonds.g-ba.de/projekte/" target="_blank" rel="noreferrer">
+              Innovationsfonds Projekte
+            </a>
+          </div>
+          <div class="meta-card">
+            <span class="meta-label">Build</span>
+            <strong id="generated-at">Wird geladen ...</strong>
+          </div>
+          <div class="meta-card">
+            <span class="meta-label">Fokus</span>
+            <strong>Alle Projekte mit Themenschwerpunkt Neurologie</strong>
+          </div>
+        </div>
+      </header>
+
+      <main class="workspace">
+        <section class="controls-panel card">
+          <div class="section-heading">
+            <p class="section-label">Explorer</p>
+            <h2>Filter und Suche</h2>
+          </div>
+
+          <label class="field">
+            <span>Suche</span>
+            <input id="search-input" type="search" placeholder="Titel, Partner, Stadt, Beschreibung">
+          </label>
+
+          <div class="field-grid">
+            <label class="field">
+              <span>Status</span>
+              <select id="status-filter"></select>
+            </label>
+            <label class="field">
+              <span>Förderkategorie</span>
+              <select id="funding-filter"></select>
+            </label>
+            <label class="field">
+              <span>Zielgruppe</span>
+              <select id="target-filter"></select>
+            </label>
+          </div>
+
+          <div class="toolbar">
+            <button id="reset-filters" class="ghost-button" type="button">Filter zurücksetzen</button>
+            <label class="field compact">
+              <span>Sortierung</span>
+              <select id="sort-filter">
+                <option value="title">Titel A-Z</option>
+                <option value="funding">Fördersumme</option>
+                <option value="recent">Neuere Laufzeit</option>
+                <option value="status">Status</option>
+              </select>
+            </label>
+          </div>
+
+          <div id="selection-summary" class="selection-summary"></div>
+        </section>
+
+        <section class="map-panel card">
+          <div class="section-heading">
+            <p class="section-label">Karte</p>
+            <h2>Neurologie-Projekte nach Bundesland</h2>
+          </div>
+          <p class="map-hint">
+            Die Karte basiert auf dem auf jeder Projektseite veröffentlichten Feld
+            <strong>Bundesland</strong>. Ein Klick auf ein Bundesland filtert die Projektliste.
+          </p>
+          <div class="map-shell">
+            <div id="state-map" class="state-map" aria-label="Deutschlandkarte nach Bundesländern"></div>
+            <aside class="map-sidebar">
+              <div class="map-side-card">
+                <span class="map-side-label">Aktive Auswahl</span>
+                <strong id="map-active-label">Alle Bundesländer</strong>
+                <p id="map-active-count" class="map-side-copy">122 Projekte</p>
+              </div>
+              <div class="map-side-card">
+                <span class="map-side-label">Stärkste Regionen</span>
+                <div id="map-top-states" class="map-top-states"></div>
+              </div>
+              <div class="map-side-card">
+                <span class="map-side-label">Lesart</span>
+                <p class="map-side-copy">
+                  Dunklere Felder bedeuten mehr passende Projekte. <strong>Bundesweit</strong> fasst
+                  Projekte zusammen, die auf der Quellseite keinem einzelnen Bundesland zugeordnet sind.
+                </p>
+              </div>
+            </aside>
+          </div>
+        </section>
+
+        <section class="list-panel card">
+          <div class="section-heading section-heading-split">
+            <div>
+              <p class="section-label">Projekte</p>
+              <h2 id="results-title">Neurologie-Projekte</h2>
+            </div>
+            <strong id="results-count" class="results-count"></strong>
+          </div>
+          <div id="project-list" class="project-list"></div>
+        </section>
+
+        <aside class="detail-panel card">
+          <div class="section-heading">
+            <p class="section-label">Detailansicht</p>
+            <h2 id="detail-title">Projekt wählen</h2>
+          </div>
+          <div id="detail-body" class="detail-body">
+            <p class="empty-state">
+              Wählen Sie ein Projekt aus der Liste oder klicken Sie auf ein Bundesland in der Karte.
+            </p>
+          </div>
+        </aside>
+      </main>
+    </div>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
