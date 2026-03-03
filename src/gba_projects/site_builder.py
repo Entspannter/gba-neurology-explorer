@@ -1,19 +1,42 @@
 from __future__ import annotations
 
 import argparse
-import shutil
 import json
+import shutil
 from collections import Counter
 from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
-from .scraper import ALL_PROJECTS_JSON, DATA_DIR, LIST_URL, PROJECT_ROOT
+from .scraper import ALL_PROJECTS_CSV, ALL_PROJECTS_JSON, DATA_DIR, LIST_URL, NEUROLOGY_PROJECTS_JSON, PROJECT_ROOT
 
 SITE_DIR = PROJECT_ROOT / "site"
 PAGES_DIR = PROJECT_ROOT / "docs"
 SITE_DATA_JS = SITE_DIR / "data.js"
 UI_PAYLOAD_JSON = DATA_DIR / "neurology_ui_payload.json"
+SITE_DOWNLOADS_DIR = SITE_DIR / "downloads"
+PAGES_DOWNLOADS_DIR = PAGES_DIR / "downloads"
+
+DOWNLOAD_SPECS = [
+    {
+        "source": ALL_PROJECTS_JSON,
+        "href": "./downloads/projects_all.json",
+        "label": "Alle Projekte",
+        "format": "JSON",
+    },
+    {
+        "source": ALL_PROJECTS_CSV,
+        "href": "./downloads/projects_all.csv",
+        "label": "Alle Projekte",
+        "format": "CSV",
+    },
+    {
+        "source": NEUROLOGY_PROJECTS_JSON,
+        "href": "./downloads/projects_neurology.json",
+        "label": "Neurologie-Subset",
+        "format": "JSON",
+    },
+]
 
 STATE_ORDER = [
     "Schleswig-Holstein",
@@ -59,6 +82,33 @@ def load_projects(path: Path) -> list[dict[str, Any]]:
     if not path.exists():
         raise FileNotFoundError(f"Input dataset not found: {path}")
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def format_file_size(path: Path) -> str:
+    size = path.stat().st_size
+    units = ["B", "KB", "MB", "GB"]
+    value = float(size)
+    for unit in units:
+        if value < 1024 or unit == units[-1]:
+            decimals = 0 if unit == "B" else 1
+            return f"{value:.{decimals}f} {unit}"
+        value /= 1024
+
+
+def download_entries() -> list[dict[str, str]]:
+    entries: list[dict[str, str]] = []
+    for spec in DOWNLOAD_SPECS:
+        source = spec["source"]
+        entries.append(
+            {
+                "href": spec["href"],
+                "filename": source.name,
+                "label": spec["label"],
+                "format": spec["format"],
+                "size": format_file_size(source),
+            }
+        )
+    return entries
 
 
 def compact_project(project: dict[str, Any]) -> dict[str, Any]:
@@ -166,6 +216,7 @@ def build_payload(projects: list[dict[str, Any]]) -> dict[str, Any]:
                 "als einen von mehreren Themenschwerpunkten."
             ),
         },
+        "downloads": download_entries(),
         "filters": {
             "statuses": sorted({project.get("status", "") for project in neurology_projects if project.get("status")}),
             "fundingCategories": sorted(
@@ -230,8 +281,14 @@ def write_payload(payload: dict[str, Any]) -> None:
 
 def mirror_site_for_pages() -> None:
     PAGES_DIR.mkdir(parents=True, exist_ok=True)
+    SITE_DOWNLOADS_DIR.mkdir(parents=True, exist_ok=True)
+    PAGES_DOWNLOADS_DIR.mkdir(parents=True, exist_ok=True)
     for filename in ["index.html", "styles.css", "app.js", "data.js"]:
         shutil.copy2(SITE_DIR / filename, PAGES_DIR / filename)
+    for spec in DOWNLOAD_SPECS:
+        source = spec["source"]
+        shutil.copy2(source, SITE_DOWNLOADS_DIR / source.name)
+        shutil.copy2(source, PAGES_DOWNLOADS_DIR / source.name)
     (PAGES_DIR / ".nojekyll").write_text("", encoding="utf-8")
 
 

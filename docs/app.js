@@ -36,6 +36,7 @@ const elements = {
   classificationNote: document.querySelector("#classification-note"),
   heroFocusBreakdown: document.querySelector("#hero-focus-breakdown"),
   sourceLink: document.querySelector("#source-link"),
+  downloadLinks: document.querySelector("#download-links"),
   generatedAt: document.querySelector("#generated-at"),
   searchInput: document.querySelector("#search-input"),
   focusScopeFilter: document.querySelector("#focus-scope-filter"),
@@ -143,6 +144,24 @@ function focusScopeBadge(project) {
     return { label: "im Online-Filter", className: "scope-online-only" };
   }
   return { label: "neurologisch", className: "scope-default" };
+}
+
+function renderDownloadLinks() {
+  if (!data.downloads?.length) {
+    elements.downloadLinks.innerHTML = "<span>Keine Downloads konfiguriert.</span>";
+    return;
+  }
+
+  elements.downloadLinks.innerHTML = data.downloads
+    .map(
+      (entry) => `
+        <a class="download-link" href="${entry.href}" download="${entry.filename}">
+          <span class="download-link-label">${entry.label} (${entry.format})</span>
+          <small>${entry.filename} · ${entry.size}</small>
+        </a>
+      `
+    )
+    .join("");
 }
 
 function setSelectOptions(select, options, label, formatter = (value) => value) {
@@ -632,6 +651,7 @@ function wireEvents() {
 }
 
 renderHero();
+renderDownloadLinks();
 fillFilters();
 wireEvents();
 rerender();

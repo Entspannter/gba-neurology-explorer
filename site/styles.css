@@ -237,6 +237,38 @@ a {
   line-height: 1.48;
 }
 
+.download-links {
+  display: grid;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.download-link {
+  display: grid;
+  gap: 2px;
+  padding: 11px 12px;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(255, 255, 255, 0.08);
+  transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+
+.download-link:hover {
+  transform: translateY(-1px);
+  border-color: rgba(255, 255, 255, 0.28);
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.download-link-label {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.download-link small {
+  color: rgba(230, 238, 249, 0.82);
+  font-size: 0.82rem;
+}
+
 .workspace {
   display: grid;
   grid-template-columns: 320px minmax(0, 1.14fr) minmax(360px, 0.9fr);

@@ -50,7 +50,7 @@ gba-refresh
 - scrape or reuse cached HTML
 - rebuild all JSON and CSV artifacts
 - regenerate `site/data.js`
-- mirror the publishable frontend into `docs/` for GitHub Pages
+- mirror the publishable frontend and download files into `docs/` for GitHub Pages
 
 Useful flags:
 
@@ -77,6 +77,7 @@ Then open `http://127.0.0.1:8000`.
 - `site/data.js`: generated browser bundle used by the frontend
 - `site/index.html`: static Pages entrypoint
 - `docs/`: mirrored publish artifact for GitHub Pages
+- `docs/downloads/`: directly downloadable dataset files exposed on the website
 
 ## Project Structure
 

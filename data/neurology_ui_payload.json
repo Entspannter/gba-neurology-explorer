@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T18:09:11+00:00",
+  "generatedAt": "2026-03-03T18:14:35+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 803,
@@ -27,6 +27,29 @@
     "onlineFilterOnlyCount": 0,
     "note": "Die Standardansicht folgt der öffentlichen G-BA-Online-Maske für „neurologische Erkrankungen“. Ein Teil der Projekte führt Neurologie als einen von mehreren Themenschwerpunkten."
   },
+  "downloads": [
+    {
+      "href": "./downloads/projects_all.json",
+      "filename": "projects_all.json",
+      "label": "Alle Projekte",
+      "format": "JSON",
+      "size": "4.7 MB"
+    },
+    {
+      "href": "./downloads/projects_all.csv",
+      "filename": "projects_all.csv",
+      "label": "Alle Projekte",
+      "format": "CSV",
+      "size": "2.2 MB"
+    },
+    {
+      "href": "./downloads/projects_neurology.json",
+      "filename": "projects_neurology.json",
+      "label": "Neurologie-Subset",
+      "format": "JSON",
+      "size": "1.0 MB"
+    }
+  ],
   "filters": {
     "statuses": [
       "Abschlussbericht wird erstellt",
