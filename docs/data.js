@@ -1,5 +1,5 @@
 window.GBA_NEUROLOGY_DATA = {
-  "generatedAt": "2026-03-03T18:14:35+00:00",
+  "generatedAt": "2026-03-03T18:22:02+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 803,

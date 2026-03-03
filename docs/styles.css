@@ -441,6 +441,7 @@ button:focus-visible {
 
 .state-map {
   position: relative;
+  width: 100%;
   min-height: 720px;
   aspect-ratio: 1.2;
   border-radius: 28px;
@@ -806,6 +807,26 @@ button:focus-visible {
   }
 }
 
+@media (max-width: 1320px) {
+  .map-shell {
+    grid-template-columns: 1fr;
+  }
+
+  .state-map {
+    min-height: clamp(540px, 58vw, 680px);
+    aspect-ratio: auto;
+  }
+
+  .map-sidebar {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: start;
+  }
+
+  .map-side-card:last-child {
+    grid-column: 1 / -1;
+  }
+}
+
 @media (max-width: 1140px) {
   .hero {
     grid-template-columns: 1fr;
@@ -831,6 +852,14 @@ button:focus-visible {
 
   .map-shell {
     grid-template-columns: 1fr;
+  }
+
+  .map-sidebar {
+    grid-template-columns: 1fr;
+  }
+
+  .map-side-card:last-child {
+    grid-column: auto;
   }
 }
 
