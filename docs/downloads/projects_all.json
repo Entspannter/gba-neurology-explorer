@@ -11187,7 +11187,7 @@
       "Themenschwerpunkt": "Hals-Nasen-Ohrenerkrankungen",
       "Zielgruppen": "Angehörige, Kinder und Jugendliche",
       "Versorgungsbereich": "ambulant",
-      "Bundesland": "Nordrhein-Westfalen",
+      "Bundesländer": "Bremen, Hamburg, Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF24041",
       "Laufzeit": "05/2025 – 08/2028",
       "Status": "laufend",
@@ -11210,6 +11210,8 @@
       "Kinder und Jugendliche"
     ],
     "states": [
+      "Bremen",
+      "Hamburg",
       "Nordrhein-Westfalen"
     ],
     "care_setting": "ambulant",
@@ -50902,7 +50904,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesländer": "Bayern, Berlin, Hamburg, Hessen, Mecklenburg-Vorpommern, Nordrhein-Westfalen",
       "Förderkennzeichen": "01NVF22109",
-      "Laufzeit": "03/2024 – 02/2027",
+      "Laufzeit": "03/2024 – 02/2028",
       "Status": "laufend",
       "E-Health": "Big Data und Gesundheitsdatenanalyse , Entscheidungshilfesystem",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Screeninginstrumente oder -verfahren , Vorsorgeuntersuchungen",
@@ -50932,9 +50934,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "03/2024 – 02/2027",
+    "duration_raw": "03/2024 – 02/2028",
     "start_date": "2024-03",
-    "end_date": "2027-02",
+    "end_date": "2028-02",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 4,5 Mio. Euro",
     "funding_sum_eur": 4500000,
@@ -50943,7 +50945,7 @@
     "funding_process": "zweistufig lang",
     "funding_area": "Neue Versorgungsformen",
     "call_date": "17.03.2021",
-    "description": "Die Herzinsuffizienz, eine Funktionsstörung des Herzens, zählt zu den zehn häufigsten Todesursachen in Deutschland. Hierzulande leiden bis zu drei Millionen Menschen an einer chronischen Herzinsuffizienz. Jährlich sterben etwa 35.000 Menschen an den Folgen einer Herzschwäche; das Risiko, eine Form der Herzinsuffizienz zu entwickeln, steigt mit zunehmendem Alter. Viele Betroffene wissen jedoch gar nicht um ihre Herzschwäche, weil keine entsprechende Diagnose gestellt wurde. Medizinische Eingriffe und Operationen bergen für sie deshalb besondere Risiken.\n\nZiel des Projekts PeriOP-CARE HF ist es, bei diesen Patientinnen und Patienten Komplikationen nach einer nicht-herzchirurgischen Operation zu reduzieren. Hierzu soll ein komplexes, individuelles Behandlungskonzept beitragen, das von mehreren Fachärztinnen und Fachärzten gemeinsam erstellt wird. Das Konzept sieht eine intensivere Begleitung rund um die Operation sowie zielgerichtete Therapien durch verschiedene medizinische Fachrichtungen und Sektoren vor und begleitet bis in die ambulante Versorgung.\n\nIn eine begleitende Studie werden Patientinnen und Patienten aufgenommen, bei denen das Risiko einer Komplikation nach einer Operation aufgrund einer Herzinsuffizienz besteht. Dazu wird in den beteiligten Universitätskliniken vor einer geplanten Operation bei Patientinnen und Patienten über 65 Jahre ein bestimmtes Herzschwächehormon im Blut gemessen. Wird dabei ein festgelegter Wert überschritten, ist auch das Komplikationsrisiko nach dem geplanten Eingriff signifikant erhöht. Die 1.094 Teilnehmenden der Studie werden zwei unterschiedlichen Gruppen zugeteilt, um die derzeitige Standardtherapie mit der neuen Versorgungsform vergleichen zu können. Das Projekt wird für drei Jahre mit insgesamt ca. 4,5 Millionen Euro gefördert.\n\nIm Erfolgsfall lässt sich mit der Studie nachweisen, ob die neue Versorgungsform das Risiko von Komplikationen nach der Operation verringert und sich dank der übergreifenden Therapien Behandlungskosten einsparen lassen, indem Krankenhausaufenthalte verkürzt und nötige Wiedereinlieferungen verringert werden.",
+    "description": "Die Herzinsuffizienz, eine Funktionsstörung des Herzens, zählt zu den zehn häufigsten Todesursachen in Deutschland. Hierzulande leiden bis zu drei Millionen Menschen an einer chronischen Herzinsuffizienz. Jährlich sterben etwa 35.000 Menschen an den Folgen einer Herzschwäche; das Risiko, eine Form der Herzinsuffizienz zu entwickeln, steigt mit zunehmendem Alter. Viele Betroffene wissen jedoch gar nicht um ihre Herzschwäche, weil keine entsprechende Diagnose gestellt wurde. Medizinische Eingriffe und Operationen bergen für sie deshalb besondere Risiken.\n\nZiel des Projekts PeriOP-CARE HF ist es, bei diesen Patientinnen und Patienten Komplikationen nach einer nicht-herzchirurgischen Operation zu reduzieren. Hierzu soll ein komplexes, individuelles Behandlungskonzept beitragen, das von mehreren Fachärztinnen und Fachärzten gemeinsam erstellt wird. Das Konzept sieht eine intensivere Begleitung rund um die Operation sowie zielgerichtete Therapien durch verschiedene medizinische Fachrichtungen und Sektoren vor und begleitet bis in die ambulante Versorgung.\n\nIn eine begleitende Studie werden Patientinnen und Patienten aufgenommen, bei denen das Risiko einer Komplikation nach einer Operation aufgrund einer Herzinsuffizienz besteht. Dazu wird in den beteiligten Universitätskliniken vor einer geplanten Operation bei Patientinnen und Patienten über 65 Jahre ein bestimmtes Herzschwächehormon im Blut gemessen. Wird dabei ein festgelegter Wert überschritten, ist auch das Komplikationsrisiko nach dem geplanten Eingriff signifikant erhöht. Die 1.094 Teilnehmenden der Studie werden zwei unterschiedlichen Gruppen zugeteilt, um die derzeitige Standardtherapie mit der neuen Versorgungsform vergleichen zu können. Das Projekt wird für 48 Monate mit insgesamt ca. 4,5 Millionen Euro gefördert.\n\nIm Erfolgsfall lässt sich mit der Studie nachweisen, ob die neue Versorgungsform das Risiko von Komplikationen nach der Operation verringert und sich dank der übergreifenden Therapien Behandlungskosten einsparen lassen, indem Krankenhausaufenthalte verkürzt und nötige Wiedereinlieferungen verringert werden.",
     "project_websites": [
       "https://www.periop-carehf.de/"
     ],
@@ -61163,7 +61165,7 @@
       "Versorgungsbereich": "ambulant",
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF22039",
-      "Laufzeit": "04/2023 – 03/2026",
+      "Laufzeit": "04/2023 – 09/2026",
       "Status": "laufend",
       "E-Health": "App",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Resilienzförderung und Stressmanagement , Selbstmanagement-Programme",
@@ -61188,9 +61190,9 @@
     ],
     "care_setting": "ambulant",
     "status": "laufend",
-    "duration_raw": "04/2023 – 03/2026",
+    "duration_raw": "04/2023 – 09/2026",
     "start_date": "2023-04",
-    "end_date": "2026-03",
+    "end_date": "2026-09",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 1,4 Mio. Euro",
     "funding_sum_eur": 1400000,
@@ -61199,7 +61201,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "07.06.2021",
-    "description": "Knochenbrüche sind ein sehr häufiger Grund für Krankenhausaufenthalte. Komplexe Brüche der Gliedmaßen stellen Chirurginnen und Chirurgen vor besonders große Herausforderungen. Ob beispielsweise Gelenke an dem Bruch beteiligt sind oder ob die korrekte Positionierung von Implantaten gelingt, entscheidet maßgeblich über den Heilungserfolg. Die Genesung ist oft ein langwieriger Prozess. Um diesen bestmöglich zu gestalten, bedarf es einer sorgfältigen Planung der Behandlung.\n\nDie Projektpartner möchten die Planung von Operationen mithilfe eines Künstliche Intelligenz (KI)-Algorithmus, also eines digitalen Berechnungsverfahrens, optimieren. Dazu sollen Daten einer Computertomographie (CT)-Untersuchung komplexer Brüche analysiert und Empfehlungen zur Operationsstrategie abgeleitet werden. Die digital entwickelten Vorschläge betreffen dabei beispielsweise die Zugangswege zum Bruch, das Einrichten des Knochens, die Positionierung von Implantaten oder die erneute Verbindung der Knochen. Die empfohlenen Lösungen würden die Planung der operativen Behandlung komplexer Knochenbrüche erleichtern und den Gesamterfolg der Therapie verbessern.\n\nDas digitale Verfahren wird in mehreren Schritten erarbeitet. Zunächst werden KI-Algorithmen entwickelt, die die Knochenanatomie und anschließend operative Versorgungsvorgänge erlernen. Dies geschieht durch die Analyse von CT-Datensätzen sowie auf Basis von bestehenden Lehrbüchern, Leitlinien und wissenschaftlichen Veröffentlichungen. Nachdem die Algorithmen getestet und aufeinander abgestimmt wurden, kann aus den CT-Datensätzen des bestehenden Bruchs ein 3D-Modell des optimal behandelten Ergebnisses mit bestmöglicher Stellung der Bruchfragmente und Positionierung von Implantaten erstellt werden. Anschließend soll der Algorithmus an konkreten Fällen aus der Praxis getestet werden, indem die Vorschläge aus dem digitalen Verfahren mit fachärztlichen Planungen verglichen werden. Das Projekt wird für drei Jahre mit insgesamt ca. 1,4 Millionen Euro gefördert.\n\nSollten sich die KI-Empfehlungen bewähren, würde dies die Behandlungsplanung komplexer Knochenbrüche vereinfachen und dazu führen, dass weniger Komplikationen auftreten und die rehabilitativen Genesungsprozesse der betroffenen Patientinnen und Patienten schneller voranschreiten können.",
+    "description": "Knochenbrüche sind ein sehr häufiger Grund für Krankenhausaufenthalte. Komplexe Brüche der Gliedmaßen stellen Chirurginnen und Chirurgen vor besonders große Herausforderungen. Ob beispielsweise Gelenke an dem Bruch beteiligt sind oder ob die korrekte Positionierung von Implantaten gelingt, entscheidet maßgeblich über den Heilungserfolg. Die Genesung ist oft ein langwieriger Prozess. Um diesen bestmöglich zu gestalten, bedarf es einer sorgfältigen Planung der Behandlung.\n\nDie Projektpartner möchten die Planung von Operationen mithilfe eines Künstliche Intelligenz (KI)-Algorithmus, also eines digitalen Berechnungsverfahrens, optimieren. Dazu sollen Daten einer Computertomographie (CT)-Untersuchung komplexer Brüche analysiert und Empfehlungen zur Operationsstrategie abgeleitet werden. Die digital entwickelten Vorschläge betreffen dabei beispielsweise die Zugangswege zum Bruch, das Einrichten des Knochens, die Positionierung von Implantaten oder die erneute Verbindung der Knochen. Die empfohlenen Lösungen würden die Planung der operativen Behandlung komplexer Knochenbrüche erleichtern und den Gesamterfolg der Therapie verbessern.\n\nDas digitale Verfahren wird in mehreren Schritten erarbeitet. Zunächst werden KI-Algorithmen entwickelt, die die Knochenanatomie und anschließend operative Versorgungsvorgänge erlernen. Dies geschieht durch die Analyse von CT-Datensätzen sowie auf Basis von bestehenden Lehrbüchern, Leitlinien und wissenschaftlichen Veröffentlichungen. Nachdem die Algorithmen getestet und aufeinander abgestimmt wurden, kann aus den CT-Datensätzen des bestehenden Bruchs ein 3D-Modell des optimal behandelten Ergebnisses mit bestmöglicher Stellung der Bruchfragmente und Positionierung von Implantaten erstellt werden. Anschließend soll der Algorithmus an konkreten Fällen aus der Praxis getestet werden, indem die Vorschläge aus dem digitalen Verfahren mit fachärztlichen Planungen verglichen werden. Das Projekt wird für 42 Monate mit insgesamt ca. 1,4 Millionen Euro gefördert.\n\nSollten sich die KI-Empfehlungen bewähren, würde dies die Behandlungsplanung komplexer Knochenbrüche vereinfachen und dazu führen, dass weniger Komplikationen auftreten und die rehabilitativen Genesungsprozesse der betroffenen Patientinnen und Patienten schneller voranschreiten können.",
     "project_websites": [
       "https://repair.charite.de/"
     ],
@@ -63233,7 +63235,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF23001",
-      "Laufzeit": "10/2023 – 03/2026",
+      "Laufzeit": "10/2023 – 09/2026",
       "Status": "laufend",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Rehabilitation und Therapie",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Patienten- und Behandlungspfade"
@@ -63259,9 +63261,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "10/2023 – 03/2026",
+    "duration_raw": "10/2023 – 09/2026",
     "start_date": "2023-10",
-    "end_date": "2026-03",
+    "end_date": "2026-09",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 390.000 Euro",
     "funding_sum_eur": 390000,
@@ -63270,7 +63272,7 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "In Deutschland leiden schätzungsweise 4,5 Millionen Menschen an Lymphödemen. Dabei ist der Abfluss von eiweißreicher Gewebeflüssigkeit vermindert, die jeweiligen Körperpartien schwellen an und chronische Entzündungen führen zu verstärkter Ausbildung von Binde- und Fettgewebe. Betroffen sind vor allem Frauen und ältere Menschen. Die Ödeme können durch angeborene Fehlbildungen (primäres Ödem) oder andere Erkrankungen (sekundäres Ödem) ausgelöst werden. Da die Betroffenen häufig an mehreren Krankheiten gleichzeitig leiden, bedarf es bei Diagnostik und Therapie einer Koordination der beteiligten medizinischen Disziplinen.\n\nDie bestehende Leitlinie zum Lymphödem wendet sich folgerichtig an zahlreiche medizinische Fachdisziplinen, darüber hinaus an Fachkräfte in Physiotherapie und Pflege sowie an die Betroffenen selbst, ihre Angehörigen und Selbsthilfegruppen. Die bestehende S2k-Leitlinie zur Diagnostik und Therapie der Lymphödeme dient hier als Ausgangspunkt und soll im Rahmen des Projekts zur einer S3-Leitlinie aufgewertet werden, so dass nun die gesamte Versorgungskette von Prävention, Diagnose, medikamentöse und nicht-medikamentöse Therapie, Reha, ambulante Versorgung berücksichtigt wird.\n\nDer Schwerpunkt der Arbeiten liegt dabei auf der Entwicklung und Umsetzung von Standards bei der Diagnosestellung, der fachübergreifenden Therapie und Nachsorge, der primären und sekundären Prävention sowie der psychosozialen Aufklärung. Die neue S3-Leitlinie soll in nationalen und internationalen wissenschaftlichen Zeitschriften publiziert sowie an Berufsverbände und Patientenselbsthilfeorganisationen weitergegeben werden. Über Internet-basierte Portale, Social Media und eine Patientenleitlinie soll die Öffentlichkeit leicht verständlich über die Inhalte der S3-Leitlinie informiert werden. Das Projekt wird für zweieinhalb Jahre mit insgesamt ca. 390.000 Euro gefördert.\n\nIm Erfolgsfall werden die Inhalte der S3-Leitlinie verpflichtende Grundlage für die Schulung von medizinischem Personal, das in der Lymphologie tätig ist. Im Projekt womöglich aufgedeckte Evidenzlücken sollten zu weiterer Forschung anregen.",
+    "description": "In Deutschland leiden schätzungsweise 4,5 Millionen Menschen an Lymphödemen. Dabei ist der Abfluss von eiweißreicher Gewebeflüssigkeit vermindert, die jeweiligen Körperpartien schwellen an und chronische Entzündungen führen zu verstärkter Ausbildung von Binde- und Fettgewebe. Betroffen sind vor allem Frauen und ältere Menschen. Die Ödeme können durch angeborene Fehlbildungen (primäres Ödem) oder andere Erkrankungen (sekundäres Ödem) ausgelöst werden. Da die Betroffenen häufig an mehreren Krankheiten gleichzeitig leiden, bedarf es bei Diagnostik und Therapie einer Koordination der beteiligten medizinischen Disziplinen.\n\nDie bestehende Leitlinie zum Lymphödem wendet sich folgerichtig an zahlreiche medizinische Fachdisziplinen, darüber hinaus an Fachkräfte in Physiotherapie und Pflege sowie an die Betroffenen selbst, ihre Angehörigen und Selbsthilfegruppen. Die bestehende S2k-Leitlinie zur Diagnostik und Therapie der Lymphödeme dient hier als Ausgangspunkt und soll im Rahmen des Projekts zur einer S3-Leitlinie aufgewertet werden, so dass nun die gesamte Versorgungskette von Prävention, Diagnose, medikamentöse und nicht-medikamentöse Therapie, Reha, ambulante Versorgung berücksichtigt wird.\n\nDer Schwerpunkt der Arbeiten liegt dabei auf der Entwicklung und Umsetzung von Standards bei der Diagnosestellung, der fachübergreifenden Therapie und Nachsorge, der primären und sekundären Prävention sowie der psychosozialen Aufklärung. Die neue S3-Leitlinie soll in nationalen und internationalen wissenschaftlichen Zeitschriften publiziert sowie an Berufsverbände und Patientenselbsthilfeorganisationen weitergegeben werden. Über Internet-basierte Portale, Social Media und eine Patientenleitlinie soll die Öffentlichkeit leicht verständlich über die Inhalte der S3-Leitlinie informiert werden. Das Projekt wird für drei Jahre mit insgesamt ca. 390.000 Euro gefördert.\n\nIm Erfolgsfall werden die Inhalte der S3-Leitlinie verpflichtende Grundlage für die Schulung von medizinischem Personal, das in der Lymphologie tätig ist. Im Projekt womöglich aufgedeckte Evidenzlücken sollten zu weiterer Forschung anregen.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -70850,11 +70852,11 @@
         "Schulstraße 22",
         "33330 Gütersloh",
         "+49 5241 97700",
-        "stroke.owl@schlaganfall-hilfe.de"
+        "georg.galle@schlaganfall-hilfe.de"
       ],
-      "display": "Dr. Georg Galle | Leitung STROKE OWL | Stiftung Deutsche Schlaganfall-Hilfe | Schulstraße 22 | 33330 Gütersloh | +49 5241 97700 | stroke.owl@schlaganfall-hilfe.de",
+      "display": "Dr. Georg Galle | Leitung STROKE OWL | Stiftung Deutsche Schlaganfall-Hilfe | Schulstraße 22 | 33330 Gütersloh | +49 5241 97700 | georg.galle@schlaganfall-hilfe.de",
       "name": "Dr. Georg Galle",
-      "email": "stroke.owl@schlaganfall-hilfe.de",
+      "email": "georg.galle@schlaganfall-hilfe.de",
       "phone": "+49 5241 97700",
       "postal_code": "33330",
       "city": "Gütersloh",
