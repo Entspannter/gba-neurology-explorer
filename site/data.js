@@ -1,5 +1,5 @@
 window.GBA_NEUROLOGY_DATA = {
-  "generatedAt": "2026-03-16T05:56:51+00:00",
+  "generatedAt": "2026-03-23T05:50:20+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 803,
@@ -14,8 +14,8 @@ window.GBA_NEUROLOGY_DATA = {
     "exclusiveNeurologyProjects": 45,
     "multiFocusNeurologyProjects": 122,
     "onlineFilterOnlyProjects": 0,
-    "activeNeurologyProjects": 88,
-    "completedNeurologyProjects": 79,
+    "activeNeurologyProjects": 86,
+    "completedNeurologyProjects": 81,
     "statesWithNeurologyProjects": 16,
     "totalFundingEur": 444092497
   },
@@ -591,7 +591,7 @@ window.GBA_NEUROLOGY_DATA = {
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/725/2024-11-21_ABPATITE_Ergebnisbericht.pdf"
         },
         {
-          "title": "01VSF19034 ABPATITE Ergebnisbericht Anhang 29 Handreichung - Empfehlungen für den bedarfsgerechten Auf- und Ausbau von palliativmedizinischen Tageskliniken und Tageshospizen",
+          "title": "Handreichung - Empfehlungen für den bedarfsgerechten Auf- und Ausbau von palliativmedizinischen Tageskliniken und Tageshospizen",
           "meta": "(PDF 2,74 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/239/01VSF19034%20ABPATITE_Ergebnisbericht%20Anhang%2029%20Handreichung_Empfehlungen%20Auf-%20und%20Ausbau%20von%20palliativmedizinischen%20Tageskliniken.pdf"
         }
@@ -770,7 +770,7 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01VSF23016 ADAPT-HEAT Projektablauf",
+          "title": "Grafik Projektablauf",
           "meta": "(PDF 61,92 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/287/01VSF23016%20ADAPT-HEAT_Flowchart_Projektablauf.pdf"
         }
@@ -1011,7 +1011,7 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01NVF22101 ALVEEG Flyer",
+          "title": "Projektflyer",
           "meta": "(PDF 149,86 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/174/01NVF22101%20ALVEEG_Flyer.pdf"
         }
@@ -1949,7 +1949,7 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01NVF25312 CAROL Ablaufplan",
+          "title": "Grafik Ablaufplan",
           "meta": "(PDF 64,61 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/319/CAROL_Ablaufplan_01NVF25312.pdf"
         }
@@ -2403,17 +2403,17 @@ window.GBA_NEUROLOGY_DATA = {
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1058/2026-02-20_DECADE_Ergebnisbericht.pdf"
         },
         {
-          "title": "01VSF19021 DECADE Broschüre Entscheiden und Handeln",
+          "title": "Broschüre Entscheiden und Handeln",
           "meta": "(PDF 850,19 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/228/01VSF19021%20DECADE_Broschuere_Entscheiden%20und%20Handeln.pdf"
         },
         {
-          "title": "01VSF19021 DECADE Broschüre Informationen für einen gesunden Lebensstil! bei Herzkreislauferkrankungen",
+          "title": "Broschüre Informationen für einen gesunden Lebensstil!",
           "meta": "(PDF 33,92 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/229/01VSF19021%20DECADE_Broschuere_Informationen%20f%C3%BCr%20einen%20gesunden%20Lebensstil!%20bei%20Herzkreislauferkrankungen.pdf"
         },
         {
-          "title": "01VSF19021 DECADE Schulungsmaterial",
+          "title": "Schulungsmaterial",
           "meta": "(PDF 2,76 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/230/01VSF19021%20DECADE_Schulungsmaterial.pdf"
         }
@@ -2894,12 +2894,12 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01VSF22040 Digi-POD Delirpraevention Flyer 2023",
+          "title": "Flyer Delirprävention 2023",
           "meta": "(PDF 168,10 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/277/01VSF22040%20Digi-POD_Delirpraevention_Flyer_2023.pdf"
         },
         {
-          "title": "01VSF22040 Digi-POD CBP-App Screenshots",
+          "title": "CBP-App Screenshots",
           "meta": "(PDF 2,54 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/278/01VSF22040%20Digi-POD_CBP_App_Screenshots.pdf"
         }
@@ -3338,7 +3338,7 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01VSF21035 E=MC²_Studienüberblick",
+          "title": "Grafik Studienüberblick",
           "meta": "(JPG 453,50 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/262/01VSF21035%20E=MC%C2%B2_Studienueberblick.jpg"
         }
@@ -4031,13 +4031,7 @@ window.GBA_NEUROLOGY_DATA = {
       ],
       "projectWebsites": [],
       "decisionDate": null,
-      "documents": [
-        {
-          "title": "01VSF20008 Feed-bApp Projektübersicht",
-          "meta": "(SVG 1,77 MB)",
-          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/250/01VSF20008%20Feed-bApp_Projektuebersicht.svg"
-        }
-      ],
+      "documents": [],
       "essentialElements": {}
     },
     {
@@ -4047,7 +4041,7 @@ window.GBA_NEUROLOGY_DATA = {
       "acronym": "FrühTEV",
       "url": "https://innovationsfonds.g-ba.de/projekte/fruehtev.585",
       "summary": "In Deutschland kommen jährlich etwa 10.000 Frühgeborene zur Welt, also vor der vollendeten 37. Schwangerschaftswoche, die ein Geburtsgewicht unter 1.500 Gramm haben.",
-      "description": "In Deutschland kommen jährlich etwa 10.000 Frühgeborene zur Welt, also vor der vollendeten 37. Schwangerschaftswoche, die ein Geburtsgewicht unter 1.500 Gramm haben. Im Vergleich zu reifgeborenen Kindern tragen sie häufiger ein hohes Risiko für eine auffällige Entwicklung. Das können Sehstörungen, Defizite in der Sprachentwicklung oder auch Aufmerksamkeitsstörungen sein. Diese Erkrankungen dauern bis in das Jugend- und Erwachsenenalter an.\n\nDas Projektteam von FrühTEV hat sich vorgenommen, die bislang geltende S2k-Leitlinie zu einer S3-Leitlinie weiterzuentwickeln. Die angestrebten Handlungsempfehlungen werden fächer- und institutionenübergreifend, aber auch fachspezifisch angelegt sein. Sie betreffen Schlüsselfragen der Diagnostik, Prävention, Frühintervention und Therapie im Kindes- und Jugendalter und berücksichtigen dabei entwicklungsabhängige mit einer Frühgeburt verbundene Risiken. Analog dazu erstellt das Projektteam eine Patientenleitlinie.\n\nDie Entwicklung der S3-Leitlinie erfolgt gemäß dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF): Eine Leitliniengruppe mit Expertinnen und Experten aus unterschiedlichen relevanten Fachgebieten legt konkrete, klinisch relevante Fragestellungen fest, und führt eine systematische Recherche und Bewertung wissenschaftlicher Veröffentlichungen durch. In einem festgelegten Verfahren formuliert die Leitliniengruppe wissenschaftlich fundierte Entscheidungshilfen und Handlungsempfehlungen, die durch die AWMF veröffentlicht werden. Das Projekt wird für zweieinhalb Jahre mit insgesamt ca. 400.000 Euro gefördert.\n\nIm Erfolgsfall können Frühgeborene besser versorgt und diejenigen unter ihnen identifiziert werden, die ein erhöhtes Risiko für Folgeerkrankungen haben. Die vorhandenen Versorgungsverfahren werden auf ihre Wirkung hin überprüft und entsprechend umgesetzt.",
+      "description": "In Deutschland kommen jährlich etwa 10.000 Frühgeborene zur Welt, also vor der vollendeten 37. Schwangerschaftswoche, die ein Geburtsgewicht unter 1.500 Gramm haben. Im Vergleich zu reifgeborenen Kindern tragen sie häufiger ein hohes Risiko für eine auffällige Entwicklung. Das können Sehstörungen, Defizite in der Sprachentwicklung oder auch Aufmerksamkeitsstörungen sein. Diese Erkrankungen dauern bis in das Jugend- und Erwachsenenalter an.\n\nDas Projektteam von FrühTEV hat sich vorgenommen, die bislang geltende S2k-Leitlinie zu einer S3-Leitlinie weiterzuentwickeln. Die angestrebten Handlungsempfehlungen werden fächer- und institutionenübergreifend, aber auch fachspezifisch angelegt sein. Sie betreffen Schlüsselfragen der Diagnostik, Prävention, Frühintervention und Therapie im Kindes- und Jugendalter und berücksichtigen dabei entwicklungsabhängige mit einer Frühgeburt verbundene Risiken. Analog dazu erstellt das Projektteam eine Patientenleitlinie.\n\nDie Entwicklung der S3-Leitlinie erfolgt gemäß dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF): Eine Leitliniengruppe mit Expertinnen und Experten aus unterschiedlichen relevanten Fachgebieten legt konkrete, klinisch relevante Fragestellungen fest, und führt eine systematische Recherche und Bewertung wissenschaftlicher Veröffentlichungen durch. In einem festgelegten Verfahren formuliert die Leitliniengruppe wissenschaftlich fundierte Entscheidungshilfen und Handlungsempfehlungen, die durch die AWMF veröffentlicht werden. Das Projekt wird für zwei Jahre und neun Monate mit insgesamt ca. 400.000 Euro gefördert.\n\nIm Erfolgsfall können Frühgeborene besser versorgt und diejenigen unter ihnen identifiziert werden, die ein erhöhtes Risiko für Folgeerkrankungen haben. Die vorhandenen Versorgungsverfahren werden auf ihre Wirkung hin überprüft und entsprechend umgesetzt.",
       "status": "laufend",
       "states": [
         "Bayern"
@@ -4082,9 +4076,9 @@ window.GBA_NEUROLOGY_DATA = {
       "fundingProcess": "Medizinische Leitlinien",
       "fundingSumLabel": "ca. 400.000 Euro",
       "fundingSumEur": 400000,
-      "duration": "10/2023 – 03/2026",
+      "duration": "10/2023 – 06/2026",
       "startDate": "2023-10",
-      "endDate": "2026-03",
+      "endDate": "2026-06",
       "transferRecommendation": "",
       "projectLead": {},
       "projectLeadCity": null,
@@ -4326,12 +4320,12 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01VSF24015 GRAPPA Flyer",
+          "title": "Projektflyer",
           "meta": "(PDF 1,16 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/292/01VSF24015%20GRAPPA_Flyer.pdf"
         },
         {
-          "title": "01VSF24015 GRAPPA Projektvorstellung",
+          "title": "Projektvorstellung",
           "meta": "(PDF 1,40 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/293/01VSF24015%20GRAPPA_Projektvorstellung.pdf"
         }
@@ -4649,12 +4643,12 @@ window.GBA_NEUROLOGY_DATA = {
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/840/2025-05-23_IdA_Evaluationsbericht.pdf"
         },
         {
-          "title": "01NVF18020 IdA Ergebnisbericht Anlage 7 Patientenflyer OHV",
+          "title": "Patientenflyer OHV",
           "meta": "(PDF 220,22 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/101/01NVF18020_IdA_Ergebnisbericht_Anlage%207_Patientenflyer%20OHV.pdf"
         },
         {
-          "title": "01NVF18020 IdA Ergebnisbericht Anlage 8 Falzflyer Arzt",
+          "title": "Falzflyer Arzt",
           "meta": "(PDF 253,56 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/102/01NVF18020_IdA_Ergebnisbericht_Anlage%208_Falzflyer%20Arzt.pdf"
         }
@@ -4721,12 +4715,12 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01VSF24033 iDEM-Support_Abbildung Inhalte der erweiterten iSupport-Plattform",
+          "title": "Grafik Inhalte der erweiterten iSupport-Plattform",
           "meta": "(PDF 108,09 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/294/01VSF24033%20iDEM-Support_Abbildung1_InhaltePlattform.pdf"
         },
         {
-          "title": "01VSF24033 iDEM-Support Abbildung Projektvorhaben",
+          "title": "Grafik Projektvorhaben",
           "meta": "(PDF 95,47 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/295/01VSF24033%20iDEM-Support_Abbildung2_Projektvorhaben%20.pdf"
         }
@@ -5139,12 +5133,12 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01NVF22107 INSPIRE - PNRM+ Flyer",
+          "title": "Projektflyer",
           "meta": "(PDF 658,61 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/184/01NVF22107%20INSPIRE%20-%20PNRM+_Flyer.pdf"
         },
         {
-          "title": "01NVF22107 INSPIRE - PNRM+ Plakat",
+          "title": "Projektplakat",
           "meta": "(PDF 1,37 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/185/01NVF22107%20INSPIRE%20-%20PNRM+_Plakat.pdf"
         }
@@ -5245,22 +5239,22 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01NVF21117 INTEGRATE-ATMP Broschüre",
+          "title": "Broschüre",
           "meta": "(PDF 2,41 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/170/01NVF21117%20INTEGRATE-ATMP_Brosch%C3%BCre.pdf"
         },
         {
-          "title": "01NVF21117 INTEGRATE-ATMP grafische Darstellung Konsortium",
+          "title": "Grafik Darstellung Konsortium",
           "meta": "(PDF 145,61 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/171/01NVF21117%20INTEGRATE-ATMP_grafische%20Darstellung%20Konsortium.pdf"
         },
         {
-          "title": "01NVF21117 INTEGRATE-ATMP Scientific Advisory Board",
+          "title": "Grafik Scientific Advisory Board",
           "meta": "(PDF 67,55 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/173/01NVF21117%20INTEGRATE-ATMP_Scientific%20Advisory%20Board.pdf"
         },
         {
-          "title": "01NVF21117 INTEGRATE-ATMP Deutschlandkarte Behandlungszentren verschiedene Formate",
+          "title": "Deutschlandkarte Behandlungszentren",
           "meta": "(PDF 2,72 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/172/01NVF21117%20INTEGRATE-ATMP_Deutschlandkarte%20Behandlungszentren_verschiedene%20Formate.pdf"
         }
@@ -5448,6 +5442,11 @@ window.GBA_NEUROLOGY_DATA = {
           "title": "Evaluationsbericht",
           "meta": "(PDF 15,55 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/140/2022-02-16_INVEST_Billstedt.Horn_Evaluationsbericht.pdf"
+        },
+        {
+          "title": "Stellungnahme Referentenentwurf GVSG",
+          "meta": "(PDF 632,97 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/335/240430_GfBH_Stellungnahme_Referentenentwurf_GVSG.pdf"
         }
       ],
       "essentialElements": {}
@@ -5758,7 +5757,7 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01VSF23014 KlimGesVor Flyer",
+          "title": "Projektflyer",
           "meta": "(PDF 461,17 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/286/01VSF23014%20KlimGesVor_Flyer.pdf"
         }
@@ -5861,7 +5860,7 @@ window.GBA_NEUROLOGY_DATA = {
       "url": "https://innovationsfonds.g-ba.de/projekte/kokos-ms.319",
       "summary": "Menschen mit Multipler Sklerose (MS) haben hochkomplexe Gesundheits- und Sozialversorgungsbedarfe, z. B. in Bezug auf krankheitsspezifische Therapien, Beratung der Lebensplanung bis hin zur palliativen Behandlung.",
       "description": "Menschen mit Multipler Sklerose (MS) haben hochkomplexe Gesundheits- und Sozialversorgungsbedarfe, z. B. in Bezug auf krankheitsspezifische Therapien, Beratung der Lebensplanung bis hin zur palliativen Behandlung. Gerade schwer betroffene MS-Patientinnen und ‑patienten und ihre Bezugspersonen fühlen sich in der Koordination der Vielzahl der Prozesse und der sektorübergreifenden Leistungserbringer oft überfordert und vermissen eine langfristige koordinierende Ansprechperson. Das Projekt KOKOS-MS dient der Evaluierung der Implementierung eines sektorübergreifenden Care- und Case-Managements (CCM). Das CCM soll helfen, schwer betroffene Patientinnen und Patienten zu identifizieren, ihre individuellen Sozial- und Gesundheitsbedarfe zu klären, notwendige Dienstleister zu finden und deren Inanspruchnahme zu koordinieren. Es steuert die Prozesse als übergeordnete Ansprechperson im bestehenden Versorgungsnetzwerk und hilft z. B. beim Umgang mit Behörden, Ärzten und Therapeuten.\n\nIn der Vorbereitungsphase des Projekts wird u. a. ein standardisiertes CCM Manual für die Implementierung des CCMs erarbeitet. In der anschließenden randomisierten Studie werden MS-Kranke der Kontroll- oder Interventionsgruppe zugeordnet. Während die Kontrollgruppe die Standardversorgung erhält, wird den Patient*innen der Interventionsgruppe zusätzlich ein Care- und Case-Manager zur Seite gestellt. Mit Hilfe von Interviews/Gruppendiskussionen und wissenschaftlichen Fragebögen wird das CCM und seine Auswirkungen auf die Versorgungsqualität umfassend bewertet. Im Fokus stehen hierbei die Ermittlung der Lebensqualität und Belastung der Patient*innen und ihrer Bezugspersonen im Verlauf. Des Weiteren werden die entstehenden Kosten in der Kontroll- und Interventionsgruppe analysiert. Aus den erhobenen Daten können die Ansprüche an ein Studiendesign für eine nachfolgende Studie mit einem erweiterten Probandenkollektiv modelliert werden.\n\nDas Projekt wird über 48 Monate mit ca. 1,6 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Projekt erstmals den Nutzen eines CCMs für Menschen mit schwerer MS evaluieren. Das Konzept des CCMs kann modifiziert auf andere komplexe neurologische Krankheitsbilder (z. B. Motoneuronerkrankungen, schwere Parkinsonsyndrome) übertragen und auch dort angewandt werden.",
-      "status": "Abschlussbericht wird erstellt",
+      "status": "beendet",
       "states": [
         "Nordrhein-Westfalen"
       ],
@@ -5889,7 +5888,7 @@ window.GBA_NEUROLOGY_DATA = {
       "duration": "08/2020 – 08/2024",
       "startDate": "2020-08",
       "endDate": "2024-08",
-      "transferRecommendation": "",
+      "transferRecommendation": "keine Empfehlung",
       "projectLead": {
         "raw_lines": [
           "Prof. Dr. Heidrun Golla",
@@ -5916,15 +5915,25 @@ window.GBA_NEUROLOGY_DATA = {
       "projectWebsites": [
         "https://palliativzentrum.uk-koeln.de/forschung/neuro-palliativ/kokos-ms/"
       ],
-      "decisionDate": null,
+      "decisionDate": "20.03.2026",
       "documents": [
         {
-          "title": "01VSF19029 KOKOS-M Flyer",
+          "title": "Beschlusstext",
+          "meta": "(PDF 158,65 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1067/2026-03-20_KOKOS-MS.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 9,34 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1068/2026-03-20_KOKOS-MS_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Projektflyer",
           "meta": "(PDF 850,41 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/236/01VSF19029%20KOKOS-MS_Flyer.pdf"
         },
         {
-          "title": "01VSF19029 KOKOS-MS Studienablauf",
+          "title": "Grafik Studienablauf",
           "meta": "(PDF 108,91 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/237/01VSF19029%20KOKOS-MS_Studienablauf.pdf"
         }
@@ -6009,7 +6018,7 @@ window.GBA_NEUROLOGY_DATA = {
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/633/2024-07-12_KOPAL_Ergebnisbericht.pdf"
         },
         {
-          "title": "01VSF18024 KOPAL Ergebnisbericht Anlage 1 Gesprächsleitfaden",
+          "title": "Gesprächsleitfaden",
           "meta": "(PDF 1,08 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/226/01VSF18024%20KOPAL_Ergebnisbericht%20Anlage%201_Gespr%C3%A4chsleitfaden.pdf"
         }
@@ -6178,17 +6187,17 @@ window.GBA_NEUROLOGY_DATA = {
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1062/2026-02-20_LESTOR_Ergebnisbericht.pdf"
         },
         {
-          "title": "01VSF19053 LESTOR Ergebnisbericht Anlage 1 - Pocketcard",
+          "title": "Pocketcard Armparese",
           "meta": "(PDF 2,18 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/316/01VSF19053%20LESTOR%20Ergebnisbericht%20Anlage%201%20-%20Pocketcard.pdf"
         },
         {
-          "title": "01VSF19053 LESTOR Ergebnisbericht Anlage 2 - Handout",
+          "title": "Handout Praktisches präklinisches Vorgehen bei Verdacht auf Schlaganfall",
           "meta": "(PDF 879,49 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/317/01VSF19053%20LESTOR%20Ergebnisbericht%20Anlage%202%20-%20Handout.pdf"
         },
         {
-          "title": "01VSF19053 LESTOR Ergebnisbericht Anlage 5 - FRENS",
+          "title": "Grafik FRENS",
           "meta": "(PDF 462,12 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/318/01VSF19053%20LESTOR%20Ergebnisbericht%20Anlage%205%20-%20FRENS.pdf"
         }
@@ -7390,17 +7399,17 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01NVF20025 MSnetWork Flyer Patienten",
+          "title": "Flyer Patienten",
           "meta": "(PDF 569,44 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/145/01NVF20025%20MSnetWork_Flyer%20Patienten.pdf"
         },
         {
-          "title": "01NVF20025 MSnetWork Flyer Praxen",
+          "title": "Flyer Praxen",
           "meta": "(PDF 4,96 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/146/01NVF20025%20MSnetWork_Flyer_Praxen.pdf"
         },
         {
-          "title": "01NVF20025 MSnetWork Grafik Netzwerk",
+          "title": "Grafik Netzwerk",
           "meta": "(PDF 122,15 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/147/01NVF20025%20MSnetWork_Grafik%20Netzwerk.pdf"
         }
@@ -7577,7 +7586,7 @@ window.GBA_NEUROLOGY_DATA = {
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/191/2022-05-12_MULTIqual_Ergebnisbericht.pdf"
         },
         {
-          "title": "01VSF16058 MULTIqual Ergebnisse QiSA Band F2 - Multimorbidität",
+          "title": "Ergebnisse QiSA Band F2 - Multimorbidität",
           "meta": "(PDF 3,16 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/208/01VSF16058%20MULTIqual%20Ergebnisse%20QiSA%20Band%20F2%20-%20Multimorbidit%C3%A4t.pdf"
         }
@@ -8172,6 +8181,11 @@ window.GBA_NEUROLOGY_DATA = {
           "title": "Ergebnisbericht",
           "meta": "(PDF 16,20 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/363/2023-01-24_OPAL_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Handlungsempfehlungen",
+          "meta": "(PDF 1,63 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/336/2025_12_12_OPAL_01VSF17028_Handlungsempfehlungen.pdf"
         }
       ],
       "essentialElements": {
@@ -8788,7 +8802,7 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01VSF19026 pallCompare Flyer",
+          "title": "Projektflyer",
           "meta": "(PDF 2,09 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/235/01VSF19026%20pallCompare_Flyer.pdf"
         }
@@ -8956,7 +8970,7 @@ window.GBA_NEUROLOGY_DATA = {
       "url": "https://innovationsfonds.g-ba.de/projekte/parkinson-aktiv.351",
       "summary": "Mehr als 300.000 Menschen leiden an Parkinson, der in Deutschland häufigsten neurodegenerativen Bewegungsstörung.",
       "description": "Mehr als 300.000 Menschen leiden an Parkinson, der in Deutschland häufigsten neurodegenerativen Bewegungsstörung. Aufgrund absterbender Nervenzellen in einem bestimmten Hirnareal werden zunächst die Bewegungen der Betroffenen langsamer und steifer. Typisch sind auch ein Zittern der Arme und Beine. Zudem können Gang-, Sprech- und Schluckstörungen hinzukommen. Weitere Symptome können Blasenstörungen oder kognitive Beeinträchtigungen bis hin zur Demenz sein. Parkinson ist nicht heilbar, kann allerdings mithilfe von Medikamenten und einer aktivierenden Therapie, bestehend aus Physio-, Ergo- und/oder Logopädie positiv beeinflusst werden. Bislang erhält jedoch lediglich ein Drittel aller Parkinsonpatienten eine spezifische aktivierende Therapie.\n\nIn diesem Projekt soll eine webbasierte Kommunikationsplattform zum optimierten Austausch zwischen den beteiligten Leistungserbringern aufgebaut werden, um eine individuell abgestimmte Behandlung unter Berücksichtigung einer aktivierenden Therapie zu ermöglichen. Mithilfe von Quickcards soll der Austausch der verschiedenen Berufsgruppen verbessert werden. Die Quickcards enthalten patientenrelevante Informationen sowie leitliniengerechte Therapieempfehlungen und werden allen Behandlern und Behandlerinnen zugänglich gemacht. Diese Kommunikationsplattform wird mit dem bereits bestehenden, multidisziplinären Parkinsonnetz Münsterland+ verknüpft, in dem bereits eine Vielzahl von Experten und Expertinnen vernetzt sind.\n\nIn der Studie wird die Lebensqualität von Parkinsonpatienten und -patientinnen, die mithilfe der webbasierten Kommunikationsplattform und unter verstärktem Einsatz aktivierender Therapien behandelt wurden mit einer Kontrollgruppe, die in der Regelversorgung verbleibt, verglichen. Das Projekt wird für 48 Monate mit ca. 2,6 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die Vernetzung aller beteiligten Leistungserbringer mithilfe der webbasierten Kommunikationsplattform auch in anderen Regionen umgesetzt werden. Die Quickcards könnten unabhängig von einer spezifischen Infrastruktur als wichtiges Element der neuen Versorgungsform etabliert werden.\n\nProjekteinblick vom 22.11.2023",
-      "status": "Abschlussbericht wird erstellt",
+      "status": "beendet",
       "states": [
         "Nordrhein-Westfalen"
       ],
@@ -8982,7 +8996,7 @@ window.GBA_NEUROLOGY_DATA = {
       "duration": "10/2020 – 09/2024",
       "startDate": "2020-10",
       "endDate": "2024-09",
-      "transferRecommendation": "",
+      "transferRecommendation": "keine Empfehlung",
       "projectLead": {
         "raw_lines": [
           "Prof. Dr. Tobias Warnecke",
@@ -9011,10 +9025,25 @@ window.GBA_NEUROLOGY_DATA = {
         "Nuromedia GmbH"
       ],
       "projectWebsites": [],
-      "decisionDate": null,
+      "decisionDate": "20.03.2026",
       "documents": [
         {
-          "title": "01NVF19002 Parkinson AKTIV Flyer",
+          "title": "Beschlusstext",
+          "meta": "(PDF 158,58 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1077/2026-03-20_Parkinson-AKTIV.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 17,92 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1078/2026-03-20_Parkinson-AKTIV_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Evaluationsbericht",
+          "meta": "(PDF 5,26 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1079/2026-03-20_Parkinson-AKTIV_Evaluationsbericht.pdf"
+        },
+        {
+          "title": "Projektflyer",
           "meta": "(PDF 340,08 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/106/01NVF19002%20Parkinson%20AKTIV_Flyer.pdf"
         }
@@ -9091,12 +9120,12 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01NVF20019 ParkProReakt Ablauf Ersttermin Stand Mai 2024",
+          "title": "Grafik Ablauf Ersttermin",
           "meta": "(PDF 104,29 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/142/01NVF20019%20ParkProReakt_Ablauf_Ersttermin_Mai24.pdf"
         },
         {
-          "title": "01NVF20019 ParkProReakt Versorgungsmodell",
+          "title": "Grafik Versorgungsmodell",
           "meta": "(PDF 149,52 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/141/01NVF20019%20ParkProReakt_Versorgungsmodell.pdf"
         }
@@ -9288,17 +9317,17 @@ window.GBA_NEUROLOGY_DATA = {
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/132/2022-01-21_PASTA_Evaluationsbericht.pdf"
         },
         {
-          "title": "01NVF17017 PASTA Evaluationsbericht Anlage 1 Patientenbrief-Beispiel",
+          "title": "Patientenbrief-Beispiel",
           "meta": "(PDF 367,08 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/304/01NVF17017_PASTA_Evaluationsbericht_Anlage%201_Patientenbrief-Beispiel.PDF"
         },
         {
-          "title": "01NVF17017 PASTA Evaluationsbericht Anlage 2 Regelwerk für das Erklären medizinischer Sachverhalte in einer leichten Sprache",
+          "title": "Regelwerk für das Erklären medizinischer Sachverhalte in einer leichten Sprache",
           "meta": "(PDF 370,61 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/305/01NVF17017_PASTA_Evaluationsbericht_Anlage_2_Regelwerk_f%C3%BCr%20das%20Erkl%C3%A4ren%20medizinischer%20Sachverhalte%20in%20einer%20leicht.pdf"
         },
         {
-          "title": "01NVF17017 PASTA Deutscher Nachhaltigkeitpreis Gesundheit 2025 Fotograf Christian Köster",
+          "title": "Deutscher Nachhaltigkeitpreis Gesundheit 2025 (Fotograf: Christian Köster)",
           "meta": "(JPG 4,19 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/306/01NVF17017_PASTA_dnp2025_0512_Christian_Koester-95.jpg"
         }
@@ -10111,12 +10140,12 @@ window.GBA_NEUROLOGY_DATA = {
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/994/2025-12-19_PRAEP-GO_EB_Anlage-15.xlsx"
         },
         {
-          "title": "01NVF18024 PRÄP-GO Flyer",
+          "title": "Projektflyer",
           "meta": "(PDF 13,54 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/103/01NVF18024%20PR%C3%84P-GO_Flyer.pdf"
         },
         {
-          "title": "01NVF18024 PRÄP-GO Patientenpfad",
+          "title": "Grafik Patientenpfad",
           "meta": "(PNG 337,86 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/104/01NVF18024%20PR%C3%84P-GO_Patientenpfad.png"
         }
@@ -11594,7 +11623,7 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01NVF22105 SEBDem Flyer",
+          "title": "Projektflyer",
           "meta": "(PDF 276,73 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/181/01NVF22105%20SEBDem_Flyer.pdf"
         }
@@ -12058,12 +12087,12 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01NVF21113 STAY@HOME-TREAT@HOME Flyer",
+          "title": "Projektflyer",
           "meta": "(PDF 2,86 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/164/01NVF21113%20STAY@HOME-TREAT@HOME_Flyer.pdf"
         },
         {
-          "title": "01NVF21113 STAY@HOME-TREAT@HOME grafische Projektvorstellung",
+          "title": "Grafik Projektvorstellung",
           "meta": "(PDF 712,66 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/165/01NVF21113%20STAY@HOME-TREAT@HOME_grafische%20Projektvorstellung.pdf"
         }
@@ -12449,12 +12478,12 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01NVF23109 T-CABS Flyer",
+          "title": "Projektflyer",
           "meta": "(PDF 762,46 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/196/01NVF23109%20T-CABS_Flyer.pdf"
         },
         {
-          "title": "01NVF23109 T-CABS Abbildung Vergleich Versorgungsformen",
+          "title": "Graifk Vergleich Versorgungsformen",
           "meta": "(PDF 220,23 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/197/01NVF23109%20T-CABS_Abbildung%20Vergleich%20Versorgungsformen.pdf"
         }
@@ -12753,12 +12782,12 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01NVF24001 TENEAM Flyer Fachpersonal",
+          "title": "Flyer Fachpersonal",
           "meta": "(PDF 1,41 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/204/01NVF24001%20TENEAM_Flyer_Fachpersonal.pdf"
         },
         {
-          "title": "01NVF24001 TENEAM Plakat A3",
+          "title": "Projektplakat",
           "meta": "(PDF 1,02 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/205/01NVF24001%20TENEAM_Plakat%20A3.pdf"
         }
@@ -12772,7 +12801,7 @@ window.GBA_NEUROLOGY_DATA = {
       "acronym": "TheMoS",
       "url": "https://innovationsfonds.g-ba.de/projekte/themos.580",
       "summary": "Innerhalb eines Jahres erleiden in Deutschland rund 1,6 Prozent aller Erwachsenen einen Schlaganfall. Zwei Drittel der Patientinnen und Patienten sind danach pflegebedürftig oder auf Unterstützung im Alltag angewiesen.",
-      "description": "Innerhalb eines Jahres erleiden in Deutschland rund 1,6 Prozent aller Erwachsenen einen Schlaganfall. Zwei Drittel der Patientinnen und Patienten sind danach pflegebedürftig oder auf Unterstützung im Alltag angewiesen. Der Schlaganfall ist die häufigste Ursache einer erworbenen Behinderung im Erwachsenenalter. Die dadurch ausgelösten Einschränkungen der Mobilität sind der häufigste Grund für die Beantragung einer Pflegestufe oder einer vollstationären Unterbringung. Wird eine spezifische Therapie rasch und konsequent umgesetzt, kann die jeweilige Störung häufig verringert werden.\n\nDie Projektpartner von TheMoS wollen gemeinsam eine S3-Leitlinie zur Therapie von Störungen der Mobilität nach einem Schlaganfall erarbeiten und damit vor allem die Standardisierung der Therapie verbessern. Dabei sollen die Therapieempfehlungen konkreten Zielkriterien folgen, wie beispielsweise der Fähigkeit, eigenständig gehen zu lernen oder weniger zu stürzen. Die vorhandene S2k-Leitlinie „Rehabilitation der Mobilität nach Schlaganfall“ (ReMoS) wird damit ersetzt.\n\nDie Besonderheit des geplanten Projekts besteht darin, dass die Forschungsgruppe über die systematische Literatursuche und –bewertung hinaus zielgruppenspezifische Versionen der Leitlinie entwickeln wird. Dafür werden unterschiedliche Berufsgruppen und Disziplinen wie Neurologie, Allgemeinmedizin oder Altersmedizin beteiligt. Die Perspektive der Betroffenen wird durch die Einbindung von Patientenvertretungen berücksichtigt. Das Projekt wird für zweieinhalb Jahre mit ca. 449.000 Euro gefördert.\n\nIm Erfolgsfall trägt die neue S3-Leitlinie zu einer besseren Versorgung von Patientinnen und Patienten mit Mobilitätsstörungen nach einem Schlaganfall bei. Ein Schlüssel wird dabei eine kontinuierliche Qualitätskontrolle der empfohlenen Therapien sein.",
+      "description": "Innerhalb eines Jahres erleiden in Deutschland rund 1,6 Prozent aller Erwachsenen einen Schlaganfall. Zwei Drittel der Patientinnen und Patienten sind danach pflegebedürftig oder auf Unterstützung im Alltag angewiesen. Der Schlaganfall ist die häufigste Ursache einer erworbenen Behinderung im Erwachsenenalter. Die dadurch ausgelösten Einschränkungen der Mobilität sind der häufigste Grund für die Beantragung einer Pflegestufe oder einer vollstationären Unterbringung. Wird eine spezifische Therapie rasch und konsequent umgesetzt, kann die jeweilige Störung häufig verringert werden.\n\nDie Projektpartner von TheMoS wollen gemeinsam eine S3-Leitlinie zur Therapie von Störungen der Mobilität nach einem Schlaganfall erarbeiten und damit vor allem die Standardisierung der Therapie verbessern. Dabei sollen die Therapieempfehlungen konkreten Zielkriterien folgen, wie beispielsweise der Fähigkeit, eigenständig gehen zu lernen oder weniger zu stürzen. Die vorhandene S2k-Leitlinie „Rehabilitation der Mobilität nach Schlaganfall“ (ReMoS) wird damit ersetzt.\n\nDie Besonderheit des geplanten Projekts besteht darin, dass die Forschungsgruppe über die systematische Literatursuche und –bewertung hinaus zielgruppenspezifische Versionen der Leitlinie entwickeln wird. Dafür werden unterschiedliche Berufsgruppen und Disziplinen wie Neurologie, Allgemeinmedizin oder Altersmedizin beteiligt. Die Perspektive der Betroffenen wird durch die Einbindung von Patientenvertretungen berücksichtigt. Das Projekt wird für zwei Jahre und acht Monate mit ca. 449.000 Euro gefördert.\n\nIm Erfolgsfall trägt die neue S3-Leitlinie zu einer besseren Versorgung von Patientinnen und Patienten mit Mobilitätsstörungen nach einem Schlaganfall bei. Ein Schlüssel wird dabei eine kontinuierliche Qualitätskontrolle der empfohlenen Therapien sein.",
       "status": "laufend",
       "states": [
         "Berlin"
@@ -12792,9 +12821,9 @@ window.GBA_NEUROLOGY_DATA = {
       "fundingProcess": "Medizinische Leitlinien",
       "fundingSumLabel": "ca. 449.000 Euro",
       "fundingSumEur": 449000,
-      "duration": "10/2023 – 03/2026",
+      "duration": "10/2023 – 06/2026",
       "startDate": "2023-10",
-      "endDate": "2026-03",
+      "endDate": "2026-06",
       "transferRecommendation": "",
       "projectLead": {
         "raw_lines": [
@@ -13059,32 +13088,32 @@ window.GBA_NEUROLOGY_DATA = {
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/789/2025-01-24_TRADE_Ergebnisbericht.pdf"
         },
         {
-          "title": "01VSF18052 TRADE_Angehörigenposter",
+          "title": "Angehörigenposter",
           "meta": "(PDF 153,47 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/307/01VSF18052%20TRADE_Angeh%C3%B6rigenposter.pdf"
         },
         {
-          "title": "01VSF18052 TRADE_Ergebnisbericht_Anlage 6_Flyer",
+          "title": "Projektflyer",
           "meta": "(PDF 156,40 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/308/01VSF18052%20TRADE_Ergebnisbericht_Anlage%206_Flyer.pdf"
         },
         {
-          "title": "01VSF18052 TRADE_Ergebnisbericht_Anlage 9_Leitfaden",
+          "title": "Leitfaden für Gesundheitspersonal im Krankenhaus",
           "meta": "(PDF 480,16 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/309/01VSF18052%20TRADE_Ergebnisbericht_Anlage%209_Leitfaden.pdf"
         },
         {
-          "title": "01VSF18052 TRADE_Ergebnisbericht_Anlage 10_Plakat",
+          "title": "Projektplakat",
           "meta": "(PDF 417,60 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/310/01VSF18052%20TRADE_Ergebnisbericht_Anlage%2010_Plakat.pdf"
         },
         {
-          "title": "01VSF18052 TRADE_Ergebnisbericht_Anlage 11_1-Min-Info",
+          "title": "Sammlung 1-Min-Infos",
           "meta": "(PDF 354,38 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/311/01VSF18052%20TRADE_Ergebnisbericht_Anlage%2011_1-Min-Info.pdf"
         },
         {
-          "title": "01VSF18052 TRADE_Ergebnisbericht_Anlage 18_Rekrutierungsflyer",
+          "title": "Rekrutierungsflyer",
           "meta": "(PDF 85,78 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/312/01VSF18052%20TRADE_Ergebnisbericht_Anlage%2018_Rekrutierungsflyer.pdf"
         }
@@ -13287,7 +13316,7 @@ window.GBA_NEUROLOGY_DATA = {
       "decisionDate": null,
       "documents": [
         {
-          "title": "01VSF21044 VAC-MAC Faktenblatt zum Impfen bei Immunerkrankungen 09/2023",
+          "title": "Faktenblatt zum Impfen bei Immunerkrankungen",
           "meta": "(PDF 2,45 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/265/01VSF21044%20VAC-MAC_Faktenblatt%20zum%20Impfen%20bei%20Immunerkrankungen_09-2023.pdf"
         }
@@ -13704,22 +13733,22 @@ window.GBA_NEUROLOGY_DATA = {
           "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/569/2024-05-17_ZSE-DUO_Evaluationsbericht.pdf"
         },
         {
-          "title": "01NVF17031 ZSE-DUO Studienprotokoll V1.3 2020-09-04",
+          "title": "Studienprotokoll",
           "meta": "(PDF 512,92 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/95/01NVF17031%20ZSE-DUO_Studienprotokoll_V1.3_2020-09-04.pdf"
         },
         {
-          "title": "01NVF17031 ZSE-DUO Ergebnisbericht Anlage 11 Manual Duale Lotsenstruktur 2022-08-29 V1.0",
+          "title": "Manual Duale Lotsenstruktur",
           "meta": "(PDF 2,25 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/96/01NVF17031%20ZSE-DUO_Ergebnisbericht_Anlage%2011_Manual_Duale_Lotsenstruktur_2022-08-29_V1.0.pdf"
         },
         {
-          "title": "01NVF17031 ZSE-DUO Ergebnisse Poster NAKSE 2023",
+          "title": "Poster Ergebnisse NAKSE 2023",
           "meta": "(PDF 1,03 MB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/97/01NVF17031%20ZSE-DUO_Ergebnisse_Poster_NAKSE2023.pdf"
         },
         {
-          "title": "01NVF17031 ZSE-DUO ORPHA-Klassifikation Seltene Erkrankungen Poster NAKSE 2025",
+          "title": "Poster Klassifikation Seltene Erkrankungen NAKSE 2025",
           "meta": "(PDF 236,52 kB)",
           "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/98/01NVF17031%20ZSE-DUO_ORPHA-Klassifikation_SE_Poster_NAKSE2025.pdf"
         }
