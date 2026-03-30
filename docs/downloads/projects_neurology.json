@@ -101,7 +101,7 @@
     ],
     "additional_documents": [
       {
-        "title": "Handreichung - Empfehlungen für den bedarfsgerechten Auf- und Ausbau von palliativmedizinischen Tageskliniken und Tageshospizen",
+        "title": "Handreichung – Empfehlungen für den bedarfsgerechten Auf- und Ausbau von palliativmedizinischen Tageskliniken und Tageshospizen",
         "meta": "(PDF 2,74 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/239/01VSF19034%20ABPATITE_Ergebnisbericht%20Anhang%2029%20Handreichung_Empfehlungen%20Auf-%20und%20Ausbau%20von%20palliativmedizinischen%20Tageskliniken.pdf"
       }
@@ -1753,7 +1753,7 @@
     "acronym": "CAROL",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
-      "Themenschwerpunkte": "Gendiagnostik, kardiologische Erkrankungen, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, psychische Erkrankungen",
+      "Themenschwerpunkte": "Erkrankungen des Kreislaufsystems, Gendiagnostik, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, psychische Erkrankungen",
       "Zielgruppen": "ältere Menschen, Angehörige, Erwachsene, Leistungserbringer, Menschen mit chronischen Krankheiten, Menschen mit seltenen Krankheiten",
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesländer": "Baden-Württemberg, Bayern, Hamburg, Hessen, Nordrhein-Westfalen, Schleswig-Holstein",
@@ -1772,8 +1772,8 @@
       "Themenfeld": "themenoffen"
     },
     "thematic_focuses": [
+      "Erkrankungen des Kreislaufsystems",
       "Gendiagnostik",
-      "kardiologische Erkrankungen",
       "neurologische Erkrankungen",
       "Notfälle",
       "Verletzung und Vergiftungen",
@@ -2219,6 +2219,97 @@
     "is_neurology": true
   },
   {
+    "project_id": 617,
+    "slug": "contribute.617",
+    "url": "https://innovationsfonds.g-ba.de/projekte/contribute.617",
+    "title": "CONTRIBUTE – WeChsel vON Off-Label & Best Supportive Care auf zugelassene TheRapIen Bei verschiedenen AUToimmunerkrankungEn: Implementierung, Auswirkungen auf den Krankheitsverlauf und unerwünschte Ereignisse",
+    "acronym": "CONTRIBUTE",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Themenschwerpunkte": "Blut- und Immunsystemerkrankungen, neurologische Erkrankungen",
+      "Zielgruppen": "Erwachsene, Leistungserbringer, Menschen mit chronischen Krankheiten, Menschen mit seltenen Krankheiten",
+      "Versorgungsbereich": "sektorenübergreifend",
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF23041",
+      "Laufzeit": "04/2024 – 05/2027",
+      "Status": "laufend",
+      "E-Health": "Big Data und Gesundheitsdatenanalyse",
+      "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Off-Label-Use , unerwünschte Arzneimittelwirkungen",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitsinformationen / Flyer / Infobriefe , Patientenkommunikation , Rehabilitation und Therapie"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,26 Mio. Euro",
+      "Förderbekanntmachung": "27.06.2022",
+      "Themenfeld": "Arzneimitteltherapie: Auswirkungen des Wechsels von Best Supportive Care (BSC) oder Off-Label-Use (OLU) hin zu indikationsspezifisch zugelassenen Arzneimitteln"
+    },
+    "thematic_focuses": [
+      "Blut- und Immunsystemerkrankungen",
+      "neurologische Erkrankungen"
+    ],
+    "target_groups": [
+      "Erwachsene",
+      "Leistungserbringer",
+      "Menschen mit chronischen Krankheiten",
+      "Menschen mit seltenen Krankheiten"
+    ],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "sektorenübergreifend",
+    "status": "laufend",
+    "duration_raw": "04/2024 – 05/2027",
+    "start_date": "2024-04",
+    "end_date": "2027-05",
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,26 Mio. Euro",
+    "funding_sum_eur": 1260000,
+    "funding_reference": "01VSF23041",
+    "themenfeld": "Arzneimitteltherapie: Auswirkungen des Wechsels von Best Supportive Care (BSC) oder Off-Label-Use (OLU) hin zu indikationsspezifisch zugelassenen Arzneimitteln",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "27.06.2022",
+    "description": "Bei Autoimmunerkrankungen bekämpft das Immunsystem fälschlicherweise körpereigene Strukturen (Gewebe/Organe). Etwa fünf bis acht Prozent der Menschen in Deutschland leiden an einer solchen Krankheit, die die Betroffenen sehr belastet. Darunter befinden sich auch relativ seltene Erkrankungen wie z. B. Myasthenia gravis und Riesenzellarteriitis. Diese Erkrankungen wurden in der Vergangenheit oft mit Medikamenten behandelt, die das Immunsystem stark beeinträchtigen, oder für andere Autoimmunerkrankungen zugelassen sind. In den letzten Jahren wurden zunehmend spezifische Therapien für diese seltenen Autoimmunerkrankungen entwickelt und zugelassen. Unklar ist allerdings, in welchem Umfang diese Wirkstoffe eingesetzt werden und in welchem Ausmaß sie die Behandlungsergebnisse der Betroffenen unter Alltagsbedingungen verbessern.\n\nDas Projektteam von CONTRIBUTE möchte diese Wissenslücke schließen und somit perspektivisch die Arzneimittelversorgung der Betroffenen verbessern. Dazu sollen insbesondere Erkenntnisse zu den Eigenschaften der behandelten Patientinnen und Patienten, sowie zur Wirksamkeit und Nebenwirkungen der eingesetzten Medikamente ermittelt werden. Geplant ist eine Hauptauswertung mit den Daten der zweitgrößten Krankenkasse Deutschlands (BARMER). Um einen Einblick in die Versorgungspraxis zu erhalten, werden u. a. auch ca. 30 Patientinnen und Patienten zu ihren Erfahrungen mit den Arzneimitteln befragt. Die dabei gewonnenen Erkenntnisse werden den Therapiezielen, aber auch Auswirkungen auf die Therapiekosten für das Gesundheitssystem gegenübergestellt. Das Projekt wird für 38 Monate mit insgesamt ca. 1,26 Millionen Euro gefördert.\n\nIm besten Fall ermöglichen die Auswertungen, Strategien für eine bessere Versorgung der Betroffenen zu entwickeln und beispielsweise Risiken bei der Einnahme der Arzneimittel zu reduzieren. Der Überblick über Kosten und Nutzen der verschiedenen Arzneimittel erlaubt eine realistischere Einschätzung der ökonomischen Rahmenbedingungen.",
+    "project_websites": [
+      "https://www.uni-wh.de/contribute-studie"
+    ],
+    "project_lead": {
+      "raw_lines": [
+        "Prof. Dr. Sven Schmiedl",
+        "Private Universität Witten/Herdecke gGmbH",
+        "Lehrstuhl für Klinische Pharmakologie",
+        "Alfred-Herrhausen-Straße 50",
+        "58455 Witten",
+        "+49 202 8961854",
+        "Sven.Schmiedl@uni-wh.de"
+      ],
+      "display": "Prof. Dr. Sven Schmiedl | Private Universität Witten/Herdecke gGmbH | Lehrstuhl für Klinische Pharmakologie | Alfred-Herrhausen-Straße 50 | 58455 Witten | +49 202 8961854 | Sven.Schmiedl@uni-wh.de",
+      "name": "Prof. Dr. Sven Schmiedl",
+      "email": "Sven.Schmiedl@uni-wh.de",
+      "phone": "+49 202 8961854",
+      "postal_code": "58455",
+      "city": "Witten",
+      "organization": "Private Universität Witten/Herdecke gGmbH",
+      "department": "Lehrstuhl für Klinische Pharmakologie",
+      "street": "Alfred-Herrhausen-Straße 50"
+    },
+    "project_lead_city": "Witten",
+    "consortium_partners": [
+      "Ruhr-Universität Bochum",
+      "St. Elisabeth Gruppe GmbH - Katholische Kliniken Rhein-Ruhr",
+      "Universität zu Köln"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": true,
+    "matches_neurology_online_filter": true,
+    "neurology_focus_scope": "multiple",
+    "is_neurology": true
+  },
+  {
     "project_id": 338,
     "slug": "dasi.338",
     "url": "https://innovationsfonds.g-ba.de/projekte/dasi.338",
@@ -2424,8 +2515,8 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 42,02 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1058/2026-02-20_DECADE_Ergebnisbericht.pdf"
+        "meta": "(PDF 42,34 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1058/2026-02-28_DECADE_Ergebnisbericht.pdf"
       }
     ],
     "additional_documents": [
@@ -3135,7 +3226,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "26.06.2020",
     "description": "Bewohnerinnen und Bewohner von Pflegeeinrichtungen werden häufig zur Abklärung von Gesundheitsproblemen wie Infekten, Stürzen oder Herzkreislaufstörungen ins Krankenhaus eingewiesen. Da diese Patientengruppe besonders anfällig ist, kommt es dabei nicht selten zu Komplikationen wie z. B. Verwirrungszuständen, (weiteren) Stürzen, Wundliegen oder Depressionen. Im Pflegebericht der AOK wurde 2018 von 40,5 Prozent vermeidbaren Krankenhauseinweisungen berichtet. Diese Zahl ließe sich mit einer adäquaten Versorgung im ambulanten Bereich unter Umständen reduzieren, wodurch die Notaufnahmen in den Krankenhäusern entlastet werden könnten.\n\nIm Projekt DIKOM soll mithilfe einer Mobilen Geriatrie-Unit (MGU) apparative Diagnostik direkt im Pflegeheim durchgeführt werden. Die MGU ist ein Fahrzeug, welches mit verschiedenen Geräten wie CT, Röntgen, EKG, EEG, Ultraschall und einem Labor ausgestattet ist. Das Team der MGU besteht aus einer Fachärztin bzw. einem Facharzt und einer bzw. einem Radiologie-MTA. Zusätzlich werden vor Ort erhobene Befunde direkt an Expertinnen und Experten in Partnerkliniken übermittelt und in einem telemedizinischen Konsil beraten. Auf diese Weise könnten die Patientinnen und Patienten in der Pflegeeinrichtung bleiben und dort weiterbehandelt werden.\n\nIn einer hierzu geplanten Studie (cluster-randomisiert, d. h. es werden nicht zufällig Patientinnen und Patienten in Gruppen aufgeteilt, sondern es werden Einheiten, hier Pflegeheime, zufällig in Gruppen aufgeteilt) wird geprüft, ob die apparative Diagnostik direkt im Pflegeheim die Rate von Krankenhauseinweisungen verringern kann und ob sich dies günstig auf die Entwicklung von Pflegebedürftigkeit und Kosten auswirkt. Dazu sollen in einem Zeitraum von 27 Monaten 2.277 Betroffene in die Interventions- und 2.684 in die Kontrollgruppe eingeschlossen werden. Das Projekt wird für vier Jahre mit insgesamt ca. 9,8 Millionen Euro gefördert.\n\nIm Erfolgsfall werden Krankenhauseinweisungen und Folgeerkrankungen von Pflegebedürftigen vermieden und zudem die Notaufnahmen entlastet.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.medizin-daheim.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Klaus Faßbender",
@@ -5062,7 +5155,7 @@
     "acronym": "HIT-Life",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
-      "Themenschwerpunkte": "Augenerkrankungen, Erkrankungen des Muskel-Skelett-Systems, Hals-Nasen-Ohrenerkrankungen, Hauterkrankungen und Erkrankungen des Bindegewebes, Hormon- und Stoffwechselstörungen, kardiologische Erkrankungen, neurologische Erkrankungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
+      "Themenschwerpunkte": "Augenerkrankungen, Erkrankungen des Kreislaufsystems, Erkrankungen des Muskel-Skelett-Systems, Hals-Nasen-Ohrenerkrankungen, Hauterkrankungen und Erkrankungen des Bindegewebes, Hormon- und Stoffwechselstörungen, neurologische Erkrankungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
       "Zielgruppen": "Erwachsene, Kinder und Jugendliche, Menschen mit Behinderung, Menschen mit chronischen Krankheiten, Menschen mit seltenen Krankheiten",
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesländer": "Hamburg, Nordrhein-Westfalen",
@@ -5081,11 +5174,11 @@
     },
     "thematic_focuses": [
       "Augenerkrankungen",
+      "Erkrankungen des Kreislaufsystems",
       "Erkrankungen des Muskel-Skelett-Systems",
       "Hals-Nasen-Ohrenerkrankungen",
       "Hauterkrankungen und Erkrankungen des Bindegewebes",
       "Hormon- und Stoffwechselstörungen",
-      "kardiologische Erkrankungen",
       "neurologische Erkrankungen",
       "onkologische Erkrankungen",
       "psychische Erkrankungen",
@@ -5301,7 +5394,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "20.10.2017",
     "description": "Knapp 40 Prozent der älteren Patienten, die wegen einer körperlichen Krankheit im Krankenhaus behandelt werden, haben außerdem Gedächtnisbeeinträchtigungen, ca. 20 Prozent vom Schweregrad einer Demenz. Aus dieser Begleiterkrankung ergibt sich im Krankenhaus ein erhöhtes Risiko für Verwirrtheitszustände, Krankenhausinfektionen, Mangelernährung und Stürze. Daher liegen diese Patienten oft länger im Krankenhaus, müssen häufiger verlegt werden und es entsteht ein erhöhter Behandlungs- und Betreuungsaufwand. Weil die somatischen Akutstationen derzeit nicht auf diese Patientengruppe eingestellt sind, steht das Pflegepersonal vor zusätzlichen inhaltlichen und zeitlichen Herausforderungen. Die Angehörigen werden häufig nicht einbezogen.\n\nIm Projekt IdA werden geschulte Koordinatoren und Tagesbegleiter regelhaft eingesetzt. Die Koordinatoren sammeln und führen alle für die Behandlung des Patienten notwendigen Informationen zusammen. Dies sind z. B. regelmäßige Beurteilungen der Gedächtnisleistung des Patienten sowie Einschätzungen von Angehörigen, niedergelassenen Behandlern und Pflegepersonal. Basierend darauf erstellt und terminiert der Koordinator den Behandlungs- und Maßnahmenplan. Während des Krankenhausaufenthalts betreuen die Tagesbegleiter die Patienten, strukturieren deren Tag und entlasten damit das Pflegepersonal. An fünf Standorten der drei beteiligten Kliniken sollen rund 2.600 Patienten ab 70 Jahren diese neue Versorgungsform erhalten. Die Qualität der Behandlung wird mit den Ergebnissen von Patienten dreier weiterer Kliniken verglichen. Dies geschieht mithilfe von Daten der Krankenhäuser und der beteiligten Krankenkassen, der durchgeführten Assessments und den Einschätzungen der Pflegepersonen und Angehörigen. Das Projekt wird für vier Jahre mit insgesamt ca. 7,25 Millionen Euro gefördert.\n\nDurch das Projekt soll sich die Zusammenarbeit innerhalb und zwischen verschiedenen Versorgungsbereichen, -einrichtungen und Berufsgruppen bei der Versorgung älterer Patienten verbessern. Im Erfolgsfall hilft die neue Versorgungsform die Häufigkeit von Delirien, Stürzen, freiheitsbeschränkenden Maßnahmen und Notfallverlegungen in die Akutpsychiatrie sowie die Zahl der Behandlungstage im Krankenhaus zu senken. Hierdurch könnten auch die Behandlungs- und Pflegefolgekosten signifikant verringert werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.ida-brandenburg.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Dorothea Mantei",
@@ -11119,6 +11214,100 @@
     "is_neurology": true
   },
   {
+    "project_id": 154,
+    "slug": "parkprotrain.154",
+    "url": "https://innovationsfonds.g-ba.de/projekte/parkprotrain.154",
+    "title": "ParkProTrain – Individualisiertes Trainingsprogramm für Parkinson-Patienten",
+    "acronym": "ParkProTrain",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Themenschwerpunkt": "neurologische Erkrankungen",
+      "Zielgruppe": "Menschen mit chronischen Krankheiten",
+      "Versorgungsbereich": "ambulant",
+      "Bundesland": "Schleswig-Holstein",
+      "Förderkennzeichen": "01VSF17037",
+      "Laufzeit": "06/2018 – 06/2021",
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung",
+      "E-Health": "App , Digitale Gesundheitsanwendungen (DiGA) , digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
+      "Heil- und Hilfsmittelversorgung": "Physiotherapie",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Selbstmanagement-Programme",
+      "Versorgungsmodelle und Behandlungsprogramme": "Blended Care / Blended Treatment"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 700.00 Euro",
+      "Förderbekanntmachung": "20.02.2017",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [
+      "neurologische Erkrankungen"
+    ],
+    "target_groups": [
+      "Menschen mit chronischen Krankheiten"
+    ],
+    "states": [
+      "Schleswig-Holstein"
+    ],
+    "care_setting": "ambulant",
+    "status": "beendet",
+    "duration_raw": "06/2018 – 06/2021",
+    "start_date": "2018-06",
+    "end_date": "2021-06",
+    "transfer_recommendation": "keine Empfehlung",
+    "funding_sum_label": "ca. 700.00 Euro",
+    "funding_sum_eur": 70000,
+    "funding_reference": "01VSF17037",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.02.2017",
+    "description": "Parkinson ist eine der häufigsten neurodegenerativen Erkrankung in Deutschland. Erkrankte Personen sind in ihrem Alltag und ihrer Lebensqualität stark beeinträchtigt. Neben dem gravierenden körperlichen und psychischen Leid für die Betroffenen belastet die Krankheit das deutsche Gesundheitssystem mit jährlichen Gesamtkosten von etwa 2,8 Milliarden Euro enorm. Ein Großteil dieser Kosten entsteht durch die stationäre Behandlung, die sogenannte Parkinson-Komplexbehandlung (PKB). Hier werden die Patienten in drei Wochen medikamentös eingestellt, unterstützt durch verschiedene Therapien wie Physio-, Ergo-, Sprach-, Musik- und Sporttherapie.\n\nIm Projekt ParkProTrain wird ein tabletbasiertes Trainingsprogramm während und nach der stationären PKB eingeführt. Es unterstützt Parkinson-Patienten dabei, die in der PKB erlernten körperlich-aktivierenden Übungen unter Anleitung und mit regelmäßigen Anpassungen eigenständig dauerhaft im häuslichen Alltag weiterzuführen. Das Trainingsprogramm für die Patienten wird als Tablet-Applikation entwickelt. Es enthält parkinsonspezifische Übungen, beispielsweise alle wichtigen Formen von Bewegungsübungen wie Ausdauer, Kraft und Gleichgewicht sowie weitere körperliche Aktivitäten wie Nordic Walking, Tai Chi oder Tanzen. Alle Übungen sind durch Bilder und Videos anschaulich angeleitet. Parkinson-Patienten, die dieses Programm bis zu neun Monate nach der stationären Behandlung anwenden, werden verglichen mit Parkinson Patienten, die die bisherige Standardversorgung erhalten. Während der Studie wird auch untersucht, ob das Programm als neue Versorgungsform umsetzbar wäre, wie es im Durchschnitt umgesetzt wird und wie die Akzeptanz bei den Erkrankten einzuschätzen ist. Dafür werden Patienten und die behandelnden Physiotherapeuten zu drei Zeitpunkten telefonisch befragt. Das Projekt wird für 37 Monate mit insgesamt ca. 700.00 Euro gefördert.\n\nIm Erfolgsfall können durch einen Einsatz des tabletbasierten Trainingsprogramms die Lebensqualität und die soziale Teilhabe gesteigert sowie das Voranschreiten der Krankheitssymptome verzögert werden.",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Dr. Ruth Deck",
+        "Universität Lübeck",
+        "Institut für Sozialmedizin und Epidemiologie",
+        "Ratzeburger Allee 160",
+        "23538 Lübeck",
+        "0049 451 500 51211",
+        "ruth.deck@uksh.de"
+      ],
+      "display": "Dr. Ruth Deck | Universität Lübeck | Institut für Sozialmedizin und Epidemiologie | Ratzeburger Allee 160 | 23538 Lübeck | 0049 451 500 51211 | ruth.deck@uksh.de",
+      "name": "Dr. Ruth Deck",
+      "email": "ruth.deck@uksh.de",
+      "phone": null,
+      "postal_code": "23538",
+      "city": "Lübeck",
+      "organization": "Universität Lübeck",
+      "department": "Institut für Sozialmedizin und Epidemiologie",
+      "street": "Ratzeburger Allee 160"
+    },
+    "project_lead_city": "Lübeck",
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": "24.01.2023",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 130,56 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/364/2023-01-24_ParkProTrain.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 10,92 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/365/2023-01-24_ParkProTrain_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": true,
+    "matches_neurology_online_filter": true,
+    "neurology_focus_scope": "exclusive",
+    "is_neurology": true
+  },
+  {
     "project_id": 138,
     "slug": "part-child.138",
     "url": "https://innovationsfonds.g-ba.de/projekte/part-child.138",
@@ -11692,7 +11881,7 @@
     "acronym": "PICnet-Kids",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
-      "Themenschwerpunkte": "Atemwegserkrankungen und Beatmung, Impfungen und Infektionskrankheiten, kardiologische Erkrankungen, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
+      "Themenschwerpunkte": "Atemwegserkrankungen und Beatmung, Erkrankungen des Kreislaufsystems, Impfungen und Infektionskrankheiten, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
       "Zielgruppen": "Angehörige, Kinder und Jugendliche, Leistungserbringer, Menschen mit chronischen Krankheiten",
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Baden-Württemberg",
@@ -11712,8 +11901,8 @@
     },
     "thematic_focuses": [
       "Atemwegserkrankungen und Beatmung",
+      "Erkrankungen des Kreislaufsystems",
       "Impfungen und Infektionskrankheiten",
-      "kardiologische Erkrankungen",
       "neurologische Erkrankungen",
       "Notfälle",
       "Verletzung und Vergiftungen",
@@ -12933,8 +13122,8 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 8,63 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1040/2026-01-23_QuaSiApps_Ergebnisbericht.pdf"
+        "meta": "(PDF 7,11 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1040/2026-02-28_QuaSiApps_Ergebnisbericht.pdf"
       }
     ],
     "additional_documents": [],
@@ -13900,7 +14089,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "20.02.2017",
     "description": "In Deutschland erleiden jährlich rund 260.000 Menschen einen Schlaganfall. Nach Schlaganfällen ist das Risiko für schwerwiegende Komplikationen deutlich erhöht. Dabei können schwerwiegende Folgen oft durch eine gezielte Nachsorge verringert werden.\n\nZiel des Projektes „SANO“ ist die Verbesserung der Versorgung nach ischämischem Schlaganfall sowie einer besseren Diagnose und Therapie von Komplikationen. Dafür wird ein berufsgruppenübergreifendes Netzwerk bestehend aus Hausärzten, einem Schlaganfallkoordinator und einer geschulten Schlaganfallpflegekraft, der „Stroke Nurse“ an Kliniken sowie Therapeuten, Diätassistenten und Sozialarbeitern aufgebaut. Die Patienten erhalten hier eine ausführliche Beratung, führen Motivationsgespräche und formulieren individuelle Zielvereinbarungen unter Einbeziehung von Angehörigen. Ein Gesunderhaltungspass dient als Steuerungsinstrument. Durch regelmäßige Vorstellungen in der Klinik und beim Hausarzt kann eine Behandlung von Risikofaktoren direkt eingeleitet werden und mögliche Folgeerkrankungen besser überprüft werden. Im Anschluss wird evaluiert, inwieweit Folgekomplikationen und erneute Krankenhauseinweisungen durch die neue Versorgungsform reduziert werden können. Dafür werden insgesamt rund 1500 Patienten aus 15 Regionen, in der die neue Versorgungsform angeboten wird, mit rund 1500 Patienten aus 15 Vergleichsregionen verglichen, die regulär versorgt werden. Zudem werden auch die Folgekosten im ersten Jahr nach Schlaganfällen ermittelt. Das Projekt wird für 48 Monate mit insgesamt ca. 5,8 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die neue Versorgungsform auf weite Teile Deutschlands und auf andere vaskuläre und neurologische Erkrankungen übertragen werden. Dadurch können für zahlreiche Patienten Komplikationen und Risikofaktoren und schließlich Folgekosten reduziert werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.sano-studie.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Armin Grau",
@@ -15294,7 +15485,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "11.05.2016",
     "description": "Knapp 270.000 Menschen erleiden jährlich in Deutschland einen Schlaganfall. Über ein Drittel stirbt innerhalb eines Jahres an dieser Erkrankung. Die, die überleben, haben ein höheres Risiko für einen erneuten Schlaganfall: Je nach Ursache erleidet fast jeder Fünfte erneut einen Schlaganfall. Rund die Hälfte der überlebenden Schlaganfall-Patientinnen und -Patienten ist ein Jahr nach dem Ereignis dauerhaft behindert und auf fremde Hilfe angewiesen.\n\nZiel des Projektes STROKE OWL ist es, die Rate der wiederholten Schlaganfälle innerhalb eines Jahres nach dem Schlaganfallereignis zu verringern. Außerdem soll die Lebensqualität und Zufriedenheit der Betroffenen verbessert werden. Im Projekt werden dafür sogenannte Schlaganfall-Lotsen eingesetzt, die die Patientinnen und Patienten für ein Jahr begleiten. Die Leistungen der Lotsen bestehen darin, Betroffene und Angehörige über mögliche Schlaganfall-Komplikationen zu informieren und frühzeitig auf mögliche Risiken hinzuweisen. Sie koordinieren auch regelmäßige Rücksprachemöglichkeiten mit den behandelnden Ärzten sowie die Medikation, wobei die Verwaltung der Daten durch eine digitale Belotsungsakte („Lotsen-APP“) unterstützt wird. Im Projekt sollen in Ostwestfalen-Lippe 1.587 Schlaganfall-Patientinnen und -Patienten von Schlaganfall-Lotsen betreut werden. Um prüfen zu können, ob die Betroffenen mit Lotsen besser versorgt sind, werden die Krankheitsverläufe mit einer gleichen Anzahl an Erkrankten aus zwei Vergleichs-Regionen verglichen, in der die Lotsen nicht eingesetzt werden. Gleichzeitig kann ausgewertet werden, ob durch diese neue Versorgungsform insgesamt Kosten gesenkt werden. Das Projekt wird für vier Jahre mit insgesamt ca. 7,1 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Vorgehen auf andere Indikationen, vor allem chronische Erkrankungen, angepasst und übertragen werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.schlaganfall-hilfe.de/de/das-tun-wir/aktivitaeten/projekt-stroke-owl"
+    ],
     "project_lead": {
       "raw_lines": [
         "Dr. Georg Galle",
@@ -15892,7 +16085,7 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "Innerhalb eines Jahres erleiden in Deutschland rund 1,6 Prozent aller Erwachsenen einen Schlaganfall. Zwei Drittel der Patientinnen und Patienten sind danach pflegebedürftig oder auf Unterstützung im Alltag angewiesen. Der Schlaganfall ist die häufigste Ursache einer erworbenen Behinderung im Erwachsenenalter. Die dadurch ausgelösten Einschränkungen der Mobilität sind der häufigste Grund für die Beantragung einer Pflegestufe oder einer vollstationären Unterbringung. Wird eine spezifische Therapie rasch und konsequent umgesetzt, kann die jeweilige Störung häufig verringert werden.\n\nDie Projektpartner von TheMoS wollen gemeinsam eine S3-Leitlinie zur Therapie von Störungen der Mobilität nach einem Schlaganfall erarbeiten und damit vor allem die Standardisierung der Therapie verbessern. Dabei sollen die Therapieempfehlungen konkreten Zielkriterien folgen, wie beispielsweise der Fähigkeit, eigenständig gehen zu lernen oder weniger zu stürzen. Die vorhandene S2k-Leitlinie „Rehabilitation der Mobilität nach Schlaganfall“ (ReMoS) wird damit ersetzt.\n\nDie Besonderheit des geplanten Projekts besteht darin, dass die Forschungsgruppe über die systematische Literatursuche und –bewertung hinaus zielgruppenspezifische Versionen der Leitlinie entwickeln wird. Dafür werden unterschiedliche Berufsgruppen und Disziplinen wie Neurologie, Allgemeinmedizin oder Altersmedizin beteiligt. Die Perspektive der Betroffenen wird durch die Einbindung von Patientenvertretungen berücksichtigt. Das Projekt wird für zwei Jahre und acht Monate mit ca. 449.000 Euro gefördert.\n\nIm Erfolgsfall trägt die neue S3-Leitlinie zu einer besseren Versorgung von Patientinnen und Patienten mit Mobilitätsstörungen nach einem Schlaganfall bei. Ein Schlüssel wird dabei eine kontinuierliche Qualitätskontrolle der empfohlenen Therapien sein.",
+    "description": "Innerhalb eines Jahres erleiden in Deutschland rund 1,6 Prozent aller Erwachsenen einen Schlaganfall. Zwei Drittel der Patientinnen und Patienten sind danach pflegebedürftig oder auf Unterstützung im Alltag angewiesen. Der Schlaganfall ist die häufigste Ursache einer erworbenen Behinderung im Erwachsenenalter. Die dadurch ausgelösten Einschränkungen der Mobilität sind der häufigste Grund für die Beantragung einer Pflegestufe oder einer vollstationären Unterbringung. Wird eine spezifische Therapie rasch und konsequent umgesetzt, kann die jeweilige Störung häufig verringert werden.\n\nDie Projektpartner von TheMoS wollen gemeinsam eine S3-Leitlinie zur Therapie von Störungen der Mobilität nach einem Schlaganfall erarbeiten und damit vor allem die Standardisierung der Therapie verbessern. Dabei sollen die Therapieempfehlungen konkreten Zielkriterien folgen, wie beispielsweise der Fähigkeit, eigenständig gehen zu lernen oder weniger zu stürzen. Die vorhandene S2k-Leitlinie „Rehabilitation der Mobilität nach Schlaganfall“ (ReMoS) wird damit ersetzt.\n\nDie Besonderheit des geplanten Projekts besteht darin, dass die Forschungsgruppe über die systematische Literatursuche und –bewertung hinaus zielgruppenspezifische Versionen der Leitlinie entwickeln wird. Dafür werden unterschiedliche Berufsgruppen und Disziplinen wie Neurologie, Allgemeinmedizin oder Altersmedizin beteiligt. Die Perspektive der Betroffenen wird durch die Einbindung von Patientenvertretungen berücksichtigt. Das Projekt wird für zwei Jahre und neun Monate mit ca. 449.000 Euro gefördert.\n\nIm Erfolgsfall trägt die neue S3-Leitlinie zu einer besseren Versorgung von Patientinnen und Patienten mit Mobilitätsstörungen nach einem Schlaganfall bei. Ein Schlüssel wird dabei eine kontinuierliche Qualitätskontrolle der empfohlenen Therapien sein.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -16724,6 +16917,107 @@
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
+    "is_neurology": true
+  },
+  {
+    "project_id": 239,
+    "slug": "versi-ms-pv.239",
+    "url": "https://innovationsfonds.g-ba.de/projekte/versi-ms-pv.239",
+    "title": "VerSI-MS-PV – Versorgung sicher gestalten – Machbarkeitsstudie zur Eignung verschiedener Datenquellen als Grundlage der Verbesserung der Pharmakovigilanz innovativer Therapien am Beispiel der Multiplen Sklerose",
+    "acronym": "VerSI-MS-PV",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Themenschwerpunkt": "neurologische Erkrankungen",
+      "Zielgruppen": "Erwachsene, Leistungserbringer",
+      "Versorgungsbereich": "sektorenübergreifend",
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF18038",
+      "Laufzeit": "06/2019 – 04/2023",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
+      "E-Health": "Big Data und Gesundheitsdatenanalyse , Entscheidungshilfesystem , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
+      "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Medikationsmanagement , unerwünschte Arzneimittelwirkungen",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , stationäre Versorgung"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,5 Mio. Euro",
+      "Förderbekanntmachung": "20.10.2017",
+      "Themenfeld": "Verbesserung der Patientensicherheit"
+    },
+    "thematic_focuses": [
+      "neurologische Erkrankungen"
+    ],
+    "target_groups": [
+      "Erwachsene",
+      "Leistungserbringer"
+    ],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "sektorenübergreifend",
+    "status": "beendet",
+    "duration_raw": "06/2019 – 04/2023",
+    "start_date": "2019-06",
+    "end_date": "2023-04",
+    "transfer_recommendation": "Prüfbitte/Überführung",
+    "funding_sum_label": "ca. 1,5 Mio. Euro",
+    "funding_sum_eur": 1500000,
+    "funding_reference": "01VSF18038",
+    "themenfeld": "Verbesserung der Patientensicherheit",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.10.2017",
+    "description": "Die Multiple Sklerose (MS) ist eine häufige Erkrankung des zentralen Nervensystems und betrifft in Deutschland über 250.000 Menschen. Die Krankheit zeigt einen fortschreitenden, oft zunehmend schweren Verlauf. MS lässt sich bislang nicht heilen, aber gut behandeln. Für die Behandlung der MS sind in den letzten zehn Jahren zahlreiche Medikamente neu zugelassen worden, weitere Medikamente werden in den nächsten Jahren folgen. Bis auf Ergebnisse aus klinischen Studien liegen oft keine oder geringe Erfahrungen in der Anwendung neuer Therapien vor – insbesondere im Hinblick auf unerwünschte Wirkungen.\n\nDas Projekt VerSI-MS-PV untersucht, wie unerwünschte Wirkungen dieser neuen Behandlungsmöglichkeiten bei MS-Patientinnen und -Patienten besser erfasst werden können. Etabliert ist, wie bei anderen Krankheiten auch, ein Berichtssystem für sogenannte Spontanmeldungen über Nebenwirkungen durch die verschreibenden Ärzte und Ärztinnen. Aber eine systematische Pflicht zur Erfassung unerwünschter Wirkungen besteht nicht. Im Projekt werden deshalb verschiedene Datenquellen aus der ambulanten Versorgung von MS-Patienten und MS-Patientinnen in niedergelassenen Praxen und Behandlungszentren analysiert. Darunter fallen Registerdaten, in denen Krankheitsverlauf und Behandlungserfolge dokumentiert werden und die üblichen Abrechnungsdaten der Versicherten – in diesem Fall der BKK-Versicherten. Die Analyse gibt unter anderem Auskunft darüber, wann und warum die Therapie gewechselt wurde und wie häufig unerwünschte Wirkungen auftreten. Neuerkrankungen und Krankenhausaufenthalte werden dabei auch berücksichtigt. Das Projekt wird für vier Jahre mit insgesamt ca. 1,5 Millionen Euro gefördert.\n\nIm Erfolgsfall lassen sich Erkenntnisse darüber gewinnen, wie in Krankheitsfeldern mit sich stark ändernden Behandlungsmöglichkeiten das Spontanmeldesystem der Arzneimittelsicherheit durch Daten der Regelversorgung ergänzt werden kann. Daraus ließen sich entsprechende Hinweise für den Gesetzgeber ableiten.",
+    "project_websites": [
+      "https://www.medizin.uni-muenster.de/?id=18973"
+    ],
+    "project_lead": {
+      "raw_lines": [
+        "Prof. Dr. med. Klaus Berger",
+        "Institut für Epidemiologie und Sozialmedizin",
+        "Universität Münster",
+        "Albert-Schweitzer-Campus 1, Gebäude D3",
+        "48149 Münster",
+        "+49 251 8355650",
+        "bergerk@uni-muenster.de"
+      ],
+      "display": "Prof. Dr. med. Klaus Berger | Institut für Epidemiologie und Sozialmedizin | Universität Münster | Albert-Schweitzer-Campus 1, Gebäude D3 | 48149 Münster | +49 251 8355650 | bergerk@uni-muenster.de",
+      "name": "Prof. Dr. med. Klaus Berger",
+      "email": "bergerk@uni-muenster.de",
+      "phone": "+49 251 8355650",
+      "postal_code": "48149",
+      "city": "Münster",
+      "organization": "Institut für Epidemiologie und Sozialmedizin",
+      "department": "Universität Münster",
+      "street": "Albert-Schweitzer-Campus 1, Gebäude D3"
+    },
+    "project_lead_city": "Münster",
+    "consortium_partners": [
+      "BKK Dachverband e. V.",
+      "MS Forschungs- und Projektentwicklungs-gGmbH",
+      "Zentralinstitut der kassenärztlichen Vereinigung",
+      "Paul-Ehrlich-Institut"
+    ],
+    "essential_elements": {},
+    "decision_date": "12.07.2024",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 152,09 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/634/2024-07-12_VerSI-MS-PV.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 14,44 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/635/2024-07-12_VerSI-MS-PV_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": true,
+    "matches_neurology_online_filter": true,
+    "neurology_focus_scope": "exclusive",
     "is_neurology": true
   },
   {

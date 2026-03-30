@@ -399,7 +399,7 @@
     ],
     "additional_documents": [
       {
-        "title": "Handreichung - Empfehlungen für den bedarfsgerechten Auf- und Ausbau von palliativmedizinischen Tageskliniken und Tageshospizen",
+        "title": "Handreichung – Empfehlungen für den bedarfsgerechten Auf- und Ausbau von palliativmedizinischen Tageskliniken und Tageshospizen",
         "meta": "(PDF 2,74 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/239/01VSF19034%20ABPATITE_Ergebnisbericht%20Anhang%2029%20Handreichung_Empfehlungen%20Auf-%20und%20Ausbau%20von%20palliativmedizinischen%20Tageskliniken.pdf"
       }
@@ -2427,7 +2427,7 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/243/01VSF19048%20AKtiV-Studie_Pr%C3%A4sentation%20Abschlussveranstaltung.pdf"
       },
       {
-        "title": "Ergebnisse in leichter Sprache",
+        "title": "Ergebnisse in Leichter Sprache",
         "meta": "(PDF 138,39 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/244/01VSF19048%20AKtiV-Studie_Ergebnisse%20der%20AKtiV-Studie%20in%20leichter%20Sprache.pdf"
       }
@@ -7195,7 +7195,7 @@
     "acronym": "CAROL",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
-      "Themenschwerpunkte": "Gendiagnostik, kardiologische Erkrankungen, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, psychische Erkrankungen",
+      "Themenschwerpunkte": "Erkrankungen des Kreislaufsystems, Gendiagnostik, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, psychische Erkrankungen",
       "Zielgruppen": "ältere Menschen, Angehörige, Erwachsene, Leistungserbringer, Menschen mit chronischen Krankheiten, Menschen mit seltenen Krankheiten",
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesländer": "Baden-Württemberg, Bayern, Hamburg, Hessen, Nordrhein-Westfalen, Schleswig-Holstein",
@@ -7214,8 +7214,8 @@
       "Themenfeld": "themenoffen"
     },
     "thematic_focuses": [
+      "Erkrankungen des Kreislaufsystems",
       "Gendiagnostik",
-      "kardiologische Erkrankungen",
       "neurologische Erkrankungen",
       "Notfälle",
       "Verletzung und Vergiftungen",
@@ -9210,10 +9210,16 @@
     "acronym": "CONTRIBUTE",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkte": "Blut- und Immunsystemerkrankungen, neurologische Erkrankungen",
+      "Zielgruppen": "Erwachsene, Leistungserbringer, Menschen mit chronischen Krankheiten, Menschen mit seltenen Krankheiten",
+      "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF23041",
-      "Laufzeit": "04/2024 – 09/2026",
-      "Status": "laufend"
+      "Laufzeit": "04/2024 – 05/2027",
+      "Status": "laufend",
+      "E-Health": "Big Data und Gesundheitsdatenanalyse",
+      "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Off-Label-Use , unerwünschte Arzneimittelwirkungen",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitsinformationen / Flyer / Infobriefe , Patientenkommunikation , Rehabilitation und Therapie"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -9222,16 +9228,24 @@
       "Förderbekanntmachung": "27.06.2022",
       "Themenfeld": "Arzneimitteltherapie: Auswirkungen des Wechsels von Best Supportive Care (BSC) oder Off-Label-Use (OLU) hin zu indikationsspezifisch zugelassenen Arzneimitteln"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Blut- und Immunsystemerkrankungen",
+      "neurologische Erkrankungen"
+    ],
+    "target_groups": [
+      "Erwachsene",
+      "Leistungserbringer",
+      "Menschen mit chronischen Krankheiten",
+      "Menschen mit seltenen Krankheiten"
+    ],
     "states": [
       "Nordrhein-Westfalen"
     ],
-    "care_setting": "",
+    "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "04/2024 – 09/2026",
+    "duration_raw": "04/2024 – 05/2027",
     "start_date": "2024-04",
-    "end_date": "2026-09",
+    "end_date": "2027-05",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 1,26 Mio. Euro",
     "funding_sum_eur": 1260000,
@@ -9240,7 +9254,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "Bei Autoimmunerkrankungen bekämpft das Immunsystem fälschlicherweise körpereigene Strukturen (Gewebe/Organe). Etwa fünf bis acht Prozent der Menschen in Deutschland leiden an einer solchen Krankheit, die die Betroffenen sehr belastet. Darunter befinden sich auch relativ seltene Erkrankungen wie z. B. Myasthenia gravis und Riesenzellarteriitis. Diese Erkrankungen wurden in der Vergangenheit oft mit Medikamenten behandelt, die das Immunsystem stark beeinträchtigen, oder für andere Autoimmunerkrankungen zugelassen sind. In den letzten Jahren wurden zunehmend spezifische Therapien für diese seltenen Autoimmunerkrankungen entwickelt und zugelassen. Unklar ist allerdings, in welchem Umfang diese Wirkstoffe eingesetzt werden und in welchem Ausmaß sie die Behandlungsergebnisse der Betroffenen unter Alltagsbedingungen verbessern.\n\nDas Projektteam von CONTRIBUTE möchte diese Wissenslücke schließen und somit perspektivisch die Arzneimittelversorgung der Betroffenen verbessern. Dazu sollen insbesondere Erkenntnisse zu den Eigenschaften der behandelten Patientinnen und Patienten, sowie zur Wirksamkeit und Nebenwirkungen der eingesetzten Medikamente ermittelt werden. Geplant ist eine Hauptauswertung mit den Daten der zweitgrößten Krankenkasse Deutschlands (BARMER). Um einen Einblick in die Versorgungspraxis zu erhalten, werden u. a. auch ca. 30 Patientinnen und Patienten zu ihren Erfahrungen mit den Arzneimitteln befragt. Die dabei gewonnenen Erkenntnisse werden den Therapiezielen, aber auch Auswirkungen auf die Therapiekosten für das Gesundheitssystem gegenübergestellt. Das Projekt wird für zweieinhalb Jahre mit insgesamt ca. 1,26 Millionen Euro gefördert.\n\nIm besten Fall ermöglichen die Auswertungen, Strategien für eine bessere Versorgung der Betroffenen zu entwickeln und beispielsweise Risiken bei der Einnahme der Arzneimittel zu reduzieren. Der Überblick über Kosten und Nutzen der verschiedenen Arzneimittel erlaubt eine realistischere Einschätzung der ökonomischen Rahmenbedingungen.",
+    "description": "Bei Autoimmunerkrankungen bekämpft das Immunsystem fälschlicherweise körpereigene Strukturen (Gewebe/Organe). Etwa fünf bis acht Prozent der Menschen in Deutschland leiden an einer solchen Krankheit, die die Betroffenen sehr belastet. Darunter befinden sich auch relativ seltene Erkrankungen wie z. B. Myasthenia gravis und Riesenzellarteriitis. Diese Erkrankungen wurden in der Vergangenheit oft mit Medikamenten behandelt, die das Immunsystem stark beeinträchtigen, oder für andere Autoimmunerkrankungen zugelassen sind. In den letzten Jahren wurden zunehmend spezifische Therapien für diese seltenen Autoimmunerkrankungen entwickelt und zugelassen. Unklar ist allerdings, in welchem Umfang diese Wirkstoffe eingesetzt werden und in welchem Ausmaß sie die Behandlungsergebnisse der Betroffenen unter Alltagsbedingungen verbessern.\n\nDas Projektteam von CONTRIBUTE möchte diese Wissenslücke schließen und somit perspektivisch die Arzneimittelversorgung der Betroffenen verbessern. Dazu sollen insbesondere Erkenntnisse zu den Eigenschaften der behandelten Patientinnen und Patienten, sowie zur Wirksamkeit und Nebenwirkungen der eingesetzten Medikamente ermittelt werden. Geplant ist eine Hauptauswertung mit den Daten der zweitgrößten Krankenkasse Deutschlands (BARMER). Um einen Einblick in die Versorgungspraxis zu erhalten, werden u. a. auch ca. 30 Patientinnen und Patienten zu ihren Erfahrungen mit den Arzneimitteln befragt. Die dabei gewonnenen Erkenntnisse werden den Therapiezielen, aber auch Auswirkungen auf die Therapiekosten für das Gesundheitssystem gegenübergestellt. Das Projekt wird für 38 Monate mit insgesamt ca. 1,26 Millionen Euro gefördert.\n\nIm besten Fall ermöglichen die Auswertungen, Strategien für eine bessere Versorgung der Betroffenen zu entwickeln und beispielsweise Risiken bei der Einnahme der Arzneimittel zu reduzieren. Der Überblick über Kosten und Nutzen der verschiedenen Arzneimittel erlaubt eine realistischere Einschätzung der ökonomischen Rahmenbedingungen.",
     "project_websites": [
       "https://www.uni-wh.de/contribute-studie"
     ],
@@ -9274,10 +9288,10 @@
     "decision_date": null,
     "result_documents": [],
     "additional_documents": [],
-    "has_explicit_neurology_focus": false,
-    "matches_neurology_online_filter": false,
-    "neurology_focus_scope": "none",
-    "is_neurology": false
+    "has_explicit_neurology_focus": true,
+    "matches_neurology_online_filter": true,
+    "neurology_focus_scope": "multiple",
+    "is_neurology": true
   },
   {
     "project_id": 650,
@@ -9765,8 +9779,8 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 42,02 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1058/2026-02-20_DECADE_Ergebnisbericht.pdf"
+        "meta": "(PDF 42,34 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1058/2026-02-28_DECADE_Ergebnisbericht.pdf"
       }
     ],
     "additional_documents": [
@@ -12233,8 +12247,8 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 8,73 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1025/2025-12-19_DigiSep_Ergebnisbericht.pdf"
+        "meta": "(PDF 9,28 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1025/2026-02-28_DigiSep_Ergebnisbericht.pdf"
       },
       {
         "title": "Evaluationsbericht",
@@ -12301,7 +12315,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "26.06.2020",
     "description": "Bewohnerinnen und Bewohner von Pflegeeinrichtungen werden häufig zur Abklärung von Gesundheitsproblemen wie Infekten, Stürzen oder Herzkreislaufstörungen ins Krankenhaus eingewiesen. Da diese Patientengruppe besonders anfällig ist, kommt es dabei nicht selten zu Komplikationen wie z. B. Verwirrungszuständen, (weiteren) Stürzen, Wundliegen oder Depressionen. Im Pflegebericht der AOK wurde 2018 von 40,5 Prozent vermeidbaren Krankenhauseinweisungen berichtet. Diese Zahl ließe sich mit einer adäquaten Versorgung im ambulanten Bereich unter Umständen reduzieren, wodurch die Notaufnahmen in den Krankenhäusern entlastet werden könnten.\n\nIm Projekt DIKOM soll mithilfe einer Mobilen Geriatrie-Unit (MGU) apparative Diagnostik direkt im Pflegeheim durchgeführt werden. Die MGU ist ein Fahrzeug, welches mit verschiedenen Geräten wie CT, Röntgen, EKG, EEG, Ultraschall und einem Labor ausgestattet ist. Das Team der MGU besteht aus einer Fachärztin bzw. einem Facharzt und einer bzw. einem Radiologie-MTA. Zusätzlich werden vor Ort erhobene Befunde direkt an Expertinnen und Experten in Partnerkliniken übermittelt und in einem telemedizinischen Konsil beraten. Auf diese Weise könnten die Patientinnen und Patienten in der Pflegeeinrichtung bleiben und dort weiterbehandelt werden.\n\nIn einer hierzu geplanten Studie (cluster-randomisiert, d. h. es werden nicht zufällig Patientinnen und Patienten in Gruppen aufgeteilt, sondern es werden Einheiten, hier Pflegeheime, zufällig in Gruppen aufgeteilt) wird geprüft, ob die apparative Diagnostik direkt im Pflegeheim die Rate von Krankenhauseinweisungen verringern kann und ob sich dies günstig auf die Entwicklung von Pflegebedürftigkeit und Kosten auswirkt. Dazu sollen in einem Zeitraum von 27 Monaten 2.277 Betroffene in die Interventions- und 2.684 in die Kontrollgruppe eingeschlossen werden. Das Projekt wird für vier Jahre mit insgesamt ca. 9,8 Millionen Euro gefördert.\n\nIm Erfolgsfall werden Krankenhauseinweisungen und Folgeerkrankungen von Pflegebedürftigen vermieden und zudem die Notaufnahmen entlastet.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.medizin-daheim.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Klaus Faßbender",
@@ -13170,7 +13186,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "12.12.2019",
     "description": "Jeden Menschen individuell bestmöglich zu behandeln – das ist das Ziel der Personalisierten Medizin. Dazu nutzt sie sowohl in der klinischen Analytik als auch in der molekularen Labordiagnostik und der Bildgebung modernste Technologien und stützt sich auf Innovationen in der Datenverarbeitung bis hin zur Künstlichen Intelligenz. Insbesondere im Bereich der Onkologie kann die Personalisierte Medizin bei komplexen oder fortgeschrittenen Krankheitsverläufen neue Behandlungsansätze eröffnen und Therapien kontinuierlich verbessern.\n\nIn Baden-Württemberg sind bereits vier Zentren für Personalisierte Medizin etabliert. Ziel des Projekts ist es, gemeinsam mit den nationalen universitären Krebszentren, den Comprehensive Cancer Centers (CCCs), bundesweit an weiteren neun Standorten entsprechende Zentren für Personalisierte Medizin einzurichten und die Kompetenzen in einem Deutschen Netzwerk für Personalisierte Medizin (DNPM) zu bündeln. Die Projektpartner werden insbesondere gemeinsame Standards entwickeln und sogenannte „Molekulare Tumorboards“ etablieren, um Patientinnen und Patienten eine bestmögliche individuelle Behandlung zu ermöglichen. Eine gemeinsame Datenbank wird der Qualitätssicherung dienen und neue Erkenntnisse für die Weiterentwicklung der Personalisierten Medizin liefern. Im Rahmen der begleitenden Evaluation wird insbesondere untersucht, ob Patientinnen und Patienten von den neuen Standards und Strukturen direkt profitieren und welche Herausforderungen mit der Einrichtung entsprechender Zentren verbunden sind. Das Projekt wird für 48 Monate mit insgesamt ca. 21 Millionen Euro gefördert.\n\nDie Zentren für Personalisierte Medizin werden individualisierte Behandlungsansätze bundesweit in hoher Qualität zugänglich machen. Perspektivisch ist der Blick des DNPM nicht nur auf die Onkologie beschränkt. Eine Ausweitung des Konzepts auf weitere Erkrankungen, wie beispielsweise auf chronisch entzündliche oder neurologische Erkrankungen sowie Infektionskrankheiten wird langfristig abgestrebt.",
-    "project_websites": [],
+    "project_websites": [
+      "https://dnpm.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Nisar Malek",
@@ -16131,18 +16149,16 @@
         "Charitéplatz 1",
         "10117 Berlin",
         "+49 030 450613235",
-        "sebastian.spethmann@dhzc-charite.de",
-        "Projektwebsite:",
-        "epa4all.charite.de"
+        "sebastian.spethmann@dhzc-charite.de"
       ],
-      "display": "Prof. Dr. Sebastian Spethmann | Charité – Universitätsmedizin Berlin | Klinik für Kardiologie, Angiologie und Intensivmedizin | Charitéplatz 1 | 10117 Berlin | +49 030 450613235 | sebastian.spethmann@dhzc-charite.de | Projektwebsite: | epa4all.charite.de",
+      "display": "Prof. Dr. Sebastian Spethmann | Charité – Universitätsmedizin Berlin | Klinik für Kardiologie, Angiologie und Intensivmedizin | Charitéplatz 1 | 10117 Berlin | +49 030 450613235 | sebastian.spethmann@dhzc-charite.de",
       "name": "Prof. Dr. Sebastian Spethmann",
       "email": "sebastian.spethmann@dhzc-charite.de",
       "phone": "+49 030 450613235",
       "postal_code": "10117",
       "city": "Berlin",
       "organization": "Charité – Universitätsmedizin Berlin",
-      "department": "Klinik für Kardiologie, Angiologie und Intensivmedizin | Projektwebsite:",
+      "department": "Klinik für Kardiologie, Angiologie und Intensivmedizin",
       "street": "Charitéplatz 1"
     },
     "project_lead_city": "Berlin",
@@ -19678,7 +19694,7 @@
     "acronym": "FALKO",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
-      "Themenschwerpunkt": "kardiologische Erkrankungen",
+      "Themenschwerpunkt": "Erkrankungen des Kreislaufsystems",
       "Zielgruppe": "Erwachsene",
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesländer": "Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Schleswig-Holstein",
@@ -19696,7 +19712,7 @@
       "Themenfeld": "themenoffen"
     },
     "thematic_focuses": [
-      "kardiologische Erkrankungen"
+      "Erkrankungen des Kreislaufsystems"
     ],
     "target_groups": [
       "Erwachsene"
@@ -20292,7 +20308,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "11.05.2016",
     "description": "Darmkrebs, oder in der Fachsprache kolorektales Karzinom, ist sowohl bei Frauen als auch bei Männern die zweithäufigste bösartige Krebserkrankung und auch die zweithäufigste Krebstodesursache in Deutschland. Immer mehr jüngere Menschen erkranken an Darmkrebs: Jede zehnte Neuerkrankungen wird in Deutschland bei unter 55 jährigen entdeckt. Besonders gefährdet sind Personen, in deren Familien Darmkrebs vermehrt auftritt. In Deutschland steht gesetzlich Versicherten jedoch erst ab dem 50. Lebensjahr der Test auf Blut im Stuhl und ab dem 55. Lebensjahr die Darmspiegelung (Koloskopie) als Krebsfrüherkennungsmaßnahmen zur Verfügung. Die Berechtigung zur Darmkrebsfrüherkennung ist damit ausschließlich an die genannte Altersbegrenzung gebunden.\n\nIm Projekt FARKOR sollen Menschen mit einem familiär erhöhten Darmkrebsrisiko in Bayern bereits früh - im Alter von 25 bis 50 Jahren - identifiziert werden. Um möglichst viele familiär Belastete frühzeitig erkennen zu können, werden verschiedene Maßnahmen ergriffen. So werden neu an Darmkrebs Erkrankte durch ihre Krankenkasse schriftlich über das erhöhte Risiko erstgradig Verwandter informiert, Patienten zwischen 25 und 50 Jahren werden systematisch von Ärzten nach Darmkrebserkrankungen in der Familie gefragt und es werden neue Möglichkeiten geschaffen, damit sich die Menschen auch selbst über ihr individuelles Erkrankungsrisiko informieren können. Ziel des Projekts ist es, familiär mit Darmkrebs belasteten Menschen eine risikoangepasste Darmkrebsvorsorge anzubieten und damit die Sterblichkeit von Darmkrebs bei den unter 50jährigen zu senken. Eine gesundheitsökonomische Kosten-Nutzen-Analyse des neue eingeführten Programms soll zeigen, ob dadurch insgesamt auch Kosten gespart werden können. Das Projekt wird für 48 Monate mit insgesamt ca. 11 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das vorliegende Konzept auch auf andere Bundesländer übertragen werden. Denkbar wäre auch eine Ausweitung auf weitere familiär gehäuft auftretende Krebserkrankungen.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.felix-burda-stiftung.de/Lobbyarbeit/FARKOR"
+    ],
     "project_lead": {
       "raw_lines": [
         "Natalie Schmidt",
@@ -25925,7 +25943,9 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "08.04.2016",
     "description": "Die medikamentöse Versorgung in Einrichtungen der Langzeitpflege ist problematisch. Über die Hälfte aller Heimbewohner nehmen im Durchschnitt fünf und mehr Dauermedikamente ein. Das Risiko einer unangemessenen Medikation ist dabei sehr hoch, denn Arzneimittel können sich gegenseitig beeinflussen oder behindern. Das führt häufig zu unerwünschten arzneimittelbedingten Ereignissen und zu Klinikeinweisungen, die vermeidbar wären.\n\nDas Ziel des Projektes HIOPP-3 „Interprofessionelle Toolbox (iTBX)“ ist es, die Arzneimitteltherapiesicherheit bei Heimbewohnern zu verbessern. Dafür soll der Medikationsprozess für die beteiligten Berufsgruppen (MitarbeiterInnen aus Heim, Hausarztpraxis und Apotheke) nachhaltig optimiert werden. Hierzu wird eine cluster-randomisierte multizentrische Studie durchgeführt. Die Kernintervention besteht aus einem Medikamentenreview durch eine/n geschulte/n Apotheker/In, dessen Ergebnisse den versorgenden Hausärzten übermittelt und von diesen geprüft und ggf. umgesetzt werden. Dieser Ablauf wird unterstützt durch\n\nDie Studie erfolgt an 760 Heimbewohnern in 50 Einrichtungen der Langzeitpflege an den Standorten Hannover, Düsseldorf, Rostock und Tübingen. Während der sechsmonatigen Interventionsphase wird untersucht, ob sich die Medikation bei HeimbewohnerInnen der Interventionsgruppe im Vergleich zu denen in der Kontrollgruppe (Regelversorgung) verändert hat. Neben der Qualität der Medikation mit besonderem Fokus auf potentiell inadäquate Medikamente (PIM) und Neuroleptika wird der Einfluss auf die Gesundheit und Lebensqualität der Betroffenen überprüft, beispielsweise im Bereich Stürze, Krankenhausaufenthalte und Hausarztkontakte. Auch wird eine gesundheitsökonomische Auswertung durchgeführt, und zudem werden in Kooperation mit dem aQua Institut und dem WIdO die Charakteristika der Studienteilnehmer mit denen gleichaltriger AOK-Versicherter in Deutschland verglichen. Das Projekt wird für 43 Monate mit insgesamt ca. 1,7 Millionen Euro gefördert.\n\nZum Ende der Intervention wird ein Feedback von teilnehmenden Hausärzten, Apothekern und Pflegepersonal eingeholt. Anhand dessen sollen die Interventionselemente dahingehend angepasst werden, dass eine Implementierung in der Regelversorgung möglich wäre. Im Erfolgsfall können die Interventionselemente flächendeckend in das Gesundheitssystem eingeführt werden, um die Arzneimitteltherapiesicherheit von Heimbewohnern langfristig zu verbessern.",
-    "project_websites": [],
+    "project_websites": [
+      "www.mh-hannover.de/36841.html"
+    ],
     "project_lead": {
       "raw_lines": [
         "Dr. Olaf Krause",
@@ -26274,7 +26294,7 @@
     "acronym": "HIT-Life",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
-      "Themenschwerpunkte": "Augenerkrankungen, Erkrankungen des Muskel-Skelett-Systems, Hals-Nasen-Ohrenerkrankungen, Hauterkrankungen und Erkrankungen des Bindegewebes, Hormon- und Stoffwechselstörungen, kardiologische Erkrankungen, neurologische Erkrankungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
+      "Themenschwerpunkte": "Augenerkrankungen, Erkrankungen des Kreislaufsystems, Erkrankungen des Muskel-Skelett-Systems, Hals-Nasen-Ohrenerkrankungen, Hauterkrankungen und Erkrankungen des Bindegewebes, Hormon- und Stoffwechselstörungen, neurologische Erkrankungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
       "Zielgruppen": "Erwachsene, Kinder und Jugendliche, Menschen mit Behinderung, Menschen mit chronischen Krankheiten, Menschen mit seltenen Krankheiten",
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesländer": "Hamburg, Nordrhein-Westfalen",
@@ -26293,11 +26313,11 @@
     },
     "thematic_focuses": [
       "Augenerkrankungen",
+      "Erkrankungen des Kreislaufsystems",
       "Erkrankungen des Muskel-Skelett-Systems",
       "Hals-Nasen-Ohrenerkrankungen",
       "Hauterkrankungen und Erkrankungen des Bindegewebes",
       "Hormon- und Stoffwechselstörungen",
-      "kardiologische Erkrankungen",
       "neurologische Erkrankungen",
       "onkologische Erkrankungen",
       "psychische Erkrankungen",
@@ -27438,7 +27458,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "20.02.2017",
     "description": "Manche Menschen erleben ihre Geschlechtszugehörigkeit nicht im Einklang mit ihrem körperlichen Geschlecht. Die Medizin bezeichnet das als Transsexualismus. Das Interdisziplinäre Transgender Versorgungszentrum in Hamburg (ITHCCH) ist eines der wenigen Zentren, die auf die Behandlung transsexueller Menschen spezialisiert sind. Betroffene, die nicht in der Nähe solcher Zentren leben, werden oft gar nicht oder falsch behandelt. Dadurch sind sie häufig psychisch belastet.\n\nDas Projekt i²TransHealth möchte den Betroffenen unabhängig von ihrem Wohnort in Norddeutschland eine medizinische Versorgung ermöglichen, die ihren Transsexualismus berücksichtigt. Gemeinsam mit dem ITHCCH baut das Projekt ein Ärztenetzwerk in Norddeutschland und eine Internet-Plattform auf. Die teilnehmenden Ärzte werden darin geschult, transsexuelle Menschen spezifisch zu therapieren und stehen über die Internet-Plattform mit den Ärzten des ITHCCH in Kontakt. Für transsexuelle Menschen ist die E-Health-Plattform ein frei zugängliches Informationsportal. Um an dem Projekt teilzunehmen, können sie wohnortnah einen der teilnehmenden Ärzte aufsuchen. Nach einem persönlichen Erstgespräch am ITHCCH in Hamburg werden die Teilnehmenden randomisiert entweder der Interventions- oder Wartegruppe zugewiesen. In der Interventionsgruppe können sie sich über die Internetplattform im Rahmen einer Live-Chatfunktion mit den Transgender-Spezialisten des ITHCCH austauschen und nehmen alle zwei Wochen an einer Videosprechstunde teil. Die Teilnehmenden der Wartegruppe nehmen nach vier Monaten ebenfalls an der Versorgung teil, entweder internet- und videobasiert oder auf Wunsch im Rahmen der Regelversorgung. Bei gesundheitlichen Krisen sind die Ärzte des Netzwerks persönlich für ihre Patienten da. Ziel des Projektes ist es, Menschen mit Transsexualismus besser zu versorgen und deren psychische Belastung zu verringern. Im Anschluss wird wissenschaftlich untersucht, ob i²TransHealth die Lebensqualität transsexueller Menschen verbessert. Die Gesundheitssituation der an der Interventionsgruppe Teilnehmenden wird verglichen mit der von den Teilnehmenden aus der Wartegruppe. Auch wird ermittelt, ob i²TransHealth die Kosten reduzieren kann, die dem Gesundheitssystem durch eine falsche oder ausbleibende Behandlung transsexueller Menschen entstehen. Unter den Ärzten werden Wissenszuwachs und Zufriedenheit mit dem Ärzte-Netzwerk erhoben. Das Projekt wird für 45 Monate mit insgesamt ca. 955.000 Euro gefördert.\n\nIm Erfolgsfall kann das Modell auf andere Regionen in Deutschland sowie auf weitere, seltene Anwendungsfälle übertragen werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.i2transhealth.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Priv.-Doz. Dr. Timo Nieder, Dipl.-Psych. ECPS",
@@ -27729,7 +27751,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "20.10.2017",
     "description": "Knapp 40 Prozent der älteren Patienten, die wegen einer körperlichen Krankheit im Krankenhaus behandelt werden, haben außerdem Gedächtnisbeeinträchtigungen, ca. 20 Prozent vom Schweregrad einer Demenz. Aus dieser Begleiterkrankung ergibt sich im Krankenhaus ein erhöhtes Risiko für Verwirrtheitszustände, Krankenhausinfektionen, Mangelernährung und Stürze. Daher liegen diese Patienten oft länger im Krankenhaus, müssen häufiger verlegt werden und es entsteht ein erhöhter Behandlungs- und Betreuungsaufwand. Weil die somatischen Akutstationen derzeit nicht auf diese Patientengruppe eingestellt sind, steht das Pflegepersonal vor zusätzlichen inhaltlichen und zeitlichen Herausforderungen. Die Angehörigen werden häufig nicht einbezogen.\n\nIm Projekt IdA werden geschulte Koordinatoren und Tagesbegleiter regelhaft eingesetzt. Die Koordinatoren sammeln und führen alle für die Behandlung des Patienten notwendigen Informationen zusammen. Dies sind z. B. regelmäßige Beurteilungen der Gedächtnisleistung des Patienten sowie Einschätzungen von Angehörigen, niedergelassenen Behandlern und Pflegepersonal. Basierend darauf erstellt und terminiert der Koordinator den Behandlungs- und Maßnahmenplan. Während des Krankenhausaufenthalts betreuen die Tagesbegleiter die Patienten, strukturieren deren Tag und entlasten damit das Pflegepersonal. An fünf Standorten der drei beteiligten Kliniken sollen rund 2.600 Patienten ab 70 Jahren diese neue Versorgungsform erhalten. Die Qualität der Behandlung wird mit den Ergebnissen von Patienten dreier weiterer Kliniken verglichen. Dies geschieht mithilfe von Daten der Krankenhäuser und der beteiligten Krankenkassen, der durchgeführten Assessments und den Einschätzungen der Pflegepersonen und Angehörigen. Das Projekt wird für vier Jahre mit insgesamt ca. 7,25 Millionen Euro gefördert.\n\nDurch das Projekt soll sich die Zusammenarbeit innerhalb und zwischen verschiedenen Versorgungsbereichen, -einrichtungen und Berufsgruppen bei der Versorgung älterer Patienten verbessern. Im Erfolgsfall hilft die neue Versorgungsform die Häufigkeit von Delirien, Stürzen, freiheitsbeschränkenden Maßnahmen und Notfallverlegungen in die Akutpsychiatrie sowie die Zahl der Behandlungstage im Krankenhaus zu senken. Hierdurch könnten auch die Behandlungs- und Pflegefolgekosten signifikant verringert werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.ida-brandenburg.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Dorothea Mantei",
@@ -40010,7 +40034,9 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "20.10.2017",
     "description": "Ende 2017 lebten rund 7,8 Millionen schwerbehinderte Menschen in Deutschland. Das entspricht einem Bevölkerungsanteil von 9,4 Prozent. Die UN-Behindertenrechtskonvention fordert in Artikel 25 die gleichberechtigte Gesundheitsversorgung von Menschen mit und ohne Behinderung. Darüber hinaus verpflichten sich die Vertragsstaaten, Gesundheitsleistungen bereitzustellen, die Menschen mit Behinderungen speziell wegen ihrer Behinderung benötigen. In der Praxis zeigen sich aber deutliche Hinweise auf Defizite bezüglich der gesundheitlichen Situation und der Versorgung erwachsener Menschen mit Behinderung.\n\nSo ist z. B. die Untersuchung und Behandlung eines erwachsenen Menschen mit Behinderung deutlich aufwändiger und damit zeitintensiver als die Behandlung eines Menschen ohne Behinderung. Dieser zusätzliche Aufwand wird in den ambulanten und stationären Abrechnungssystemen kaum berücksichtigt. Fehlende zeitliche und personelle Kapazitäten und fehlende Kenntnisse in der Kommunikation und im Umgang mit schwerbehinderten Menschen erschweren die medizinische Versorgung im Regelsystem und bergen das Risiko einer Fehlversorgung. Um diese Versorgungslücke im Erwachsenenalter zu schließen, besteht seit Juli 2015 die Möglichkeit einer ambulanten Behandlung durch Medizinische Zentren für Erwachsene mit Behinderung (MZEB).\n\nBisher liegen über diese neue Versorgungsform kaum wissenschaftliche Erkenntnisse vor. Das Projekt soll daher die folgenden übergreifenden Fragen beantworten:\n\nUm diese Fragen zu beantworten, wählen die Wissenschaftler einen sogenannten Mixed-Methods-Ansatz, mit dem verschiedene wissenschaftliche Untersuchungsmethoden angewendet werden. Sie sollen den Stellenwert der MZEB in der Versorgung der Betroffenen erfassen. Für das Projekt wird ein Projektbeirat eingerichtet, an dem neben Vertreterinnen und Vertreter der Wissenschaft, der Leistungsträger und der Leistungserbringer auch Vertreterinnen und Vertreter von Menschen mit Behinderungen und ihre Angehörige teilnehmen. Das Projekt wird für 44 Monate mit insgesamt ca. einer Million Euro gefördert\n\nIm Erfolgsfall ermöglicht das vorliegende Projekt eine empirisch fundierte Bewertung, inwieweit sich durch die Einführung der MZEB relevante Verbesserungen in der Versorgung für behinderte Menschen ergeben haben. Längerfristig sollen die Erkenntnisse dieses Projekts dazu beitragen, eine bedarfsgerechte medizinische Versorgung von erwachsenen Menschen mit geistigen oder Mehrfachbehinderungen zu gewährleisten. Das Projekt zielt ebenso darauf, die sektorenübergreifende Zusammenarbeit zu verbessern.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.uni-bielefeld.de/fakultaeten/gesundheitswissenschaften/ag/reha/projekte/mezeb.xml"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Thorsten Meyer",
@@ -44001,7 +44027,7 @@
     "acronym": "NiTab",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
-      "Themenschwerpunkte": "Atemwegserkrankungen und Beatmung, kardiologische Erkrankungen, psychische Erkrankungen, Sonstige",
+      "Themenschwerpunkte": "Atemwegserkrankungen und Beatmung, Erkrankungen des Kreislaufsystems, psychische Erkrankungen, Sonstige",
       "Zielgruppen": "ältere Menschen, Erwachsene, Kinder und Jugendliche, ländliche Bevölkerung, Menschen mit chronischen Krankheiten",
       "Versorgungsbereich": "ambulant",
       "Bundesland": "Nordrhein-Westfalen",
@@ -44022,7 +44048,7 @@
     },
     "thematic_focuses": [
       "Atemwegserkrankungen und Beatmung",
-      "kardiologische Erkrankungen",
+      "Erkrankungen des Kreislaufsystems",
       "psychische Erkrankungen",
       "Sonstige"
     ],
@@ -49058,12 +49084,18 @@
     "acronym": "ParkProTrain",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkt": "neurologische Erkrankungen",
+      "Zielgruppe": "Menschen mit chronischen Krankheiten",
       "Versorgungsbereich": "ambulant",
       "Bundesland": "Schleswig-Holstein",
       "Förderkennzeichen": "01VSF17037",
       "Laufzeit": "06/2018 – 06/2021",
       "Status": "beendet",
-      "Transferempfehlung": "keine Empfehlung"
+      "Transferempfehlung": "keine Empfehlung",
+      "E-Health": "App , Digitale Gesundheitsanwendungen (DiGA) , digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
+      "Heil- und Hilfsmittelversorgung": "Physiotherapie",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Selbstmanagement-Programme",
+      "Versorgungsmodelle und Behandlungsprogramme": "Blended Care / Blended Treatment"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -49072,8 +49104,12 @@
       "Förderbekanntmachung": "20.02.2017",
       "Themenfeld": "themenoffen"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "neurologische Erkrankungen"
+    ],
+    "target_groups": [
+      "Menschen mit chronischen Krankheiten"
+    ],
     "states": [
       "Schleswig-Holstein"
     ],
@@ -49129,10 +49165,10 @@
       }
     ],
     "additional_documents": [],
-    "has_explicit_neurology_focus": false,
-    "matches_neurology_online_filter": false,
-    "neurology_focus_scope": "none",
-    "is_neurology": false
+    "has_explicit_neurology_focus": true,
+    "matches_neurology_online_filter": true,
+    "neurology_focus_scope": "exclusive",
+    "is_neurology": true
   },
   {
     "project_id": 444,
@@ -52183,7 +52219,7 @@
     "acronym": "PICnet-Kids",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
-      "Themenschwerpunkte": "Atemwegserkrankungen und Beatmung, Impfungen und Infektionskrankheiten, kardiologische Erkrankungen, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
+      "Themenschwerpunkte": "Atemwegserkrankungen und Beatmung, Erkrankungen des Kreislaufsystems, Impfungen und Infektionskrankheiten, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
       "Zielgruppen": "Angehörige, Kinder und Jugendliche, Leistungserbringer, Menschen mit chronischen Krankheiten",
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Baden-Württemberg",
@@ -52203,8 +52239,8 @@
     },
     "thematic_focuses": [
       "Atemwegserkrankungen und Beatmung",
+      "Erkrankungen des Kreislaufsystems",
       "Impfungen und Infektionskrankheiten",
-      "kardiologische Erkrankungen",
       "neurologische Erkrankungen",
       "Notfälle",
       "Verletzung und Vergiftungen",
@@ -52633,7 +52669,9 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "20.02.2017",
     "description": "Von den über 3 Millionen Grundschulkindern in Deutschland stottern ungefähr 1,4 Prozent, also ca. 44.000 Kinder. Stottern kann in schweren Fällen die Kommunikation vollständig verhindern und nimmt typischerweise im weiteren Verlauf an Schwere zu. Stottern kann dazu führen, dass die schulischen Leistungen sinken und die späteren beruflichen Möglichkeiten eingeschränkt sind.\n\nDie Studie PMS KIDS gleicht die Heilmittelrichtlinien zu Stottern mit der aktuellen Versorgungssituation in ambulanten Einrichtungen ab. Die kurz- und mittelfristigen Effekte ambulanter Stottertherapien sollen dabei überprüft werden. Für die Behandlung stotternder Kinder stehen unterschiedliche Therapien zur Verfügung. In dieser Studie wird die Wirkung eines weit verbreiteten Best-Practice-Verfahrens, der Stottermodifikation, untersucht. Die Stottermodifikation zielt neben einer Erhöhung der Sprechflüssigkeit auf einen Abbau der Begleitsymptome und negativer Gefühle wie Angst und Scham. Im Projekt werden 50 betroffene Schülerinnen und Schüler sowie ihre Eltern während der Stottertherapie regelmäßig befragt und vor Ort untersucht. Der Behandlungserfolg wird mittels eines Fragebogens sowie mehrerer Spontansprechproben überprüft. Die behandelten Kinder werden nach drei Monaten mit nicht behandelten Kindern verglichen. Die Studie nutzt dabei aus, dass es Kinder gibt, deren Behandlung nicht sofort beginnen kann. Diese werden dann verglichen mit Kindern, die eine Stottertherapie direkt im Anschluss an die Diagnose beginnen. Das Projekt wird für 42 Monate mit insgesamt ca. 520.000 Euro gefördert.\n\nDie Studienergebnisse können im Erfolgsfall dazu beitragen, die Verordnungsmenge und das Behandlungsformat besser anzupassen. Außerdem helfen sie dabei, Eltern und Kinder bei der Entscheidungsfindung für eine Therapie und deren Format zu unterstützen.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.fh-muenster.de/de/mdh/forschung/abgeschlossene-forschungsvorhaben/PMS_KIDS"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Anke Kohmäscher",
@@ -59933,8 +59971,8 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 8,63 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1040/2026-01-23_QuaSiApps_Ergebnisbericht.pdf"
+        "meta": "(PDF 7,11 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1040/2026-02-28_QuaSiApps_Ergebnisbericht.pdf"
       }
     ],
     "additional_documents": [],
@@ -62256,7 +62294,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "08.04.2016",
     "description": "Entzündlich-rheumatische Erkrankungen betreffen insgesamt ca. zwei Prozent der deutschen Gesamtbevölkerung, ein Großteil hiervon im arbeitsfähigen Alter. Eine frühe Diagnose und unmittelbare Behandlung können Krankenhausaufenthalte, Arbeitsunfähigkeits-Zeiten, Behandlungskosten und Medikamenteneinnahme verringern und gleichzeitig Lebensqualität, Teilhabe und Arbeitsfähigkeit erhalten. Allerdings wird die Erkrankung in Deutschland im Durchschnitt zu spät erkannt. Bleibende Schäden und Beeinträchtigungen können dann die Folge sein\n\nHauptziel des Projekts ist die Verkürzung der Zeit bis zur Diagnosestellung. Denn nur, wenn rheumatische Erkrankungen möglichst früh erkannt werden, kann eine optimale Behandlung so erfolgreich durchgeführt werden, dass Lebensqualität, Zufriedenheit, Teilhabe- und Arbeitsfähigkeit der Patienten uneingeschränkt bleiben. Zentrales Element der neuen Versorgungsform ist die „koordinierte Kooperation“ zwischen Hausärzten, Fachärzten und Patienten, gesteuert und unterstützt durch fachübergreifend besetzte Koordinationsstellen. Sie werden früh in den Prozess der Diagnose eingebunden und unterstützen den Hausarzt bei der Entscheidung, ob und wie dringlich eine Behandlung eingeleitet werden muss. Nach 18 Monaten wird geschaut, ob sich die Schulung der Hausärzte und der Einsatz der Koordinierungsstellen in einer steigenden Zahl von gemeldeten Fällen widerspiegeln. Darüber hinaus wird die tatsächlich erreichte Zeit bis zur Diagnose evaluiert. Das Projekt wird für 42 Monate mit insgesamt ca. sechs Millionen Euro gefördert.\n\nIm Erfolgsfall lässt sich die neue Versorgungsform bundesweit ausdehnen. Die Erkenntnisse lassen sich auch auf andere Krankheitsbilder mit zeitlich kritischen Verläufen und Versorgungsengpässen übertragen wie beispielsweise in der Neurologie.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.rheuma-vor.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Andreas Schwarting",
@@ -65249,7 +65289,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "20.02.2017",
     "description": "In Deutschland erleiden jährlich rund 260.000 Menschen einen Schlaganfall. Nach Schlaganfällen ist das Risiko für schwerwiegende Komplikationen deutlich erhöht. Dabei können schwerwiegende Folgen oft durch eine gezielte Nachsorge verringert werden.\n\nZiel des Projektes „SANO“ ist die Verbesserung der Versorgung nach ischämischem Schlaganfall sowie einer besseren Diagnose und Therapie von Komplikationen. Dafür wird ein berufsgruppenübergreifendes Netzwerk bestehend aus Hausärzten, einem Schlaganfallkoordinator und einer geschulten Schlaganfallpflegekraft, der „Stroke Nurse“ an Kliniken sowie Therapeuten, Diätassistenten und Sozialarbeitern aufgebaut. Die Patienten erhalten hier eine ausführliche Beratung, führen Motivationsgespräche und formulieren individuelle Zielvereinbarungen unter Einbeziehung von Angehörigen. Ein Gesunderhaltungspass dient als Steuerungsinstrument. Durch regelmäßige Vorstellungen in der Klinik und beim Hausarzt kann eine Behandlung von Risikofaktoren direkt eingeleitet werden und mögliche Folgeerkrankungen besser überprüft werden. Im Anschluss wird evaluiert, inwieweit Folgekomplikationen und erneute Krankenhauseinweisungen durch die neue Versorgungsform reduziert werden können. Dafür werden insgesamt rund 1500 Patienten aus 15 Regionen, in der die neue Versorgungsform angeboten wird, mit rund 1500 Patienten aus 15 Vergleichsregionen verglichen, die regulär versorgt werden. Zudem werden auch die Folgekosten im ersten Jahr nach Schlaganfällen ermittelt. Das Projekt wird für 48 Monate mit insgesamt ca. 5,8 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die neue Versorgungsform auf weite Teile Deutschlands und auf andere vaskuläre und neurologische Erkrankungen übertragen werden. Dadurch können für zahlreiche Patienten Komplikationen und Risikofaktoren und schließlich Folgekosten reduziert werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.sano-studie.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Armin Grau",
@@ -66180,7 +66222,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "08.04.2016",
     "description": "Leberzirrhose ist eine Erkrankung, die sich über Jahre und Jahrzehnte häufig unbemerkt entwickelt. Erste Symptome treten meist sehr spät auf, wenn das Gewebe schon unwiederbringlich geschädigt und bereits schwere Komplikationen aufgetreten sind. Die Rate der durch Leberzirrhose verursachten Todesfälle hat sich in den vergangenen 25 Jahren verdoppelt. Eine frühe Diagnose der Leberschädigung könnte helfen, Spätkomplikationen zu verhindern.\n\nDas Projekt SEAL - Strukturierte Früh-Erkennung einer Asymptomatischen Leberzirrhose - erprobt, inwieweit ein Leberwert-Screening beim Hausarzt dabei hilft, den Anteil früh diagnostizierter Erkrankter zu erhöhen und wirksam zu behandeln. Allen über 35-jährigen AOK-Versicherten in Rheinland-Pfalz und im Saarland wird angeboten, sich im Zuge des regelmäßigen medizinischen Check-Up beim Hausarzt ihren persönlichen Leber-Risikowert ermitteln zu lassen. Für die Patienten ist das zunächst mit keinem Mehraufwand verbunden. Ein bestimmtes Muster erhöhter Blutwerte deutet auf ein erhöhtes Leberzirrhose Risiko hin. In diesem Fall untersucht ein Facharzt die Leber. Bestätigt sich der Verdacht, übernimmt ein Leberzentrum die Absicherung der Diagnose und leitet die frühzeitige Behandlung ein. Der Versorgungskreislauf Hausarzt – Facharzt – Leberzentrum schließt sich dadurch, dass alle Untersuchungsergebnisse mittels moderner Informationstechnologie in einer Online-Plattform eingetragen werden und alle beteiligten Leistungserbringer gleichermaßen informiert sind. Nach zwei Jahren wird wissenschaftlich ausgewertet, ob tatsächlich mehr frühe Fälle von Leberzirrhose diagnostiziert und behandelt werden konnten und ob die neue Versorgungsform Kosten spart. Das Projekt wird für 48 Monate mit insgesamt ca. 2,7 Millionen Euro gefördert\n\nIm Erfolgsfall ist die neue Versorgungsform auf andere Regionen übertragbar. Zudem kann die Zusammenarbeit zwischen Hausärzten, Fachärzten und Hochschulambulanzen beispielhaft auf andere Krankheitsgebiete übertragen werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://lebervorsorge.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Herr Univ.-Prof. Dr. Peter Robert Galle",
@@ -66750,12 +66794,17 @@
     "acronym": "SELMA",
     "funding_category": "Versorgungsforschung",
     "project_data": {
-      "Versorgungsbereich": "ambulant",
+      "Themenschwerpunkte": "Erkrankungen des Kreislaufsystems, Transplantation, Organspende und Amputation",
+      "Zielgruppen": "Erwachsene, Menschen mit chronischen Krankheiten",
+      "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Baden-Württemberg",
       "Förderkennzeichen": "01VSF18012",
       "Laufzeit": "02/2019 – 01/2023",
       "Status": "beendet",
-      "Transferempfehlung": "keine Empfehlung"
+      "Transferempfehlung": "keine Empfehlung",
+      "E-Health": "App",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Selbstmanagement-Programme",
+      "Versorgungsmodelle und Behandlungsprogramme": "Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , stationäre Versorgung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -66764,12 +66813,19 @@
       "Förderbekanntmachung": "20.10.2017",
       "Themenfeld": "Versorgung von Menschen mit chronischen Erkrankungen und/oder Multimorbidität"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Erkrankungen des Kreislaufsystems",
+      "Transplantation",
+      "Organspende und Amputation"
+    ],
+    "target_groups": [
+      "Erwachsene",
+      "Menschen mit chronischen Krankheiten"
+    ],
     "states": [
       "Baden-Württemberg"
     ],
-    "care_setting": "ambulant",
+    "care_setting": "sektorenübergreifend",
     "status": "beendet",
     "duration_raw": "02/2019 – 01/2023",
     "start_date": "2019-02",
@@ -68349,7 +68405,9 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "20.02.2017",
     "description": "Aus langjähriger Erfahrung und internationalen Studien ist bekannt, dass psychische Beschwerden nach der Geburt und frühkindliche Regulationsschwierigkeiten häufig auftretende Belastungen darstellen und dass Eltern-Säugling-Kleinkind-Psychotherapie (ESKP) dabei eine sehr gute Unterstützung und Entlastung für betroffene Eltern und ihre Kinder bietet. In der SKKIPPI Studie wird der Versorgungsbedarf bewertet und der in anderen Ländern schon erforschte Behandlungsansatz nun auch in Deutschland wissenschaftlich evaluiert.\n\nObwohl postpartale Erkrankungen eines Elternteils oder frühe Regulationsstörungen eines Kindes unbehandelt langfristige negative Folgen für die Entwicklung eines Kindes haben, findet in Deutschland derzeit nach der Geburt keine angemessene und ausreichende psychische Versorgung von Eltern und ihren Säuglingen und Kleinkindern statt.\n\nDie SKKIPPI Studie erfasst die Versorgungslage und bestimmt, wie häufig Mütter und Säuglinge psychisch belastet sind. Darüber hinaus werden zwei kontrollierte Interventionsstudien durchgeführt. Die erste Studie bezieht sich auf Mütter mit psychopathologischen Störungen, die nach der Geburt des Kindes auftreten. Die zweite Studie bezieht sich auf Mütter mit Kindern, die unter kindlichen Regulationsstörungen leiden. Es nehmen 360 Mutter-Kind-Paare teil, die zu drei Untersuchungszeitpunkten (vor der Behandlung, nach der 6-wöchigen Behandlung, ein Jahr nach der Behandlung) in unterschiedlichen Behandlungssettings psychotherapeutisch behandelt werden.\n\nZiel der Behandlung ist es, die mütterliche Feinfühligkeit zu verbessern, um eine sichere Mutter-Kind-Bindung zu ermöglichen und negative Folgen für das Kind zu vermeiden. Die Wissenschaftler untersuchen, inwiefern dies durch eine Eltern-Säuglings-Kleinkind-Psychotherapie (EKSP) erreicht werden kann. Die ESKP gibt Hilfen zur mütterlichen und kindlichen Affektregulation und zur mütterlichen Selbstreflektion. Die Wirksamkeit von ESKP wird im Vergleich zur Standardbehandlung untersucht. Die notwendigen Daten zur Inanspruchnahme und Wirksamkeit von ESKP werden mittels Fragebögen, standardisierter Tests, Interviews und Eltern-Kind-Interaktions-Videos erhoben.\n\nDie Studien untersuchen nach hohen wissenschaftlichen Standards die Wirksamkeit von ESKP in der stationären Behandlung (Klinik oder Tagesklinik) sowie in der häuslichen Umgebung im Vergleich zu den bislang bestehenden Behandlungsangeboten. Ziel ist es herauszufinden, welche Behandlungsform am wirkungsvollsten ist, um die künftige Versorgungslage dadurch zu verbessern. Die multizentrische SKKIPPI Studie wird in drei Regionen umgesetzt (Berlin, Leipzig, Flensburg) und umfasst drei Teilstudien (Bevölkerungsstudie, Interventionsstudie Mutter, Interventionsstudie Kinder). Das Projekt wird für 54 Monate mit insgesamt ca. 2,4 Millionen Euro gefördert.\n\nDie Studien liefern wichtige Erkenntnisse zur Umsetzung und Wirksamkeit von Eltern-Säugling-Kleinkind-Psychotherapie in der klinischen Praxis und leisten so einen Beitrag zur Weiterentwicklung einer wirksamen und kosteneffektiven Versorgung von Eltern mit postpartalen psychischen Störungen und Kindern mit Regulationsstörungen.",
-    "project_websites": [],
+    "project_websites": [
+      "https://skkippi.ipu-berlin.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "SKKIPPI Studiensekretariat Berlin",
@@ -71034,7 +71092,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "11.05.2016",
     "description": "Knapp 270.000 Menschen erleiden jährlich in Deutschland einen Schlaganfall. Über ein Drittel stirbt innerhalb eines Jahres an dieser Erkrankung. Die, die überleben, haben ein höheres Risiko für einen erneuten Schlaganfall: Je nach Ursache erleidet fast jeder Fünfte erneut einen Schlaganfall. Rund die Hälfte der überlebenden Schlaganfall-Patientinnen und -Patienten ist ein Jahr nach dem Ereignis dauerhaft behindert und auf fremde Hilfe angewiesen.\n\nZiel des Projektes STROKE OWL ist es, die Rate der wiederholten Schlaganfälle innerhalb eines Jahres nach dem Schlaganfallereignis zu verringern. Außerdem soll die Lebensqualität und Zufriedenheit der Betroffenen verbessert werden. Im Projekt werden dafür sogenannte Schlaganfall-Lotsen eingesetzt, die die Patientinnen und Patienten für ein Jahr begleiten. Die Leistungen der Lotsen bestehen darin, Betroffene und Angehörige über mögliche Schlaganfall-Komplikationen zu informieren und frühzeitig auf mögliche Risiken hinzuweisen. Sie koordinieren auch regelmäßige Rücksprachemöglichkeiten mit den behandelnden Ärzten sowie die Medikation, wobei die Verwaltung der Daten durch eine digitale Belotsungsakte („Lotsen-APP“) unterstützt wird. Im Projekt sollen in Ostwestfalen-Lippe 1.587 Schlaganfall-Patientinnen und -Patienten von Schlaganfall-Lotsen betreut werden. Um prüfen zu können, ob die Betroffenen mit Lotsen besser versorgt sind, werden die Krankheitsverläufe mit einer gleichen Anzahl an Erkrankten aus zwei Vergleichs-Regionen verglichen, in der die Lotsen nicht eingesetzt werden. Gleichzeitig kann ausgewertet werden, ob durch diese neue Versorgungsform insgesamt Kosten gesenkt werden. Das Projekt wird für vier Jahre mit insgesamt ca. 7,1 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Vorgehen auf andere Indikationen, vor allem chronische Erkrankungen, angepasst und übertragen werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.schlaganfall-hilfe.de/de/das-tun-wir/aktivitaeten/projekt-stroke-owl"
+    ],
     "project_lead": {
       "raw_lines": [
         "Dr. Georg Galle",
@@ -71999,10 +72059,16 @@
     "acronym": "TELE-KASPER",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
+      "Themenschwerpunkt": "Sonstige",
+      "Zielgruppe": "Kinder und Jugendliche",
+      "Versorgungsbereich": "stationär",
       "Bundesländer": "Bayern, Nordrhein-Westfalen, Saarland, Sachsen-Anhalt",
       "Förderkennzeichen": "01NVF19009",
       "Laufzeit": "10/2020 – 09/2024",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "Abschlussbericht wird erstellt",
+      "E-Health": "App , digitale Informationsplattform / Wissensdatenbank / Therapiemodule , Entscheidungshilfesystem , Telekonsil / Televisite / Teletherapie",
+      "Einsatz von Arzneimitteln": "Antibiotika , Antibiotikaresistenzen / multiresistente Keime",
+      "Versorgungsmodelle und Behandlungsprogramme": "Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade , stationäre Versorgung"
     },
     "funding_info": {
       "Förderbereich": "Neue Versorgungsformen",
@@ -72011,15 +72077,19 @@
       "Förderbekanntmachung": "19.10.2018",
       "Themenfeld": "Telemedizinische Kooperationsnetzwerke von stationären und ambulanten Einrichtungen zur Verbesserung der medizinischen Versorgung"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Sonstige"
+    ],
+    "target_groups": [
+      "Kinder und Jugendliche"
+    ],
     "states": [
       "Bayern",
       "Nordrhein-Westfalen",
       "Saarland",
       "Sachsen-Anhalt"
     ],
-    "care_setting": "",
+    "care_setting": "stationär",
     "status": "Abschlussbericht wird erstellt",
     "duration_raw": "10/2020 – 09/2024",
     "start_date": "2020-10",
@@ -72033,7 +72103,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "19.10.2018",
     "description": "Seit Jahren nehmen multiresistente Erreger (MRE) in Deutschland zu. Ein Grund hierfür ist der häufige und oft unkritische Einsatz von Breitspektrum-Antibiotika, vor allem bei im Krankenhaus behandelten Kindern und Erwachsenen. Antibiotic Stewardship (ABS) Programme sollen einen kontrollierteren Einsatz von Antibiotika in Krankenhäusern unterstützen. Diese Programme sind aber in der Kinderheilkunde außerhalb nicht-universitärer Kinderkliniken bisher sehr selten.\n\nIm Projekt TELE-KASPER soll die Versorgung von Kindern in nicht-universitären Kinderkliniken verbessert werden, indem ein telemedizinisches ABS-Programm etabliert wird. Mittels einer Smartphone-App sollen Ärztinnen und Ärzte zu Diagnostik und Therapie von Infektionen im Kindesalter beraten, weitergebildet und in der Behandlung komplizierter infektiologischer Fälle unterstützt werden. Ein deutschlandweites Netzwerk, bestehend aus ABS-erfahrenen Kliniken, soll aufgebaut werden und hierbei unterstützen. Um den Nutzen dieser Programme zu dokumentieren, erfasst das Projekt den lokalen Verbrauch von Antibiotika und vergleicht Resistenzstatistiken.\n\nIm Projekt soll der Antibiotika-Einsatz in mindestens 28 nicht-universitären Kinderkliniken untersucht werden. Anschließend wird das ABS-Programm in randomisierter Zeitabfolge in den verschiedenen Kliniken eingeführt und evaluiert. Forscherinnen und Forscher analysieren, ob sich der Antibiotikaverbrauch und die Resistenzstatistiken verändern, wie hoch die Verweildauer im Krankenhaus und die Mortalität sind. Zusätzlich wird evaluiert, wie häufig das ABS-Programm genutzt wird, wie schnell Fragen zu Kinderinfektionen beantwortet werden können und wie zufrieden die beteiligten Ärztinnen und Ärzte sind.\n\nDas Projekt wird für 48 Monate mit ca. 7,7 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das ABS-Programm die Versorgung von Kindern in nicht-universitären Kinderkliniken flächendeckend verbessern und zugleich neue Kompetenzen in lokalen und regionalen Kinderkliniken schaffen. So kann das Projekt zu einem angemessenen Antibiotikagebrauch in Kinderkliniken und damit zur Eindämmung von Antibiotika-Resistenzen beitragen.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.tele-kasper.de/tele-kasper"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Johannes Hübner",
@@ -73384,7 +73456,7 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "Innerhalb eines Jahres erleiden in Deutschland rund 1,6 Prozent aller Erwachsenen einen Schlaganfall. Zwei Drittel der Patientinnen und Patienten sind danach pflegebedürftig oder auf Unterstützung im Alltag angewiesen. Der Schlaganfall ist die häufigste Ursache einer erworbenen Behinderung im Erwachsenenalter. Die dadurch ausgelösten Einschränkungen der Mobilität sind der häufigste Grund für die Beantragung einer Pflegestufe oder einer vollstationären Unterbringung. Wird eine spezifische Therapie rasch und konsequent umgesetzt, kann die jeweilige Störung häufig verringert werden.\n\nDie Projektpartner von TheMoS wollen gemeinsam eine S3-Leitlinie zur Therapie von Störungen der Mobilität nach einem Schlaganfall erarbeiten und damit vor allem die Standardisierung der Therapie verbessern. Dabei sollen die Therapieempfehlungen konkreten Zielkriterien folgen, wie beispielsweise der Fähigkeit, eigenständig gehen zu lernen oder weniger zu stürzen. Die vorhandene S2k-Leitlinie „Rehabilitation der Mobilität nach Schlaganfall“ (ReMoS) wird damit ersetzt.\n\nDie Besonderheit des geplanten Projekts besteht darin, dass die Forschungsgruppe über die systematische Literatursuche und –bewertung hinaus zielgruppenspezifische Versionen der Leitlinie entwickeln wird. Dafür werden unterschiedliche Berufsgruppen und Disziplinen wie Neurologie, Allgemeinmedizin oder Altersmedizin beteiligt. Die Perspektive der Betroffenen wird durch die Einbindung von Patientenvertretungen berücksichtigt. Das Projekt wird für zwei Jahre und acht Monate mit ca. 449.000 Euro gefördert.\n\nIm Erfolgsfall trägt die neue S3-Leitlinie zu einer besseren Versorgung von Patientinnen und Patienten mit Mobilitätsstörungen nach einem Schlaganfall bei. Ein Schlüssel wird dabei eine kontinuierliche Qualitätskontrolle der empfohlenen Therapien sein.",
+    "description": "Innerhalb eines Jahres erleiden in Deutschland rund 1,6 Prozent aller Erwachsenen einen Schlaganfall. Zwei Drittel der Patientinnen und Patienten sind danach pflegebedürftig oder auf Unterstützung im Alltag angewiesen. Der Schlaganfall ist die häufigste Ursache einer erworbenen Behinderung im Erwachsenenalter. Die dadurch ausgelösten Einschränkungen der Mobilität sind der häufigste Grund für die Beantragung einer Pflegestufe oder einer vollstationären Unterbringung. Wird eine spezifische Therapie rasch und konsequent umgesetzt, kann die jeweilige Störung häufig verringert werden.\n\nDie Projektpartner von TheMoS wollen gemeinsam eine S3-Leitlinie zur Therapie von Störungen der Mobilität nach einem Schlaganfall erarbeiten und damit vor allem die Standardisierung der Therapie verbessern. Dabei sollen die Therapieempfehlungen konkreten Zielkriterien folgen, wie beispielsweise der Fähigkeit, eigenständig gehen zu lernen oder weniger zu stürzen. Die vorhandene S2k-Leitlinie „Rehabilitation der Mobilität nach Schlaganfall“ (ReMoS) wird damit ersetzt.\n\nDie Besonderheit des geplanten Projekts besteht darin, dass die Forschungsgruppe über die systematische Literatursuche und –bewertung hinaus zielgruppenspezifische Versionen der Leitlinie entwickeln wird. Dafür werden unterschiedliche Berufsgruppen und Disziplinen wie Neurologie, Allgemeinmedizin oder Altersmedizin beteiligt. Die Perspektive der Betroffenen wird durch die Einbindung von Patientenvertretungen berücksichtigt. Das Projekt wird für zwei Jahre und neun Monate mit ca. 449.000 Euro gefördert.\n\nIm Erfolgsfall trägt die neue S3-Leitlinie zu einer besseren Versorgung von Patientinnen und Patienten mit Mobilitätsstörungen nach einem Schlaganfall bei. Ein Schlüssel wird dabei eine kontinuierliche Qualitätskontrolle der empfohlenen Therapien sein.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -73728,7 +73800,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "20.10.2017",
     "description": "Die Ösophagusatresie ist eine angeborene Fehlbildung, bei der die Speiseröhre nicht durchgängig angelegt ist. Die betroffenen Kinder können gleich nach der Geburt nicht schlucken, Muttermilch oder Ersatznahrung zu sich nehmen. Unbehandelt führt die Erkrankung unweigerlich zum Tod des Kindes. Eine Ösophagusatresie tritt bei etwa einer von 2.500 bis 3.500 Geburten in Deutschland auf, es werden also etwa 200 bis 300 Kinder pro Jahr mit dieser Erkrankung geboren. Daher handelt es sich um eine seltene Erkrankung, und Ärzten fehlt folglich oftmals die notwendige Routine und Expertise.\n\nZiel des Projekts ist es, behandelnden Kinderchirurgen und -medizinern sowie den betroffenen Familien mithilfe der Telemedizin ein Netzwerk von Spezialisten zur Verfügung zu stellen. Die Familien erhalten darüber hinaus über die Patienten- und Selbsthilfeorganisation KEKS Kontakt zu anderen Betroffenen. Durch die telemedizinische Beratung und Begleitung soll die Versorgung der Ösophagusatresie gezielt und langfristig unterstützt werden und zu einer Entlastung der Eltern und Familien beitragen. Im Rahmen einer kontrollierten Interventionsstudie soll geprüft werden, ob sich die neue Versorgungsform positiv auf den Krankheitsverlauf im ersten Lebensjahr auswirkt. Dafür werden 96 Patienten, die mit dem behandelnden Arzt auf das telemedizinische Netzwerk zurückgreifen können, in die Studie eingeschlossen. Die Ergebnisse werden mit Vergleichsgruppen aus den Routinedaten der Krankenkassen und des KEKS-Patientenregisters verglichen. Eine Analyse zur Umsetzung, Akzeptanz und Kosteneffizienz des telemedizinischen Netzwerks ist ebenfalls vorgesehen. Das Projekt wird für fünf Jahre mit insgesamt ca. 1,6 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Konzept auch auf weitere Erkrankungen und Regionen übertragen werden. So könnten auch beispielsweise Kinder mit Krebserkrankungen oder angeborenen Fehlbildungen von einem telemedizinischen Versorgungsnetzwerk profitieren.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.unimedizin-mainz.de/tic-pea/uebersicht.html"
+    ],
     "project_lead": {
       "raw_lines": [
         "Univ.-Prof. Dr. med. Oliver Muensterer",
@@ -74750,7 +74824,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "08.04.2016",
     "description": "Nach der in Europa gültigen Definition ist eine Erkrankung dann \"selten\", wenn nicht mehr als fünf von 10.000 Menschen darunter leiden. Anders als ihr Name vermuten lässt, kommen seltene Erkrankungen aber häufig vor. Es gibt über 8.000 seltene Erkrankungen und allein in Deutschland sind mehrere Millionen Patienten betroffen. Das „Nationale Aktionsbündnis Seltene Erkrankungen“, NAMSE, will die Versorgung für Betroffene verbessern, indem es bestehende Initiativen bündelt, Forscher und Ärzte vernetzt und Informationen zusammenführt.\n\nDas Projekt TRANSLATE-NAMSE zielt darauf ab, durch die koordinierte Zusammenarbeit von Zentren für seltene Erkrankungen die Diagnosestellung zu beschleunigen und die Versorgung von Patienten mit seltenen angeborenen Erkrankungen sicherzustellen. Darüber hinaus soll der Übergang von der Kinder- und Jugend- in die Erwachsenenmedizin besser strukturiert werden. In neun Zentren für seltene Erkrankungen sollen dafür die vom NAMSE vorgeschlagenen Strukturen und Prozesse eingeführt und nachhaltig umgesetzt werden. Zu der neuen Versorgungsform gehören insbesondere Fallkonferenzen, die sowohl die Diagnosestellung als auch die Behandlung unklarer Fälle verbessern sollen. Durch ein Fallmanagement, das überregionale Expertise einbindet und den Zugang der Versorger zu den Daten der beteiligten Zentren ermöglicht, soll die Zeit bis zur Diagnose und richtigen Behandlung verkürzt werden. AOK Nordost und Barmer sind Konsortialpartner im Projekt, das für 42 Monate mit insgesamt ca. 13,4 Millionen Euro gefördert wird.\n\nWährend der Testphase wird die neue Versorgungsform fortwährend mit der gegenwärtigen Regelversorgung verglichen. Akzeptanz und Zufriedenheit der Patienten und Angehörigen werden dabei regelmäßig überprüft. Im Erfolgsfall können die Prozesse anschließend bundesweit in die Regelversorgung überführt werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://translate-namse.charite.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Herr Prof. Dr. Heiko Krude",
@@ -76893,12 +76969,17 @@
     "acronym": "VerSI-MS-PV",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkt": "neurologische Erkrankungen",
+      "Zielgruppen": "Erwachsene, Leistungserbringer",
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF18038",
       "Laufzeit": "06/2019 – 04/2023",
       "Status": "beendet",
-      "Transferempfehlung": "Prüfbitte/Überführung"
+      "Transferempfehlung": "Prüfbitte/Überführung",
+      "E-Health": "Big Data und Gesundheitsdatenanalyse , Entscheidungshilfesystem , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
+      "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Medikationsmanagement , unerwünschte Arzneimittelwirkungen",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , stationäre Versorgung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -76907,8 +76988,13 @@
       "Förderbekanntmachung": "20.10.2017",
       "Themenfeld": "Verbesserung der Patientensicherheit"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "neurologische Erkrankungen"
+    ],
+    "target_groups": [
+      "Erwachsene",
+      "Leistungserbringer"
+    ],
     "states": [
       "Nordrhein-Westfalen"
     ],
@@ -76926,7 +77012,9 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "20.10.2017",
     "description": "Die Multiple Sklerose (MS) ist eine häufige Erkrankung des zentralen Nervensystems und betrifft in Deutschland über 250.000 Menschen. Die Krankheit zeigt einen fortschreitenden, oft zunehmend schweren Verlauf. MS lässt sich bislang nicht heilen, aber gut behandeln. Für die Behandlung der MS sind in den letzten zehn Jahren zahlreiche Medikamente neu zugelassen worden, weitere Medikamente werden in den nächsten Jahren folgen. Bis auf Ergebnisse aus klinischen Studien liegen oft keine oder geringe Erfahrungen in der Anwendung neuer Therapien vor – insbesondere im Hinblick auf unerwünschte Wirkungen.\n\nDas Projekt VerSI-MS-PV untersucht, wie unerwünschte Wirkungen dieser neuen Behandlungsmöglichkeiten bei MS-Patientinnen und -Patienten besser erfasst werden können. Etabliert ist, wie bei anderen Krankheiten auch, ein Berichtssystem für sogenannte Spontanmeldungen über Nebenwirkungen durch die verschreibenden Ärzte und Ärztinnen. Aber eine systematische Pflicht zur Erfassung unerwünschter Wirkungen besteht nicht. Im Projekt werden deshalb verschiedene Datenquellen aus der ambulanten Versorgung von MS-Patienten und MS-Patientinnen in niedergelassenen Praxen und Behandlungszentren analysiert. Darunter fallen Registerdaten, in denen Krankheitsverlauf und Behandlungserfolge dokumentiert werden und die üblichen Abrechnungsdaten der Versicherten – in diesem Fall der BKK-Versicherten. Die Analyse gibt unter anderem Auskunft darüber, wann und warum die Therapie gewechselt wurde und wie häufig unerwünschte Wirkungen auftreten. Neuerkrankungen und Krankenhausaufenthalte werden dabei auch berücksichtigt. Das Projekt wird für vier Jahre mit insgesamt ca. 1,5 Millionen Euro gefördert.\n\nIm Erfolgsfall lassen sich Erkenntnisse darüber gewinnen, wie in Krankheitsfeldern mit sich stark ändernden Behandlungsmöglichkeiten das Spontanmeldesystem der Arzneimittelsicherheit durch Daten der Regelversorgung ergänzt werden kann. Daraus ließen sich entsprechende Hinweise für den Gesetzgeber ableiten.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.medizin.uni-muenster.de/?id=18973"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. med. Klaus Berger",
@@ -76969,10 +77057,10 @@
       }
     ],
     "additional_documents": [],
-    "has_explicit_neurology_focus": false,
-    "matches_neurology_online_filter": false,
-    "neurology_focus_scope": "none",
-    "is_neurology": false
+    "has_explicit_neurology_focus": true,
+    "matches_neurology_online_filter": true,
+    "neurology_focus_scope": "exclusive",
+    "is_neurology": true
   },
   {
     "project_id": 159,
