@@ -3597,7 +3597,7 @@
       },
       {
         "title": "Evaluationsbericht",
-        "meta": "(PDF 4,36 MB)",
+        "meta": "(PDF 4,71 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1047/2026-02-20_APU_Evaluationsbericht.pdf"
       }
     ],
@@ -13644,7 +13644,7 @@
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF21035",
       "Laufzeit": "04/2022 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Telekonsil / Televisite / Teletherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Screeninginstrumente oder -verfahren , Telematik-Infrastruktur",
       "Versorgungsmodelle und Behandlungsprogramme": "Koordinierungstellen , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade"
@@ -13677,7 +13677,7 @@
       "Berlin"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "04/2022 – 03/2026",
     "start_date": "2022-04",
     "end_date": "2026-03",
@@ -14374,8 +14374,8 @@
       "inav - privates Institut für angewandte Versorgungsforschung GmbH",
       "Medventi GmbH",
       "Techniker Krankenkasse",
-      "Universität Greifswald",
-      "Universitätsmedizin Rostock"
+      "Universitätsmedizin Rostock",
+      "Universitätsmedizin Rostock (Zentrum für Nervenheilkunde)"
     ],
     "essential_elements": {},
     "decision_date": null,
@@ -18720,7 +18720,7 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 3,74 MB)",
+        "meta": "(PDF 10,11 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1055/2026-02-20_EVAS_Ergebnisbericht.pdf"
       }
     ],
@@ -19405,7 +19405,7 @@
       "Bundesländer": "Bremen, Niedersachsen, Nordrhein-Westfalen",
       "Förderkennzeichen": "01NVF21104",
       "Laufzeit": "06/2022 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Telekonsil / Televisite / Teletherapie",
       "Einsatz von Arzneimitteln": "Antibiotika , Antibiotikaresistenzen / multiresistente Keime , Arzneimitteltherapiesicherheit (AMTS) , Medikationsmanagement",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Telematik-Infrastruktur",
@@ -19438,7 +19438,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "06/2022 – 03/2026",
     "start_date": "2022-06",
     "end_date": "2026-03",
@@ -19612,7 +19612,7 @@
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF22026",
       "Laufzeit": "04/2023 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , Patientenkommunikation"
     },
@@ -19633,7 +19633,7 @@
       "Berlin"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "04/2023 – 03/2026",
     "start_date": "2023-04",
     "end_date": "2026-03",
@@ -21408,7 +21408,7 @@
       "Themenschwerpunkte": "Atemwegserkrankungen und Beatmung, Blut- und Immunsystemerkrankungen, Erkrankungen des Verdauungssystems, Hals-Nasen-Ohrenerkrankungen, Impfungen und Infektionskrankheiten",
       "Zielgruppen": "Kinder und Jugendliche, Leistungserbringer",
       "Versorgungsbereich": "ambulant",
-      "Bundesländer": "Bayern, Nordrhein-Westfalen",
+      "Bundesländer": "Baden-Württemberg, Bayern, Nordrhein-Westfalen, Thüringen",
       "Förderkennzeichen": "01NVF24320",
       "Laufzeit": "11/2025 – 10/2028",
       "Status": "laufend",
@@ -21437,8 +21437,10 @@
       "Leistungserbringer"
     ],
     "states": [
+      "Baden-Württemberg",
       "Bayern",
-      "Nordrhein-Westfalen"
+      "Nordrhein-Westfalen",
+      "Thüringen"
     ],
     "care_setting": "ambulant",
     "status": "laufend",
@@ -22383,7 +22385,7 @@
       "Bundesland": "Niedersachsen",
       "Förderkennzeichen": "01VSF22049",
       "Laufzeit": "01/2023 – 03/2026",
-      "Status": "laufend"
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -22403,7 +22405,7 @@
       "Niedersachsen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 03/2026",
     "start_date": "2023-01",
     "end_date": "2026-03",
@@ -24305,7 +24307,7 @@
       "Bundesland": "Niedersachsen",
       "Förderkennzeichen": "01VSF21040",
       "Laufzeit": "07/2022 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitskompetenz und Gesundheitsressourcen",
       "Versorgungsmodelle und Behandlungsprogramme": "stationäre Versorgung"
     },
@@ -24329,7 +24331,7 @@
       "Niedersachsen"
     ],
     "care_setting": "stationär",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "07/2022 – 03/2026",
     "start_date": "2022-07",
     "end_date": "2026-03",
@@ -25496,7 +25498,7 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 8,32 MB)",
+        "meta": "(PDF 8,96 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/974/2025-10-17_HeLP_Ergebnisbericht.pdf"
       }
     ],
@@ -27857,7 +27859,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "30.06.2023",
-    "description": "Demenz ist bei älteren Erwachsenen die häufigste chronische Erkrankung. Die meisten Betroffenen leben zu Hause und werden von Familienangehörigen betreut. Viele Pflegende sind durch die alltäglichen Herausforderungen überlastet und erschöpft . Mit iSupport hat die Weltgesundheitsorganisation ein digitales Weiterbildungs- und Trainingsprogramm entwickelt, das pflegende Angehörige unterstützen soll. Eine Anpassung der Plattform an die deutschen Gegebenheiten ist bislang noch nicht erfolgt. Zudem tun sich viele Menschen schwer, digitale Informationsangebote zu finden, zu verstehen und sinnvoll anzuwenden.\n\nDas Projektteam iDEM-Support möchte dazu beitragen, iSupport in Deutschland nutzbar und breit verfügbar zu machen. Durch die Erweiterung um ein zusätzliches Modul soll die Nutzung des Angebots zudem verbessert werden. Dazu lässt das Forschungsteam die bereits bestehenden iSupport-Module in die deutsche Sprache übersetzen und richtet das Programm inhaltlich auf die Versorgungssituation in Deutschland aus. Parallel dazu werden Angehörige von Menschen mit Demenz zu ihren Bedürfnissen befragt und wie sie gesundheitsbezogene Informationen im Internet suchen und nutzen. Aus den Ergebnissen sowie vorhandenen wissenschaftlichen Erkenntnissen stellt das Projektteam Hilfestellungen zum Umgang mit digitalen Gesundheitsinformationen in einem neuen Modul zusammen. Nachdem pflegende Angehörige und Expertinnen und Experten das so adaptierte Programm getestet haben, wird es auf eine barrierefreie Plattform für PC und Smartphones überführt. Abschließend überprüfen die Forschenden in einer wissenschaftlichen Studie mit ca. 140 Teilnehmenden, ob das deutsche iSupport die gewünschte Unterstützung für die Betroffenen bietet.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,3 Millionen Euro gefördert.\n\nIm Erfolgsfall erweist sich die optimierte Plattform für Angehörige von Menschen mit Demenz als wichtiges Hilfsmittel, um die Versorgungs- und Lebensqualität in der häuslichen Pflege zu verbessern.",
+    "description": "Demenz ist bei älteren Erwachsenen die häufigste chronische Erkrankung. Die meisten Betroffenen leben zu Hause und werden von Familienangehörigen betreut. Viele Pflegende sind durch die alltäglichen Herausforderungen überlastet und erschöpft . Mit iSupport hat die Weltgesundheitsorganisation ein digitales Weiterbildungs- und Trainingsprogramm entwickelt, das pflegende Angehörige unterstützen soll. Eine Anpassung der Plattform an die deutschen Gegebenheiten ist bislang noch nicht erfolgt. Zudem tun sich viele Menschen schwer, digitale Informationsangebote zu finden, zu verstehen und sinnvoll anzuwenden.\n\nDas Projektteam iDEM-Support möchte dazu beitragen, iSupport in Deutschland nutzbar und breit verfügbar zu machen. Durch die Erweiterung um ein zusätzliches Modul soll die Nutzung des Angebots zudem verbessert werden. Dazu lässt das Forschungsteam die bereits bestehenden iSupport-Module in eine verständliche, demenz- und kultursensitive Sprache anpassen und richtet das Programm inhaltlich auf die Versorgungssituation in Deutschland aus. Parallel dazu werden Angehörige von Menschen mit Demenz zu ihren Bedürfnissen befragt und wie sie gesundheitsbezogene Informationen im Internet suchen und nutzen. Aus den Ergebnissen sowie vorhandenen wissenschaftlichen Erkenntnissen stellt das Projektteam Hilfestellungen zum Umgang mit digitalen Gesundheitsinformationen in einem neuen Modul zusammen. Nachdem pflegende Angehörige und Expertinnen und Experten das so adaptierte Programm getestet haben, wird es auf eine barrierefreie Plattform für PC und Smartphones überführt. Abschließend überprüfen die Forschenden in einer wissenschaftlichen Studie mit ca. 140 Teilnehmenden, ob das deutsche iSupport die gewünschte Unterstützung für die Betroffenen bietet.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,3 Millionen Euro gefördert.\n\nIm Erfolgsfall erweist sich die optimierte Plattform für Angehörige von Menschen mit Demenz als wichtiges Hilfsmittel, um die Versorgungs- und Lebensqualität in der häuslichen Pflege zu verbessern.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -29307,6 +29309,7 @@
       "Goethe-Universität Frankfurt am Main",
       "Heinrich-Heine-Universität Düsseldorf",
       "Helmholtz Zentrum München – Deutsches Forschungszentrum für Gesundheit und Umwelt GmbH",
+      "Justus-Liebig-Universität Gießen",
       "Phillips-Universität Marburg",
       "Radiologische Allianz eGbR",
       "radiomed Gemeinschaftspraxis für Radiologie und Nuklearmedizin",
@@ -29319,7 +29322,6 @@
       "Universität Ulm",
       "Universität zu Köln",
       "Universität zu Lübeck",
-      "Universitätsklinikum Gießen und Marburg GmbH",
       "Universitätsklinikum Hamburg-Eppendorf",
       "Universitätsklinikum Jena",
       "Universitätsklinikum Tübingen",
@@ -35515,7 +35517,7 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF21033",
       "Laufzeit": "04/2022 – 03/2026",
-      "Status": "laufend"
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -35536,7 +35538,7 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "04/2022 – 03/2026",
     "start_date": "2022-04",
     "end_date": "2026-03",
@@ -35552,16 +35554,23 @@
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
-        "Markus Blätzinger",
+        "AUC-Akademie der Unfallchirurgie GmbH",
+        "Herr Markus Blätzinger",
+        "Emil-Riedel-Straße 5",
+        "80538 München",
         "+49 89 540481200",
         "Markus.Blaetzinger@auc-online.de"
       ],
-      "display": "Markus Blätzinger | +49 89 540481200 | Markus.Blaetzinger@auc-online.de",
-      "name": "Markus Blätzinger",
+      "display": "AUC-Akademie der Unfallchirurgie GmbH | Herr Markus Blätzinger | Emil-Riedel-Straße 5 | 80538 München | +49 89 540481200 | Markus.Blaetzinger@auc-online.de",
+      "name": "AUC-Akademie der Unfallchirurgie GmbH",
       "email": "Markus.Blaetzinger@auc-online.de",
-      "phone": "+49 89 540481200"
+      "phone": "+49 89 540481200",
+      "postal_code": "80538",
+      "city": "München",
+      "organization": "Herr Markus Blätzinger",
+      "street": "Emil-Riedel-Straße 5"
     },
-    "project_lead_city": null,
+    "project_lead_city": "München",
     "consortium_partners": [
       "AOK-Bundesverband eGbR: Wissenschaftliches Institut der AOK (WIdO)",
       "Otto-von-Guericke-Universität Magdeburg",
@@ -35891,7 +35900,7 @@
       "Bundesland": "Hamburg",
       "Förderkennzeichen": "01VSF21005",
       "Laufzeit": "04/2022 – 03/2026",
-      "Status": "laufend"
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -35914,7 +35923,7 @@
       "Hamburg"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "04/2022 – 03/2026",
     "start_date": "2022-04",
     "end_date": "2026-03",
@@ -47284,7 +47293,7 @@
       "Bundesland": "Niedersachsen",
       "Förderkennzeichen": "01VSF22043",
       "Laufzeit": "01/2023 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Heil- und Hilfsmittelversorgung": "Logopädie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Rehabilitation und Therapie"
     },
@@ -47308,7 +47317,7 @@
       "Niedersachsen"
     ],
     "care_setting": "stationär",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 03/2026",
     "start_date": "2023-01",
     "end_date": "2026-03",
@@ -48953,7 +48962,7 @@
       },
       {
         "title": "Evaluationsbericht",
-        "meta": "(PDF 5,26 MB)",
+        "meta": "(PDF 7,46 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1079/2026-03-20_Parkinson-AKTIV_Evaluationsbericht.pdf"
       }
     ],
@@ -51882,7 +51891,7 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 107,99 MB)",
+        "meta": "(PDF 112,91 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1064/2026-02-20_Pfad_Ergebnisbericht.pdf"
       }
     ],
@@ -56523,7 +56532,7 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF21034",
       "Laufzeit": "04/2022 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "App , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , Patientenkommunikation , Screeninginstrumente oder -verfahren",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Patienten- und Behandlungspfade , stationäre Versorgung"
@@ -56545,7 +56554,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "04/2022 – 03/2026",
     "start_date": "2022-04",
     "end_date": "2026-03",
@@ -67660,7 +67669,7 @@
       "Bundesland": "Sachsen",
       "Förderkennzeichen": "01NVF21103",
       "Laufzeit": "10/2022 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Informations- und Kommunikationstechnologien (IKT) , Telekonsil / Televisite / Teletherapie",
       "Einsatz von Arzneimitteln": "Antibiotika",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Früherkennung , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Telematik-Infrastruktur",
@@ -67686,7 +67695,7 @@
       "Sachsen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "10/2022 – 03/2026",
     "start_date": "2022-10",
     "end_date": "2026-03",
@@ -73507,7 +73516,7 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF21025",
       "Laufzeit": "04/2022 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Telekonsil / Televisite / Teletherapie",
       "Heil- und Hilfsmittelversorgung": "Logopädie"
     },
@@ -73528,7 +73537,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "ambulant",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "04/2022 – 03/2026",
     "start_date": "2022-04",
     "end_date": "2026-03",
@@ -75385,7 +75394,7 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/332/UlcusCrurisCare_Patienteninformation_Umgang_mit_Kompressionsmitteln.pdf"
       },
       {
-        "title": "Patienteninformation Verbandswechse",
+        "title": "Patienteninformation Verbandswechsel",
         "meta": "(PDF 403,79 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/333/UlcusCrurisCare_Patienteninformation_Verbandswechsel.pdf"
       }

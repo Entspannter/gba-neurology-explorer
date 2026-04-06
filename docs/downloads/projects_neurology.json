@@ -3664,7 +3664,7 @@
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF21035",
       "Laufzeit": "04/2022 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Telekonsil / Televisite / Teletherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Screeninginstrumente oder -verfahren , Telematik-Infrastruktur",
       "Versorgungsmodelle und Behandlungsprogramme": "Koordinierungstellen , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade"
@@ -3697,7 +3697,7 @@
       "Berlin"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "04/2022 – 03/2026",
     "start_date": "2022-04",
     "end_date": "2026-03",
@@ -5500,7 +5500,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "30.06.2023",
-    "description": "Demenz ist bei älteren Erwachsenen die häufigste chronische Erkrankung. Die meisten Betroffenen leben zu Hause und werden von Familienangehörigen betreut. Viele Pflegende sind durch die alltäglichen Herausforderungen überlastet und erschöpft . Mit iSupport hat die Weltgesundheitsorganisation ein digitales Weiterbildungs- und Trainingsprogramm entwickelt, das pflegende Angehörige unterstützen soll. Eine Anpassung der Plattform an die deutschen Gegebenheiten ist bislang noch nicht erfolgt. Zudem tun sich viele Menschen schwer, digitale Informationsangebote zu finden, zu verstehen und sinnvoll anzuwenden.\n\nDas Projektteam iDEM-Support möchte dazu beitragen, iSupport in Deutschland nutzbar und breit verfügbar zu machen. Durch die Erweiterung um ein zusätzliches Modul soll die Nutzung des Angebots zudem verbessert werden. Dazu lässt das Forschungsteam die bereits bestehenden iSupport-Module in die deutsche Sprache übersetzen und richtet das Programm inhaltlich auf die Versorgungssituation in Deutschland aus. Parallel dazu werden Angehörige von Menschen mit Demenz zu ihren Bedürfnissen befragt und wie sie gesundheitsbezogene Informationen im Internet suchen und nutzen. Aus den Ergebnissen sowie vorhandenen wissenschaftlichen Erkenntnissen stellt das Projektteam Hilfestellungen zum Umgang mit digitalen Gesundheitsinformationen in einem neuen Modul zusammen. Nachdem pflegende Angehörige und Expertinnen und Experten das so adaptierte Programm getestet haben, wird es auf eine barrierefreie Plattform für PC und Smartphones überführt. Abschließend überprüfen die Forschenden in einer wissenschaftlichen Studie mit ca. 140 Teilnehmenden, ob das deutsche iSupport die gewünschte Unterstützung für die Betroffenen bietet.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,3 Millionen Euro gefördert.\n\nIm Erfolgsfall erweist sich die optimierte Plattform für Angehörige von Menschen mit Demenz als wichtiges Hilfsmittel, um die Versorgungs- und Lebensqualität in der häuslichen Pflege zu verbessern.",
+    "description": "Demenz ist bei älteren Erwachsenen die häufigste chronische Erkrankung. Die meisten Betroffenen leben zu Hause und werden von Familienangehörigen betreut. Viele Pflegende sind durch die alltäglichen Herausforderungen überlastet und erschöpft . Mit iSupport hat die Weltgesundheitsorganisation ein digitales Weiterbildungs- und Trainingsprogramm entwickelt, das pflegende Angehörige unterstützen soll. Eine Anpassung der Plattform an die deutschen Gegebenheiten ist bislang noch nicht erfolgt. Zudem tun sich viele Menschen schwer, digitale Informationsangebote zu finden, zu verstehen und sinnvoll anzuwenden.\n\nDas Projektteam iDEM-Support möchte dazu beitragen, iSupport in Deutschland nutzbar und breit verfügbar zu machen. Durch die Erweiterung um ein zusätzliches Modul soll die Nutzung des Angebots zudem verbessert werden. Dazu lässt das Forschungsteam die bereits bestehenden iSupport-Module in eine verständliche, demenz- und kultursensitive Sprache anpassen und richtet das Programm inhaltlich auf die Versorgungssituation in Deutschland aus. Parallel dazu werden Angehörige von Menschen mit Demenz zu ihren Bedürfnissen befragt und wie sie gesundheitsbezogene Informationen im Internet suchen und nutzen. Aus den Ergebnissen sowie vorhandenen wissenschaftlichen Erkenntnissen stellt das Projektteam Hilfestellungen zum Umgang mit digitalen Gesundheitsinformationen in einem neuen Modul zusammen. Nachdem pflegende Angehörige und Expertinnen und Experten das so adaptierte Programm getestet haben, wird es auf eine barrierefreie Plattform für PC und Smartphones überführt. Abschließend überprüfen die Forschenden in einer wissenschaftlichen Studie mit ca. 140 Teilnehmenden, ob das deutsche iSupport die gewünschte Unterstützung für die Betroffenen bietet.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,3 Millionen Euro gefördert.\n\nIm Erfolgsfall erweist sich die optimierte Plattform für Angehörige von Menschen mit Demenz als wichtiges Hilfsmittel, um die Versorgungs- und Lebensqualität in der häuslichen Pflege zu verbessern.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -10203,7 +10203,7 @@
       "Bundesland": "Niedersachsen",
       "Förderkennzeichen": "01VSF22043",
       "Laufzeit": "01/2023 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Heil- und Hilfsmittelversorgung": "Logopädie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Rehabilitation und Therapie"
     },
@@ -10227,7 +10227,7 @@
       "Niedersachsen"
     ],
     "care_setting": "stationär",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 03/2026",
     "start_date": "2023-01",
     "end_date": "2026-03",
@@ -11090,7 +11090,7 @@
       },
       {
         "title": "Evaluationsbericht",
-        "meta": "(PDF 5,26 MB)",
+        "meta": "(PDF 7,46 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1079/2026-03-20_Parkinson-AKTIV_Evaluationsbericht.pdf"
       }
     ],
