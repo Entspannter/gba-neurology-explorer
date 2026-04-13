@@ -2027,13 +2027,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "Grafik Projektverlauf",
-        "meta": "(JPG 652,29 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/296/01VSF24037%20AgeHearing-QoL_Projektverlauf.jpg"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -17384,16 +17378,6 @@
     ],
     "additional_documents": [
       {
-        "title": "Hufeland-Preis 2023",
-        "meta": "(JPG 339,94 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/71/01NVF18008%20EsmAiL_Hufeland-Preis_2023.jpg"
-      },
-      {
-        "title": "MSD-Preis 2024",
-        "meta": "(JPG 443,56 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/72/01NVF18008%20EsmAiL_MSD-Preis_2024.jpg"
-      },
-      {
         "title": "Projektpräsentation",
         "meta": "(PDF 3,55 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/73/01NVF18008%20EsmAiL_Pr%C3%A4sentation_2025-11-12.pdf"
@@ -25107,7 +25091,9 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "30.06.2023",
     "description": "Schwerhörigkeit kann in jedem Alter auftreten und wirkt sich erheblich auf den weiteren Lebensverlauf der Betroffenen und ihrer Angehörigen aus. Im Kindesalter werden vor allem Sprach- und Bildungserwerb sowie die soziale und emotionale Entwicklung beeinträchtigt, im Erwachsenenalter führt Schwerhörigkeit oft zu Problemen im Beruf sowie zu geringerer Lebensqualität. Im Alter erhöht eine unversorgte Schwerhörigkeit das Risiko für dementielle Erkrankungen sowie Gefahren durch Schwindel und Stürze. In allen Lebensphasen können Schwerhörige nur eingeschränkt am sozialen Leben teilhaben und leiden deshalb oft unter Vereinsamung. Obwohl dies bereits bekannt und gut erforscht ist, bleibt die Versorgungssituation insbesondere für eine im Verlauf des Lebens entwickelte Schwerhörigkeit weiterhin unbefriedigend. Zudem wird von einer hohen Anzahl von unerkannt schwerhörigen Menschen ausgegangen.\n\nZiel des Projekts ist eine systematische Untersuchung der Versorgungs- und Unterstützungssituation sowie der Versorgungserfahrung von Menschen mit Schwerhörigkeit in drei Lebensphasen: Kindheit und junges Erwachsenenalter, Erwerbstätigkeit und Rentenalter. Für diese Altersgruppen möchte das Projektteam von HearAllAges Versorgungslücken identifizieren sowie bessere Verfahren für das Erkennen und die Versorgung von Schwerhörigkeit entwickeln. Die Forschenden werden Routinedaten der gesetzlichen Krankenversicherungen und der Bundesagentur für Arbeit nutzen sowie begleitende Befragungen von ca. 20.000 Betroffenen und unerkannt Betroffenen, z. B. Menschen, die Symptome einer Schwerhörigkeit bei sich feststellten, aber nichts weiter unternahmen, durchführen und auswerten. Seine Erkenntnisse wird das Projektteam mit Hilfe zielgruppengerechter Informationsmaterialen zum Thema Schwerhörigkeit und ihren Auswirkungen, zu Anlaufstellen und mit allgemeinen Informationen über Hörtechnik sowie Handlungsempfehlungen für Betroffene, Angehörige und Versorgende über unterschiedliche Kanäle zugänglich machen: Internet, Soziale Medien, Broschüren und Filmbeiträge.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,4 Millionen Euro gefördert.\n\nIm Erfolgsfall werden spezifische Verbesserungsmöglichkeiten für das Erkennen und die Versorgung von Schwerhörigkeit über die gesamte Lebensspanne identifiziert und konkrete Hilfestellungen erarbeitet. So soll u. a. die Dunkelziffer an unversorgten Personen reduziert werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://hear-all-ages.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Karolin Schäfer",
@@ -27570,7 +27556,7 @@
     "funding_process": "einstufig lang",
     "funding_area": "Neue Versorgungsformen",
     "call_date": "12.12.2019",
-    "description": "In den vergangenen Jahren ist bei Jugendlichen und jungen Erwachsenen eine deutliche Zunahme der Anzahl an Krankenhausaufenthalten aufgrund einer Depression zu verzeichnen. Etwa 20 Prozent dieser Krankenhausaufenthalte sind Wiederaufnahmen, bedingt durch eine unzureichende Nutzung ambulanter Nachsorgeangebote. Ohne eine Teilnahme an solchen Angeboten besteht ein erhöhtes Risiko für Rückfälle und chronische Verläufe psychischer Erkrankungen. Zudem wird das Gesundheitssystem hierdurch zusätzlich belastet.\n\niCAN ist ein niedrigschwelliges und sektorenübergreifendes Angebot für Jugendliche und junge Erwachsene mit Depressionen nach einem Krankenhausaufenthalt, dass eine (video-)telefonische Begleitung durch sogenannte Nachsorgemanagerinnen und Nachsorgemanager sowie eine Smartphone-App umfasst. Die Ziele von iCAN bestehen darin, stationär erreichte Therapieerfolge mit einem Chatbot-gestützten App-Training zu stabilisieren und Patientinnen und Patienten nach einer stationären Behandlung gezielt und zeitnah an ein ambulantes Nachsorgeangebot anzubinden.\n\niCAN wird in einer randomisierten Kontrollgruppenstudie im Vergleich zur Regelversorgung evaluiert. Durch einen mehrere Methoden umfassenden Ansatz werden die Effekte von iCAN auf die Veränderung der Symptomschwere vom Zeitpunkt der Entlassung bis zum Follow Up nach drei Monaten, die Nutzung ambulanter Anschlussbehandlungen sowie direkte und indirekte Krankheitskosten untersucht. Das Projekt wird für vier Jahre mit insgesamt ca. 3,5 Millionen Euro gefördert.\n\nIm Erfolgsfall kann iCAN in der Regelversorgung flächendeckend eingesetzt werden, um durch die systematische Unterstützung des Übergangs von einer stationären Depressionsbehandlung in die ambulante Nachsorge Rehospitalisierungsraten bei Jugendlichen und jungen Erwachsenen zu reduzieren sowie (in)direkte Kosten einzusparen.",
+    "description": "In den vergangenen Jahren ist bei Jugendlichen und jungen Erwachsenen eine deutliche Zunahme der Anzahl an Krankenhausaufenthalten aufgrund einer Depression zu verzeichnen. Etwa 20 Prozent dieser Krankenhausaufenthalte sind Wiederaufnahmen, bedingt durch eine unzureichende Nutzung ambulanter Nachsorgeangebote. Ohne eine Teilnahme an solchen Angeboten besteht ein erhöhtes Risiko für Rückfälle und chronische Verläufe psychischer Erkrankungen. Zudem wird das Gesundheitssystem hierdurch zusätzlich belastet.\n\niCAN ist ein niedrigschwelliges und sektorenübergreifendes Angebot für Jugendliche und junge Erwachsene mit Depressionen nach einem Krankenhausaufenthalt, das eine (video-)telefonische Begleitung durch sogenannte Nachsorgemanagerinnen und Nachsorgemanager sowie eine Smartphone-App umfasst. Die Ziele von iCAN bestehen darin, stationär erreichte Therapieerfolge mit einem Chatbot-gestützten App-Training zu stabilisieren und Patientinnen und Patienten nach einer stationären Behandlung gezielt und zeitnah an ein ambulantes Nachsorgeangebot anzubinden.\n\niCAN wird in einer randomisierten Kontrollgruppenstudie im Vergleich zur Regelversorgung evaluiert. Durch einen mehrere Methoden umfassenden Ansatz werden die Effekte von iCAN auf die Veränderung der Symptomschwere vom Zeitpunkt der Entlassung bis zum Follow Up nach drei Monaten, die Nutzung ambulanter Anschlussbehandlungen sowie direkte und indirekte Krankheitskosten untersucht. Das Projekt wird für vier Jahre mit insgesamt ca. 3,5 Millionen Euro gefördert.\n\nIm Erfolgsfall kann iCAN in der Regelversorgung flächendeckend eingesetzt werden, um durch die systematische Unterstützung des Übergangs von einer stationären Depressionsbehandlung in die ambulante Nachsorge Rehospitalisierungsraten bei Jugendlichen und jungen Erwachsenen zu reduzieren sowie (in)direkte Kosten einzusparen.",
     "project_websites": [
       "https://psychologie.uni-greifswald.de/43051/lehrstuehle-ii/klinische-psychologie-und-psychotherapie/forschung/ican/"
     ],
@@ -27607,11 +27593,6 @@
         "title": "Projektposter",
         "meta": "(PDF 2,53 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/130/01NVF20005%20iCAN_Poster.pdf"
-      },
-      {
-        "title": "Konzeptdarstellung",
-        "meta": "(JPG 423,02 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/131/01NVF20005%20iCAN_Konzeptdarstellung.jpg"
       }
     ],
     "has_explicit_neurology_focus": false,
@@ -42032,23 +42013,7 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/523/2024-01-19_MuMi_Ergebnisbericht.pdf"
       }
     ],
-    "additional_documents": [
-      {
-        "title": "3. Platz Wrigley Prophylaxe Preis",
-        "meta": "(JPG 115,61 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/222/Abbildung%203_3.%20Platz%20Wrigley%20Prophylaxe%20Preis%20f%C3%BCrs%20MuMi%20Projekt.jpg"
-      },
-      {
-        "title": "Grafik Säulen in der MuMi App",
-        "meta": "(JPG 502,75 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/223/01VSF17051%20MuMi_S%C3%A4ulen%20in%20der%20MuMi%20App.jpg"
-      },
-      {
-        "title": "Screenshots aus der MuMi-App",
-        "meta": "(PNG 871,57 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/224/01VSF17051%20MuMi_Screenshots%20aus%20der%20MuMi-App.png"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -42134,13 +42099,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "Toothly-App Startseite",
-        "meta": "(PNG 168,05 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/297/01VSF24059%20MuMi+_Toothly-App_Startseite.png"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -43049,13 +43008,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "Grafik Studienüberblick",
-        "meta": "(PNG 31,90 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/290/01VSF23047%20NANA_Studienueberblick.png"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -43157,23 +43110,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "Grafik Rekrutierungsflyer",
-        "meta": "(JPG 1,09 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/198/01NVF23111%20NAVIGATION_Abbildung%20Rekrutierungsflyer.jpg"
-      },
-      {
-        "title": "Grafik Rekrutierungsflyer verschiedene Sprachen",
-        "meta": "(JPG 2,54 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/199/01NVF23111%20NAVIGATION_Abbildung%20Rekrutierungsflyer_verschiedene%20Sprachen.jpg"
-      },
-      {
-        "title": "Grafik Versorgungspfad",
-        "meta": "(JPG 1,25 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/200/01NVF23111%20NAVIGATION_Versorgungspfad.jpg"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -45606,11 +45543,6 @@
         "title": "Flyer Struktur, Handlungsfeld und Kooperationspartner",
         "meta": "(PDF 245,39 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/110/01NVF19017_OnCoPaTh_Flyer%20Struktur,%20Handlungsfeld%20und%20Kooperationspartner.pdf"
-      },
-      {
-        "title": "Grafik Versorgungspfad",
-        "meta": "(JPG 60,21 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/111/01NVF19017_OnCoPaTh_Versorgungspfad.JPG"
       }
     ],
     "has_explicit_neurology_focus": false,
@@ -49680,11 +49612,6 @@
         "title": "Regelwerk für das Erklären medizinischer Sachverhalte in einer leichten Sprache",
         "meta": "(PDF 370,61 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/305/01NVF17017_PASTA_Evaluationsbericht_Anlage_2_Regelwerk_f%C3%BCr%20das%20Erkl%C3%A4ren%20medizinischer%20Sachverhalte%20in%20einer%20leicht.pdf"
-      },
-      {
-        "title": "Deutscher Nachhaltigkeitpreis Gesundheit 2025 (Fotograf: Christian Köster)",
-        "meta": "(JPG 4,19 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/306/01NVF17017_PASTA_dnp2025_0512_Christian_Koester-95.jpg"
       }
     ],
     "has_explicit_neurology_focus": true,
@@ -51987,13 +51914,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "Infografik Methodik",
-        "meta": "(JPG 400,96 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/289/01VSF23043%20PHArMKid_Infografik_Methodik_2024.jpg"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -52411,13 +52332,7 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/166/2022-04-01_PIKKO_Evaluationsbericht.pdf"
       }
     ],
-    "additional_documents": [
-      {
-        "title": "Grafik Versorgungskonzept",
-        "meta": "(JPG 439,33 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/78/01NVF17011%20PIKKO_Versorgungskonzept.jpg"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -54088,11 +54003,6 @@
         "title": "Projektflyer",
         "meta": "(PDF 13,54 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/103/01NVF18024%20PR%C3%84P-GO_Flyer.pdf"
-      },
-      {
-        "title": "Grafik Patientenpfad",
-        "meta": "(PNG 337,86 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/104/01NVF18024%20PR%C3%84P-GO_Patientenpfad.png"
       }
     ],
     "has_explicit_neurology_focus": true,
@@ -65862,11 +65772,6 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/122/01NVF19031%20SCAVIS_smart@net-App.pdf"
       },
       {
-        "title": "smart@net App Startseite",
-        "meta": "(JPG 162,90 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/123/01NVF19031%20SCAVIS_smart@net-App_Startseite.jpg"
-      },
-      {
         "title": "Projektflyer 1",
         "meta": "(PDF 806,23 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/124/01NVF19031%20SCAVIS_Ergebnisbericht%20Anlage%2022%20Flyer%201.pdf"
@@ -69722,13 +69627,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "Grafik Nachsorgekonzept",
-        "meta": "(PNG 267,03 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/186/01NVF22108%20SPIZ_Nachsorgekonzept.png"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -71724,18 +71623,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "Grafik Interventionen und Maßnahmen",
-        "meta": "(JPG 1,09 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/133/01NVF20012%20TARGET_Interventionen%20und%20Ma%C3%9Fnahmen.jpg"
-      },
-      {
-        "title": "Grafik Patientenfluss",
-        "meta": "(JPG 697,75 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/134/01NVF20012%20TARGET_Patientenfluss.jpg"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
