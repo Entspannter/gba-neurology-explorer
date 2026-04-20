@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T06:07:36+00:00",
+  "generatedAt": "2026-04-20T06:07:10+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 803,
@@ -14,8 +14,8 @@
     "exclusiveNeurologyProjects": 47,
     "multiFocusNeurologyProjects": 123,
     "onlineFilterOnlyProjects": 0,
-    "activeNeurologyProjects": 87,
-    "completedNeurologyProjects": 83,
+    "activeNeurologyProjects": 85,
+    "completedNeurologyProjects": 85,
     "statesWithNeurologyProjects": 16,
     "totalFundingEur": 446922497
   },
@@ -3267,7 +3267,7 @@
       "url": "https://innovationsfonds.g-ba.de/projekte/ds22q.481",
       "summary": "Nach dem Down-Syndrom ist es die häufigste bekannte Veränderung der Erbanlagen: das Deletion- und Duplikationssyndrom 22q11.2, abgekürzt DS22q.",
       "description": "Nach dem Down-Syndrom ist es die häufigste bekannte Veränderung der Erbanlagen: das Deletion- und Duplikationssyndrom 22q11.2, abgekürzt DS22q. Das Kürzel beschreibt eine Gruppe eng verwandter seltener Erkrankungen, die eines von 2.500 Kindern betrifft und zu schweren körperlichen und psychischen Krankheiten führt. Diesen Kindern fehlt auf dem Gen 22 ein Teil des Genmaterials oder zwei identische Signale liegen zu Ungunsten der regelrechten Erbinformation eng hintereinander; viele Betroffene erhalten ihre Diagnose aber erst im Jugend- oder Erwachsenenalter, so dass rechtzeitige präventive oder therapeutische Maßnahmen ausbleiben oder zu spät ergriffen werden. Bis heute fehlen zudem evidenzbasierte Leitlinien für dieses Syndrom sowie Kenntnisse zu notwendigen fachärztlichen Screenings, therapeutischen Besonderheiten und präventiven Maßnahmen hinsichtlich der psychosozialen Versorgung.\n\nDem will das Projekt entgegenwirken. Die Forschenden am Universitätsklinikum Würzburg wollen anhand von Literaturrecherchen und Gruppendiskussionen eine Leitlinie sowohl für Therapeuten und Therapeutinnen als auch eine Patientenversion entwickeln. Das Projekt adressiert z. B. die Fragen, bei welchen klinischen Hinweisen und wann eine humangenetische Untersuchung auf Deletion 22q11.2 veranlasst werden soll, wie oft die Betroffenen auf klinische Symptome und Störungsbilder untersucht oder wann welche Maßnahmen der Prävention, Frühintervention, Therapie und Rehabilitation ergriffen werden sollen. Das Projekt wird für 38 Monate mit insgesamt ca. 288.000 Euro gefördert.\n\nD ie Leitlinie kann in allen Lebensphasen und Bereichen der Prävention, Diagnostik und Behandlung von DS22q eingesetzt werden und richtet sich an ambulante, teilstationäre und stationäre Versorgungseinrichtungen und Berufsgruppen, die mit DS22q-Betroffenen arbeiten . Auch kann d ie Leitlinie medizinische, therapeutische, pädagogische und sozialrechtliche Aspekte aufzeigen, die den Betroffenen eine bessere Teilhabe und mehr Lebensqualität ermöglichen.",
-      "status": "Abschlussbericht wird erstellt",
+      "status": "beendet",
       "states": [
         "Bayern"
       ],
@@ -3305,7 +3305,7 @@
       "duration": "04/2022 – 05/2025",
       "startDate": "2022-04",
       "endDate": "2025-05",
-      "transferRecommendation": "",
+      "transferRecommendation": "Prüfbitte/Überführung",
       "projectLead": {
         "raw_lines": [
           "Prof. Dr. Marcel Romanos",
@@ -3333,8 +3333,24 @@
         "Wir sind 22q e. V."
       ],
       "projectWebsites": [],
-      "decisionDate": null,
-      "documents": [],
+      "decisionDate": "17.04.2026",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 138,41 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1099/2026-04-17_DS22q.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 25,38 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1100/2026-04-17_DS22q_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Pocket Guide",
+          "meta": "(PDF 3,49 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/360/01VSF21011_DS22q_Ergebnisbericht_Anlage_2_Pocket-Guide.pdf"
+        }
+      ],
       "essentialElements": {}
     },
     {
@@ -8812,7 +8828,7 @@
       "url": "https://innovationsfonds.g-ba.de/projekte/pallcompare.317",
       "summary": "Um eine flächendeckende, qualitativ hochwertige Palliativversorgung in Deutschland zu gewährleisten, wurde das entsprechende Angebot ebenso wie Qualifizierungsmaßnahmen auf verschiedenen Versorgungsebenen in den letzten Jahren deutlich ...",
       "description": "Um eine flächendeckende, qualitativ hochwertige Palliativversorgung in Deutschland zu gewährleisten, wurde das entsprechende Angebot ebenso wie Qualifizierungsmaßnahmen auf verschiedenen Versorgungsebenen in den letzten Jahren deutlich erweitert. Ambulante und stationäre Versorgungskapazitäten sind regional in unterschiedlicher Ausprägung vorhanden, wobei sich die Inanspruchnahme nach den vorhandenen Angebotsstrukturen richtet. Die Weiterentwicklung der einzelnen palliativen Versorgungsformen geschieht bisher auf der Basis isolierter Bewertungen einzelner Maßnahmen und Strukturen, die in der Realität eng verzahnt sind und ist dementsprechend problematisch.\n\nVor diesem Hintergrund planen wir mit dem Projekt pallCompare erstmals eine längsschnittliche, sektorübergreifende und regional differenzierte Erhebung der palliativen Versorgung in Deutschland. Anhand von Krankenkassen-Routinedaten können folgende palliativen Versorgungsformen unterschieden werden: allgemeine ambulante Palliativversorgung (AAPV), besonders qualifizierte und koordinierte palliativmedizinische Versorgung (BQKPmV), spezialisierte ambulante Palliativversorgung (SAPV), stationäre Palliativversorgung, Hospize sowie Kombinationen. Wir werden Leistungsinanspruchnahme, Versorgungsqualität und Versorgungskosten im Längsschnitt von sechs Jahren erfassen, um eine empirische Grundlage zur Weiterentwicklung der palliativmedizinischen Versorgung aufzubauen. Anhand der Daten lassen sich auch Auswirkungen der verschiedenen Zulassungs- und Vergütungsstrukturen erkennen.\n\nDas Projekt wird für vier Jahre mit insgesamt ca. 900.000 Euro gefördert.\n\nDamit wird ein integriertes Berichtswesen über Art, Dauer und Umfang palliativmedizinischer Versorgung in Deutschland entwickelt, das Fehl- oder Unterversorgung sowie Verbesserungsmöglichkeiten im Zusammenwirken der verschiedenen Versorgungsebenen aufzeigt.",
-      "status": "Abschlussbericht wird erstellt",
+      "status": "beendet",
       "states": [
         "Thüringen"
       ],
@@ -8846,7 +8862,7 @@
       "duration": "11/2020 – 10/2024",
       "startDate": "2020-11",
       "endDate": "2024-10",
-      "transferRecommendation": "",
+      "transferRecommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "projectLead": {
         "raw_lines": [
           "Dr. Antje Freytag",
@@ -8874,8 +8890,18 @@
       "projectWebsites": [
         "https://www.bifg.de/projekte/pallcompare"
       ],
-      "decisionDate": null,
+      "decisionDate": "17.04.2026",
       "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 154,25 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1097/2026-04-17_pallCompare.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 7,28 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1098/2026-04-17_pallCompare_Ergebnisbericht.pdf"
+        },
         {
           "title": "Projektflyer",
           "meta": "(PDF 2,09 MB)",

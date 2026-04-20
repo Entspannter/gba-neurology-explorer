@@ -3563,7 +3563,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF21011",
       "Laufzeit": "04/2022 – 05/2025",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Einsatz von Arzneimitteln": "Medikationsmanagement , unerwünschte Arzneimittelwirkungen",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Screeninginstrumente oder -verfahren , Vorsorgeuntersuchungen",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Integrierte Versorgung (IV) , Koordinierungstellen , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , spezialisierte Versorgungszentren , stationäre Versorgung"
@@ -3601,11 +3602,11 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "04/2022 – 05/2025",
     "start_date": "2022-04",
     "end_date": "2025-05",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 288.000 Euro",
     "funding_sum_eur": 288000,
     "funding_reference": "01VSF21011",
@@ -3642,9 +3643,26 @@
       "Wir sind 22q e. V."
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "17.04.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 138,41 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1099/2026-04-17_DS22q.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 25,38 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1100/2026-04-17_DS22q_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Pocket Guide",
+        "meta": "(PDF 3,49 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/360/01VSF21011_DS22q_Ergebnisbericht_Anlage_2_Pocket-Guide.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -10704,7 +10722,8 @@
       "Bundesland": "Thüringen",
       "Förderkennzeichen": "01VSF19026",
       "Laufzeit": "11/2020 – 10/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "E-Health": "digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
       "Einsatz von Arzneimitteln": "Medikationsmanagement , Multimedikation / Polypharmazie , Off-Label-Use",
       "Qualifikation und Delegation": "Delegation ärztlicher Leistungen , Substitution ärztlicher Leistungen",
@@ -10739,11 +10758,11 @@
       "Thüringen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "11/2020 – 10/2024",
     "start_date": "2020-11",
     "end_date": "2024-10",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 900.000 Euro",
     "funding_sum_eur": 900000,
     "funding_reference": "01VSF19026",
@@ -10780,8 +10799,19 @@
       "BARMER"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "17.04.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 154,25 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1097/2026-04-17_pallCompare.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 7,28 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1098/2026-04-17_pallCompare_Ergebnisbericht.pdf"
+      }
+    ],
     "additional_documents": [
       {
         "title": "Projektflyer",

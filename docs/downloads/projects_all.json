@@ -13439,7 +13439,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF21011",
       "Laufzeit": "04/2022 – 05/2025",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Einsatz von Arzneimitteln": "Medikationsmanagement , unerwünschte Arzneimittelwirkungen",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Screeninginstrumente oder -verfahren , Vorsorgeuntersuchungen",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Integrierte Versorgung (IV) , Koordinierungstellen , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , spezialisierte Versorgungszentren , stationäre Versorgung"
@@ -13477,11 +13478,11 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "04/2022 – 05/2025",
     "start_date": "2022-04",
     "end_date": "2025-05",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 288.000 Euro",
     "funding_sum_eur": 288000,
     "funding_reference": "01VSF21011",
@@ -13518,9 +13519,26 @@
       "Wir sind 22q e. V."
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "17.04.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 138,41 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1099/2026-04-17_DS22q.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 25,38 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1100/2026-04-17_DS22q_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Pocket Guide",
+        "meta": "(PDF 3,49 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/360/01VSF21011_DS22q_Ergebnisbericht_Anlage_2_Pocket-Guide.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -18923,7 +18941,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF19022",
       "Laufzeit": "06/2020 – 05/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung",
       "E-Health": "App , Big Data und Gesundheitsdatenanalyse , digitale Informationsplattform / Wissensdatenbank / Therapiemodule , Entscheidungshilfesystem",
       "Einsatz von Arzneimitteln": "Medikationsmanagement",
       "Heil- und Hilfsmittelversorgung": "technische Produkte",
@@ -18949,11 +18968,11 @@
       "Bayern"
     ],
     "care_setting": "stationär",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "06/2020 – 05/2024",
     "start_date": "2020-06",
     "end_date": "2024-05",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 699.000 Euro",
     "funding_sum_eur": 699000,
     "funding_reference": "01VSF19022",
@@ -18989,9 +19008,26 @@
       "Ludwig-Maximilians-Universität München"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "17.04.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 149,78 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1095/2026-04-17_EVENT.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 10,22 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1096/2026-04-17_EVENT_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "SDMA Technical Manual",
+        "meta": "(PDF 2,38 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/359/01VSF19022_EVENT_Ergebnisbericht_Anlage_2_SDMA_Technical_Manual.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -19106,7 +19142,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF22018",
       "Laufzeit": "01/2023 – 06/2025",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Einsatz von Arzneimitteln": "Antibiotika , Medikationsmanagement , Multimedikation / Polypharmazie",
       "Heil- und Hilfsmittelversorgung": "Physiotherapie",
       "Versorgungsmodelle und Behandlungsprogramme": "Entlassmanagement / Nachsorge , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade , spezialisierte Versorgungszentren , stationäre Versorgung"
@@ -19133,11 +19170,11 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "01/2023 – 06/2025",
     "start_date": "2023-01",
     "end_date": "2025-06",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 360.000 Euro",
     "funding_sum_eur": 360000,
     "funding_reference": "01VSF22018",
@@ -19173,9 +19210,26 @@
       "Technische Universität Dresden"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "17.04.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 141,19 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1101/2026-04-17_EvidenT-HiP.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 19,22 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1102/2026-04-17_EvidenT-HiP_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Patienteninformation",
+        "meta": "(PDF 3,04 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/361/01VSF22018_EvidenT-HiP_Ergebnisbericht_Anlage_6_Leitlinie_Patienteninformation.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -20792,7 +20846,7 @@
     "project_id": 743,
     "slug": "femscreen-ct.743",
     "url": "https://innovationsfonds.g-ba.de/projekte/femscreen-ct.743",
-    "title": "FemScreen-CT – Multidimensionale Analyse des Chlamydientests für Frauen von 16 bis 25 Jahre",
+    "title": "FemScreen-CT – Multidimensionale Analyse des Chlamydientests für Frauen bis 25 Jahre",
     "acronym": "FemScreen-CT",
     "funding_category": "Versorgungsforschung",
     "project_data": {
@@ -20837,7 +20891,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "21.06.2024",
-    "description": "Eine Infektion mit Chlamydien zählt weltweit zu den häufigsten sexuell übertragbaren Krankheiten. Vor allem Jugendliche und junge Erwachsene sind betroffen. Eine Infektion verläuft meist ohne oder nur mit leichten Symptomen und bleibt daher häufig unentdeckt. Bei Frauen kann eine unbehandelte Infektion zu Unterleibsentzündungen und Unfruchtbarkeit führen. Eine frühzeitig erkannte Chlamydien-Infektion ist gut behandelbar. Deshalb haben sexuell aktive junge Frauen bis zum vollendeten 25. Lebensjahr einmal jährlich Anspruch auf ein kostenloses Chlamydien-Screening. Zahlen deuten jedoch darauf hin, dass die Zielgruppe (sexuell aktive Frauen im Alter von 15 bis 25 Jahren) durch das Screening-Angebot bisher nicht ausreichend erreicht wird. Bislang liegen jedoch keine belastbaren Erhebungen zur Screeningberatung und Inanspruchnahme des gesetzlich angebotenen Screenings vor.\n\nDas Forschungsteam des Projekts FemScreen-CT hat sich daher zum Ziel gesetzt, förderliche Faktoren, aber auch Hemmnisse und Herausforderungen im Zusammenhang mit Aufklärung und Screening sowie Ursachen für eine Nicht-Inanspruchnahme zu identifizieren. Die Perspektive der Frauen im Alter von 15 bis 25 Jahren sowie der niedergelassenen Frauenärztinnen und -ärzte wird dabei bundesweit über eine anonyme Befragung erfasst. Ergänzend soll mithilfe der Abrechnungsdaten aller niedergelassenen gynäkologischen Praxen der Kassenärztlichen Vereinigungen die tatsächliche Versorgungssituation untersucht und eine gesundheitsökonomische Analyse durchgeführt werden. Aus den vorliegenden Ergebnissen werden anschließend Handlungsempfehlungen zur Verbesserung der Inanspruchnahme des gesetzlich angebotenen Chlamydien-Screenings abgeleitet.\n\nDas Projekt wird für zwei Jahre mit insgesamt ca. einer Millionen Euro gefördert.\n\nIm Erfolgsfall tragen die Handlungsempfehlungen zu einer höheren Inanspruchnahme des Chlamydien-Screenings bei. Dadurch werden unentdeckte Infektionen frühzeitig erkannt und behandelt sowie Infektionsketten unterbrochen. Eine Übertragung der Ergebnisse auf andere sexuell übertragbare Erkrankungen ist möglich.",
+    "description": "Eine Infektion mit Chlamydien zählt weltweit zu den häufigsten sexuell übertragbaren Krankheiten. Vor allem Jugendliche und junge Erwachsene sind betroffen. Eine Infektion verläuft meist ohne oder nur mit leichten Symptomen und bleibt daher häufig unentdeckt. Bei Frauen kann eine unbehandelte Infektion zu Unterleibsentzündungen und Unfruchtbarkeit führen. Eine frühzeitig erkannte Chlamydien-Infektion ist gut behandelbar. Deshalb haben sexuell aktive junge Frauen bis zum vollendeten 25. Lebensjahr einmal jährlich Anspruch auf ein kostenloses Chlamydien-Screening. Zahlen deuten jedoch darauf hin, dass die Zielgruppe (sexuell aktive Frauen im Alter von 15 bis 25 Jahren) durch das Screening-Angebot bisher nicht ausreichend erreicht wird. Bislang liegen jedoch keine belastbaren Erhebungen zur Screeningberatung und Inanspruchnahme des gesetzlich angebotenen Screenings vor.\n\nDas Forschungsteam des Projekts FemScreen-CT hat sich daher zum Ziel gesetzt, förderliche Faktoren, aber auch Hemmnisse und Herausforderungen im Zusammenhang mit Aufklärung und Screening sowie Ursachen für eine Nicht-Inanspruchnahme zu identifizieren. Die Perspektive der Frauen im Alter von 16 bis 25 Jahren sowie der niedergelassenen Frauenärztinnen und -ärzte wird dabei bundesweit über eine anonyme Befragung erfasst. Ergänzend soll mithilfe der Abrechnungsdaten aller niedergelassenen gynäkologischen Praxen der Kassenärztlichen Vereinigungen die tatsächliche Versorgungssituation untersucht und eine gesundheitsökonomische Analyse durchgeführt werden. Aus den vorliegenden Ergebnissen werden anschließend Handlungsempfehlungen zur Verbesserung der Inanspruchnahme des gesetzlich angebotenen Chlamydien-Screenings abgeleitet.\n\nDas Projekt wird für zwei Jahre mit insgesamt ca. einer Millionen Euro gefördert.\n\nIm Erfolgsfall tragen die Handlungsempfehlungen zu einer höheren Inanspruchnahme des Chlamydien-Screenings bei. Dadurch werden unentdeckte Infektionen frühzeitig erkannt und behandelt sowie Infektionsketten unterbrochen. Eine Übertragung der Ergebnisse auf andere sexuell übertragbare Erkrankungen ist möglich.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -20899,7 +20953,8 @@
       "Bundesländer": "Sachsen, Thüringen",
       "Förderkennzeichen": "01NVF18005",
       "Laufzeit": "07/2019 – 03/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Screeninginstrumente oder -verfahren , Vorsorgeuntersuchungen",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Entlassmanagement / Nachsorge , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade"
     },
@@ -20924,11 +20979,11 @@
       "Thüringen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "07/2019 – 03/2024",
     "start_date": "2019-07",
     "end_date": "2024-03",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 4,9 Mio. Euro",
     "funding_sum_eur": 4900000,
     "funding_reference": "01NVF18005",
@@ -20970,13 +21025,54 @@
       "Kassenärztliche Vereinigung Sachsen"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "17.04.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 159,66 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1089/2026-04-17_FETONEONATPFAD.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 13,25 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1090/2026-04-17_FETONEONATPFAD_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 8,46 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1091/2026-04-17_FETONEONATPFAD_Evaluationsbericht.pdf"
+      }
+    ],
     "additional_documents": [
       {
         "title": "Projektflyer",
         "meta": "(PDF 1,54 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/100/01NVF18005%20FETONEONATPFAD_Flyer.pdf"
+      },
+      {
+        "title": "Handbuch",
+        "meta": "(PDF 1,22 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/354/01NVF18005_FETONEONATPFAD_Ergebnisbericht_Anlage_1_Handbuch.pdf"
+      },
+      {
+        "title": "Entscheidungshilfe Neonatologie",
+        "meta": "(PDF 196,82 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/355/01NVF18005_FETONEONATPFAD_Ergebnisbericht_Anlage_10_Entscheidungshilfe_Neonatologie.pdf"
+      },
+      {
+        "title": "Mutterpasskarte",
+        "meta": "(PDF 557,95 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/356/01NVF18005_FETONEONATPFAD_Ergebnisbericht_Anlage_11_Mutterpasskarte.pdf"
+      },
+      {
+        "title": "Checkliste Pädiatrie",
+        "meta": "(PDF 990,10 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/357/01NVF18005_FETONEONATPFAD_Ergebnisbericht_Anlage_12_Checkliste_Paediatrie.pdf"
+      },
+      {
+        "title": "Checkliste U3–U6",
+        "meta": "(PDF 7,47 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/358/01NVF18005_FETONEONATPFAD_Ergebnisbericht_Anlage_13_Checkliste_U3-U6.pdf"
       }
     ],
     "has_explicit_neurology_focus": false,
@@ -32784,7 +32880,7 @@
       "Versorgungsbereich": "ambulant",
       "Bundesland": "Hamburg",
       "Förderkennzeichen": "01VSF22038",
-      "Laufzeit": "07/2023 – 06/2026",
+      "Laufzeit": "07/2023 – 12/2026",
       "Status": "laufend"
     },
     "funding_info": {
@@ -32813,9 +32909,9 @@
     ],
     "care_setting": "ambulant",
     "status": "laufend",
-    "duration_raw": "07/2023 – 06/2026",
+    "duration_raw": "07/2023 – 12/2026",
     "start_date": "2023-07",
-    "end_date": "2026-06",
+    "end_date": "2026-12",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 1,4 Mio. Euro",
     "funding_sum_eur": 1400000,
@@ -32824,7 +32920,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "07.06.2021",
-    "description": "Menschen in einer niedrigen sozialen Lage sind häufiger von chronischen Erkrankungen betroffen, können ihre Gesundheit schlechter einschätzen und leiden häufiger unter gesundheitsbedingten Einschränkungen im Alltag. Dies ist zu Teilen auf die unmittelbaren Wohn- und Lebensbedingungen zurückzuführen, eine wichtige Rolle spielen aber auch Unterschiede in den medizinischen Versorgungsstrukturen vor Ort.\n\nDas Projektteam von KAbAPräv_sozial möchte im Detail darstellen und analysieren, welche Unterschiede insbesondere im Kontext kleinräumig differenzierter Inanspruchnahme von Leistungen der Gesundheitsvorsorge und Früherkennung bzw. von kassenindividuellen Satzungsleistungen in sozial benachteiligten Bevölkerungsgruppen in Hamburg bestehen. Ein Augenmerk liegt neben der allgemeinen Analyse auf Vorsorgeleistungen für ausgewählte Krankheiten wie Herz-Kreislauf-Erkrankungen, Diabetes mellitus, Krebs Muskel-Skelett-Erkrankungen, psychischen Erkrankungen und Zahnerkrankungen.\n\nZur Darstellung der Versorgungssituation und der Inanspruchnahme werden Abrechnungsdaten von ca. 80 Prozent der gesetzlich Versicherten in Hamburg analysiert; die Daten stammen von den beteiligten gesetzlichen Krankenversicherungen. Neben der Routinedatenanalyse erfolgen standardisierte Befragungen von Versicherten der beteiligten Kassen aus nach Soziallage niedrig bzw. sehr niedrig ausgewählten kleinräumigen Gebieten/Quartieren. Diese quantitativen Analysen werden ergänzt um eine qualitative Untersuchung der Versorgungssituation in den ausgewählten Quartieren. Zu diesem Zweck erfassen und diskutieren wissenschaftliche Mitarbeitende im Tandem mit Bewohnerinnen und Bewohnern sowohl mit einschlägigen Anbietenden und Nachfragenden sowie Quartiersakteuren die Versorgungsstrukturen vor Ort. Das Projekt wird für drei Jahre mit insgesamt ca. 1,4 Millionen Euro gefördert.\n\nBei erfolgreichem Abschluss kann das Projekt dazu beitragen, Ungleichheiten bei der gesundheitlichen Situation und der medizinischen Versorgung zu mindern, die aufgrund von Unterschieden in den medizinischen Versorgungsstrukturen nach Soziallage niedrigen Gebieten entstanden sind. Dies gelingt, indem solche Angebote der Gesundheitsförderung und Prävention konzipiert, kommuniziert, angeboten und durchgeführt werden, die spezifischer und damit besser auf die besonderen Bedarfe von Menschen in einer niedrigen sozialen Lage ausgerichtet sind.",
+    "description": "Menschen in einer niedrigen sozialen Lage sind häufiger von chronischen Erkrankungen betroffen, können ihre Gesundheit schlechter einschätzen und leiden häufiger unter gesundheitsbedingten Einschränkungen im Alltag. Dies ist zu Teilen auf die unmittelbaren Wohn- und Lebensbedingungen zurückzuführen, eine wichtige Rolle spielen aber auch Unterschiede in den medizinischen Versorgungsstrukturen vor Ort.\n\nDas Projektteam von KAbAPräv_sozial möchte im Detail darstellen und analysieren, welche Unterschiede insbesondere im Kontext kleinräumig differenzierter Inanspruchnahme von Leistungen der Gesundheitsvorsorge und Früherkennung bzw. von kassenindividuellen Satzungsleistungen in sozial benachteiligten Bevölkerungsgruppen in Hamburg bestehen. Ein Augenmerk liegt neben der allgemeinen Analyse auf Vorsorgeleistungen für ausgewählte Krankheiten wie Herz-Kreislauf-Erkrankungen, Diabetes mellitus, Krebs Muskel-Skelett-Erkrankungen, psychischen Erkrankungen und Zahnerkrankungen.\n\nZur Darstellung der Versorgungssituation und der Inanspruchnahme werden Abrechnungsdaten von ca. 80 Prozent der gesetzlich Versicherten in Hamburg analysiert; die Daten stammen von den beteiligten gesetzlichen Krankenversicherungen. Neben der Routinedatenanalyse erfolgen standardisierte Befragungen von Versicherten der beteiligten Kassen aus nach Soziallage niedrig bzw. sehr niedrig ausgewählten kleinräumigen Gebieten/Quartieren. Diese quantitativen Analysen werden ergänzt um eine qualitative Untersuchung der Versorgungssituation in den ausgewählten Quartieren. Zu diesem Zweck erfassen und diskutieren wissenschaftliche Mitarbeitende im Tandem mit Bewohnerinnen und Bewohnern sowohl mit einschlägigen Anbietenden und Nachfragenden sowie Quartiersakteuren die Versorgungsstrukturen vor Ort. Das Projekt wird für 42 Monte mit insgesamt ca. 1,4 Millionen Euro gefördert.\n\nBei erfolgreichem Abschluss kann das Projekt dazu beitragen, Ungleichheiten bei der gesundheitlichen Situation und der medizinischen Versorgung zu mindern, die aufgrund von Unterschieden in den medizinischen Versorgungsstrukturen nach Soziallage niedrigen Gebieten entstanden sind. Dies gelingt, indem solche Angebote der Gesundheitsförderung und Prävention konzipiert, kommuniziert, angeboten und durchgeführt werden, die spezifischer und damit besser auf die besonderen Bedarfe von Menschen in einer niedrigen sozialen Lage ausgerichtet sind.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -46540,7 +46636,7 @@
       "Versorgungsbereich": "stationär",
       "Bundesland": "Thüringen",
       "Förderkennzeichen": "01VSF25055",
-      "Laufzeit": "07/2025 – 06/2028",
+      "Laufzeit": "06/2026 – 05/2029",
       "Status": "laufend",
       "E-Health": "digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement",
@@ -46566,9 +46662,9 @@
     ],
     "care_setting": "stationär",
     "status": "laufend",
-    "duration_raw": "07/2025 – 06/2028",
-    "start_date": "2025-07",
-    "end_date": "2028-06",
+    "duration_raw": "06/2026 – 05/2029",
+    "start_date": "2026-06",
+    "end_date": "2029-05",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 1,6 Mio. Euro",
     "funding_sum_eur": 1600000,
@@ -48508,7 +48604,8 @@
       "Bundesland": "Thüringen",
       "Förderkennzeichen": "01VSF19026",
       "Laufzeit": "11/2020 – 10/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "E-Health": "digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
       "Einsatz von Arzneimitteln": "Medikationsmanagement , Multimedikation / Polypharmazie , Off-Label-Use",
       "Qualifikation und Delegation": "Delegation ärztlicher Leistungen , Substitution ärztlicher Leistungen",
@@ -48543,11 +48640,11 @@
       "Thüringen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "11/2020 – 10/2024",
     "start_date": "2020-11",
     "end_date": "2024-10",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 900.000 Euro",
     "funding_sum_eur": 900000,
     "funding_reference": "01VSF19026",
@@ -48584,8 +48681,19 @@
       "BARMER"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "17.04.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 154,25 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1097/2026-04-17_pallCompare.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 7,28 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1098/2026-04-17_pallCompare_Ergebnisbericht.pdf"
+      }
+    ],
     "additional_documents": [
       {
         "title": "Projektflyer",
@@ -61291,16 +61399,15 @@
     "acronym": "REPAIR",
     "funding_category": "Versorgungsforschung",
     "project_data": {
-      "Themenschwerpunkt": "psychische Erkrankungen",
-      "Zielgruppen": "Angehörige, Kinder und Jugendliche",
-      "Versorgungsbereich": "ambulant",
+      "Themenschwerpunkt": "Erkrankungen des Muskel-Skelett-Systems",
+      "Zielgruppe": "Erwachsene",
+      "Versorgungsbereich": "stationär",
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF22039",
       "Laufzeit": "04/2023 – 09/2026",
       "Status": "laufend",
-      "E-Health": "App",
-      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Resilienzförderung und Stressmanagement , Selbstmanagement-Programme",
-      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Blended Care / Blended Treatment"
+      "E-Health": "Künstliche Intelligenz / maschinelles Lernen / Algorithmen",
+      "Versorgungsmodelle und Behandlungsprogramme": "stationäre Versorgung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -61310,16 +61417,15 @@
       "Themenfeld": "Datengestützte Entscheidungsfindung zur Verbesserung der Gesundheitsversorgung"
     },
     "thematic_focuses": [
-      "psychische Erkrankungen"
+      "Erkrankungen des Muskel-Skelett-Systems"
     ],
     "target_groups": [
-      "Angehörige",
-      "Kinder und Jugendliche"
+      "Erwachsene"
     ],
     "states": [
       "Berlin"
     ],
-    "care_setting": "ambulant",
+    "care_setting": "stationär",
     "status": "laufend",
     "duration_raw": "04/2023 – 09/2026",
     "start_date": "2023-04",
@@ -73664,7 +73770,8 @@
       "Bundesland": "Rheinland-Pfalz",
       "Förderkennzeichen": "01NVF18031",
       "Laufzeit": "01/2020 – 12/2024",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung"
     },
     "funding_info": {
       "Förderbereich": "Neue Versorgungsformen",
@@ -73684,11 +73791,11 @@
       "Rheinland-Pfalz"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "01/2020 – 12/2024",
     "start_date": "2020-01",
     "end_date": "2024-12",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 1,6 Mio. Euro",
     "funding_sum_eur": 1600000,
     "funding_reference": "01NVF18031",
@@ -73731,8 +73838,24 @@
         "Telekonsil / Televisite / Teletherapie"
       ]
     },
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "17.04.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 177,12 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1092/2026-04-17_TIC-PEA.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 5,08 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1093/2026-04-17_TIC-PEA_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 1,90 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1094/2026-04-17_TIC-PEA_Evaluationsbericht.pdf"
+      }
+    ],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
