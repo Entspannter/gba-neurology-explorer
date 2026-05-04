@@ -1240,7 +1240,7 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF22044",
       "Laufzeit": "01/2023 – 04/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Big Data und Gesundheitsdatenanalyse , digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
       "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Medikationsmanagement , unerwünschte Arzneimittelwirkungen",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Resilienzförderung und Stressmanagement , Umwelt- und klimabezogene Gesundheitsförderung",
@@ -1278,7 +1278,7 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 04/2026",
     "start_date": "2023-01",
     "end_date": "2026-04",
@@ -8984,7 +8984,7 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 18,70 MB)",
+        "meta": "(PDF 18,41 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/767/2024-12-20_COMPANION_Ergebnisbericht.pdf"
       }
     ],
@@ -11570,7 +11570,7 @@
       "Bundesland": "Rheinland-Pfalz",
       "Förderkennzeichen": "01VSF22022",
       "Laufzeit": "05/2023 – 04/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "App , Digitale Gesundheitsanwendungen (DiGA)",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement , Selbstmanagement-Programme",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Hausarztzentrierte Versorgung (HzV)"
@@ -11601,7 +11601,7 @@
       "Rheinland-Pfalz"
     ],
     "care_setting": "ambulant",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "05/2023 – 04/2026",
     "start_date": "2023-05",
     "end_date": "2026-04",
@@ -11661,7 +11661,7 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF22029",
       "Laufzeit": "11/2022 – 04/2026",
-      "Status": "laufend"
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -11680,7 +11680,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "ambulant",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "11/2022 – 04/2026",
     "start_date": "2022-11",
     "end_date": "2026-04",
@@ -12308,7 +12308,7 @@
     "funding_process": "zweistufig lang",
     "funding_area": "Neue Versorgungsformen",
     "call_date": "26.06.2020",
-    "description": "Bewohnerinnen und Bewohner von Pflegeeinrichtungen werden häufig zur Abklärung von Gesundheitsproblemen wie Infekten, Stürzen oder Herzkreislaufstörungen ins Krankenhaus eingewiesen. Da diese Patientengruppe besonders anfällig ist, kommt es dabei nicht selten zu Komplikationen wie z. B. Verwirrungszuständen, (weiteren) Stürzen, Wundliegen oder Depressionen. Im Pflegebericht der AOK wurde 2018 von 40,5 Prozent vermeidbaren Krankenhauseinweisungen berichtet. Diese Zahl ließe sich mit einer adäquaten Versorgung im ambulanten Bereich unter Umständen reduzieren, wodurch die Notaufnahmen in den Krankenhäusern entlastet werden könnten.\n\nIm Projekt DIKOM soll mithilfe einer Mobilen Geriatrie-Unit (MGU) apparative Diagnostik direkt im Pflegeheim durchgeführt werden. Die MGU ist ein Fahrzeug, welches mit verschiedenen Geräten wie CT, Röntgen, EKG, EEG, Ultraschall und einem Labor ausgestattet ist. Das Team der MGU besteht aus einer Fachärztin bzw. einem Facharzt und einer bzw. einem Radiologie-MTA. Zusätzlich werden vor Ort erhobene Befunde direkt an Expertinnen und Experten in Partnerkliniken übermittelt und in einem telemedizinischen Konsil beraten. Auf diese Weise könnten die Patientinnen und Patienten in der Pflegeeinrichtung bleiben und dort weiterbehandelt werden.\n\nIn einer hierzu geplanten Studie (cluster-randomisiert, d. h. es werden nicht zufällig Patientinnen und Patienten in Gruppen aufgeteilt, sondern es werden Einheiten, hier Pflegeheime, zufällig in Gruppen aufgeteilt) wird geprüft, ob die apparative Diagnostik direkt im Pflegeheim die Rate von Krankenhauseinweisungen verringern kann und ob sich dies günstig auf die Entwicklung von Pflegebedürftigkeit und Kosten auswirkt. Dazu sollen in einem Zeitraum von 27 Monaten 2.277 Betroffene in die Interventions- und 2.684 in die Kontrollgruppe eingeschlossen werden. Das Projekt wird für vier Jahre mit insgesamt ca. 9,8 Millionen Euro gefördert.\n\nIm Erfolgsfall werden Krankenhauseinweisungen und Folgeerkrankungen von Pflegebedürftigen vermieden und zudem die Notaufnahmen entlastet.",
+    "description": "Bewohnerinnen und Bewohner von Pflegeeinrichtungen werden häufig zur Abklärung von Gesundheitsproblemen wie Infekten, Stürzen oder Herzkreislaufstörungen ins Krankenhaus eingewiesen. Da diese Patientengruppe besonders anfällig ist, kommt es dabei nicht selten zu Komplikationen wie z. B. Verwirrungszuständen, (weiteren) Stürzen, Wundliegen oder Depressionen. Im Pflegebericht der AOK wurde 2018 von 40,5 Prozent vermeidbaren Krankenhauseinweisungen berichtet. Diese Zahl ließe sich mit einer adäquaten Versorgung im ambulanten Bereich unter Umständen reduzieren, wodurch die Notaufnahmen in den Krankenhäusern entlastet werden könnten.\n\nIm Projekt DIKOM soll mithilfe einer Mobilen Geriatrie-Unit (MGU) apparative Diagnostik direkt im Pflegeheim durchgeführt werden. Die MGU ist ein Fahrzeug, welches mit verschiedenen Geräten wie CT, Röntgen, EKG, EEG, Ultraschall und einem Labor ausgestattet ist. Das Team der MGU besteht aus einer Fachärztin bzw. einem Facharzt und einer bzw. einem Radiologie-MTA. Zusätzlich werden vor Ort erhobene Befunde direkt an Expertinnen und Experten in Partnerkliniken übermittelt und in einem telemedizinischen Konsil beraten. Auf diese Weise könnten die Patientinnen und Patienten in der Pflegeeinrichtung bleiben und dort weiterbehandelt werden.\n\nIm Rahmen einer zwölfmonatigen Erprobungsphase wird evaluiert, ob die apparative Diagnostik direkt im Pflegeheim die Rate von Krankenhauseinweisungen verringern kann und ob sich dies günstig auf die Entwicklung von Pflegebedürftigkeit und Kosten auswirkt. Das Projekt wird für vier Jahre mit insgesamt ca. 9,8 Millionen Euro gefördert.\n\nIm Erfolgsfall werden Krankenhauseinweisungen und Folgeerkrankungen von Pflegebedürftigen vermieden und zudem die Notaufnahmen entlastet.",
     "project_websites": [
       "https://www.medizin-daheim.de/"
     ],
@@ -33437,7 +33437,7 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF22050",
       "Laufzeit": "11/2022 – 04/2026",
-      "Status": "laufend"
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -33459,7 +33459,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "stationär",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "11/2022 – 04/2026",
     "start_date": "2022-11",
     "end_date": "2026-04",
@@ -36071,7 +36071,7 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF22035",
       "Laufzeit": "12/2022 – 04/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "App , Informations- und Kommunikationstechnologien (IKT)",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Selbstmanagement-Programme"
     },
@@ -36093,7 +36093,7 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "12/2022 – 04/2026",
     "start_date": "2022-12",
     "end_date": "2026-04",
@@ -39554,7 +39554,7 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF22045",
       "Laufzeit": "11/2022 – 04/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Big Data und Gesundheitsdatenanalyse , Fehlermeldesystem",
       "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , unerwünschte Arzneimittelwirkungen"
     },
@@ -39578,7 +39578,7 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "11/2022 – 04/2026",
     "start_date": "2022-11",
     "end_date": "2026-04",
@@ -52166,7 +52166,7 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF21028",
       "Laufzeit": "11/2022 – 04/2026",
-      "Status": "laufend"
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -52189,7 +52189,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "11/2022 – 04/2026",
     "start_date": "2022-11",
     "end_date": "2026-04",
