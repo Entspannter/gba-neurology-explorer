@@ -199,6 +199,70 @@
     "is_neurology": false
   },
   {
+    "project_id": 837,
+    "slug": "aaakut-gfp.837",
+    "url": "https://innovationsfonds.g-ba.de/projekte/aaakut-gfp.837",
+    "title": "AAAKUT-GFP – S3-Leitlinie der Deutschen Gesellschaft für Allgemeinmedizin und Familienmedizin: Ambulante aufsuchende Akutversorgung: Kompetenzen und Tätigkeiten nichtärztlicher Gesundheitsfachpersonen",
+    "acronym": "AAAKUT-GFP",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Hamburg",
+      "Förderkennzeichen": "01VSF26011",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 564.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien zur Erstversorgung durch nichtärztliches medizinisches Fachpersonal und strukturierte Abfrage zur Steuerung von Patientinnen und Patienten in der Notfall- und Akutmedizin"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Hamburg"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 564.000 Euro",
+    "funding_sum_eur": 564000,
+    "funding_reference": "01VSF26011",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien zur Erstversorgung durch nichtärztliches medizinisches Fachpersonal und strukturierte Abfrage zur Steuerung von Patientinnen und Patienten in der Notfall- und Akutmedizin",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universitätsklinikum Hamburg-Eppendorf",
+        "(Prof. Dr. Martin Scherer)"
+      ],
+      "display": "Universitätsklinikum Hamburg-Eppendorf | (Prof. Dr. Martin Scherer)",
+      "name": "Universitätsklinikum Hamburg-Eppendorf",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Martin Scherer)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Medizinische Hochschule Hannover",
+      "Zentralinstitut für die Kassenärztliche Versorgung in der Bundesrepublik Deutschland"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 332,
     "slug": "abaro.332",
     "url": "https://innovationsfonds.g-ba.de/projekte/abaro.332",
@@ -5230,7 +5294,7 @@
     "project_id": 687,
     "slug": "bd-lc-ps.687",
     "url": "https://innovationsfonds.g-ba.de/projekte/bd-lc-ps.687",
-    "title": "BD-LC-PS – Behandlungsverläufe und Determinanten bei Long COVID und anderen postviralen Symptomkomplexen",
+    "title": "BD-LC-PS – Behandlungsverläufe und Determinanten bei Long-COVID und anderen postviralen Symptomkomplexen",
     "acronym": "BD-LC-PS",
     "funding_category": "Versorgungsforschung",
     "project_data": {
@@ -12755,6 +12819,67 @@
     "is_neurology": false
   },
   {
+    "project_id": 838,
+    "slug": "direct.838",
+    "url": "https://innovationsfonds.g-ba.de/projekte/direct.838",
+    "title": "DIRECT – S3-Leitlinie standardisierte Ersteinschätzung zur Steuerung in der Notfall–und Akutversorgung am Krankenhausstandort und in integrierten Notfallstrukturen",
+    "acronym": "DIRECT",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Berlin",
+      "Förderkennzeichen": "01VSF26012",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 524.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien zur Erstversorgung durch nichtärztliches medizinisches Fachpersonal und strukturierte Abfrage zur Steuerung von Patientinnen und Patienten in der Notfall- und Akutmedizin"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Berlin"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 524.000 Euro",
+    "funding_sum_eur": 524000,
+    "funding_reference": "01VSF26012",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien zur Erstversorgung durch nichtärztliches medizinisches Fachpersonal und strukturierte Abfrage zur Steuerung von Patientinnen und Patienten in der Notfall- und Akutmedizin",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Charité - Universitätsmedizin Berlin",
+        "(Prof. Dr. Anna Slagman)"
+      ],
+      "display": "Charité - Universitätsmedizin Berlin | (Prof. Dr. Anna Slagman)",
+      "name": "Charité - Universitätsmedizin Berlin",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Anna Slagman)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 597,
     "slug": "dissolve-e.597",
     "url": "https://innovationsfonds.g-ba.de/projekte/dissolve-e.597",
@@ -14680,6 +14805,67 @@
         "Informations- und Kommunikationstechnologien (IKT)"
       ]
     },
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 831,
+    "slug": "ekit.831",
+    "url": "https://innovationsfonds.g-ba.de/projekte/ekit.831",
+    "title": "EKIT – Evidenz- und konsensbasierte Indikationskriterien zur Hüft- und Knieendoprothese",
+    "acronym": "EKIT",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Sachsen",
+      "Förderkennzeichen": "01VSF26005",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 369.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Sachsen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 369.000 Euro",
+    "funding_sum_eur": 369000,
+    "funding_reference": "01VSF26005",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Technische Universität Dresden",
+        "(Prof. Dr. Jörg Lützner)"
+      ],
+      "display": "Technische Universität Dresden | (Prof. Dr. Jörg Lützner)",
+      "name": "Technische Universität Dresden",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Jörg Lützner)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
     "additional_documents": [],
@@ -33919,6 +34105,67 @@
     "is_neurology": true
   },
   {
+    "project_id": 836,
+    "slug": "kisch-lig.836",
+    "url": "https://innovationsfonds.g-ba.de/projekte/kisch-lig.836",
+    "title": "KiSch-LiG – Aktualisierung und Weiterentwicklung zur Living Guideline der S3-Leitlinie Kindesmisshandlung, -missbrauch, -vernachlässigung unter Einbindung der Jugendhilfe und Pädagogik (Kinderschutzleitlinie)",
+    "acronym": "KiSch-LiG",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26010",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 568.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 568.000 Euro",
+    "funding_sum_eur": 568000,
+    "funding_reference": "01VSF26010",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Deutsche Gesellschaft für Kinderschutz in der Medizin e. V.",
+        "(Dr. Oliver Berthold)"
+      ],
+      "display": "Deutsche Gesellschaft für Kinderschutz in der Medizin e. V. | (Dr. Oliver Berthold)",
+      "name": "Deutsche Gesellschaft für Kinderschutz in der Medizin e. V.",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Oliver Berthold)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 593,
     "slug": "klimanot.593",
     "url": "https://innovationsfonds.g-ba.de/projekte/klimanot.593",
@@ -37009,6 +37256,67 @@
     "is_neurology": true
   },
   {
+    "project_id": 829,
+    "slug": "ll-kopfschmerz.829",
+    "url": "https://innovationsfonds.g-ba.de/projekte/ll-kopfschmerz.829",
+    "title": "LL Kopfschmerz – Entwicklung einer neuen S3-Leitlinie „Kopfschmerzen in der Hausarztpraxis“",
+    "acronym": "LL Kopfschmerz",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Sachsen-Anhalt",
+      "Förderkennzeichen": "01VSF26003",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 247.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Sachsen-Anhalt"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 247.000 Euro",
+    "funding_sum_eur": 247000,
+    "funding_reference": "01VSF26003",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Martin-Luther-Universität Halle-Wittenberg",
+        "(Prof. Dr. Susanne Unverzagt)"
+      ],
+      "display": "Martin-Luther-Universität Halle-Wittenberg | (Prof. Dr. Susanne Unverzagt)",
+      "name": "Martin-Luther-Universität Halle-Wittenberg",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Susanne Unverzagt)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 645,
     "slug": "ll-management-nma.645",
     "url": "https://innovationsfonds.g-ba.de/projekte/ll-management-nma.645",
@@ -37570,6 +37878,69 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/806/2025-02-21_LL-SBPF_Ergebnisbericht.pdf"
       }
     ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 832,
+    "slug": "ll-stimulanzien.832",
+    "url": "https://innovationsfonds.g-ba.de/projekte/ll-stimulanzien.832",
+    "title": "LL-Stimulanzien – S3-Leitlinie Stimulanzien-bezogene Störungen",
+    "acronym": "LL-Stimulanzien",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Sachsen",
+      "Förderkennzeichen": "01VSF26006",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 404.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Sachsen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 404.000 Euro",
+    "funding_sum_eur": 404000,
+    "funding_reference": "01VSF26006",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Technische Universität Dresden",
+        "(Dr. Johannes Petzold)"
+      ],
+      "display": "Technische Universität Dresden | (Dr. Johannes Petzold)",
+      "name": "Technische Universität Dresden",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Johannes Petzold)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Universitätsklinikum Regensburg"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -39124,6 +39495,67 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/292/2022-12-16_MamBo_Evaluationsbericht.pdf"
       }
     ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 828,
+    "slug": "matikar.828",
+    "url": "https://innovationsfonds.g-ba.de/projekte/matikar.828",
+    "title": "MaTiKar – Management von tiefen Kariesläsionen – Implementierung der internationalen Leitlinie der EFCD, ESE, ORCA „Deep Caries Management“",
+    "acronym": "MaTiKar",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Bayern",
+      "Förderkennzeichen": "01VSF26002",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 112.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Bayern"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 112.000 Euro",
+    "funding_sum_eur": 112000,
+    "funding_reference": "01VSF26002",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "LMU Klinikum München",
+        "(Dr. Helena Dujic)"
+      ],
+      "display": "LMU Klinikum München | (Dr. Helena Dujic)",
+      "name": "LMU Klinikum München",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Helena Dujic)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -49728,6 +50160,71 @@
     "is_neurology": true
   },
   {
+    "project_id": 833,
+    "slug": "pat-pi.833",
+    "url": "https://innovationsfonds.g-ba.de/projekte/pat-pi.833",
+    "title": "PAT-PI – Einbeziehung von Patientinnen, Patienten und An- und Zugehörigen in präventive Infektionsmedizin in stationären und ambulanten Einrichtungen",
+    "acronym": "PAT-PI",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Schleswig-Holstein",
+      "Förderkennzeichen": "01VSF26007",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 473.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Schleswig-Holstein"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 473.000 Euro",
+    "funding_sum_eur": 473000,
+    "funding_reference": "01VSF26007",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Christian-Albrechts-Universität zu Kiel",
+        "(Prof. Dr. Iris Freya Chaberny)"
+      ],
+      "display": "Christian-Albrechts-Universität zu Kiel | (Prof. Dr. Iris Freya Chaberny)",
+      "name": "Christian-Albrechts-Universität zu Kiel",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Iris Freya Chaberny)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Georg-August-Universität Göttingen",
+      "Medizinische Hochschule Hannover",
+      "Universitätsklinikum Würzburg"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 704,
     "slug": "patient-power.704",
     "url": "https://innovationsfonds.g-ba.de/projekte/patient-power.704",
@@ -57984,16 +58481,16 @@
     ],
     "project_lead": {
       "raw_lines": [
-        "Dr. Ruth Hecker",
+        "Dr. Heidemarie Haeske-Seeberg",
         "Aktionsbündnis Patientensicherheit e. V.",
         "Alte Jakobstraße 81",
         "10179 Berlin",
         "+49 30 36428 160",
-        "hecker@aps-ev.de"
+        "haeske-seeberg@aps-ev.de"
       ],
-      "display": "Dr. Ruth Hecker | Aktionsbündnis Patientensicherheit e. V. | Alte Jakobstraße 81 | 10179 Berlin | +49 30 36428 160 | hecker@aps-ev.de",
-      "name": "Dr. Ruth Hecker",
-      "email": "hecker@aps-ev.de",
+      "display": "Dr. Heidemarie Haeske-Seeberg | Aktionsbündnis Patientensicherheit e. V. | Alte Jakobstraße 81 | 10179 Berlin | +49 30 36428 160 | haeske-seeberg@aps-ev.de",
+      "name": "Dr. Heidemarie Haeske-Seeberg",
+      "email": "haeske-seeberg@aps-ev.de",
       "phone": "+49 30 36428 160",
       "postal_code": "10179",
       "city": "Berlin",
@@ -63819,6 +64316,67 @@
     "is_neurology": false
   },
   {
+    "project_id": 827,
+    "slug": "s3-ll-erdys.827",
+    "url": "https://innovationsfonds.g-ba.de/projekte/s3-ll-erdys.827",
+    "title": "S3-LL ErDys – S3-Leitlinie Epidemiologie, Diagnostik und Therapie der erektilen Dysfunktion",
+    "acronym": "S3-LL ErDys",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26001",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 341.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 341.000 Euro",
+    "funding_sum_eur": 341000,
+    "funding_reference": "01VSF26001",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Deutsche Gesellschaft für Urologie e. V.",
+        "(Stefanie Schmidt)"
+      ],
+      "display": "Deutsche Gesellschaft für Urologie e. V. | (Stefanie Schmidt)",
+      "name": "Deutsche Gesellschaft für Urologie e. V.",
+      "email": null,
+      "phone": null,
+      "organization": "(Stefanie Schmidt)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 490,
     "slug": "s3-ll-hwi.490",
     "url": "https://innovationsfonds.g-ba.de/projekte/s3-ll-hwi.490",
@@ -64092,6 +64650,67 @@
     "is_neurology": false
   },
   {
+    "project_id": 835,
+    "slug": "s3-ll-skabies.835",
+    "url": "https://innovationsfonds.g-ba.de/projekte/s3-ll-skabies.835",
+    "title": "S3-LL-Skabies – S3-Leitlinie „Diagnostik und Therapie der Skabies“",
+    "acronym": "S3-LL-Skabies",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Berlin",
+      "Förderkennzeichen": "01VSF26009",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 365.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Berlin"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 365.000 Euro",
+    "funding_sum_eur": 365000,
+    "funding_reference": "01VSF26009",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Charité - Universitätsmedizin Berlin",
+        "(Dr. Ricardo Niklas Werner)"
+      ],
+      "display": "Charité - Universitätsmedizin Berlin | (Dr. Ricardo Niklas Werner)",
+      "name": "Charité - Universitätsmedizin Berlin",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Ricardo Niklas Werner)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 655,
     "slug": "s3-ll-sv.655",
     "url": "https://innovationsfonds.g-ba.de/projekte/s3-ll-sv.655",
@@ -64358,6 +64977,70 @@
     "consortium_partners": [
       "Private Universität Witten/Herdecke gGmbH",
       "Medizinische Hochschule Brandenburg CAMPUS GmbH"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 834,
+    "slug": "s3-ppfx.834",
+    "url": "https://innovationsfonds.g-ba.de/projekte/s3-ppfx.834",
+    "title": "S3-PPFx – S3–Leitlinie Periprothetische Frakturen nach Hüft-, Knie- und Schultergelenksersatz",
+    "acronym": "S3-PPFx",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "Förderkennzeichen": "01VSF26008",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 527.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Mecklenburg-Vorpommern"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 527.000 Euro",
+    "funding_sum_eur": 527000,
+    "funding_reference": "01VSF26008",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universitätsmedizin Rostock",
+        "(Prof. Dr. Sven Märdian)"
+      ],
+      "display": "Universitätsmedizin Rostock | (Prof. Dr. Sven Märdian)",
+      "name": "Universitätsmedizin Rostock",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Sven Märdian)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "AUC - Akademie der Unfallchirurgie GmbH",
+      "Private Universität Witten/Herdecke gGmbH"
     ],
     "essential_elements": {},
     "decision_date": null,
@@ -71424,6 +72107,69 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/107/01NVF19005%20Survivorship_Flyer.pdf"
       }
     ],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 830,
+    "slug": "symchron.830",
+    "url": "https://innovationsfonds.g-ba.de/projekte/symchron.830",
+    "title": "SYMCHRON – S3-Leitlinie Chronischer Unterbauchschmerz der Frau (Upgrade der bestehenden S2k-Leitlinie, AWMF-Register 016-001)",
+    "acronym": "SYMCHRON",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Sachsen",
+      "Förderkennzeichen": "01VSF26004",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Medizinische Leitlinien",
+      "Fördersumme": "ca. 372.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Sachsen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 372.000 Euro",
+    "funding_sum_eur": 372000,
+    "funding_reference": "01VSF26004",
+    "themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung",
+    "funding_process": "Medizinische Leitlinien",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Deutsche Gesellschaft für Psychosomatische Frauenheilkunde und Geburtshilfe e. V.",
+        "(Dr. Friederike Siedentopf)"
+      ],
+      "display": "Deutsche Gesellschaft für Psychosomatische Frauenheilkunde und Geburtshilfe e. V. | (Dr. Friederike Siedentopf)",
+      "name": "Deutsche Gesellschaft für Psychosomatische Frauenheilkunde und Geburtshilfe e. V.",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Friederike Siedentopf)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Heinrich-Heine-Universität Düsseldorf"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",

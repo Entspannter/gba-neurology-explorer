@@ -1342,7 +1342,7 @@
     "project_id": 687,
     "slug": "bd-lc-ps.687",
     "url": "https://innovationsfonds.g-ba.de/projekte/bd-lc-ps.687",
-    "title": "BD-LC-PS – Behandlungsverläufe und Determinanten bei Long COVID und anderen postviralen Symptomkomplexen",
+    "title": "BD-LC-PS – Behandlungsverläufe und Determinanten bei Long-COVID und anderen postviralen Symptomkomplexen",
     "acronym": "BD-LC-PS",
     "funding_category": "Versorgungsforschung",
     "project_data": {
@@ -12797,16 +12797,16 @@
     ],
     "project_lead": {
       "raw_lines": [
-        "Dr. Ruth Hecker",
+        "Dr. Heidemarie Haeske-Seeberg",
         "Aktionsbündnis Patientensicherheit e. V.",
         "Alte Jakobstraße 81",
         "10179 Berlin",
         "+49 30 36428 160",
-        "hecker@aps-ev.de"
+        "haeske-seeberg@aps-ev.de"
       ],
-      "display": "Dr. Ruth Hecker | Aktionsbündnis Patientensicherheit e. V. | Alte Jakobstraße 81 | 10179 Berlin | +49 30 36428 160 | hecker@aps-ev.de",
-      "name": "Dr. Ruth Hecker",
-      "email": "hecker@aps-ev.de",
+      "display": "Dr. Heidemarie Haeske-Seeberg | Aktionsbündnis Patientensicherheit e. V. | Alte Jakobstraße 81 | 10179 Berlin | +49 30 36428 160 | haeske-seeberg@aps-ev.de",
+      "name": "Dr. Heidemarie Haeske-Seeberg",
+      "email": "haeske-seeberg@aps-ev.de",
       "phone": "+49 30 36428 160",
       "postal_code": "10179",
       "city": "Berlin",

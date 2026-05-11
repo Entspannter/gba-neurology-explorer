@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-04T06:23:46+00:00",
+  "generatedAt": "2026-05-11T06:29:49+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
-    "projectCount": 803,
+    "projectCount": 815,
     "neurologyCount": 170,
     "neurologyFilterUrl": "https://innovationsfonds.g-ba.de/projekte/?projektname=&themenschwerpunkt=neurologische+Erkrankungen&zielgruppe=&projektelemente%5BprojektelementGruppe%5D=&projektelemente%5Bprojektelement%5D=&foerderbereich%5Bfoerderbereich%5D=&foerderbereich%5Bfoerderverfahren%5D=&versorgungsbereich=&bundesland=&status%5Bstatus%5D=&status%5Btransferempfehlung%5D=&sort=projekt.akronym&direction=asc"
   },
   "overview": {
-    "totalProjectsScraped": 803,
+    "totalProjectsScraped": 815,
     "neurologyProjects": 170,
     "onlineFilterNeurologyProjects": 170,
     "explicitNeurologyProjects": 170,
@@ -1563,7 +1563,7 @@
     {
       "project_id": 687,
       "slug": "bd-lc-ps.687",
-      "title": "BD-LC-PS – Behandlungsverläufe und Determinanten bei Long COVID und anderen postviralen Symptomkomplexen",
+      "title": "BD-LC-PS – Behandlungsverläufe und Determinanten bei Long-COVID und anderen postviralen Symptomkomplexen",
       "acronym": "BD-LC-PS",
       "url": "https://innovationsfonds.g-ba.de/projekte/bd-lc-ps.687",
       "summary": "Ein Teil der Menschen, die an COVID-19 erkrankten, leidet auch Wochen oder sogar Monate danach an Spätfolgen, die Long-COVID genannt werden.",
@@ -10443,16 +10443,16 @@
       "transferRecommendation": "",
       "projectLead": {
         "raw_lines": [
-          "Dr. Ruth Hecker",
+          "Dr. Heidemarie Haeske-Seeberg",
           "Aktionsbündnis Patientensicherheit e. V.",
           "Alte Jakobstraße 81",
           "10179 Berlin",
           "+49 30 36428 160",
-          "hecker@aps-ev.de"
+          "haeske-seeberg@aps-ev.de"
         ],
-        "display": "Dr. Ruth Hecker | Aktionsbündnis Patientensicherheit e. V. | Alte Jakobstraße 81 | 10179 Berlin | +49 30 36428 160 | hecker@aps-ev.de",
-        "name": "Dr. Ruth Hecker",
-        "email": "hecker@aps-ev.de",
+        "display": "Dr. Heidemarie Haeske-Seeberg | Aktionsbündnis Patientensicherheit e. V. | Alte Jakobstraße 81 | 10179 Berlin | +49 30 36428 160 | haeske-seeberg@aps-ev.de",
+        "name": "Dr. Heidemarie Haeske-Seeberg",
+        "email": "haeske-seeberg@aps-ev.de",
         "phone": "+49 30 36428 160",
         "postal_code": "10179",
         "city": "Berlin",
