@@ -3760,13 +3760,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "Grafik Studienüberblick",
-        "meta": "(JPG 453,50 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/262/01VSF21035%20E=MC%C2%B2_Studienueberblick.jpg"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
