@@ -7636,7 +7636,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF21006",
       "Laufzeit": "06/2022 – 05/2025",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Heil- und Hilfsmittelversorgung": "andere Hilfsmittel , Ergotherapie , Logopädie , orthopädische Hilfsmittel (orthopädische Schuhe, Rollstühle) , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Rehabilitation und Therapie",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Integrierte Versorgung (IV) , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade , personalisierte Medizin , spezialisierte Versorgungszentren , stationäre Versorgung"
@@ -7663,11 +7664,11 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "06/2022 – 05/2025",
     "start_date": "2022-06",
     "end_date": "2025-05",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 369.000 Euro",
     "funding_sum_eur": 369000,
     "funding_reference": "01VSF21006",
@@ -7704,9 +7705,26 @@
       "Universitätsklinikum Tübingen"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 136,60 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1146/2026-05-22_LL-uCP.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 31,66 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1147/2026-05-22_LL-uCP_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Patientenleitlinie",
+        "meta": "(PDF 5,22 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/390/01VSF21006_LL-uCP_Ergebnisbericht_Anlage_7_Patientenleitlinie.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "exclusive",
@@ -9826,7 +9844,8 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF19059",
       "Laufzeit": "11/2020 – 02/2024",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -9849,11 +9868,11 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "11/2020 – 02/2024",
     "start_date": "2020-11",
     "end_date": "2024-02",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 670.000 Euro",
     "funding_sum_eur": 670000,
     "funding_reference": "01VSF19059",
@@ -9889,9 +9908,26 @@
       "DAK-Gesundheit"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 241,51 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1138/2026-05-22_Op-US.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 5,56 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1139/2026-05-22_Op-US_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Gesundheitspolitische Handlungsempfehlungen",
+        "meta": "(PDF 629,46 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/384/01VSF19059_Op-US_Ergebnisbericht_Anlage_8_Gesundheitspolitische_Handlungsempfehlungen.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -15165,7 +15201,8 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF19033",
       "Laufzeit": "11/2020 – 10/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment",
       "Versorgungsmodelle und Behandlungsprogramme": "stationäre Versorgung"
     },
@@ -15198,11 +15235,11 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "stationär",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "11/2020 – 10/2024",
     "start_date": "2020-11",
     "end_date": "2024-10",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 2 Mio. Euro",
     "funding_sum_eur": 2000000,
     "funding_reference": "01VSF19033",
@@ -15241,9 +15278,116 @@
       "Universitätsklinikum Hamburg-Eppendorf"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 145,55 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1134/2026-05-22_StiK-OV.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 14,84 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1135/2026-05-22_StiK-OV_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Maßnahme Fortbildungen",
+        "meta": "(PDF 170,07 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/363/01VSF19033_StiK-OV_EB_Anlage_18_Ma%C3%9Fnahme_Fortbildungen.pdf"
+      },
+      {
+        "title": "Wegweiser Angehörige",
+        "meta": "(PDF 235,54 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/364/01VSF19033_StiK-OV_EB_Anlage_19_Wegweiser_Angehoerige.pdf"
+      },
+      {
+        "title": "Checkliste Versorgende",
+        "meta": "(PDF 82,46 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/365/01VSF19033_StiK-OV_EB_Anlage_20_Checkliste_Versorgende.pdf"
+      },
+      {
+        "title": "Leitfaden Kommunikation Angehörige",
+        "meta": "(PDF 1,47 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/366/01VSF19033_StiK-OV_EB_Anlage_21_Leitfaden_Kommunikation_Angehoerige.pdf"
+      },
+      {
+        "title": "Kontaktliste Versorgende",
+        "meta": "(PDF 68,71 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/367/01VSF19033_StiK-OV_EB_Anlage_22_Kontaktliste_Versorgende.pdf"
+      },
+      {
+        "title": "Handout Aromapflege",
+        "meta": "(PDF 245,29 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/368/01VSF19033_StiK-OV_EB_Anlage_23_Handout_Aromapflege.pdf"
+      },
+      {
+        "title": "Leitfaden Sterbephase",
+        "meta": "(PDF 878,51 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/369/01VSF19033_StiK-OV_EB_Anlage_24_Leitfaden_Sterbephase.pdf"
+      },
+      {
+        "title": "Versorgungsstandards",
+        "meta": "(PDF 111,22 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/370/01VSF19033_StiK-OV_EB_Anlage_25_Versorgungsstandards.pdf"
+      },
+      {
+        "title": "Checkliste Sterbephase",
+        "meta": "(PDF 468,84 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/371/01VSF19033_StiK-OV_EB_Anlage_26_Checkliste_Sterbephase.pdf"
+      },
+      {
+        "title": "Checkliste Versorgung nach Therapiezieländerung",
+        "meta": "(PDF 216,92 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/372/01VSF19033_StiK-OV_EB_Anlage_27_Checkliste_Versorgung_nach_Therapiezielaenderung.pdf"
+      },
+      {
+        "title": "Gewohnheits- und Ressourcenbogen",
+        "meta": "(PDF 55,65 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/373/01VSF19033_StiK-OV_EB_Anlage_28_Gewohnheits-_und_Ressourcenbogen.pdf"
+      },
+      {
+        "title": "Räumliche Gestaltung",
+        "meta": "(PDF 129,55 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/374/01VSF19033_StiK-OV_EB_Anlage_29_Raeumliche_Gestaltung.pdf"
+      },
+      {
+        "title": "Empfehlungen Dokumentation",
+        "meta": "(PDF 184,90 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/375/01VSF19033_StiK-OV_EB_Anlage_30_Empfehlungen_Dokumentation.pdf"
+      },
+      {
+        "title": "Empfehlungen Gesprächsführung",
+        "meta": "(PDF 443,88 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/376/01VSF19033_StiK-OV_EB_Anlage_31_Empfehlungen_Gespraechsfuehrung.pdf"
+      },
+      {
+        "title": "Checkliste Fallbesprechung",
+        "meta": "(PDF 363,37 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/377/01VSF19033_StiK-OV_EB_Anlage_32_Checkliste_Fallbesprechung.pdf"
+      },
+      {
+        "title": "Checkliste 15 Minuten Fallbesprechung",
+        "meta": "(PDF 196,63 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/378/01VSF19033_StiK-OV_EB_Anlage_33_Checkliste_15-Minuten_Fallbesprechung.pdf"
+      },
+      {
+        "title": "Einbindung Seelsorge",
+        "meta": "(PDF 141,12 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/379/01VSF19033_StiK-OV_EB_Anlage_34_Einbindung_Seelsorge.pdf"
+      },
+      {
+        "title": "Einbindung Palliativmedizinischer (Konsil-)Dienst",
+        "meta": "(PDF 173,43 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/380/01VSF19033_StiK-OV_EB_Anlage_35_Einbindung_Palliativmedizinischer_%28Konsil-%29Dienst.pdf"
+      },
+      {
+        "title": "Politische Forderungen",
+        "meta": "(PDF 400,86 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/381/01VSF19033_StiK-OV_EB_Anlage_40_Politische_Forderungen.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",

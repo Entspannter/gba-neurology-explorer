@@ -1,5 +1,5 @@
 window.GBA_NEUROLOGY_DATA = {
-  "generatedAt": "2026-05-18T06:41:25+00:00",
+  "generatedAt": "2026-05-25T06:50:11+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 815,
@@ -14,8 +14,8 @@ window.GBA_NEUROLOGY_DATA = {
     "exclusiveNeurologyProjects": 47,
     "multiFocusNeurologyProjects": 123,
     "onlineFilterOnlyProjects": 0,
-    "activeNeurologyProjects": 85,
-    "completedNeurologyProjects": 85,
+    "activeNeurologyProjects": 82,
+    "completedNeurologyProjects": 88,
     "statesWithNeurologyProjects": 16,
     "totalFundingEur": 446922497
   },
@@ -33,7 +33,7 @@ window.GBA_NEUROLOGY_DATA = {
       "filename": "projects_all.json",
       "label": "Alle Projekte",
       "format": "JSON",
-      "size": "4.7 MB"
+      "size": "4.8 MB"
     },
     {
       "href": "./downloads/projects_all.csv",
@@ -6443,7 +6443,7 @@ window.GBA_NEUROLOGY_DATA = {
       "url": "https://innovationsfonds.g-ba.de/projekte/ll-ucp.476",
       "summary": "Eines von 2.000 Neugeborenen in Deutschland leidet an einer einseitigen spastischen Zerebralparese (uCP), die leichte motorische Unbeholfenheit, aber auch schwere Bewegungsstörungen bis hin zur Lähmung verursachen kann.",
       "description": "Eines von 2.000 Neugeborenen in Deutschland leidet an einer einseitigen spastischen Zerebralparese (uCP), die leichte motorische Unbeholfenheit, aber auch schwere Bewegungsstörungen bis hin zur Lähmung verursachen kann. Zurückzuführen ist eine solche uCP auf eine Schädigung des sich entwickelnden Gehirns während der Schwangerschaft oder der Geburt. Häufig leiden die betroffenen Kinder auch unter kognitiven Beeinträchtigungen oder Teilleistungsstörungen, Epilepsien und Sprachstörungen. Aufgrund der Seltenheit der Erkrankung ist das Wissen um ihre Entstehung und bestmögliche Behandlung jedoch nur unzureichend.\n\nDas Projekt LL-uCP knüpft daran an und will eine S3-Leitlinie entwickeln, die Informationen auf Grundlage des aktuellen Forschungsstands sammelt und Ärztinnen und Ärzte in der Behandlung von uCP unterstützt.\n\nDie Leitlinie wird unter Beteiligung von vier medizinischen Fachgesellschaften erstellt (Sozialpädiatrie und Jugendmedizin, Orthopädie, Kinderneurologie, Kinderheilkunde), die einen wissenschaftlichen Beirat bildet (Leitliniengruppe). Betroffenenverbände und ein Leitlinienberater der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF) werden diese Leitliniengruppe unterstützen. Nach einer systematischen Literaturrecherche wird im Rahmen des ersten Leitlinientreffens das methodische Vorgehen festgelegt. In einem mehrstufigen Beratungsverfahren (Delphiverfahren) befindet die Leitliniengruppe im Konsens über die erarbeiteten Empfehlungen. Für die Schlüsselempfehlungen werden Qualitätsindikatoren erstellt, welche eine Überprüfung der Umsetzbarkeit ermöglichen sollen. Das Projekt wird für drei Jahre mit insgesamt ca. 369.000 Euro gefördert.\n\nIm Erfolgsfall würde eine Leitlinie die Therapie vereinfachen und Ärztinnen und Ärzten klar definierte Handlungsempfehlungen zu Therapieverfahren zur Verfügung stellen. Die Behandlung kann damit optimiert und vereinheitlicht werden und zu einer höheren Lebensqualität von Betroffenen beitragen.",
-      "status": "Abschlussbericht wird erstellt",
+      "status": "beendet",
       "states": [
         "Bayern"
       ],
@@ -6470,7 +6470,7 @@ window.GBA_NEUROLOGY_DATA = {
       "duration": "06/2022 – 05/2025",
       "startDate": "2022-06",
       "endDate": "2025-05",
-      "transferRecommendation": "",
+      "transferRecommendation": "Prüfbitte/Überführung",
       "projectLead": {
         "raw_lines": [
           "Prof. Dr. Volker Mall",
@@ -6498,8 +6498,24 @@ window.GBA_NEUROLOGY_DATA = {
         "Universitätsklinikum Tübingen"
       ],
       "projectWebsites": [],
-      "decisionDate": null,
-      "documents": [],
+      "decisionDate": "22.05.2026",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 136,60 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1146/2026-05-22_LL-uCP.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 31,66 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1147/2026-05-22_LL-uCP_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Patientenleitlinie",
+          "meta": "(PDF 5,22 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/390/01VSF21006_LL-uCP_Ergebnisbericht_Anlage_7_Patientenleitlinie.pdf"
+        }
+      ],
       "essentialElements": {}
     },
     {
@@ -8131,7 +8147,7 @@ window.GBA_NEUROLOGY_DATA = {
       "url": "https://innovationsfonds.g-ba.de/projekte/op-us-opioidhaltige-analgetika.346",
       "summary": "Im Rahmen einer Krebserkrankung werden oft starke Schmerzmittel, sogenannte opioidhaltige Analgetika eingesetzt.",
       "description": "Im Rahmen einer Krebserkrankung werden oft starke Schmerzmittel, sogenannte opioidhaltige Analgetika eingesetzt. Tatsächlich erhalten auch andere Patientinnen und Patienten, die keine Krebserkrankung, aber starke Schmerzen haben, diese Medikamente. Insbesondere in der Langzeittherapie besteht ein erhöhtes Risiko für Komplikationen und Nebenwirkungen, zu denen auch Missbrauch, Fehlgebrauch und Abhängigkeit gehören. Daher ist die Verordnung von opioidhaltigen Analgetika in Deutschland reglementiert; sie werden nur dann eingesetzt, wenn andere Wirkstoffe zur Schmerzbekämpfung nicht mehr ausreichen. In der Vergangenheit wurden opioidhaltige Analgetika eher zurückhaltend verordnet, inzwischen jedoch ist eine Zunahme zu beobachten. Unklar ist, ob eine Über- und/oder Fehlversorgung vorliegt.\n\nDas Projekt Op-US soll die Versorgungssituation untersuchen, um das Risiko für Missbrauch und Abhängigkeitserkrankungen zu minimieren und die Patientensicherheit zu erhöhen.\n\nDas Projekt sieht eine Analyse von Routinedaten der Krankenkassen sowie die Befragung von Patienten und Leistungserbringern vor. Dabei stehen insbesondere die Häufigkeit und Art der Fehlversorgung, Unterschiede bezüglich der Patientencharakteristika, Missbrauch und Abhängigkeitserkrankungen im Fokus. Es erfolgt ebenfalls eine Betrachtung der patientenseitigen und versorgungsstrukturellen Faktoren, welche die Durchführung einer Langzeittherapie mit opioidhaltigen Analgetika beeinflussen. Für die Befragung werden ca. 2.200 erwachsene Versicherte ausgewählt, die eine Langzeittherapie mit opioidhaltigen Analgetika erhalten sowie ca. 1.800 Haus- und Fachärzte sowie Schmerztherapeuten.\n\nDas Projekt wird für 40 Monate mit insgesamt ca. 670.000 Euro gefördert.\n\nIm Erfolgsfall zeigt es Möglichkeiten für eine leitliniengerechte Versorgung auf und schafft zugleich eine solide Wissensbasis. Dies würde dazu beitragen, die Versorgung mit opioidhaltigen Analgetika insgesamt zu verbessern.",
-      "status": "Abschlussbericht wird erstellt",
+      "status": "beendet",
       "states": [
         "Nordrhein-Westfalen"
       ],
@@ -8157,7 +8173,7 @@ window.GBA_NEUROLOGY_DATA = {
       "duration": "11/2020 – 02/2024",
       "startDate": "2020-11",
       "endDate": "2024-02",
-      "transferRecommendation": "",
+      "transferRecommendation": "Prüfbitte/Überführung",
       "projectLead": {
         "raw_lines": [
           "Prof. Dr. Jürgen Wasem",
@@ -8184,8 +8200,24 @@ window.GBA_NEUROLOGY_DATA = {
         "DAK-Gesundheit"
       ],
       "projectWebsites": [],
-      "decisionDate": null,
-      "documents": [],
+      "decisionDate": "22.05.2026",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 241,51 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1138/2026-05-22_Op-US.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 5,56 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1139/2026-05-22_Op-US_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Gesundheitspolitische Handlungsempfehlungen",
+          "meta": "(PDF 629,46 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/384/01VSF19059_Op-US_Ergebnisbericht_Anlage_8_Gesundheitspolitische_Handlungsempfehlungen.pdf"
+        }
+      ],
       "essentialElements": {}
     },
     {
@@ -12263,7 +12295,7 @@ window.GBA_NEUROLOGY_DATA = {
       "url": "https://innovationsfonds.g-ba.de/projekte/stik-ov.323",
       "summary": "Nach wie vor sterben die meisten Deutschen im Krankenhaus und nicht zu Hause oder im Hospiz – jedes Jahr sind es rund 420.000 Menschen. Dabei besteht allerdings eine große Unzufriedenheit über den Verlauf der Sterbephase im Krankenhaus.",
       "description": "Nach wie vor sterben die meisten Deutschen im Krankenhaus und nicht zu Hause oder im Hospiz – jedes Jahr sind es rund 420.000 Menschen. Dabei besteht allerdings eine große Unzufriedenheit über den Verlauf der Sterbephase im Krankenhaus. Patientinnen und Patienten sowie deren Angehörige beklagen insbesondere eine unzureichende Symptomkontrolle, eine mangelnde Einbindung in die Entscheidungsfindung über den weiteren Behandlungsverlauf sowie eine fehlende Kommunikation der Versorgenden mit den Betroffenen. Obgleich in Deutschland Leitlinien und Standard Operation Procedures (SOP) für die Palliativmedizin vorliegen, ist deren nachhaltige Implementierung und Umsetzung insbesondere auf nicht-palliativmedizinisch spezialisierten Stationen bislang nur unzureichend umgesetzt.\n\nUm das Missverhältnis zwischen aktuellen Leitlinien-Empfehlungen und klinischer Realität zu verbessern, analysiert das Projekt StiK-OV die klinikweite Sterbesituation zunächst beispielhaft an zwei Unikliniken. Unter Einbeziehung von Mitarbeitenden und Experten soll ein Maßnahmen-Portfolio für eine optimale Sterbebegleitung im Krankenhaus entwickelt werden und im Anschluss auf zehn nicht-palliativmedizinisch spezialisierten Stationen der beiden Unikliniken umgesetzt, erprobt und evaluiert werden. Die gewonnenen Erkenntnisse sollen zudem auf ihre Übertragbarkeit auf andere Krankenhäuser überprüft und öffentlich zugänglich gemacht werden.\n\nUm den Erfolg der Maßnahmen zu beurteilen, erfolgt ein Vorher-Nachher-Vergleich der teilnehmenden Stationen und es werden Angehörige verstorbener Patienten und Patientinnen sowie Mitarbeitende befragt.\n\nDas Projekt wird für 48 Monate mit insgesamt ca. 2 Millionen Euro gefördert.\n\nIm Erfolgsfall können die gewonnenen Erkenntnisse auf andere Krankenhäuser übertragen und den Bedürfnissen von Patientinnen und Patienten, Angehörigen und Mitarbeitenden besser Rechnung getragen werden. Langfristig sollen die Erkenntnisse für eine optimale Versorgung in der Sterbephase in die Krankenhausberichterstattung einfließen und bei dem geplanten Gütesiegel für Krankenhäuser durch die Deutsche Gesellschaft für Palliativmedizin (DGP) berücksichtigt werden.",
-      "status": "Abschlussbericht wird erstellt",
+      "status": "beendet",
       "states": [
         "Nordrhein-Westfalen"
       ],
@@ -12297,7 +12329,7 @@ window.GBA_NEUROLOGY_DATA = {
       "duration": "11/2020 – 10/2024",
       "startDate": "2020-11",
       "endDate": "2024-10",
-      "transferRecommendation": "",
+      "transferRecommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "projectLead": {
         "raw_lines": [
           "Prof. Dr. Raymond Voltz, Dr. Kerstin Kremeike",
@@ -12327,8 +12359,114 @@ window.GBA_NEUROLOGY_DATA = {
       "projectWebsites": [
         "https://palliativzentrum.uk-koeln.de/forschung/letzte-lebenszeit/sterben-im-krankenhaus/"
       ],
-      "decisionDate": null,
-      "documents": [],
+      "decisionDate": "22.05.2026",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 145,55 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1134/2026-05-22_StiK-OV.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 14,84 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1135/2026-05-22_StiK-OV_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Maßnahme Fortbildungen",
+          "meta": "(PDF 170,07 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/363/01VSF19033_StiK-OV_EB_Anlage_18_Ma%C3%9Fnahme_Fortbildungen.pdf"
+        },
+        {
+          "title": "Wegweiser Angehörige",
+          "meta": "(PDF 235,54 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/364/01VSF19033_StiK-OV_EB_Anlage_19_Wegweiser_Angehoerige.pdf"
+        },
+        {
+          "title": "Checkliste Versorgende",
+          "meta": "(PDF 82,46 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/365/01VSF19033_StiK-OV_EB_Anlage_20_Checkliste_Versorgende.pdf"
+        },
+        {
+          "title": "Leitfaden Kommunikation Angehörige",
+          "meta": "(PDF 1,47 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/366/01VSF19033_StiK-OV_EB_Anlage_21_Leitfaden_Kommunikation_Angehoerige.pdf"
+        },
+        {
+          "title": "Kontaktliste Versorgende",
+          "meta": "(PDF 68,71 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/367/01VSF19033_StiK-OV_EB_Anlage_22_Kontaktliste_Versorgende.pdf"
+        },
+        {
+          "title": "Handout Aromapflege",
+          "meta": "(PDF 245,29 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/368/01VSF19033_StiK-OV_EB_Anlage_23_Handout_Aromapflege.pdf"
+        },
+        {
+          "title": "Leitfaden Sterbephase",
+          "meta": "(PDF 878,51 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/369/01VSF19033_StiK-OV_EB_Anlage_24_Leitfaden_Sterbephase.pdf"
+        },
+        {
+          "title": "Versorgungsstandards",
+          "meta": "(PDF 111,22 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/370/01VSF19033_StiK-OV_EB_Anlage_25_Versorgungsstandards.pdf"
+        },
+        {
+          "title": "Checkliste Sterbephase",
+          "meta": "(PDF 468,84 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/371/01VSF19033_StiK-OV_EB_Anlage_26_Checkliste_Sterbephase.pdf"
+        },
+        {
+          "title": "Checkliste Versorgung nach Therapiezieländerung",
+          "meta": "(PDF 216,92 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/372/01VSF19033_StiK-OV_EB_Anlage_27_Checkliste_Versorgung_nach_Therapiezielaenderung.pdf"
+        },
+        {
+          "title": "Gewohnheits- und Ressourcenbogen",
+          "meta": "(PDF 55,65 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/373/01VSF19033_StiK-OV_EB_Anlage_28_Gewohnheits-_und_Ressourcenbogen.pdf"
+        },
+        {
+          "title": "Räumliche Gestaltung",
+          "meta": "(PDF 129,55 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/374/01VSF19033_StiK-OV_EB_Anlage_29_Raeumliche_Gestaltung.pdf"
+        },
+        {
+          "title": "Empfehlungen Dokumentation",
+          "meta": "(PDF 184,90 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/375/01VSF19033_StiK-OV_EB_Anlage_30_Empfehlungen_Dokumentation.pdf"
+        },
+        {
+          "title": "Empfehlungen Gesprächsführung",
+          "meta": "(PDF 443,88 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/376/01VSF19033_StiK-OV_EB_Anlage_31_Empfehlungen_Gespraechsfuehrung.pdf"
+        },
+        {
+          "title": "Checkliste Fallbesprechung",
+          "meta": "(PDF 363,37 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/377/01VSF19033_StiK-OV_EB_Anlage_32_Checkliste_Fallbesprechung.pdf"
+        },
+        {
+          "title": "Checkliste 15 Minuten Fallbesprechung",
+          "meta": "(PDF 196,63 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/378/01VSF19033_StiK-OV_EB_Anlage_33_Checkliste_15-Minuten_Fallbesprechung.pdf"
+        },
+        {
+          "title": "Einbindung Seelsorge",
+          "meta": "(PDF 141,12 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/379/01VSF19033_StiK-OV_EB_Anlage_34_Einbindung_Seelsorge.pdf"
+        },
+        {
+          "title": "Einbindung Palliativmedizinischer (Konsil-)Dienst",
+          "meta": "(PDF 173,43 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/380/01VSF19033_StiK-OV_EB_Anlage_35_Einbindung_Palliativmedizinischer_%28Konsil-%29Dienst.pdf"
+        },
+        {
+          "title": "Politische Forderungen",
+          "meta": "(PDF 400,86 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/381/01VSF19033_StiK-OV_EB_Anlage_40_Politische_Forderungen.pdf"
+        }
+      ],
       "essentialElements": {}
     },
     {

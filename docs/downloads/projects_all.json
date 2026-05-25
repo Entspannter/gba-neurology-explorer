@@ -1105,7 +1105,8 @@
       "Bundesland": "Hamburg",
       "Förderkennzeichen": "01VSF23008",
       "Laufzeit": "09/2023 – 05/2025",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Medikationsmanagement , Off-Label-Use",
       "Heil- und Hilfsmittelversorgung": "andere Hilfsmittel , Ergotherapie , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitsinformationen / Flyer / Infobriefe , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Rehabilitation und Therapie , Screeninginstrumente oder -verfahren",
@@ -1138,11 +1139,11 @@
       "Hamburg"
     ],
     "care_setting": "zahnärztlich",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "09/2023 – 05/2025",
     "start_date": "2023-09",
     "end_date": "2025-05",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 296.000 Euro",
     "funding_sum_eur": 296000,
     "funding_reference": "01VSF23008",
@@ -1175,9 +1176,26 @@
     "project_lead_city": "Hamburg",
     "consortium_partners": [],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 144,29 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1150/2026-05-22_ADAPT.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 14,20 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1151/2026-05-22_ADAPT_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Informationsblatt für Betroffene",
+        "meta": "(PDF 226,69 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/392/01VSF23008_ADAPT_Ergebnisbericht_Anlage_7_Informationsblatt_fuer_Betroffene.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -14882,7 +14900,8 @@
       "Bundesländer": "Baden-Württemberg, Bayern, Bremen, Hessen, Niedersachsen, Nordrhein-Westfalen, Saarland, Schleswig-Holstein",
       "Förderkennzeichen": "01NVF20026",
       "Laufzeit": "01/2021 – 12/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Einsatz von Arzneimitteln": "Antibiotika",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Patientenkommunikation",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung"
@@ -14915,11 +14934,11 @@
       "Schleswig-Holstein"
     ],
     "care_setting": "ambulant",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "01/2021 – 12/2024",
     "start_date": "2021-01",
     "end_date": "2024-12",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 2,5 Mio. Euro",
     "funding_sum_eur": 2500000,
     "funding_reference": "01NVF20026",
@@ -14954,8 +14973,24 @@
       "Zentralinstitut für die kassenärztliche Versorgung in der Bundesrepublik Deutschland"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 147,46 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1129/2026-05-22_ElektRA.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 9,21 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1130/2026-05-22_ElektRA_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 17,59 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1131/2026-05-22_ElektRA_Evaluationsbericht.pdf"
+      }
+    ],
     "additional_documents": [
       {
         "title": "Grafik Algorithmus Halsschmerzen",
@@ -21767,7 +21802,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01NVF18012",
       "Laufzeit": "01/2020 – 11/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung",
       "Heil- und Hilfsmittelversorgung": "Ergotherapie , Ernährungstherapie , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Vorsorgeuntersuchungen",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Disease-Management-Programme (DMP) , Koordinierungstellen , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade , stationäre Versorgung"
@@ -21793,11 +21829,11 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "01/2020 – 11/2024",
     "start_date": "2020-01",
     "end_date": "2024-11",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 3,2 Mio. Euro",
     "funding_sum_eur": 3200000,
     "funding_reference": "01NVF18012",
@@ -21840,9 +21876,31 @@
       "Technische Universität München"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 150,60 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1103/2026-05-22_FLS-CARE.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 38,27 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1104/2026-05-22_FLS-CARE_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 13,51 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1105/2026-05-22_FLS-CARE_Evaluationsbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Behandlungspfad Nurse",
+        "meta": "(PDF 156,92 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/393/01NVF18012%20FLS-CARE_Ergebnisbericht_Anlage_4_Behandlungspfad_Nurse.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -26764,7 +26822,8 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01NVF18038",
       "Laufzeit": "01/2020 – 07/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "Heil- und Hilfsmittelversorgung": "Seh- und Hörhilfen (Brillen, Hörgeräte)",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Patienten-Empowerment , Patientenkommunikation , Vorsorgeuntersuchungen",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante spezialfachärztliche Versorgung (ASV)"
@@ -26786,11 +26845,11 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "ambulant",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "01/2020 – 07/2024",
     "start_date": "2020-01",
     "end_date": "2024-07",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 1,7 Mio. Euro",
     "funding_sum_eur": 1700000,
     "funding_reference": "01NVF18038",
@@ -26832,9 +26891,36 @@
       "Universität Bremen"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 158,03 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1113/2026-05-22_HoerGeist.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 18,95 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1114/2026-05-22_HoerGeist_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 14,91 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1117/2026-05-22_HoerGeist_Evaluationsbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Screening CRF",
+        "meta": "(PDF 845,42 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/395/01NVF18038_HoerGeist_Ergebnisbericht_Anlage_6_Screening_CRF.pdf"
+      },
+      {
+        "title": "Diagnostik CRF",
+        "meta": "(PDF 787,79 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/396/01NVF18038_HoerGeist_Ergebnisbericht_Anlage_7_Diagnostik_CRF.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -29809,7 +29895,8 @@
       "Bundesländer": "Bayern, Hamburg, Niedersachsen, Schleswig-Holstein",
       "Förderkennzeichen": "01NVF19028",
       "Laufzeit": "07/2020 – 06/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung",
       "Heil- und Hilfsmittelversorgung": "Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Patienten-Empowerment , Rehabilitation und Therapie , Selbstmanagement-Programme",
       "Versorgungsmodelle und Behandlungsprogramme": "Entlassmanagement / Nachsorge , Integrierte Versorgung (IV) , stationäre Versorgung"
@@ -29835,11 +29922,11 @@
       "Schleswig-Holstein"
     ],
     "care_setting": "stationär",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "07/2020 – 06/2024",
     "start_date": "2020-07",
     "end_date": "2024-06",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 5,2 Mio. Euro",
     "funding_sum_eur": 5200000,
     "funding_reference": "01NVF19028",
@@ -29886,8 +29973,24 @@
       "Klinik Bad Wörishofen"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 146,17 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1126/2026-05-22_INCREASE.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 18,83 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1127/2026-05-22_INCREASE_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 14,90 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1128/2026-05-22_INCREASE_Evaluationsbericht.pdf"
+      }
+    ],
     "additional_documents": [
       {
         "title": "Projektflyer",
@@ -31439,7 +31542,8 @@
       "Bundesländer": "Baden-Württemberg, Bayern, Bremen, Hamburg, Hessen, Nordrhein-Westfalen, Sachsen, Sachsen-Anhalt, Schleswig-Holstein",
       "Förderkennzeichen": "01NVF18018",
       "Laufzeit": "12/2019 – 06/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Heil- und Hilfsmittelversorgung": "andere Hilfsmittel , Ernährungstherapie , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Rehabilitation und Therapie",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante spezialfachärztliche Versorgung (ASV)"
@@ -31469,11 +31573,11 @@
       "Schleswig-Holstein"
     ],
     "care_setting": "ambulant",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "12/2019 – 06/2024",
     "start_date": "2019-12",
     "end_date": "2024-06",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 5,35 Mio. Euro",
     "funding_sum_eur": 5350000,
     "funding_reference": "01NVF18018",
@@ -31520,9 +31624,31 @@
       "DAK-Gesundheit"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 176,30 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1107/2026-05-22_INTEGRATION-Programm.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 62,00 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1108/2026-05-22_%20INTEGRATION-Programm_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 4,94 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1112/2026-05-22_INTEGRATION-Programm_Evaluationsbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "SOP Interventionen",
+        "meta": "(PDF 5,64 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/394/01NVF18018_INTEGRATION-Programm_Ergebnisbericht_Anlage_17_SOP_Interventionen.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -33524,7 +33650,8 @@
       "Bundesland": "Niedersachsen",
       "Förderkennzeichen": "01VSF20014",
       "Laufzeit": "07/2021 – 12/2024",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -33544,11 +33671,11 @@
       "Niedersachsen"
     ],
     "care_setting": "stationär",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "07/2021 – 12/2024",
     "start_date": "2021-07",
     "end_date": "2024-12",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 1,3 Mio. Euro",
     "funding_sum_eur": 1300000,
     "funding_reference": "01VSF20014",
@@ -33589,8 +33716,19 @@
         "Künstliche Intelligenz / maschinelles Lernen / Algorithmen"
       ]
     },
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 146,02 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1142/2026-05-22_KI-THRUST.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 7,64 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1143/2026-04_22_KI-THRUST_Ergebnisbericht.pdf"
+      }
+    ],
     "additional_documents": [
       {
         "title": "Weißbuch Potenziale KI-gestützter Vorhersageverfahren auf Basis von GKV-Routinedaten",
@@ -37955,7 +38093,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF21006",
       "Laufzeit": "06/2022 – 05/2025",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Heil- und Hilfsmittelversorgung": "andere Hilfsmittel , Ergotherapie , Logopädie , orthopädische Hilfsmittel (orthopädische Schuhe, Rollstühle) , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Rehabilitation und Therapie",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Integrierte Versorgung (IV) , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade , personalisierte Medizin , spezialisierte Versorgungszentren , stationäre Versorgung"
@@ -37982,11 +38121,11 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "06/2022 – 05/2025",
     "start_date": "2022-06",
     "end_date": "2025-05",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 369.000 Euro",
     "funding_sum_eur": 369000,
     "funding_reference": "01VSF21006",
@@ -38023,9 +38162,26 @@
       "Universitätsklinikum Tübingen"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 136,60 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1146/2026-05-22_LL-uCP.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 31,66 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1147/2026-05-22_LL-uCP_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Patientenleitlinie",
+        "meta": "(PDF 5,22 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/390/01VSF21006_LL-uCP_Ergebnisbericht_Anlage_7_Patientenleitlinie.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "exclusive",
@@ -38877,7 +39033,6 @@
       "AOK Nordost - Die Gesundheitskasse",
       "BARMER",
       "DAK-Gesundheit",
-      "Helios Kliniken Schwerin GmbH",
       "Informations- und Kommunikationsgesellschaft mbH",
       "Oberender AG",
       "Techniker Krankenkasse",
@@ -42253,7 +42408,8 @@
       "Bundesland": "Hamburg",
       "Förderkennzeichen": "01VSF22008",
       "Laufzeit": "10/2022 – 09/2025",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Einsatz von Arzneimitteln": "Multimedikation / Polypharmazie , unerwünschte Arzneimittelwirkungen",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Screeninginstrumente oder -verfahren , Vorsorgeuntersuchungen",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Koordinierungstellen"
@@ -42278,11 +42434,11 @@
       "Hamburg"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "10/2022 – 09/2025",
     "start_date": "2022-10",
     "end_date": "2025-09",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 300.000 Euro",
     "funding_sum_eur": 300000,
     "funding_reference": "01VSF22008",
@@ -42315,9 +42471,26 @@
     "project_lead_city": "Hamburg",
     "consortium_partners": [],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 142,45 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1148/2026-05-22_MULTImprove.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 4,02 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1149/2026-05-22_MULTImprove_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Patienteninformation",
+        "meta": "(PDF 73,21 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/391/01VSF22008%20MULTImprove_Ergebnisbericht_Anlage%204_Patienteninformation.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -42830,7 +43003,8 @@
       "Bundesland": "Schleswig-Holstein",
       "Förderkennzeichen": "01VSF18021",
       "Laufzeit": "06/2019 – 04/2024",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -42852,11 +43026,11 @@
       "Schleswig-Holstein"
     ],
     "care_setting": "zahnärztlich",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "06/2019 – 04/2024",
     "start_date": "2019-06",
     "end_date": "2024-04",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 1,7 Mio. Euro",
     "funding_sum_eur": 1700000,
     "funding_reference": "01VSF18021",
@@ -42901,9 +43075,26 @@
         "Gesundheitskompetenz und Gesundheitsressourcen"
       ]
     },
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 146,38 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1132/2026-05-22_MundZaRR.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 31,09 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1133/2026-05-22_MundZaRR_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Evidenzkarte und Interventionsmatrix",
+        "meta": "(PDF 690,71 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/362/2026-05-22_MundZaRR_Ergebnisbericht_Anlage_38_Evidenzkarte_und_Interventionsmatrix.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -43848,7 +44039,8 @@
       "Bundesland": "bundesweit",
       "Förderkennzeichen": "01NVF19027",
       "Laufzeit": "01/2021 – 12/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "E-Health": "App",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Selbstmanagement-Programme",
       "Versorgungsmodelle und Behandlungsprogramme": "stationäre Versorgung"
@@ -43872,11 +44064,11 @@
       "bundesweit"
     ],
     "care_setting": "stationär",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "01/2021 – 12/2024",
     "start_date": "2021-01",
     "end_date": "2024-12",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 4,7 Mio. Euro",
     "funding_sum_eur": 4700000,
     "funding_reference": "01NVF19027",
@@ -43921,9 +44113,51 @@
       "Universitätsmedizin der Johannes Gutenberg-Universität Mainz"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 177,70 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1118/2026-05-22_NEO-MILK.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 129,34 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1119/2026-05-22_NEO-MILK_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 14,89 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1125/2026-05-22_NEO-MILK_Evaluationsbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Hygienischer und infektiologischer Standard für Humanmilchbanken",
+        "meta": "(PDF 1,43 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/397/01NVF19027_NEO-MILK_Ergebnisbericht_Anlage_8_Hygienischer_und_infektiologischer_Standard_fuer_Humanmilchbanken.pdf"
+      },
+      {
+        "title": "HACCP-Konzepte",
+        "meta": "(PDF 1,29 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/398/01NVF19027_NEO-MILK_Ergebnisbericht_Anlage_10_HACCP-Konzepte.pdf"
+      },
+      {
+        "title": "Materialien Stillförderung Personal",
+        "meta": "(PDF 30,58 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/399/01NVF19027_NEO-MILK_Ergebnisbericht_Anlage_12_Materialien_Stillfoerderung_Personal.pdf"
+      },
+      {
+        "title": "Materialien Stillförderung Eltern",
+        "meta": "(PDF 43,42 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/401/01NVF19027_NEO-MILK_Ergebnisbericht_Anlage_13_Materialien_Stillfoerderung_Eltern.pdf"
+      },
+      {
+        "title": "Handbuch Stillförderung",
+        "meta": "(PDF 39,57 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/402/01NVF19027_NEO-MILK_Ergebnisbericht_Anlage_17_Handbuch_Stillfoerderung.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -44457,7 +44691,9 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "21.06.2024",
     "description": "In Deutschland erkranken jedes Jahr zwischen vier und 16 Millionen Menschen an einer Grippe. Dabei handelt es sich um eine Atemwegserkrankung, die durch Influenzaviren ausgelöst wird. Gerade Ältere und Menschen mit chronischen Erkrankungen haben ein erhöhtes Risiko für schwere Krankheitsverläufe. Deshalb wird allen Personen ab 60 Jahren sowie Menschen mit chronischen Erkrankungen eine saisonale Grippeimpfung im Herbst empfohlen. Durch die Impfung sollen Infektionen mit dem Influenzavirus sowie schwere Krankheitsverläufe wie beispielsweise bakterielle Lungenentzündungen, Herzinfarkte und mögliche Todesfälle vermieden werden. In der Grippesaison von Anfang Oktober 2023 bis Mitte Mai 2024 waren in Deutschland jedoch nur knapp 40 Prozent der über 60-Jährigen gegen Grippe geimpft. Damit konnte die von der Weltgesundheitsorganisation empfohlene Impfquote von 75 Prozent, trotz großer regionaler Unterschiede, in keinem Bundesland und in keiner Altersgruppe erreicht werden.\n\nDoch nicht nur medizinische und persönliche Gründe können einer Grippeimpfung im Weg stehen. Auch auf Seiten der Hausärztinnen und Hausärzte gibt es Hürden bezüglich der Aufklärung und Durchführung von Grippeimpfungen. Vor diesem Hintergrund soll im Projekt NIMa erarbeitet werden, mit welchen hausarztzentrierten Maßnahmen sich die Impfquoten in Deutschland steigern lassen. Hierbei sollen fördernde und hinderliche Faktoren, Hemmnisse und Herausforderungen rund um die Aufklärung und Impfung sowie Ursachen für Nicht-Impfungen identifiziert werden. Nach einer umfassenden systematischen Literaturrecherche werden Hausärztinnen und Hausärzte aus den Bundesländern mit den niedrigsten Impfquoten (Baden-Württemberg und Bayern) befragt. Aus den Ergebnissen werden geeignete Maßnahmen abgeleitet und Empfehlungen zur Steigerung der Impfquote erarbeitet. Diese werden anschließend in Pilotpraxen implementiert und hinsichtlich ihres Effektes auf die Impfquote untersucht.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,3 Millionen Euro gefördert.\n\nIm Erfolgsfall liegen konkrete, hausarztzentrierte Maßnahmen vor, die zu einer Steigerung der Grippeimpfrate beitragen können. Dadurch können einerseits schwere Krankheitsverläufe vermieden und andererseits die durch Grippeerkrankungen verursachten Gesundheitskosten reduziert werden. Diese Erkenntnisse lassen sich ebenso auf andere Impfindikationen übertragen.",
-    "project_websites": [],
+    "project_websites": [
+      "https://inav-berlin.de/nima-ist-deutschland-impfmuede/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Dr. Franziska Püschner",
@@ -46175,7 +46411,8 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF19059",
       "Laufzeit": "11/2020 – 02/2024",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -46198,11 +46435,11 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "11/2020 – 02/2024",
     "start_date": "2020-11",
     "end_date": "2024-02",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 670.000 Euro",
     "funding_sum_eur": 670000,
     "funding_reference": "01VSF19059",
@@ -46238,9 +46475,26 @@
       "DAK-Gesundheit"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 241,51 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1138/2026-05-22_Op-US.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 5,56 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1139/2026-05-22_Op-US_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Gesundheitspolitische Handlungsempfehlungen",
+        "meta": "(PDF 629,46 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/384/01VSF19059_Op-US_Ergebnisbericht_Anlage_8_Gesundheitspolitische_Handlungsempfehlungen.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -52440,7 +52694,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF23043",
-      "Laufzeit": "12/2023 – 11/2026",
+      "Laufzeit": "12/2023 – 05/2027",
       "Status": "laufend",
       "E-Health": "digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
       "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Medikationsmanagement , Off-Label-Use",
@@ -52467,9 +52721,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "12/2023 – 11/2026",
+    "duration_raw": "12/2023 – 05/2027",
     "start_date": "2023-12",
-    "end_date": "2026-11",
+    "end_date": "2027-05",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 1,6 Mio. Euro",
     "funding_sum_eur": 1600000,
@@ -52478,7 +52732,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "In den vergangenen Jahren wurden auf Ebene der Europäischen Union mehr Medikamente für Kinder und Jugendliche zugelassen. Trotzdem erhalten junge Menschen immer noch häufig Wirkstoffe, die nicht für ihre Altersgruppe zugelassen wurden (Off-Label-Anwendung), und für die es keine Darreichungsform gibt, die eine sichere und zuverlässige Dosierung und Anwendung bei Kindern ermöglichen. Bei der Fortführung der Therapie nach einem stationären Aufenthalt besteht daher für Kinder und Jugendliche und hier insbesondere für Früh- und Neugeborene, sowie Kinder mit komplexen Erkrankungen ein Versorgungsdefizit und damit ein erhebliches Risiko für die Arzneimitteltherapie.\n\nDas Forschungsteam im Projekt PHArMKid widmet sich diesem Versorgungsdefizit, indem es gezielt das medizinische Management an der Schnittstelle zwischen stationärer und ambulanter Behandlung bzw. in der ambulanten Versorgung von Kindern und Jugendlichen untersucht. Um die Bedarfe zu identifizieren, nutzen sie Daten aus einem Kinderarzneimittelinformationssystem, Krankenkassen-Routinedaten und befragen in einem mehrstufigen Verfahren unterschiedliche Interessensgruppen (Ärzteschaft, Apothekerinnen und Apotheker, Betroffene und Betreuungspersonen). Auf dieser Grundlage erarbeitet das PHArMKid-Team konkrete Handlungsempfehlungen für die Anwendung und Zubereitung von relevanten Arzneimitteln. Im Kern geht es darum, wie die individuelle Zubereitung und sichere Anwendung von Arzneimitteln verbessert werden können. Die Ergebnisse werden den beteiligten Interessensgruppen leicht zugänglich gemacht und flächendeckend in einer Datenbank zur Verfügung gestellt. Das Projekt wird für drei Jahre mit insgesamt ca. 1,6 Millionen Euro gefördert.\n\nIm Erfolgsfall trägt die geplante Studie wesentlich dazu bei, die Versorgung von Kindern und Jugendlichen mit Arzneimitteln und damit den gesamten Versorgungsprozess beim Übergang von der stationären in die ambulante Betreuung zu verbessern.",
+    "description": "In den vergangenen Jahren wurden auf Ebene der Europäischen Union mehr Medikamente für Kinder und Jugendliche zugelassen. Trotzdem erhalten junge Menschen immer noch häufig Wirkstoffe, die nicht für ihre Altersgruppe zugelassen wurden (Off-Label-Anwendung), und für die es keine Darreichungsform gibt, die eine sichere und zuverlässige Dosierung und Anwendung bei Kindern ermöglichen. Bei der Fortführung der Therapie nach einem stationären Aufenthalt besteht daher für Kinder und Jugendliche und hier insbesondere für Früh- und Neugeborene, sowie Kinder mit komplexen Erkrankungen ein Versorgungsdefizit und damit ein erhebliches Risiko für die Arzneimitteltherapie.\n\nDas Forschungsteam im Projekt PHArMKid widmet sich diesem Versorgungsdefizit, indem es gezielt das medizinische Management an der Schnittstelle zwischen stationärer und ambulanter Behandlung bzw. in der ambulanten Versorgung von Kindern und Jugendlichen untersucht. Um die Bedarfe zu identifizieren, nutzen sie Daten aus einem Kinderarzneimittelinformationssystem, Krankenkassen-Routinedaten und befragen in einem mehrstufigen Verfahren unterschiedliche Interessensgruppen (Ärzteschaft, Apothekerinnen und Apotheker, Betroffene und Betreuungspersonen). Auf dieser Grundlage erarbeitet das PHArMKid-Team konkrete Handlungsempfehlungen für die Anwendung und Zubereitung von relevanten Arzneimitteln. Im Kern geht es darum, wie die individuelle Zubereitung und sichere Anwendung von Arzneimitteln verbessert werden können. Die Ergebnisse werden den beteiligten Interessensgruppen leicht zugänglich gemacht und flächendeckend in einer Datenbank zur Verfügung gestellt. Das Projekt wird für 42 Monate mit insgesamt ca. 1,6 Millionen Euro gefördert.\n\nIm Erfolgsfall trägt die geplante Studie wesentlich dazu bei, die Versorgung von Kindern und Jugendlichen mit Arzneimitteln und damit den gesamten Versorgungsprozess beim Übergang von der stationären in die ambulante Betreuung zu verbessern.",
     "project_websites": [
       "https://www.pharmkid.de/"
     ],
@@ -53632,7 +53886,8 @@
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF20027",
       "Laufzeit": "04/2021 – 09/2024",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -53659,11 +53914,11 @@
       "Berlin"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "04/2021 – 09/2024",
     "start_date": "2021-04",
     "end_date": "2024-09",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 1,79 Mio. Euro",
     "funding_sum_eur": 1790000,
     "funding_reference": "01VSF20027",
@@ -53711,9 +53966,36 @@
         "stationäre Versorgung"
       ]
     },
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 148,66 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1144/2026-05-22_PopGroup.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 8,74 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1145/2026-05-22_PopGroup_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Zuordnung der DxGs zu ZKGs",
+        "meta": "(PDF 616,91 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/387/01VSF20027_PopGroup_Ergebnisbericht_Anlage_11_%20Zuordnung_der_DxGs_zu_ZKGs.pdf"
+      },
+      {
+        "title": "Liste der ZKGs",
+        "meta": "(PDF 320,62 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/388/01VSF20027_PopGroup_Ergebnisbericht_Anlage_12_Liste_der_ZKGs.pdf"
+      },
+      {
+        "title": "Basis-PopGroups und PopGroups",
+        "meta": "(PDF 832,66 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/389/01VSF20027_PopGroup_Ergebnisbericht_Anlage_13_Basis-PopGroups_und_PopGroups.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -54825,7 +55107,8 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF20011",
       "Laufzeit": "04/2021 – 12/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "E-Health": "Telekonsil / Televisite / Teletherapie",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung"
     },
@@ -54850,11 +55133,11 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "ambulant",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "04/2021 – 12/2024",
     "start_date": "2021-04",
     "end_date": "2024-12",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 1,6 Mio. Euro",
     "funding_sum_eur": 1600000,
     "funding_reference": "01VSF20011",
@@ -54897,9 +55180,26 @@
       "Techniker Krankenkasse"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 147,30 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1140/2026-05-22_PraeVi.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 5,77 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1141/2026-05-22_PraeVi_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Blueprint",
+        "meta": "(PDF 950,90 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/385/01VSF20011_PraaeVi_Ergebnisbericht_Anlage_7_Blueprint.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -55345,20 +55645,19 @@
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
-        "Dr. Linda Kerkemeyer",
-        "LiKe Healthcare Research GmbH",
-        "Charlottenbrunner Straße 5A",
+        "Dr. Nicolas Pardey",
+        "Charlottenbrunner Str. 5A",
         "14193 Berlin",
-        "linda.kerkemeyer@like-healthcare.de"
+        "+49 171 1720886",
+        "nicolas.pardey@like-healthcare.de"
       ],
-      "display": "Dr. Linda Kerkemeyer | LiKe Healthcare Research GmbH | Charlottenbrunner Straße 5A | 14193 Berlin | linda.kerkemeyer@like-healthcare.de",
-      "name": "Dr. Linda Kerkemeyer",
-      "email": "linda.kerkemeyer@like-healthcare.de",
-      "phone": null,
+      "display": "Dr. Nicolas Pardey | Charlottenbrunner Str. 5A | 14193 Berlin | +49 171 1720886 | nicolas.pardey@like-healthcare.de",
+      "name": "Dr. Nicolas Pardey",
+      "email": "nicolas.pardey@like-healthcare.de",
+      "phone": "+49 171 1720886",
       "postal_code": "14193",
       "city": "Berlin",
-      "organization": "LiKe Healthcare Research GmbH",
-      "street": "Charlottenbrunner Straße 5A"
+      "street": "Charlottenbrunner Str. 5A"
     },
     "project_lead_city": "Berlin",
     "consortium_partners": [
@@ -71264,7 +71563,8 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF19033",
       "Laufzeit": "11/2020 – 10/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment",
       "Versorgungsmodelle und Behandlungsprogramme": "stationäre Versorgung"
     },
@@ -71297,11 +71597,11 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "stationär",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "11/2020 – 10/2024",
     "start_date": "2020-11",
     "end_date": "2024-10",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 2 Mio. Euro",
     "funding_sum_eur": 2000000,
     "funding_reference": "01VSF19033",
@@ -71340,9 +71640,116 @@
       "Universitätsklinikum Hamburg-Eppendorf"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 145,55 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1134/2026-05-22_StiK-OV.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 14,84 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1135/2026-05-22_StiK-OV_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Maßnahme Fortbildungen",
+        "meta": "(PDF 170,07 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/363/01VSF19033_StiK-OV_EB_Anlage_18_Ma%C3%9Fnahme_Fortbildungen.pdf"
+      },
+      {
+        "title": "Wegweiser Angehörige",
+        "meta": "(PDF 235,54 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/364/01VSF19033_StiK-OV_EB_Anlage_19_Wegweiser_Angehoerige.pdf"
+      },
+      {
+        "title": "Checkliste Versorgende",
+        "meta": "(PDF 82,46 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/365/01VSF19033_StiK-OV_EB_Anlage_20_Checkliste_Versorgende.pdf"
+      },
+      {
+        "title": "Leitfaden Kommunikation Angehörige",
+        "meta": "(PDF 1,47 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/366/01VSF19033_StiK-OV_EB_Anlage_21_Leitfaden_Kommunikation_Angehoerige.pdf"
+      },
+      {
+        "title": "Kontaktliste Versorgende",
+        "meta": "(PDF 68,71 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/367/01VSF19033_StiK-OV_EB_Anlage_22_Kontaktliste_Versorgende.pdf"
+      },
+      {
+        "title": "Handout Aromapflege",
+        "meta": "(PDF 245,29 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/368/01VSF19033_StiK-OV_EB_Anlage_23_Handout_Aromapflege.pdf"
+      },
+      {
+        "title": "Leitfaden Sterbephase",
+        "meta": "(PDF 878,51 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/369/01VSF19033_StiK-OV_EB_Anlage_24_Leitfaden_Sterbephase.pdf"
+      },
+      {
+        "title": "Versorgungsstandards",
+        "meta": "(PDF 111,22 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/370/01VSF19033_StiK-OV_EB_Anlage_25_Versorgungsstandards.pdf"
+      },
+      {
+        "title": "Checkliste Sterbephase",
+        "meta": "(PDF 468,84 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/371/01VSF19033_StiK-OV_EB_Anlage_26_Checkliste_Sterbephase.pdf"
+      },
+      {
+        "title": "Checkliste Versorgung nach Therapiezieländerung",
+        "meta": "(PDF 216,92 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/372/01VSF19033_StiK-OV_EB_Anlage_27_Checkliste_Versorgung_nach_Therapiezielaenderung.pdf"
+      },
+      {
+        "title": "Gewohnheits- und Ressourcenbogen",
+        "meta": "(PDF 55,65 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/373/01VSF19033_StiK-OV_EB_Anlage_28_Gewohnheits-_und_Ressourcenbogen.pdf"
+      },
+      {
+        "title": "Räumliche Gestaltung",
+        "meta": "(PDF 129,55 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/374/01VSF19033_StiK-OV_EB_Anlage_29_Raeumliche_Gestaltung.pdf"
+      },
+      {
+        "title": "Empfehlungen Dokumentation",
+        "meta": "(PDF 184,90 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/375/01VSF19033_StiK-OV_EB_Anlage_30_Empfehlungen_Dokumentation.pdf"
+      },
+      {
+        "title": "Empfehlungen Gesprächsführung",
+        "meta": "(PDF 443,88 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/376/01VSF19033_StiK-OV_EB_Anlage_31_Empfehlungen_Gespraechsfuehrung.pdf"
+      },
+      {
+        "title": "Checkliste Fallbesprechung",
+        "meta": "(PDF 363,37 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/377/01VSF19033_StiK-OV_EB_Anlage_32_Checkliste_Fallbesprechung.pdf"
+      },
+      {
+        "title": "Checkliste 15 Minuten Fallbesprechung",
+        "meta": "(PDF 196,63 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/378/01VSF19033_StiK-OV_EB_Anlage_33_Checkliste_15-Minuten_Fallbesprechung.pdf"
+      },
+      {
+        "title": "Einbindung Seelsorge",
+        "meta": "(PDF 141,12 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/379/01VSF19033_StiK-OV_EB_Anlage_34_Einbindung_Seelsorge.pdf"
+      },
+      {
+        "title": "Einbindung Palliativmedizinischer (Konsil-)Dienst",
+        "meta": "(PDF 173,43 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/380/01VSF19033_StiK-OV_EB_Anlage_35_Einbindung_Palliativmedizinischer_%28Konsil-%29Dienst.pdf"
+      },
+      {
+        "title": "Politische Forderungen",
+        "meta": "(PDF 400,86 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/381/01VSF19033_StiK-OV_EB_Anlage_40_Politische_Forderungen.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -76856,7 +77263,8 @@
       "Bundesland": "Sachsen",
       "Förderkennzeichen": "01VSF19036",
       "Laufzeit": "05/2020 – 04/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "E-Health": "Entscheidungshilfesystem",
       "Heil- und Hilfsmittelversorgung": "Körperersatzstücke (Prothesen)",
       "Versorgungsmodelle und Behandlungsprogramme": "personalisierte Medizin"
@@ -76881,11 +77289,11 @@
       "Sachsen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "05/2020 – 04/2024",
     "start_date": "2020-05",
     "end_date": "2024-04",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 1,3 Mio. Euro",
     "funding_sum_eur": 1300000,
     "funding_reference": "01VSF19036",
@@ -76920,9 +77328,31 @@
       "EPRD Deutsche Endoprothesenregister gGmbH"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 161,33 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1136/2026-05-22_Value-basedTKR.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 15,34 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1137/2026-05-22_Value-basedTKR_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "IT-bezogene Entwicklung des EKIT-Tools",
+        "meta": "(PDF 1,83 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/382/01VSF19036_Value-basedTKR_Ergebnisbericht_Anlage_3_IT-bezogene_Entwicklung_des_EKIT-Tools.pdf"
+      },
+      {
+        "title": "Prozessbeschreibung zur Umsetzung des Langzeit-Follow-Ups",
+        "meta": "(PDF 1,13 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/383/01VSF19036_Value-basedTKR_Ergebnisbericht_Anlage%209_Prozessbeschreibung_zur_Umsetzung_des_Langzeit-Follow-Ups.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
