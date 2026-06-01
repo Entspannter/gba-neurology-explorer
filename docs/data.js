@@ -1,5 +1,5 @@
 window.GBA_NEUROLOGY_DATA = {
-  "generatedAt": "2026-05-25T06:50:11+00:00",
+  "generatedAt": "2026-06-01T06:58:24+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 815,
@@ -33,7 +33,7 @@ window.GBA_NEUROLOGY_DATA = {
       "filename": "projects_all.json",
       "label": "Alle Projekte",
       "format": "JSON",
-      "size": "4.8 MB"
+      "size": "4.7 MB"
     },
     {
       "href": "./downloads/projects_all.csv",

@@ -905,7 +905,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF23046",
-      "Laufzeit": "07/2024 – 12/2026",
+      "Laufzeit": "07/2024 – 12/2027",
       "Status": "laufend",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitskompetenz und Gesundheitsressourcen , Screeninginstrumente oder -verfahren",
       "Versorgungsmodelle und Behandlungsprogramme": "Integrierte Versorgung (IV) , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit"
@@ -929,9 +929,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "07/2024 – 12/2026",
+    "duration_raw": "07/2024 – 12/2027",
     "start_date": "2024-07",
-    "end_date": "2026-12",
+    "end_date": "2027-12",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 1 Mio. Euro",
     "funding_sum_eur": 1000000,
@@ -940,7 +940,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "Über die Hälfte der deutschen Bevölkerung bewegt sich zu wenig. Bewegungsmangel ist - neben ungesunder Ernährung - die Hauptursache für Adipositas, Diabetes Typ-2, Fettleber etc. Regelmäßige körperliche Aktivität ist eine der wirkungsvollsten und kostengünstigsten Maßnahmen bei Prävention und Therapie vieler chronischer Erkrankungen. Obwohl Sport und Bewegung in medizinischen Leitlinien immer wieder empfohlen werden, und trotz zahlloser Gesundheitskampagnen, gelingt die dauerhafte Lebensstiländerung zu selten.\n\nEine Erklärung für das häufige Scheitern kann im Fehlen wichtiger Kenndaten zur adressatengerechten und nachhaltigen Gesundheitsförderung durch Krankenversicherungen liegen. Dazu gehören z. B. genauere Kenntnisse über Bewegungshemmnisse, aber auch über Attraktoren und Motive für Sport. Diese können sich bei Individuen - trotz gleichem Alter, Bildung, Geschlecht - erheblich unterscheiden und durch andere Faktoren (z. B. persönliches Umfeld und Einstellung, Biografie, Gesundheit, Arbeit, Stress) bedingt sein.\n\nIm Projekt ActIv-KV fokussiert ein Forschungsverbund zunächst den Vergleich von vier Gruppen mit unterschiedlichem Sportstatus: (1) Niemals-Sporttreibende, (2) Ex-Sporttreibende, (3) Sporteinsteiger und (4) Immer-Sporttreibende. Mithilfe der ActIv-Befragung werden Angaben zu Gesundheit, körperlichen Aktivitäten, Ernährung, Schlaf, Sportmotiven und -barrieren erhoben. Der Vergleich erfolgt über zueinander passende alters- und geschlechtsbezogene Subgruppen.\n\nZiel ist es (i) präventionsrelevante Gruppenunterschiede zu ermitteln und (ii) Items zu identifizieren, die sich zur Vorhersage z. B. Zugänglichkeit für Bewegungsangebote und Änderungsbereitschaft eignen. Daraus soll das benutzerfreundliche Kurzfrage-Tool ActIv-KV entwickelt werden, mit dessen Hilfe ein adressatengerecht zugeschnittenes Bewegungsangebot erarbeitet werden kann. Die Prüfung des Kurzfrage-Tools erfolgt über einen Ergebnisvergleich mit der ActIv-Langfassung. Das Projekt wird für zweieinhalb Jahre mit ca. einer Million Euro gefördert.\n\nBei erfolgreichem Projektverlauf kann das Kurzfrage-Tool ActIv-KV zur zielgruppenspezifischen Bewegungsförderung von körperlich inaktiven Personengruppen genutzt werden.",
+    "description": "Über die Hälfte der deutschen Bevölkerung bewegt sich zu wenig. Bewegungsmangel ist - neben ungesunder Ernährung - die Hauptursache für Adipositas, Diabetes Typ-2, Fettleber etc. Regelmäßige körperliche Aktivität ist eine der wirkungsvollsten und kostengünstigsten Maßnahmen bei Prävention und Therapie vieler chronischer Erkrankungen. Obwohl Sport und Bewegung in medizinischen Leitlinien immer wieder empfohlen werden, und trotz zahlloser Gesundheitskampagnen, gelingt die dauerhafte Lebensstiländerung zu selten.\n\nEine Erklärung für das häufige Scheitern kann im Fehlen wichtiger Kenndaten zur adressatengerechten und nachhaltigen Gesundheitsförderung durch Krankenversicherungen liegen. Dazu gehören z. B. genauere Kenntnisse über Bewegungshemmnisse, aber auch über Attraktoren und Motive für Sport. Diese können sich bei Individuen - trotz gleichem Alter, Bildung, Geschlecht - erheblich unterscheiden und durch andere Faktoren (z. B. persönliches Umfeld und Einstellung, Biografie, Gesundheit, Arbeit, Stress) bedingt sein.\n\nIm Projekt ActIv-KV fokussiert ein Forschungsverbund zunächst den Vergleich von vier Gruppen mit unterschiedlichem Sportstatus: (1) Niemals-Sporttreibende, (2) Ex-Sporttreibende, (3) Sporteinsteiger und (4) Immer-Sporttreibende. Mithilfe der ActIv-Befragung werden Angaben zu Gesundheit, körperlichen Aktivitäten, Ernährung, Schlaf, Sportmotiven und -barrieren erhoben. Der Vergleich erfolgt über zueinander passende alters- und geschlechtsbezogene Subgruppen.\n\nZiel ist es (i) präventionsrelevante Gruppenunterschiede zu ermitteln und (ii) Items zu identifizieren, die sich zur Vorhersage z. B. Zugänglichkeit für Bewegungsangebote und Änderungsbereitschaft eignen. Daraus soll das benutzerfreundliche Kurzfrage-Tool ActIv-KV entwickelt werden, mit dessen Hilfe ein adressatengerecht zugeschnittenes Bewegungsangebot erarbeitet werden kann. Die Prüfung des Kurzfrage-Tools erfolgt über einen Ergebnisvergleich mit der ActIv-Langfassung. Das Projekt wird für dreieinhalb Jahre mit ca. einer Million Euro gefördert.\n\nBei erfolgreichem Projektverlauf kann das Kurzfrage-Tool ActIv-KV zur zielgruppenspezifischen Bewegungsförderung von körperlich inaktiven Personengruppen genutzt werden.",
     "project_websites": [
       "https://www.dshs-koeln.de/activ-kv-projekt/activ-kv/"
     ],
@@ -1426,7 +1426,7 @@
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF21047",
       "Laufzeit": "08/2022 – 05/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Entscheidungshilfesystem , Künstliche Intelligenz / maschinelles Lernen / Algorithmen",
       "Versorgungsmodelle und Behandlungsprogramme": "Patienten- und Behandlungspfade , personalisierte Medizin"
     },
@@ -1449,7 +1449,7 @@
       "Berlin"
     ],
     "care_setting": "stationär",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "08/2022 – 05/2026",
     "start_date": "2022-08",
     "end_date": "2026-05",
@@ -4377,6 +4377,7 @@
       "Förderkennzeichen": "01VSF21027",
       "Laufzeit": "07/2022 – 06/2024",
       "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "Heil- und Hilfsmittelversorgung": "andere Hilfsmittel , technische Produkte",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Patienten- und Behandlungspfade , spezialisierte Versorgungszentren"
     },
@@ -4403,7 +4404,7 @@
     "duration_raw": "07/2022 – 06/2024",
     "start_date": "2022-07",
     "end_date": "2024-06",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 1,1 Mio. Euro",
     "funding_sum_eur": 1100000,
     "funding_reference": "01VSF21027",
@@ -12726,13 +12727,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "Grafik Studiendesign",
-        "meta": "(PNG 107,77 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/264/01VSF21042%20DiPaH_Studiendesign.png"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -20251,7 +20246,8 @@
       "Bundesland": "Hamburg",
       "Förderkennzeichen": "01VSF19055",
       "Laufzeit": "01/2021 – 09/2024",
-      "Status": "beendet"
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -20275,7 +20271,7 @@
     "duration_raw": "01/2021 – 09/2024",
     "start_date": "2021-01",
     "end_date": "2024-09",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 390.000 Euro",
     "funding_sum_eur": 390000,
     "funding_reference": "01VSF19055",
@@ -29804,7 +29800,7 @@
       "Versorgungsbereich": "ambulant",
       "Bundesland": "Mecklenburg-Vorpommern",
       "Förderkennzeichen": "01NVF23115",
-      "Laufzeit": "07/2024 – 06/2027",
+      "Laufzeit": "07/2024 – 01/2028",
       "Status": "laufend",
       "E-Health": "Telekonsil / Televisite / Teletherapie",
       "Versorgungsmodelle und Behandlungsprogramme": "Care und Case Management / Lotsen , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit"
@@ -29828,9 +29824,9 @@
     ],
     "care_setting": "ambulant",
     "status": "laufend",
-    "duration_raw": "07/2024 – 06/2027",
+    "duration_raw": "07/2024 – 01/2028",
     "start_date": "2024-07",
-    "end_date": "2027-06",
+    "end_date": "2028-01",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 3,1 Mio. Euro",
     "funding_sum_eur": 3100000,
@@ -29839,7 +29835,7 @@
     "funding_process": "zweistufig lang",
     "funding_area": "Neue Versorgungsformen",
     "call_date": "03.03.2022",
-    "description": "Im höheren Lebensalter kommen oft mehrere Krankheiten gleichzeitig vor, und die Häufigkeit von gesundheitlichen Einschränkungen und Gebrechlichkeit steigt; bereits in der Altersgruppe der 75-bis 79-Jährigen gelten gut 20 Prozent der Frauen und über zehn Prozent der Männer als körperlich gebrechlich. In Deutschland stehen momentan keine strukturierten, ambulanten, wohnortnahen Behandlungskonzepte für diese Altersgruppe zur Verfügung. In ländlichen Gegenden würden sie allein wegen der langen Fahrwege besonders gebraucht.\n\nDas Projektteam von InATheGer hat sich zum Ziel gesetzt, die ambulante Versorgung von älteren Patientinnen und Patienten durch ein standardisiertes interprofessionelles Behandlungsangebot zu verbessern. Das Behandlungskonzept beinhaltet, die ambulanten, wohnortnahen Behandlungs- und Beratungsangebote nicht-ärztlicher Gesundheitsberufe in einem hausärztlich geleiteten Behandlungszentrum zu bündeln und koordiniert zu erbringen, den Zugang auch für mobilitätseingeschränkte Patientinnen und Patienten zu ermöglichen und Hausärztinnen und Hausärzte bei der Versorgung zu unterstützen. In einer Studie wollen sie die Tauglichkeit ihres Konzeptes prüfen. Insgesamt werden über 500 ältere und gebrechliche Menschen aus Mecklenburg-Vorpommern an einem Therapieprogramm teilnehmen; es beinhaltet individuell zugeschnitten Heilmittelbehandlungen, Ernährungsberatung oder auch Sehhilfen- und Hörgeräteanpassungen an 20 Tagen verteilt über 14 Wochen. Vier und acht Monate nach Abschluss der Studienphase überprüft das Projektteam die Auswirkungen ihres alternativen Versorgungskonzeptes anhand des Unterstützungsbedarfs bei Aufgaben des täglichen Lebens und der Lebensqualität sowie nach Merkmalen wie Gebrechlichkeit, Anzahl stationärer Einweisungen und Medikamenteneinnahme.\n\nDas Projekt wird für drei Jahre mit insgesamt rund 3,1 Millionen Euro gefördert.\n\nBewährt sich die neue Versorgungsform, hilft dies Hausärztinnen und Hausärzten bei der ambulanten Versorgung älterer gebrechlicher Patientinnen und Patienten. Bei den Betroffenen selbst könnten damit Mobilität und Selbstständigkeit erhalten oder verbessert werden, ihre Lebensqualität würde steigen und die Notwendigkeit stationärer Einweisungen reduziert.",
+    "description": "Im höheren Lebensalter kommen oft mehrere Krankheiten gleichzeitig vor, und die Häufigkeit von gesundheitlichen Einschränkungen und Gebrechlichkeit steigt; bereits in der Altersgruppe der 75-bis 79-Jährigen gelten gut 20 Prozent der Frauen und über zehn Prozent der Männer als körperlich gebrechlich. In Deutschland stehen momentan keine strukturierten, ambulanten, wohnortnahen Behandlungskonzepte für diese Altersgruppe zur Verfügung. In ländlichen Gegenden würden sie allein wegen der langen Fahrwege besonders gebraucht.\n\nDas Projektteam von InATheGer hat sich zum Ziel gesetzt, die ambulante Versorgung von älteren Patientinnen und Patienten durch ein standardisiertes interprofessionelles Behandlungsangebot zu verbessern. Das Behandlungskonzept beinhaltet, die ambulanten, wohnortnahen Behandlungs- und Beratungsangebote nicht-ärztlicher Gesundheitsberufe in einem hausärztlich geleiteten Behandlungszentrum zu bündeln und koordiniert zu erbringen, den Zugang auch für mobilitätseingeschränkte Patientinnen und Patienten zu ermöglichen und Hausärztinnen und Hausärzte bei der Versorgung zu unterstützen. In einer Studie wollen sie die Tauglichkeit ihres Konzeptes prüfen. Insgesamt werden über 500 ältere und gebrechliche Menschen aus Mecklenburg-Vorpommern an einem Therapieprogramm teilnehmen; es beinhaltet individuell zugeschnitten Heilmittelbehandlungen, Ernährungsberatung oder auch Sehhilfen- und Hörgeräteanpassungen an 20 Tagen verteilt über 14 Wochen. Vier und acht Monate nach Abschluss der Studienphase überprüft das Projektteam die Auswirkungen ihres alternativen Versorgungskonzeptes anhand des Unterstützungsbedarfs bei Aufgaben des täglichen Lebens und der Lebensqualität sowie nach Merkmalen wie Gebrechlichkeit, Anzahl stationärer Einweisungen und Medikamenteneinnahme.\n\nDas Projekt wird für 43 Monate mit insgesamt rund 3,1 Millionen Euro gefördert.\n\nBewährt sich die neue Versorgungsform, hilft dies Hausärztinnen und Hausärzten bei der ambulanten Versorgung älterer gebrechlicher Patientinnen und Patienten. Bei den Betroffenen selbst könnten damit Mobilität und Selbstständigkeit erhalten oder verbessert werden, ihre Lebensqualität würde steigen und die Notwendigkeit stationärer Einweisungen reduziert.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -30598,23 +30594,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "Grafik Datenfluss",
-        "meta": "(PNG 950,29 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/251/01VSF20012%20InfoTrans_Abbildung-Datenfluss.png"
-      },
-      {
-        "title": "Grafik Konzeptionelles Modell",
-        "meta": "(PNG 1,31 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/252/01VSF20012%20InfoTrans_Konzeptionelles-Modell.png"
-      },
-      {
-        "title": "Schematische Projektdarstellung",
-        "meta": "(PNG 1,01 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/253/01VSF20012%20InfoTrans_Schematische%20Projektdarstellung.png"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -50111,7 +50091,7 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF21038",
       "Laufzeit": "06/2022 – 05/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Medikationsmanagement , Multimedikation / Polypharmazie , unerwünschte Arzneimittelwirkungen",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment",
       "Versorgungsmodelle und Behandlungsprogramme": "Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade"
@@ -50137,7 +50117,7 @@
       "Bayern"
     ],
     "care_setting": "ambulant",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "06/2022 – 05/2026",
     "start_date": "2022-06",
     "end_date": "2026-05",
@@ -52002,7 +51982,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Sachsen",
       "Förderkennzeichen": "01VSF23006",
-      "Laufzeit": "02/2024 – 07/2026",
+      "Laufzeit": "02/2024 – 01/2027",
       "Status": "laufend",
       "E-Health": "Entscheidungshilfesystem",
       "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Medikationsmanagement , Off-Label-Use",
@@ -52032,9 +52012,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "02/2024 – 07/2026",
+    "duration_raw": "02/2024 – 01/2027",
     "start_date": "2024-02",
-    "end_date": "2026-07",
+    "end_date": "2027-01",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 323.000 Euro",
     "funding_sum_eur": 323000,
@@ -52043,7 +52023,7 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "Viele Frauen erleben Schwangerschaft, Geburt oder die Monate nach der Entbindung psychisch belastend; etwa 15 Prozent der Frauen erkranken an Depressionen, 12 Prozent an Angststörungen, weitere psychische und psychosomatische Störungen können auftreten. Bereits bestehende psychische Erkrankungen bei Frauen können zudem in dieser Zeit verstärkt werden. Bleiben diese sogenannten peripartalen psychischen Störungen (PPS) unerkannt und ungenügend behandelt, ist nicht nur die Mutter betroffen. PPS können den Schwangerschafts- und Geburtsverlauf negativ beeinflussen, den Bindungsaufbau der Mutter zum Säugling beeinträchtigen und damit letztlich die weitere Entwicklung des Kindes. PPS können sich schwerwiegend auf die ganze Familie auswirken.\n\nObwohl in nationalen und internationalen Leitlinien spezifischer psychischer Erkrankungen die besondere Zeit um die Geburt teilweise als ein Unterkapitel erwähnt ist, ist es doch im klinischen Alltag zu aufwändig, diese Empfehlungen im Einzelnen herauszusuchen. Zudem wird hier häufig die medikamentöse Therapie fokussiert, was der komplexen Situation im Peripartum nicht gerecht wird. Es fehlt an spezifischen Diagnostik- und Therapieempfehlungen für Eltern; die beteiligten Fachkräfte aus Medizin, psychosozialen Bereichen und Jugendhilfe sind unsicher im Umgang mit den Betroffenen und wissen oft voneinander wenig.\n\nDaher will das Forschungskonsortium eine neue S3-Leitline mit Standards zur Diagnostik und Behandlung von Frauen und Familien mit psychischen Störungen in der Schwangerschaft und nach der Geburt erarbeiten sowie einheitliche Empfehlungen für alle in die Versorgung und Unterstützung eingebundenen Fachkräfte erstellen. Die neue Leitlinie orientiert sich an der Arbeits- und Zeitplanung des AWMF-Regelwerks. Zunächst suchen die Forscherinnen und Forscher systematisch nach vorhandenen wissenschaftlich fundierten Diagnostik- und Therapieverfahren, bewerten diese und fassen sie zu einem ersten Leitlinienentwurf zusammen. Danach werden im Konsens mit Expertinnen und Experten aus Wissenschaft und klinischer Praxis sowie Betroffenen konkrete Empfehlungen für eine neue S3-Leitlinie formuliert. Das Projekt wird für zweieinhalb Jahre mit insgesamt ca. 323.000 Euro gefördert.\n\nDie geplante S3-Leitlinie stellt erstmals wissenschaftlich fundierte Standards für eine differenzierte Diagnostik und Behandlung von Frauen und Familien mit PPS zusammen. Damit werden die Akteure des Gesundheitswesens und Jugend- und Familienhilfen (u. a. Ärzte, Ärztinnen und Hebammen) befähigt, die verschiedenen PPS-Krankheitsbilder frühzeitiger zu erkennen und die Betroffenen gezielter sowie vernetzt zu behandeln.",
+    "description": "Viele Frauen erleben Schwangerschaft, Geburt oder die Monate nach der Entbindung psychisch belastend; etwa 15 Prozent der Frauen erkranken an Depressionen, 12 Prozent an Angststörungen, weitere psychische und psychosomatische Störungen können auftreten. Bereits bestehende psychische Erkrankungen bei Frauen können zudem in dieser Zeit verstärkt werden. Bleiben diese sogenannten peripartalen psychischen Störungen (PPS) unerkannt und ungenügend behandelt, ist nicht nur die Mutter betroffen. PPS können den Schwangerschafts- und Geburtsverlauf negativ beeinflussen, den Bindungsaufbau der Mutter zum Säugling beeinträchtigen und damit letztlich die weitere Entwicklung des Kindes. PPS können sich schwerwiegend auf die ganze Familie auswirken.\n\nObwohl in nationalen und internationalen Leitlinien spezifischer psychischer Erkrankungen die besondere Zeit um die Geburt teilweise als ein Unterkapitel erwähnt ist, ist es doch im klinischen Alltag zu aufwändig, diese Empfehlungen im Einzelnen herauszusuchen. Zudem wird hier häufig die medikamentöse Therapie fokussiert, was der komplexen Situation im Peripartum nicht gerecht wird. Es fehlt an spezifischen Diagnostik- und Therapieempfehlungen für Eltern; die beteiligten Fachkräfte aus Medizin, psychosozialen Bereichen und Jugendhilfe sind unsicher im Umgang mit den Betroffenen und wissen oft voneinander wenig.\n\nDaher will das Forschungskonsortium eine neue S3-Leitline mit Standards zur Diagnostik und Behandlung von Frauen und Familien mit psychischen Störungen in der Schwangerschaft und nach der Geburt erarbeiten sowie einheitliche Empfehlungen für alle in die Versorgung und Unterstützung eingebundenen Fachkräfte erstellen. Die neue Leitlinie orientiert sich an der Arbeits- und Zeitplanung des AWMF-Regelwerks. Zunächst suchen die Forscherinnen und Forscher systematisch nach vorhandenen wissenschaftlich fundierten Diagnostik- und Therapieverfahren, bewerten diese und fassen sie zu einem ersten Leitlinienentwurf zusammen. Danach werden im Konsens mit Expertinnen und Experten aus Wissenschaft und klinischer Praxis sowie Betroffenen konkrete Empfehlungen für eine neue S3-Leitlinie formuliert. Das Projekt wird für 36 Monate mit insgesamt ca. 323.000 Euro gefördert.\n\nDie geplante S3-Leitlinie stellt erstmals wissenschaftlich fundierte Standards für eine differenzierte Diagnostik und Behandlung von Frauen und Familien mit PPS zusammen. Damit werden die Akteure des Gesundheitswesens und Jugend- und Familienhilfen (u. a. Ärzte, Ärztinnen und Hebammen) befähigt, die verschiedenen PPS-Krankheitsbilder frühzeitiger zu erkennen und die Betroffenen gezielter sowie vernetzt zu behandeln.",
     "project_websites": [
       "https://www.uniklinikum-dresden.de/de/das-klinikum/kliniken-polikliniken-institute/pso/forschung-und-lehre/forschergruppen/s3-leitlinie-peripartale-psychische-stoerungen-peripsych"
     ],
@@ -63041,13 +63021,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "Grafik Studiendesign",
-        "meta": "(JPG 277,52 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/273/01VSF22023%20Rhe-Turn_Studiendesign.jpg"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -72259,7 +72233,7 @@
       "Bundesland": "Niedersachsen",
       "Förderkennzeichen": "01VSF22021",
       "Laufzeit": "03/2023 – 05/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Resilienzförderung und Stressmanagement",
       "Versorgungsmodelle und Behandlungsprogramme": "Koordinierungstellen , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit"
     },
@@ -72281,7 +72255,7 @@
       "Niedersachsen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "03/2023 – 05/2026",
     "start_date": "2023-03",
     "end_date": "2026-05",
