@@ -199,6 +199,70 @@
     "is_neurology": false
   },
   {
+    "project_id": 855,
+    "slug": "a-psk.855",
+    "url": "https://innovationsfonds.g-ba.de/projekte/a-psk.855",
+    "title": "A-PSK+ – Identifikation, Darstellung und Nutzung ambulant-pflegesensitiver Krankenhausfälle zur Verbesserung der regionalen Versorgung pflegebedürftiger Menschen",
+    "acronym": "A-PSK+",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Niedersachsen",
+      "Förderkennzeichen": "01VSF26029",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,175 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Niedersachsen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,175 Mio. Euro",
+    "funding_sum_eur": 1175000,
+    "funding_reference": "01VSF26029",
+    "themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "aQua-Institut für angewandte Qualitätsförderung und Forschung im Gesundheitswesen GmbH",
+        "(Dr. Gerald Willms)"
+      ],
+      "display": "aQua-Institut für angewandte Qualitätsförderung und Forschung im Gesundheitswesen GmbH | (Dr. Gerald Willms)",
+      "name": "aQua-Institut für angewandte Qualitätsförderung und Forschung im Gesundheitswesen GmbH",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Gerald Willms)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "AOK-Bundesverband eGbR",
+      "OptiMedis AG"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 837,
     "slug": "aaakut-gfp.837",
     "url": "https://innovationsfonds.g-ba.de/projekte/aaakut-gfp.837",
@@ -1670,6 +1734,67 @@
     "is_neurology": false
   },
   {
+    "project_id": 841,
+    "slug": "adiwatch.841",
+    "url": "https://innovationsfonds.g-ba.de/projekte/adiwatch.841",
+    "title": "AdiWATCH – Sektorenübergreifende Analyse zu Haltungen, Praktiken und Handlungssicherheit in der Prävention der Adipositas bei Kindern und Jugendlichen",
+    "acronym": "AdiWATCH",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Berlin",
+      "Förderkennzeichen": "01VSF26015",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,466 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Analyse und Entwicklung von Interventionen zur Primärprävention von nichtübertragbaren Krankheiten im haus- sowie im kinder- und jugendärztlichen Setting"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Berlin"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,466 Mio. Euro",
+    "funding_sum_eur": 1466000,
+    "funding_reference": "01VSF26015",
+    "themenfeld": "Analyse und Entwicklung von Interventionen zur Primärprävention von nichtübertragbaren Krankheiten im haus- sowie im kinder- und jugendärztlichen Setting",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Charité – Universitätsmedizin Berlin",
+        "(Prof. Dr. Susanna Wiegand)"
+      ],
+      "display": "Charité – Universitätsmedizin Berlin | (Prof. Dr. Susanna Wiegand)",
+      "name": "Charité – Universitätsmedizin Berlin",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Susanna Wiegand)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 467,
     "slug": "aelki.467",
     "url": "https://innovationsfonds.g-ba.de/projekte/aelki.467",
@@ -1933,6 +2058,73 @@
     },
     "project_lead_city": "Berlin",
     "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 865,
+    "slug": "agave.865",
+    "url": "https://innovationsfonds.g-ba.de/projekte/agave.865",
+    "title": "AGAVE – Akademisierte Gesundheitsberufe in der ambulanten Versorgung: Bestandsaufnahme und Zukunftsperspektiven",
+    "acronym": "AGAVE",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26039",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,595 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,595 Mio. Euro",
+    "funding_sum_eur": 1595000,
+    "funding_reference": "01VSF26039",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "FOM Hochschule für Oekonomie & Management gemeinnützige Gesellschaft mbH",
+        "(Prof. Dr. Nadja Mayer-Wingert)"
+      ],
+      "display": "FOM Hochschule für Oekonomie & Management gemeinnützige Gesellschaft mbH | (Prof. Dr. Nadja Mayer-Wingert)",
+      "name": "FOM Hochschule für Oekonomie & Management gemeinnützige Gesellschaft mbH",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Nadja Mayer-Wingert)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "BARMER",
+      "Deutscher Hochschulverband Physician Assistant e. V.",
+      "Essener Forschungsinstitut für Medizinmangement GmbH",
+      "Kassenärztliche Vereinigung Westfalen-Lippe",
+      "Medizinische Hochschule Hannover"
+    ],
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
@@ -4805,6 +4997,73 @@
     "is_neurology": false
   },
   {
+    "project_id": 854,
+    "slug": "avira-p.854",
+    "url": "https://innovationsfonds.g-ba.de/projekte/avira-p.854",
+    "title": "AVIRA-P – Ambulante Versorgung stationär Pflegebedürftiger im regionalen Kontext: Sekundärdatenanalyse zur Identifikation innovativer Versorgungspotenziale",
+    "acronym": "AVIRA-P",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26028",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,339 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,339 Mio. Euro",
+    "funding_sum_eur": 1339000,
+    "funding_reference": "01VSF26028",
+    "themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Kassenärztliche Vereinigung Westfalen-Lippe",
+        "(Matthias Brittner)"
+      ],
+      "display": "Kassenärztliche Vereinigung Westfalen-Lippe | (Matthias Brittner)",
+      "name": "Kassenärztliche Vereinigung Westfalen-Lippe",
+      "email": null,
+      "phone": null,
+      "organization": "(Matthias Brittner)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "AOK NordWest",
+      "BARMER",
+      "IKK classic",
+      "OFFIS e. V.",
+      "Universität Bielefeld"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 627,
     "slug": "b-e-namse.627",
     "url": "https://innovationsfonds.g-ba.de/projekte/b-e-namse.627",
@@ -6481,6 +6740,138 @@
     "is_neurology": false
   },
   {
+    "project_id": 863,
+    "slug": "blanko-4p.863",
+    "url": "https://innovationsfonds.g-ba.de/projekte/blanko-4p.863",
+    "title": "Blanko-4P – Evaluation der Heilmittelversorgung mit erweiterter Versorgungsverantwortung (kurz: Blankoverordnung) – 4 Perspektiven",
+    "acronym": "Blanko-4P",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Bayern",
+      "Förderkennzeichen": "01VSF26037",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,538 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Wissenschaftliche Evaluation der Blankoverordnung: Behandlungsstandards und Versorgungsqualität in der Heilmittelversorgung"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Bayern"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,538 Mio. Euro",
+    "funding_sum_eur": 1538000,
+    "funding_reference": "01VSF26037",
+    "themenfeld": "Wissenschaftliche Evaluation der Blankoverordnung: Behandlungsstandards und Versorgungsqualität in der Heilmittelversorgung",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Friedrich-Alexander-Universität Erlangen Nürnberg",
+        "(Dr. Maria Sebastião)"
+      ],
+      "display": "Friedrich-Alexander-Universität Erlangen Nürnberg | (Dr. Maria Sebastião)",
+      "name": "Friedrich-Alexander-Universität Erlangen Nürnberg",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Maria Sebastião)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "AOK Bayern – Die Gesundheitskasse",
+      "Ernst-Abbe-Hochschule Jena",
+      "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "Katholische Stiftungshochschule für angewandte Wissenschaften München",
+      "Universitätsklinikum Jena"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 861,
+    "slug": "blankocare.861",
+    "url": "https://innovationsfonds.g-ba.de/projekte/blankocare.861",
+    "title": "BLANKOCARE – Blankoverordnungen in der Ergo- und Physiotherapie",
+    "acronym": "BLANKOCARE",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Niedersachsen",
+      "Förderkennzeichen": "01VSF26035",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,17 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Wissenschaftliche Evaluation der Blankoverordnung: Behandlungsstandards und Versorgungsqualität in der Heilmittelversorgung"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Niedersachsen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,17 Mio. Euro",
+    "funding_sum_eur": 1170000,
+    "funding_reference": "01VSF26035",
+    "themenfeld": "Wissenschaftliche Evaluation der Blankoverordnung: Behandlungsstandards und Versorgungsqualität in der Heilmittelversorgung",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Hochschule Osnabrück",
+        "(Prof. Dr. Nikolaus Ballenberger)"
+      ],
+      "display": "Hochschule Osnabrück | (Prof. Dr. Nikolaus Ballenberger)",
+      "name": "Hochschule Osnabrück",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Nikolaus Ballenberger)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Georg-August-Universität Göttingen",
+      "Hochschule Hannover",
+      "Universitätsklinikum Heidelberg"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 566,
     "slug": "blencon.566",
     "url": "https://innovationsfonds.g-ba.de/projekte/blencon.566",
@@ -6579,6 +6970,136 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/183/01NVF22106%20BlenCon_Plakat.pdf"
       }
     ],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 860,
+    "slug": "blick.860",
+    "url": "https://innovationsfonds.g-ba.de/projekte/blick.860",
+    "title": "BLICK – Bedarf und Versorgung von Augenerkrankungen im klinischen Kontext",
+    "acronym": "BLICK",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Sachsen",
+      "Förderkennzeichen": "01VSF26034",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,194 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Versorgungsforschung zur Verbesserung der Versorgung von Menschen mit Augenerkrankungen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Sachsen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,194 Mio. Euro",
+    "funding_sum_eur": 1194000,
+    "funding_reference": "01VSF26034",
+    "themenfeld": "Versorgungsforschung zur Verbesserung der Versorgung von Menschen mit Augenerkrankungen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Technische Universität Dresden",
+        "(Dr. Jochen Schmitt)"
+      ],
+      "display": "Technische Universität Dresden | (Dr. Jochen Schmitt)",
+      "name": "Technische Universität Dresden",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Jochen Schmitt)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "DAK-Gesundheit",
+      "Kassenärztliche Vereinigung Sachsen",
+      "Klinikum Chemnitz gGmbH"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 862,
+    "slug": "boris.862",
+    "url": "https://innovationsfonds.g-ba.de/projekte/boris.862",
+    "title": "BORIS – Blankoverordnung in der Heilmittelversorgung: Evaluation der Versorgungsrealität, Behandlungspraxis, Bedarfe und Ergebnisqualität",
+    "acronym": "BORIS",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26036",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,458 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Wissenschaftliche Evaluation der Blankoverordnung: Behandlungsstandards und Versorgungsqualität in der Heilmittelversorgung"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,458 Mio. Euro",
+    "funding_sum_eur": 1458000,
+    "funding_reference": "01VSF26036",
+    "themenfeld": "Wissenschaftliche Evaluation der Blankoverordnung: Behandlungsstandards und Versorgungsqualität in der Heilmittelversorgung",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Essener Forschungsinstitut für Medizinmanagement GmbH",
+        "(Dr. Anna Bußmann)"
+      ],
+      "display": "Essener Forschungsinstitut für Medizinmanagement GmbH | (Dr. Anna Bußmann)",
+      "name": "Essener Forschungsinstitut für Medizinmanagement GmbH",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Anna Bußmann)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+      "Techniker Krankenkasse",
+      "Universität Duisburg-Essen"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -7256,6 +7777,69 @@
         "Zusatzqualifikation von medizinischem Assistenzpersonal"
       ]
     },
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 852,
+    "slug": "cario.852",
+    "url": "https://innovationsfonds.g-ba.de/projekte/cario.852",
+    "title": "CARIO – Zusammenhang zwischen regionalen Risiko- und Resilienzfaktoren und der Versorgung von Pflegebedürftigen",
+    "acronym": "CARIO",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Hamburg",
+      "Förderkennzeichen": "01VSF26026",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 579.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Hamburg"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 579.000 Euro",
+    "funding_sum_eur": 579000,
+    "funding_reference": "01VSF26026",
+    "themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universitätsklinikum Hamburg-Eppendorf",
+        "(Dr. Claudia Konnopka)"
+      ],
+      "display": "Universitätsklinikum Hamburg-Eppendorf | (Dr. Claudia Konnopka)",
+      "name": "Universitätsklinikum Hamburg-Eppendorf",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Claudia Konnopka)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "BARMER"
+    ],
+    "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
     "additional_documents": [],
@@ -8094,6 +8678,73 @@
     "is_neurology": false
   },
   {
+    "project_id": 872,
+    "slug": "chip.872",
+    "url": "https://innovationsfonds.g-ba.de/projekte/chip.872",
+    "title": "CHIP – Climate Sensitive Health Counseling in Pregnancy",
+    "acronym": "CHIP",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Baden-Württemberg",
+      "Förderkennzeichen": "01VSF26046",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,145 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Baden-Württemberg"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,145 Mio. Euro",
+    "funding_sum_eur": 1145000,
+    "funding_reference": "01VSF26046",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universitätsklinikum Heidelberg",
+        "(Dr. Claudia Quitmann)"
+      ],
+      "display": "Universitätsklinikum Heidelberg | (Dr. Claudia Quitmann)",
+      "name": "Universitätsklinikum Heidelberg",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Claudia Quitmann)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "BKK mkk – meine krankenkasse",
+      "Deutsches Krankenhausinstitut e. V.",
+      "Duale Hochschule Baden-Württemberg",
+      "Katholische Stiftungshochschule für angewandte Wissenschaften München",
+      "Martin-Luther-Universität Halle-Wittenberg"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 686,
     "slug": "choice.686",
     "url": "https://innovationsfonds.g-ba.de/projekte/choice.686",
@@ -8469,7 +9120,28 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/795/2025-01-24_CKD-up_Ergebnisbericht.pdf"
       }
     ],
-    "additional_documents": [],
+    "additional_documents": [
+      {
+        "title": "DEGAM-Leitlinie – Kurzversion Vorgehen bei Erstdiagnose",
+        "meta": "(PDF 89,53 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/403/01VSF22011_CKD-up_Anlage-2_DEGAM-Leitlinie-Kurzversion-Vorgehen-bei-Erstdiagnose.pdf"
+      },
+      {
+        "title": "DEGAM-Leitlinie – Kurzversion Vorgehen bei etablierter CKD",
+        "meta": "(PDF 88,04 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/404/01VSF22011_CKD-up_Anlage-3_DEGAM-Leitlinie-Kurzversion-Vorgehen-bei-etablierter-CKD.pdf"
+      },
+      {
+        "title": "DEGAM-Patienteninformation CKD Stadium 1–3",
+        "meta": "(PDF 225,87 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/405/01VSF22011_CKD-up_Anlage-6_DEGAM-Patienteninformation-CKD-Stadium-1-3.pdf"
+      },
+      {
+        "title": "DEGAM-Patienteninformation CKD Stadium 4–5",
+        "meta": "(PDF 272,14 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/406/01VSF22011_CKD-up_Anlage-7_DEGAM-Patienteninformation-CKD-Stadium-4-5.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -8642,6 +9314,70 @@
         "Patienten- und Behandlungspfade"
       ]
     },
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 851,
+    "slug": "co-gesund.851",
+    "url": "https://innovationsfonds.g-ba.de/projekte/co-gesund.851",
+    "title": "CO-GESUND – Verläufe von Post-COVID Fatigue – Unterschiede zwischen Gesundeten und Betroffenen in der Versorgung? Eine Case-Control-Studie",
+    "acronym": "CO-GESUND",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Baden-Württemberg",
+      "Förderkennzeichen": "01VSF26025",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,553 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Versorgung von Patientinnen und Patienten mit postviralen Symptomkomplexen wie z. B. Post-/Long-COVID, ME/CFS"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Baden-Württemberg"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,553 Mio. Euro",
+    "funding_sum_eur": 1553000,
+    "funding_reference": "01VSF26025",
+    "themenfeld": "Versorgung von Patientinnen und Patienten mit postviralen Symptomkomplexen wie z. B. Post-/Long-COVID, ME/CFS",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universitätsklinikum Heidelberg",
+        "(Prof. Dr. Beate Wild)"
+      ],
+      "display": "Universitätsklinikum Heidelberg | (Prof. Dr. Beate Wild)",
+      "name": "Universitätsklinikum Heidelberg",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Beate Wild)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "aQua-Institut für angewandte Qualitätsförderung und Forschung im Gesundheitswesen GmbH",
+      "BARMER"
+    ],
+    "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
     "additional_documents": [],
@@ -9451,6 +10187,71 @@
     },
     "project_lead_city": "Berlin",
     "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 857,
+    "slug": "dare.857",
+    "url": "https://innovationsfonds.g-ba.de/projekte/dare.857",
+    "title": "DARE – Datengestützte Entwicklung regionaler Versorgungsstrukturen für pflegebedürftige Menschen",
+    "acronym": "DARE",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Berlin",
+      "Förderkennzeichen": "01VSF26031",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,89 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Berlin"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,89 Mio. Euro",
+    "funding_sum_eur": 1890000,
+    "funding_reference": "01VSF26031",
+    "themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "AOK-Bundesverband eGbR",
+        "(Susann Behrendt)"
+      ],
+      "display": "AOK-Bundesverband eGbR | (Susann Behrendt)",
+      "name": "AOK-Bundesverband eGbR",
+      "email": null,
+      "phone": null,
+      "organization": "(Susann Behrendt)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Leibniz-Institut für Länderkunde e. V.",
+      "Technische Universität München",
+      "Universitätsklinikum Würzburg"
+    ],
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
@@ -14629,6 +15430,71 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/393/2023-03-01_EDIUM_Ergebnisbericht.pdf"
       }
     ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 883,
+    "slug": "edium-rektum.883",
+    "url": "https://innovationsfonds.g-ba.de/projekte/edium-rektum.883",
+    "title": "EDIUM-REKTUM – EDIUM-REKTUM",
+    "acronym": "EDIUM-REKTUM",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Berlin",
+      "Förderkennzeichen": "01VSF26056",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,171 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Berlin"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,171 Mio. Euro",
+    "funding_sum_eur": 1171000,
+    "funding_reference": "01VSF26056",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Deutsche Krebsgesellschaft e. V.",
+        "(Dr. Christoph Kowalski)"
+      ],
+      "display": "Deutsche Krebsgesellschaft e. V. | (Dr. Christoph Kowalski)",
+      "name": "Deutsche Krebsgesellschaft e. V.",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Christoph Kowalski)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "ClarData GmbH",
+      "Haus der Krebs-Selbsthilfe – Bundesverband e. V.",
+      "Heinrich-Heine-Universität Düsseldorf"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -20967,6 +21833,71 @@
     "is_neurology": true
   },
   {
+    "project_id": 842,
+    "slug": "female-risk.842",
+    "url": "https://innovationsfonds.g-ba.de/projekte/female-risk.842",
+    "title": "FEMALE-Risk – Frauen mit Erhöhtem Missbrauchsrisiko durch Alkohol – Lücken in der Erkennung im Primärärztlichen Bereich und Risikoreduktion durch motivierende Beratung",
+    "acronym": "FEMALE-Risk",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Bayern",
+      "Förderkennzeichen": "01VSF26016",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,34 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Analyse und Entwicklung von Interventionen zur Primärprävention von nichtübertragbaren Krankheiten im haus- sowie im kinder- und jugendärztlichen Setting"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Bayern"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,34 Mio. Euro",
+    "funding_sum_eur": 1340000,
+    "funding_reference": "01VSF26016",
+    "themenfeld": "Analyse und Entwicklung von Interventionen zur Primärprävention von nichtübertragbaren Krankheiten im haus- sowie im kinder- und jugendärztlichen Setting",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universitätsklinikum Würzburg",
+        "(Prof. Dr. Ildikó Gágyor)"
+      ],
+      "display": "Universitätsklinikum Würzburg | (Prof. Dr. Ildikó Gágyor)",
+      "name": "Universitätsklinikum Würzburg",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Ildikó Gágyor)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Julius-Maximilians-Universität Würzburg",
+      "Universität Bielefeld",
+      "Universität Greifswald"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 674,
     "slug": "femar.674",
     "url": "https://innovationsfonds.g-ba.de/projekte/femar.674",
@@ -23204,6 +24135,70 @@
     "is_neurology": false
   },
   {
+    "project_id": 864,
+    "slug": "genesis.864",
+    "url": "https://innovationsfonds.g-ba.de/projekte/genesis.864",
+    "title": "GENESIS – Genderspezifisches Entlassmanagement nach stationär-psychiatrischem Aufenthalt nach Suizidversuch oder suizidaler Krise",
+    "acronym": "GENESIS",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Sachsen",
+      "Förderkennzeichen": "01VSF26038",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 924.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Sachsen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 924.000 Euro",
+    "funding_sum_eur": 924000,
+    "funding_reference": "01VSF26038",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universität Leipzig",
+        "(Prof. Dr. Heide Glaesmer)"
+      ],
+      "display": "Universität Leipzig | (Prof. Dr. Heide Glaesmer)",
+      "name": "Universität Leipzig",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Heide Glaesmer)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "MSB Medical School Berlin",
+      "Universitätsklinikum Jena"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 430,
     "slug": "geras.430",
     "url": "https://innovationsfonds.g-ba.de/projekte/geras.430",
@@ -24871,6 +25866,71 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/709/2024-10-18_Haematurie-Kind_Ergebnisbericht.pdf"
       }
     ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 869,
+    "slug": "hafen.869",
+    "url": "https://innovationsfonds.g-ba.de/projekte/hafen.869",
+    "title": "HAFEN – Digitale Hilfen und Angebote bei Fehlgeburten",
+    "acronym": "HAFEN",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26043",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 894.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 894.000 Euro",
+    "funding_sum_eur": 894000,
+    "funding_reference": "01VSF26043",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Hochschule Bochum",
+        "(Prof. Dr. Mirjam Peters)"
+      ],
+      "display": "Hochschule Bochum | (Prof. Dr. Mirjam Peters)",
+      "name": "Hochschule Bochum",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Mirjam Peters)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "BKK mkk – meine krankenkasse",
+      "Florence-Nightingale-Krankenhaus gGmbH",
+      "Heinrich-Heine-Universität Düsseldorf"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -28546,6 +29606,72 @@
     "is_neurology": false
   },
   {
+    "project_id": 876,
+    "slug": "ifau.876",
+    "url": "https://innovationsfonds.g-ba.de/projekte/ifau.876",
+    "title": "IFAU – Intersektionalität bei Frauen mit einer Aufmerksamkeits-Hyperaktivitäts-Störung (ADHS): Forschung zu geschlechtsbedingten Unterschieden in der Patient Journey und Auswirkungen auf den Lebensverlauf für eine bedarfsgerechte Versorgung",
+    "acronym": "IFAU",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Hamburg",
+      "Förderkennzeichen": "01VSF26049",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,238 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Hamburg"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,238 Mio. Euro",
+    "funding_sum_eur": 1238000,
+    "funding_reference": "01VSF26049",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "DAK-Gesundheit",
+        "(Dr. Melanie Klein)"
+      ],
+      "display": "DAK-Gesundheit | (Dr. Melanie Klein)",
+      "name": "DAK-Gesundheit",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Melanie Klein)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Hochschule Fulda",
+      "Leibniz-Institut für Präventionsforschung und Epidemiologie – BIPS GmbH",
+      "Philipps-Universität Marburg",
+      "Rheinische Friedrich-Wilhelms-Universität Bonn"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 79,
     "slug": "igib-stimmt.79",
     "url": "https://innovationsfonds.g-ba.de/projekte/igib-stimmt.79",
@@ -29151,6 +30277,69 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/519/2024-01-19_IMLEGI_Ergebnisbericht.pdf"
       }
     ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 880,
+    "slug": "impabs.880",
+    "url": "https://innovationsfonds.g-ba.de/projekte/impabs.880",
+    "title": "ImpAbs – Entwicklung eines Instruments zur Bewertung der Übertragbarkeit von Studien zu komplexen Gesundheitsinterventionen",
+    "acronym": "ImpAbs",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Brandenburg",
+      "Förderkennzeichen": "01VSF26053",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 774.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Brandenburg"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 774.000 Euro",
+    "funding_sum_eur": 774000,
+    "funding_reference": "01VSF26053",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Medizinische Hochschule Brandenburg CAMPUS GmbH",
+        "(Prof. Dr. Sebastian von Peter)"
+      ],
+      "display": "Medizinische Hochschule Brandenburg CAMPUS GmbH | (Prof. Dr. Sebastian von Peter)",
+      "name": "Medizinische Hochschule Brandenburg CAMPUS GmbH",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Sebastian von Peter)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Zentralinstitut für die kassenärztliche Versorgung in der Bundesrepublik Deutschland"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -34219,6 +35408,72 @@
     "is_neurology": true
   },
   {
+    "project_id": 853,
+    "slug": "kip-indi-set.853",
+    "url": "https://innovationsfonds.g-ba.de/projekte/kip-indi-set.853",
+    "title": "KiP-Indi-Set – Kipppunkte in die Pflegebedürftigkeit – Entwicklung eines plausiblen und nachvollziehbaren präventionsbezogenen Indikatorensets des Übergangs in die Pflegebedürftigkeit",
+    "acronym": "KiP-Indi-Set",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Niedersachsen",
+      "Förderkennzeichen": "01VSF26027",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,704 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Niedersachsen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,704 Mio. Euro",
+    "funding_sum_eur": 1704000,
+    "funding_reference": "01VSF26027",
+    "themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Ostfalia Hochschule für angewandte Wissenschaften",
+        "(Prof. Dr. Martina Hasseler)"
+      ],
+      "display": "Ostfalia Hochschule für angewandte Wissenschaften | (Prof. Dr. Martina Hasseler)",
+      "name": "Ostfalia Hochschule für angewandte Wissenschaften",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Martina Hasseler)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Carl von Ossietzky Universität Oldenburg",
+      "Hochschule Magdeburg-Stendal",
+      "OFFIS e. V.",
+      "Robert Koch-Institut"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 836,
     "slug": "kisch-lig.836",
     "url": "https://innovationsfonds.g-ba.de/projekte/kisch-lig.836",
@@ -34462,6 +35717,71 @@
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
     "is_neurology": true
+  },
+  {
+    "project_id": 884,
+    "slug": "klir-k.884",
+    "url": "https://innovationsfonds.g-ba.de/projekte/klir-k.884",
+    "title": "KliR-K – KlimaRadar Krankenhaus",
+    "acronym": "KliR-K",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Bayern",
+      "Förderkennzeichen": "01VSF26057",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,631 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Bayern"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,631 Mio. Euro",
+    "funding_sum_eur": 1631000,
+    "funding_reference": "01VSF26057",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universität Bayreuth",
+        "(Prof. Dr. Wilm Quentin)"
+      ],
+      "display": "Universität Bayreuth | (Prof. Dr. Wilm Quentin)",
+      "name": "Universität Bayreuth",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Wilm Quentin)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Deutsches Krankenhausinstitut e. V.",
+      "inav – privates Institut für angewandte Versorgungsforschung GmbH",
+      "KLUG – Deutsche Allianz Klimawandel und Gesundheit e. V."
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
   },
   {
     "project_id": 505,
@@ -41579,6 +42899,69 @@
     "is_neurology": true
   },
   {
+    "project_id": 874,
+    "slug": "mosaik.874",
+    "url": "https://innovationsfonds.g-ba.de/projekte/mosaik.874",
+    "title": "MOSAIK – Medizinische und psychosoziale Folgen von Schwangerschaftsverlusten – integrierte Kohorten- und Interviewstudie",
+    "acronym": "MOSAIK",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Thüringen",
+      "Förderkennzeichen": "01VSF26047",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,079 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Thüringen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,079 Mio. Euro",
+    "funding_sum_eur": 1079000,
+    "funding_reference": "01VSF26047",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universitätsklinikum Jena",
+        "(Dr. Carolin Fleischmann-Struzek)"
+      ],
+      "display": "Universitätsklinikum Jena | (Dr. Carolin Fleischmann-Struzek)",
+      "name": "Universitätsklinikum Jena",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Carolin Fleischmann-Struzek)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "AOK-Bundesverband eGbR"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 710,
     "slug": "move-it.710",
     "url": "https://innovationsfonds.g-ba.de/projekte/move-it.710",
@@ -43263,6 +44646,70 @@
     "is_neurology": false
   },
   {
+    "project_id": 866,
+    "slug": "myk-impakt.866",
+    "url": "https://innovationsfonds.g-ba.de/projekte/myk-impakt.866",
+    "title": "MYK-IMPAKT – Versorgung von Invasiver Mykose in Deutschland: Analyse der Ist-Situation und des Bedarfs zur Implementierung eines neuen Versorgungskonzeptes",
+    "acronym": "MYK-IMPAKT",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26040",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,041 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,041 Mio. Euro",
+    "funding_sum_eur": 1041000,
+    "funding_reference": "01VSF26040",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universität zu Köln",
+        "(Dr. Jannik Stemler)"
+      ],
+      "display": "Universität zu Köln | (Dr. Jannik Stemler)",
+      "name": "Universität zu Köln",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Jannik Stemler)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "BARMER",
+      "DAK-Gesundheit"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 607,
     "slug": "nadi.607",
     "url": "https://innovationsfonds.g-ba.de/projekte/nadi.607",
@@ -43636,7 +45083,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Niedersachsen",
       "Förderkennzeichen": "01VSF23047",
-      "Laufzeit": "01/2024 – 08/2026",
+      "Laufzeit": "01/2024 – 09/2027",
       "Status": "laufend",
       "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Medikationsmanagement , unerwünschte Arzneimittelwirkungen",
       "Versorgungsmodelle und Behandlungsprogramme": "Patienten- und Behandlungspfade"
@@ -43663,9 +45110,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "01/2024 – 08/2026",
+    "duration_raw": "01/2024 – 09/2027",
     "start_date": "2024-01",
-    "end_date": "2026-08",
+    "end_date": "2027-09",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 880.000 Euro",
     "funding_sum_eur": 880000,
@@ -43674,7 +45121,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "Die Verwendung von versorgungsnahen Daten zur Nutzenbewertung von Therapien gewinnt vor dem Hintergrund der zunehmenden Digitalisierung des Gesundheitswesens und der damit verbundenen relativ einfachen Verfügbarkeit an Daten immer mehr an Bedeutung. Unumstritten stellen randomisierte kontrollierte Studien (RCTs) das höchste Evidenzniveau dar. Allerdings ist ihre Durchführung mit erheblichem zeitlichen und finanziellen Ressourceneinsatz verbunden und bei manchen Fragestellungen gegebenenfalls ethisch nicht vertretbar. Hier kann die Auswertung von bereits bestehenden medizinischen Datensammlungen, insbesondere auch von Registerdaten, einen Vorteil bieten.\n\nUntersuchungen haben gezeigt, dass registerbasierte Auswertungen (NRRA) und RCT durchaus vergleichbare Ergebnisse liefern können, es andererseits aber auch zu starken Abweichungen kommen kann. Die Abweichungen sind bisher jedoch nicht immer vorhersehbar.\n\nDas Forschungsteam im Projekt NANA untersucht daher, ob es derzeit möglich und sinnvoll ist, mittels der in Deutschland verfügbaren Registerdaten Therapierfolge und unerwünschte Nebenwirkungen von Arzneimitteln zu ermitteln. Hierfür führt das Team modellhaft zehn bis zwölf NRRA durch und vergleicht diese mit vorhandenen Ergebnissen von RCT. Im Fokus stehen dabei insbesondere folgende Fragen: Können Register die methodischen Anforderungen an eine fundierte Bewertung des Nutzens und Schadens von Arzneimitteln erfüllen? Welche praktischen und methodischen Herausforderungen bestehen bei der praktischen Durchführung von NRRA? Wie hoch ist die Ergebnissicherheit der Registeranalysen? Welche Faktoren führen gegebenenfalls zu Abweichungen zwischen den Ergebnissen von randomisierten klinischen Studien und registerbasierten Auswertungen? Das Projekt wird für 32 Monate mit insgesamt ca. 880.000 Euro gefördert.\n\nIm Erfolgsfall liefert das Projekt wichtige Erkenntnisse, unter welchen Umständen eine auf versorgungsnahen Daten beruhende Analyse (NRRA) belastbare Ergebnisse zu Wirksamkeit und Sicherheit von Medikamenten liefern kann und welche Aspekte bei der Durchführung beachtet werden müssen.",
+    "description": "Die Verwendung von versorgungsnahen Daten zur Nutzenbewertung von Therapien gewinnt vor dem Hintergrund der zunehmenden Digitalisierung des Gesundheitswesens und der damit verbundenen relativ einfachen Verfügbarkeit an Daten immer mehr an Bedeutung. Unumstritten stellen randomisierte kontrollierte Studien (RCTs) das höchste Evidenzniveau dar. Allerdings ist ihre Durchführung mit erheblichem zeitlichen und finanziellen Ressourceneinsatz verbunden und bei manchen Fragestellungen gegebenenfalls ethisch nicht vertretbar. Hier kann die Auswertung von bereits bestehenden medizinischen Datensammlungen, insbesondere auch von Registerdaten, einen Vorteil bieten.\n\nUntersuchungen haben gezeigt, dass registerbasierte Auswertungen (NRRA) und RCT durchaus vergleichbare Ergebnisse liefern können, es andererseits aber auch zu starken Abweichungen kommen kann. Die Abweichungen sind bisher jedoch nicht immer vorhersehbar.\n\nDas Forschungsteam im Projekt NANA untersucht daher, ob es derzeit möglich und sinnvoll ist, mittels der in Deutschland verfügbaren Registerdaten Therapierfolge und unerwünschte Nebenwirkungen von Arzneimitteln zu ermitteln. Hierfür führt das Team modellhaft zehn bis zwölf NRRA durch und vergleicht diese mit vorhandenen Ergebnissen von RCT. Im Fokus stehen dabei insbesondere folgende Fragen: Können Register die methodischen Anforderungen an eine fundierte Bewertung des Nutzens und Schadens von Arzneimitteln erfüllen? Welche praktischen und methodischen Herausforderungen bestehen bei der praktischen Durchführung von NRRA? Wie hoch ist die Ergebnissicherheit der Registeranalysen? Welche Faktoren führen gegebenenfalls zu Abweichungen zwischen den Ergebnissen von randomisierten klinischen Studien und registerbasierten Auswertungen? Das Projekt wird für 45 Monate mit insgesamt ca. 880.000 Euro gefördert.\n\nIm Erfolgsfall liefert das Projekt wichtige Erkenntnisse, unter welchen Umständen eine auf versorgungsnahen Daten beruhende Analyse (NRRA) belastbare Ergebnisse zu Wirksamkeit und Sicherheit von Medikamenten liefern kann und welche Aspekte bei der Durchführung beachtet werden müssen.",
     "project_websites": [
       "https://medstat.umg.eu/forschung/laufende-projekte/nana/"
     ],
@@ -44514,6 +45961,70 @@
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "exclusive",
     "is_neurology": true
+  },
+  {
+    "project_id": 846,
+    "slug": "never-de.846",
+    "url": "https://innovationsfonds.g-ba.de/projekte/never-de.846",
+    "title": "NevER-DE – Entwicklung und Pilotierung von Komponenten eines Never-Event-Registers zur Stärkung der Patientensicherheit in Deutschland",
+    "acronym": "NevER-DE",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Baden-Württemberg",
+      "Förderkennzeichen": "01VSF26020",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,609 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Versorgungsforschung zur Entwicklung und Erprobung eines bundesweiten Never Event Registers als Fehlermelde- und Lernsystem"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Baden-Württemberg"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,609 Mio. Euro",
+    "funding_sum_eur": 1609000,
+    "funding_reference": "01VSF26020",
+    "themenfeld": "Versorgungsforschung zur Entwicklung und Erprobung eines bundesweiten Never Event Registers als Fehlermelde- und Lernsystem",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Deutsche Gesellschaft für Patientensicherheit gGmbH",
+        "(Hardy Müller)"
+      ],
+      "display": "Deutsche Gesellschaft für Patientensicherheit gGmbH | (Hardy Müller)",
+      "name": "Deutsche Gesellschaft für Patientensicherheit gGmbH",
+      "email": null,
+      "phone": null,
+      "organization": "(Hardy Müller)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Inworks GmbH",
+      "Rheinische-Friedrich-Wilhelms-Universität Bonn"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
   },
   {
     "project_id": 64,
@@ -47478,6 +48989,67 @@
     "is_neurology": false
   },
   {
+    "project_id": 882,
+    "slug": "optimise-2.882",
+    "url": "https://innovationsfonds.g-ba.de/projekte/optimise-2.882",
+    "title": "OPTIMISE-2 – Evaluation und Optimierung des Qualitätssicherungsverfahrens „Diagnostik und Therapie der Sepsis“",
+    "acronym": "OPTIMISE-2",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Thüringen",
+      "Förderkennzeichen": "01VSF26055",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 878.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Thüringen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 878.000 Euro",
+    "funding_sum_eur": 878000,
+    "funding_reference": "01VSF26055",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universitätsklinikum Jena",
+        "(Dr. Daniel Schwarzkopf)"
+      ],
+      "display": "Universitätsklinikum Jena | (Dr. Daniel Schwarzkopf)",
+      "name": "Universitätsklinikum Jena",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Daniel Schwarzkopf)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 440,
     "slug": "optiniv.440",
     "url": "https://innovationsfonds.g-ba.de/projekte/optiniv.440",
@@ -47963,6 +49535,67 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/972/2025-10-17_OPTIVERO_Ergebnisbericht.pdf"
       }
     ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 850,
+    "slug": "orgameco.850",
+    "url": "https://innovationsfonds.g-ba.de/projekte/orgameco.850",
+    "title": "OrgaMECO – Die Rolle von Betroffenenorganisationen im Bereich ME/CFS und Post-COVID: aktuelle Situation, Barrieren und Potenziale – eine Mixed-Methods-Studie",
+    "acronym": "OrgaMECO",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Hamburg",
+      "Förderkennzeichen": "01VSF26024",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,034 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Versorgung von Patientinnen und Patienten mit postviralen Symptomkomplexen wie z. B. Post-/Long-COVID, ME/CFS"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Hamburg"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,034 Mio. Euro",
+    "funding_sum_eur": 1034000,
+    "funding_reference": "01VSF26024",
+    "themenfeld": "Versorgung von Patientinnen und Patienten mit postviralen Symptomkomplexen wie z. B. Post-/Long-COVID, ME/CFS",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universitätsklinikum Hamburg-Eppendorf",
+        "(Dr. Christine Blome)"
+      ],
+      "display": "Universitätsklinikum Hamburg-Eppendorf | (Dr. Christine Blome)",
+      "name": "Universitätsklinikum Hamburg-Eppendorf",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Christine Blome)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -49253,6 +50886,72 @@
     "is_neurology": true
   },
   {
+    "project_id": 881,
+    "slug": "pajud.881",
+    "url": "https://innovationsfonds.g-ba.de/projekte/pajud.881",
+    "title": "PAJUD – Patientenerfahrungen und Patient Journeys bei unipolarer Depression im stationären Setting",
+    "acronym": "PAJUD",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Sachsen",
+      "Förderkennzeichen": "01VSF26054",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,572 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Sachsen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,572 Mio. Euro",
+    "funding_sum_eur": 1572000,
+    "funding_reference": "01VSF26054",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Technische Universität Dresden",
+        "(Dr. Anne Neumann)"
+      ],
+      "display": "Technische Universität Dresden | (Dr. Anne Neumann)",
+      "name": "Technische Universität Dresden",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Anne Neumann)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "DAK-Gesundheit",
+      "hkk Krankenkasse",
+      "Techniker Krankenkasse",
+      "Universitätsklinikum Hamburg-Eppendorf"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 317,
     "slug": "pallcompare.317",
     "url": "https://innovationsfonds.g-ba.de/projekte/pallcompare.317",
@@ -49563,6 +51262,67 @@
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
     "is_neurology": true
+  },
+  {
+    "project_id": 849,
+    "slug": "papc.849",
+    "url": "https://innovationsfonds.g-ba.de/projekte/papc.849",
+    "title": "PAPC – Die Situation Pflegender Angehöriger von Post-COVID-Betroffenen und ME/CFS-Betroffenen",
+    "acronym": "PAPC",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Berlin",
+      "Förderkennzeichen": "01VSF26023",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 933.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Versorgung von Patientinnen und Patienten mit postviralen Symptomkomplexen wie z. B. Post-/Long-COVID, ME/CFS"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Berlin"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 933.000 Euro",
+    "funding_sum_eur": 933000,
+    "funding_reference": "01VSF26023",
+    "themenfeld": "Versorgung von Patientinnen und Patienten mit postviralen Symptomkomplexen wie z. B. Post-/Long-COVID, ME/CFS",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Charité – Universitätsmedizin Berlin",
+        "(Dr. Johanna Schuster)"
+      ],
+      "display": "Charité – Universitätsmedizin Berlin | (Dr. Johanna Schuster)",
+      "name": "Charité – Universitätsmedizin Berlin",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Johanna Schuster)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
   },
   {
     "project_id": 351,
@@ -53382,6 +55142,70 @@
     "is_neurology": false
   },
   {
+    "project_id": 843,
+    "slug": "pmgs.843",
+    "url": "https://innovationsfonds.g-ba.de/projekte/pmgs.843",
+    "title": "PMGS – Postmortale Gewebespende: Analyse von Strukturen, Prozessen und Maßnahmen zur Realisierung von Gewebespende in Krankenhäusern",
+    "acronym": "PMGS",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Niedersachsen",
+      "Förderkennzeichen": "01VSF26017",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,103 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Transplantationsmedizinische Versorgung fördern – Erkennung und Meldung potenzieller postmortaler Organspender in den Krankenhäusern analysieren und Handlungsempfehlungen ableiten"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Niedersachsen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,103 Mio. Euro",
+    "funding_sum_eur": 1103000,
+    "funding_reference": "01VSF26017",
+    "themenfeld": "Transplantationsmedizinische Versorgung fördern – Erkennung und Meldung potenzieller postmortaler Organspender in den Krankenhäusern analysieren und Handlungsempfehlungen ableiten",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Deutsche Gesellschaft für Gewebetransplantation – gemeinnützige Gesellschaft mbH",
+        "(Dr. Anna-Katharina Salz)"
+      ],
+      "display": "Deutsche Gesellschaft für Gewebetransplantation – gemeinnützige Gesellschaft mbH | (Dr. Anna-Katharina Salz)",
+      "name": "Deutsche Gesellschaft für Gewebetransplantation – gemeinnützige Gesellschaft mbH",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Anna-Katharina Salz)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "AOK – Die Gesundheitskasse für Niedersachsen",
+      "Medizinische Hochschule Hannover"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 162,
     "slug": "pms-kids.162",
     "url": "https://innovationsfonds.g-ba.de/projekte/pms-kids.162",
@@ -53475,6 +55299,75 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/414/2023-05-12_PMS-KIDS_Ergebnisbericht.pdf"
       }
     ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 845,
+    "slug": "podium.845",
+    "url": "https://innovationsfonds.g-ba.de/projekte/podium.845",
+    "title": "PODIUM – Pediatric Organ Donor Identification and Unified Management",
+    "acronym": "PODIUM",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Hessen",
+      "Förderkennzeichen": "01VSF26019",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,961 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Transplantationsmedizinische Versorgung fördern – Erkennung und Meldung potenzieller postmortaler Organspender in den Krankenhäusern analysieren und Handlungsempfehlungen ableiten"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Hessen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,961 Mio. Euro",
+    "funding_sum_eur": 1961000,
+    "funding_reference": "01VSF26019",
+    "themenfeld": "Transplantationsmedizinische Versorgung fördern – Erkennung und Meldung potenzieller postmortaler Organspender in den Krankenhäusern analysieren und Handlungsempfehlungen ableiten",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Philipps-Universität Marburg",
+        "(Dr. Nadine Mand)"
+      ],
+      "display": "Philipps-Universität Marburg | (Dr. Nadine Mand)",
+      "name": "Philipps-Universität Marburg",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Nadine Mand)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "DAK-Gesundheit",
+      "Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin e. V.",
+      "Deutsche Stiftung Organtransplantation",
+      "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+      "Universitätsklinikum Essen",
+      "Universitätsklinikum Jena",
+      "Universitätsmedizin der Johannes-Gutenberg-Universität Mainz"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -53978,6 +55871,73 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/389/01VSF20027_PopGroup_Ergebnisbericht_Anlage_13_Basis-PopGroups_und_PopGroups.pdf"
       }
     ],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 870,
+    "slug": "popgroup-2-0.870",
+    "url": "https://innovationsfonds.g-ba.de/projekte/popgroup-2-0.870",
+    "title": "PopGroup 2.0 – Bedarfsorientierte Versorgungsstrukturplanung: Der PopGrouper als Steuerungsinstrument in der Krankenhausstrukturreform",
+    "acronym": "PopGroup 2.0",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Berlin",
+      "Förderkennzeichen": "01VSF26044",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 2,077 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Berlin"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 2,077 Mio. Euro",
+    "funding_sum_eur": 2077000,
+    "funding_reference": "01VSF26044",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Technische Universität Berlin",
+        "(Prof. Dr. Reinhard Busse)"
+      ],
+      "display": "Technische Universität Berlin | (Prof. Dr. Reinhard Busse)",
+      "name": "Technische Universität Berlin",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Reinhard Busse)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "AOK-Bundesverband eGbR",
+      "aQua-Institut für angewandte Qualitätsförderung und Forschung im Gesundheitswesen GmbH",
+      "Deutsches Krankenhausinstitut e. V.",
+      "OptiMedis AG",
+      "Universität Bayreuth"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -55070,6 +57030,71 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/127/01NVF20001%20Pr%C3%A4VaNet_Poster%20Arztpraxen.pdf"
       }
     ],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 839,
+    "slug": "praeventsucht.839",
+    "url": "https://innovationsfonds.g-ba.de/projekte/praeventsucht.839",
+    "title": "präventSucht – Strategien zur Primärprävention von Gesundheitsbeeinträchtigungen durch Suchtmittelkonsum",
+    "acronym": "präventSucht",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26013",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,254 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Analyse und Entwicklung von Interventionen zur Primärprävention von nichtübertragbaren Krankheiten im haus- sowie im kinder- und jugendärztlichen Setting"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,254 Mio. Euro",
+    "funding_sum_eur": 1254000,
+    "funding_reference": "01VSF26013",
+    "themenfeld": "Analyse und Entwicklung von Interventionen zur Primärprävention von nichtübertragbaren Krankheiten im haus- sowie im kinder- und jugendärztlichen Setting",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universität Duisburg-Essen",
+        "(Prof. Dr. Anja Neumann)"
+      ],
+      "display": "Universität Duisburg-Essen | (Prof. Dr. Anja Neumann)",
+      "name": "Universität Duisburg-Essen",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Anja Neumann)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "DAK-Gesundheit",
+      "Essener Forschungsinstitut für Medizinmanagement GmbH",
+      "IFT Institut für Therapieforschung gGmbH"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -56219,6 +58244,136 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/528/2024-02-14_PREMISE_Ergebnisbericht.pdf"
       }
     ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 856,
+    "slug": "prepare.856",
+    "url": "https://innovationsfonds.g-ba.de/projekte/prepare.856",
+    "title": "PREPARE – Präventionsorientierte Regionalanalysen zur Pflegevermeidung, Angebotsstruktur und Resilienzförderung in der Versorgung",
+    "acronym": "PREPARE",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26030",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,104 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,104 Mio. Euro",
+    "funding_sum_eur": 1104000,
+    "funding_reference": "01VSF26030",
+    "themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Essener Forschungsinstitut für Medizinmanagement GmbH",
+        "(Carsten Volland)"
+      ],
+      "display": "Essener Forschungsinstitut für Medizinmanagement GmbH | (Carsten Volland)",
+      "name": "Essener Forschungsinstitut für Medizinmanagement GmbH",
+      "email": null,
+      "phone": null,
+      "organization": "(Carsten Volland)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "DAK-Gesundheit",
+      "Universitätsklinikum Hamburg-Eppendorf"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 840,
+    "slug": "presatnt.840",
+    "url": "https://innovationsfonds.g-ba.de/projekte/presatnt.840",
+    "title": "Pres@nt – Umsetzbarkeit eines ressourcenstärkenden Programms zur Prävention und Früherkennung von Digitale-Medien-Nutzungsstörungen bei Kindern und Jugendlichen",
+    "acronym": "Pres@nt",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Hamburg",
+      "Förderkennzeichen": "01VSF26014",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,126 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Analyse und Entwicklung von Interventionen zur Primärprävention von nichtübertragbaren Krankheiten im haus- sowie im kinder- und jugendärztlichen Setting"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Hamburg"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,126 Mio. Euro",
+    "funding_sum_eur": 1126000,
+    "funding_reference": "01VSF26014",
+    "themenfeld": "Analyse und Entwicklung von Interventionen zur Primärprävention von nichtübertragbaren Krankheiten im haus- sowie im kinder- und jugendärztlichen Setting",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universitätsklinikum Hamburg-Eppendorf",
+        "(Dr. Kerstin Paschke)"
+      ],
+      "display": "Universitätsklinikum Hamburg-Eppendorf | (Dr. Kerstin Paschke)",
+      "name": "Universitätsklinikum Hamburg-Eppendorf",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Kerstin Paschke)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "BKK Landesverband Bayern",
+      "BVKJ-Service GmbH",
+      "DAK-Gesundheit",
+      "FINDER e. V."
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -57750,6 +59905,67 @@
     "is_neurology": false
   },
   {
+    "project_id": 875,
+    "slug": "prokontinenz-ii.875",
+    "url": "https://innovationsfonds.g-ba.de/projekte/prokontinenz-ii.875",
+    "title": "ProKontinenz II – Harninkontinenz in Deutschland – Versorgungslücken erkennen und schließen: Prävalenzerhebung und Evaluation eines digitalen Unterstützungsangebots",
+    "acronym": "ProKontinenz II",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Sachsen",
+      "Förderkennzeichen": "01VSF26048",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 551.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Sachsen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 551.000 Euro",
+    "funding_sum_eur": 551000,
+    "funding_reference": "01VSF26048",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Technische Universität Dresden",
+        "(Dr. Martin Baunacke)"
+      ],
+      "display": "Technische Universität Dresden | (Dr. Martin Baunacke)",
+      "name": "Technische Universität Dresden",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Martin Baunacke)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 455,
     "slug": "promchronic.455",
     "url": "https://innovationsfonds.g-ba.de/projekte/promchronic.455",
@@ -58575,6 +60791,70 @@
         "stationäre Versorgung"
       ]
     },
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 847,
+    "slug": "prosper.847",
+    "url": "https://innovationsfonds.g-ba.de/projekte/prosper.847",
+    "title": "PROSPER – Prozessorientierte Analyse der Erfolgsfaktoren und Herausforderungen für ein nationales Never Event-Register als Fehlermelde- und Lernsystem",
+    "acronym": "PROSPER",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Rheinland-Pfalz",
+      "Förderkennzeichen": "01VSF26021",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 966.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Versorgungsforschung zur Entwicklung und Erprobung eines bundesweiten Never Event Registers als Fehlermelde- und Lernsystem"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Rheinland-Pfalz"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 966.000 Euro",
+    "funding_sum_eur": 966000,
+    "funding_reference": "01VSF26021",
+    "themenfeld": "Versorgungsforschung zur Entwicklung und Erprobung eines bundesweiten Never Event Registers als Fehlermelde- und Lernsystem",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "IDG Institut für digitale Gesundheitsdaten RLP gGmbH",
+        "(Dr. Katja Schwarzer)"
+      ],
+      "display": "IDG Institut für digitale Gesundheitsdaten RLP gGmbH | (Dr. Katja Schwarzer)",
+      "name": "IDG Institut für digitale Gesundheitsdaten RLP gGmbH",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Katja Schwarzer)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+      "Universitätsklinikum Frankfurt"
+    ],
+    "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
     "additional_documents": [],
@@ -60294,9 +62574,10 @@
       "Laufzeit": "01/2020 – 12/2022",
       "Status": "beendet",
       "Transferempfehlung": "keine Empfehlung",
-      "Einsatz von Arzneimitteln": "Medikationsmanagement",
-      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Früherkennung",
-      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV)"
+      "E-Health": "Big Data und Gesundheitsdatenanalyse , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
+      "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Medikationsmanagement , Multimedikation / Polypharmazie , unerwünschte Arzneimittelwirkungen",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Früherkennung , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Screeninginstrumente oder -verfahren",
+      "Versorgungsmodelle und Behandlungsprogramme": "Integrierte Versorgung (IV) , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit"
     },
     "funding_info": {
       "Förderbereich": "Neue Versorgungsformen",
@@ -60564,6 +62845,67 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/723/2024-11-21_QualiPRO_Ergebnisbericht.pdf"
       }
     ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 877,
+    "slug": "qualitrans.877",
+    "url": "https://innovationsfonds.g-ba.de/projekte/qualitrans.877",
+    "title": "qualiTRANS – Entwicklung und Validierung von Qualitätsindikatoren für die interdisziplinäre Versorgung von Trans*-Menschen mit krankheitswertigem Leidensdruck",
+    "acronym": "qualiTRANS",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Berlin",
+      "Förderkennzeichen": "01VSF26050",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,294 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Berlin"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,294 Mio. Euro",
+    "funding_sum_eur": 1294000,
+    "funding_reference": "01VSF26050",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Charité – Universitätsmedizin Berlin",
+        "(Prof. Dr. Klaus Michael Beier)"
+      ],
+      "display": "Charité – Universitätsmedizin Berlin | (Prof. Dr. Klaus Michael Beier)",
+      "name": "Charité – Universitätsmedizin Berlin",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Klaus Michael Beier)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -61080,6 +63422,72 @@
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
     "is_neurology": true
+  },
+  {
+    "project_id": 867,
+    "slug": "rapid-pen.867",
+    "url": "https://innovationsfonds.g-ba.de/projekte/rapid-pen.867",
+    "title": "RAPID-PEN – Risikostratifizierte Abklärung einer angegebenen Penicillinallergie in der ambulanten Versorgung",
+    "acronym": "RAPID-PEN",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26041",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 995.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 995.000 Euro",
+    "funding_sum_eur": 995000,
+    "funding_reference": "01VSF26041",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universität zu Köln",
+        "(Dr. Lukas Tometten)"
+      ],
+      "display": "Universität zu Köln | (Dr. Lukas Tometten)",
+      "name": "Universität zu Köln",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Lukas Tometten)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Christian-Albrechts-Universität zu Kiel",
+      "DAK-Gesundheit",
+      "Georg-August-Universität Göttingen",
+      "Rheinische Friedrich-Wilhelms-Universität Bonn"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
   },
   {
     "project_id": 461,
@@ -61671,7 +64079,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Brandenburg",
       "Förderkennzeichen": "01VSF22036",
-      "Laufzeit": "03/2023 – 08/2026",
+      "Laufzeit": "03/2023 – 12/2026",
       "Status": "laufend",
       "E-Health": "Big Data und Gesundheitsdatenanalyse",
       "Einsatz von Arzneimitteln": "Medikationsmanagement , Multimedikation / Polypharmazie , Off-Label-Use",
@@ -61704,9 +64112,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "03/2023 – 08/2026",
+    "duration_raw": "03/2023 – 12/2026",
     "start_date": "2023-03",
-    "end_date": "2026-08",
+    "end_date": "2026-12",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 1,7 Mio. Euro",
     "funding_sum_eur": 1700000,
@@ -61715,7 +64123,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "07.06.2021",
-    "description": "Immer mehr Menschen erreichen ein hohes Alter, damit steigt aber auch der Anteil an Menschen mit altersassoziierten Erkrankungen wie Demenzen. In Deutschland gibt es aktuell rund 1,6 Millionen Menschen mit Demenz, und es ist zu erwarten, dass dieser Anteil in den kommenden Jahren weiter steigt. Menschen mit Demenz sind auf eine komplexe, interprofessionelle und sektorenübergreifende Versorgung angewiesen. Allerdings werden bislang nicht alle Betroffenen leitliniengerecht versorgt. Zudem gibt es große regionale Unterschiede bei der Versorgung der Betroffenen, etwa beim Angebot und in der Qualität der Versorgungsleistungen.\n\nDas Projekt RegioDem widmet sich daher gezielt den regionalen Unterschieden in der Versorgungsqualität und den Versorgungskosten von Menschen mit Demenz. Dazu wird die Gesundheitsversorgung kleinräumig betrachtet, um Unterschiede in der Versorgung, deren Ursachen und Konsequenzen zu identifizieren.\n\nUm dieses Ziel zu erreichen, gehen die Projektpartner in drei aufeinander aufbauenden Schritten vor. Zunächst erfassen sie bundesweit Routinedaten von gesetzlichen Krankenversicherern, um regional-spezifische Versorgungsvariationen von Menschen mit Demenz zu identifizieren. Anschließend analysieren sie diese Aspekte vertieft in ausgewählten Regionen. Danach werden die gewonnenen Erkenntnisse zusammengeführt und Handlungsempfehlungen für eine bedarfs- und regionalgerechte Versorgungsplanung abgeleitet. Das Projekt wird für 42 Monate mit insgesamt ca. 1,7 Millionen Euro gefördert.\n\nIm Erfolgsfall liefern die Ergebnisse des Projektes eine wichtige Grundlage, Menschen mit Demenz über die gesetzliche Krankenversicherung besser zu versorgen.",
+    "description": "Immer mehr Menschen erreichen ein hohes Alter, damit steigt aber auch der Anteil an Menschen mit altersassoziierten Erkrankungen wie Demenzen. In Deutschland gibt es aktuell rund 1,6 Millionen Menschen mit Demenz, und es ist zu erwarten, dass dieser Anteil in den kommenden Jahren weiter steigt. Menschen mit Demenz sind auf eine komplexe, interprofessionelle und sektorenübergreifende Versorgung angewiesen. Allerdings werden bislang nicht alle Betroffenen leitliniengerecht versorgt. Zudem gibt es große regionale Unterschiede bei der Versorgung der Betroffenen, etwa beim Angebot und in der Qualität der Versorgungsleistungen.\n\nDas Projekt RegioDem widmet sich daher gezielt den regionalen Unterschieden in der Versorgungsqualität und den Versorgungskosten von Menschen mit Demenz. Dazu wird die Gesundheitsversorgung kleinräumig betrachtet, um Unterschiede in der Versorgung, deren Ursachen und Konsequenzen zu identifizieren.\n\nUm dieses Ziel zu erreichen, gehen die Projektpartner in drei aufeinander aufbauenden Schritten vor. Zunächst erfassen sie bundesweit Routinedaten von gesetzlichen Krankenversicherern, um regional-spezifische Versorgungsvariationen von Menschen mit Demenz zu identifizieren. Anschließend analysieren sie diese Aspekte vertieft in ausgewählten Regionen. Danach werden die gewonnenen Erkenntnisse zusammengeführt und Handlungsempfehlungen für eine bedarfs- und regionalgerechte Versorgungsplanung abgeleitet. Das Projekt wird für 46 Monate mit insgesamt ca. 1,7 Millionen Euro gefördert.\n\nIm Erfolgsfall liefern die Ergebnisse des Projektes eine wichtige Grundlage, Menschen mit Demenz über die gesetzliche Krankenversicherung besser zu versorgen.",
     "project_websites": [
       "https://www.mhb-fontane.de/de/regiodem"
     ],
@@ -63232,6 +65640,69 @@
     "is_neurology": false
   },
   {
+    "project_id": 878,
+    "slug": "ricarga.878",
+    "url": "https://innovationsfonds.g-ba.de/projekte/ricarga.878",
+    "title": "RICARGA – Identifikation von spezifischen Risikofaktoren für eine Kolonisation mit Carbapenem-resistenten gramnegativen Bakterien oder Candidozyma auris bei Patienten mit Kontakt zum Gesundheitswesen im Ausland",
+    "acronym": "RICARGA",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Berlin",
+      "Förderkennzeichen": "01VSF26051",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 907.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Berlin"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 907.000 Euro",
+    "funding_sum_eur": 907000,
+    "funding_reference": "01VSF26051",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Charité – Universitätsmedizin Berlin",
+        "(Prof. Dr. Christine Geffers)"
+      ],
+      "display": "Charité – Universitätsmedizin Berlin | (Prof. Dr. Christine Geffers)",
+      "name": "Charité – Universitätsmedizin Berlin",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Christine Geffers)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Vivantes – Netzwerk für Gesundheit GmbH"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 213,
     "slug": "ride-ppi.213",
     "url": "https://innovationsfonds.g-ba.de/projekte/ride-ppi.213",
@@ -63332,6 +65803,70 @@
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
     "is_neurology": true
+  },
+  {
+    "project_id": 879,
+    "slug": "rise.879",
+    "url": "https://innovationsfonds.g-ba.de/projekte/rise.879",
+    "title": "RiSE – Reduktion inadäquaten Schlafmittelgebrauchs durch Patienten-Empowerment",
+    "acronym": "RiSE",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Bayern",
+      "Förderkennzeichen": "01VSF26052",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 928.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Bayern"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 928.000 Euro",
+    "funding_sum_eur": 928000,
+    "funding_reference": "01VSF26052",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "LMU Klinikum München",
+        "(Prof. Dr.Tobias Dreischulte)"
+      ],
+      "display": "LMU Klinikum München | (Prof. Dr.Tobias Dreischulte)",
+      "name": "LMU Klinikum München",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr.Tobias Dreischulte)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "aQua-Institut für angewandte Qualitätsförderung und Forschung im Gesundheitswesen GmbH",
+      "BARMER"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
   },
   {
     "project_id": 72,
@@ -66014,6 +68549,67 @@
     "is_neurology": true
   },
   {
+    "project_id": 848,
+    "slug": "safer.848",
+    "url": "https://innovationsfonds.g-ba.de/projekte/safer.848",
+    "title": "SAFER – Systematische Analyse Für Ereignisprävention und Risikoabschätzung. Integration von KI und Gruppenintelligenz zur Schwachstellenprognose im Gesundheitssystem",
+    "acronym": "SAFER",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Thüringen",
+      "Förderkennzeichen": "01VSF26022",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 843.000 Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Versorgungsforschung zur Entwicklung und Erprobung eines bundesweiten Never Event Registers als Fehlermelde- und Lernsystem"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Thüringen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 843.000 Euro",
+    "funding_sum_eur": 843000,
+    "funding_reference": "01VSF26022",
+    "themenfeld": "Versorgungsforschung zur Entwicklung und Erprobung eines bundesweiten Never Event Registers als Fehlermelde- und Lernsystem",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universitätsklinikum Jena",
+        "(Dr. Petra Dickmann)"
+      ],
+      "display": "Universitätsklinikum Jena | (Dr. Petra Dickmann)",
+      "name": "Universitätsklinikum Jena",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Petra Dickmann)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 693,
     "slug": "safety.693",
     "url": "https://innovationsfonds.g-ba.de/projekte/safety.693",
@@ -68619,6 +71215,70 @@
     "is_neurology": false
   },
   {
+    "project_id": 871,
+    "slug": "sgsm-pain.871",
+    "url": "https://innovationsfonds.g-ba.de/projekte/sgsm-pain.871",
+    "title": "SGSM-Pain – Geschlechtersensibles patient*innenzentriertes Management chronischer Rückenschmerzen",
+    "acronym": "SGSM-Pain",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26045",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,665 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,665 Mio. Euro",
+    "funding_sum_eur": 1665000,
+    "funding_reference": "01VSF26045",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universität Bielefeld",
+        "(Prof. Dr. Sabine Oertelt-Prigione)"
+      ],
+      "display": "Universität Bielefeld | (Prof. Dr. Sabine Oertelt-Prigione)",
+      "name": "Universität Bielefeld",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Sabine Oertelt-Prigione)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "AOK-Bundesverband eGbR",
+      "Private Universität Witten/Herdecke gGmbH"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 496,
     "slug": "sicheregeburt.496",
     "url": "https://innovationsfonds.g-ba.de/projekte/sicheregeburt.496",
@@ -69924,6 +72584,72 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/105/01NVF18025%20SmartAssistEntz_%C3%9Cberblick_Grafik.pdf"
       }
     ],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 858,
+    "slug": "smartcareathome.858",
+    "url": "https://innovationsfonds.g-ba.de/projekte/smartcareathome.858",
+    "title": "SmartCare@Home – Versorgungsforschungsstudie zur Machbarkeit, Wirksamkeit und Übertragbarkeit eines integrierten Hospital-at-Home-Akutversorgungsmodell für ältere Menschen",
+    "acronym": "SmartCare@Home",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Brandenburg",
+      "Förderkennzeichen": "01VSF26032",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 2,777 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Brandenburg"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 2,777 Mio. Euro",
+    "funding_sum_eur": 2777000,
+    "funding_reference": "01VSF26032",
+    "themenfeld": "Gesundheitliche Versorgung von Pflegebedürftigen in der Regionalperspektive",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Medizinische Universität Lausitz – Carl Thiem",
+        "(Dr. Anne Sophie Platzbecker)"
+      ],
+      "display": "Medizinische Universität Lausitz – Carl Thiem | (Dr. Anne Sophie Platzbecker)",
+      "name": "Medizinische Universität Lausitz – Carl Thiem",
+      "email": null,
+      "phone": null,
+      "organization": "(Dr. Anne Sophie Platzbecker)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "BKK mkk – meine krankenkasse",
+      "Hasso-Plattner-Institut für Digital Engineering gGmbH",
+      "inav – privates Institut für angewandte Versorgungsforschung GmbH",
+      "Technische Universität Dresden"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -76025,6 +78751,78 @@
     "is_neurology": false
   },
   {
+    "project_id": 868,
+    "slug": "translife.868",
+    "url": "https://innovationsfonds.g-ba.de/projekte/translife.868",
+    "title": "TransLife – Längsschnitt-Studie zur psychischen Gesundheit von Kindern und jungen Menschen bis 21 Jahren mit diagnostizierter Geschlechtsinkongruenz (nach ICD-11) im Verlauf leitliniengerechter Behandlung im Kontext hierfür spezialisierter Versorgungsangebote",
+    "acronym": "TransLife",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26042",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 2,581 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 2,581 Mio. Euro",
+    "funding_sum_eur": 2581000,
+    "funding_reference": "01VSF26042",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universität Münster",
+        "(Prof. Dr. Georg Romer)"
+      ],
+      "display": "Universität Münster | (Prof. Dr. Georg Romer)",
+      "name": "Universität Münster",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Georg Romer)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Albert-Ludwigs-Universität Freiburg",
+      "Charité - Universitätsmedizin Berlin",
+      "Freie Universität Berlin",
+      "Medivision Betriebsgesellschaft mbH",
+      "Praxisgemeinschaft am evangelischen Krankenhaus",
+      "Universität Bielefeld",
+      "Universitätsklinikum Aachen",
+      "Universitätsklinikum Ulm",
+      "Universitätsmedizin Greifswald",
+      "Zentrum für Integrative Psychiatrie ZIP gGmbH"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 691,
     "slug": "transparent.691",
     "url": "https://innovationsfonds.g-ba.de/projekte/transparent.691",
@@ -76190,6 +78988,70 @@
     "consortium_partners": [
       "Friedrich-Alexander-Universität Erlangen-Nürnberg",
       "Technische Universität Dresden"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 844,
+    "slug": "transplant.844",
+    "url": "https://innovationsfonds.g-ba.de/projekte/transplant.844",
+    "title": "Transplant+ – Förderung der Identifikation potenzieller Organspender und Steigerung der realisierten postmortalen Organspenden",
+    "acronym": "Transplant+",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26018",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,245 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Transplantationsmedizinische Versorgung fördern – Erkennung und Meldung potenzieller postmortaler Organspender in den Krankenhäusern analysieren und Handlungsempfehlungen ableiten"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,245 Mio. Euro",
+    "funding_sum_eur": 1245000,
+    "funding_reference": "01VSF26018",
+    "themenfeld": "Transplantationsmedizinische Versorgung fördern – Erkennung und Meldung potenzieller postmortaler Organspender in den Krankenhäusern analysieren und Handlungsempfehlungen ableiten",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universität Duisburg-Essen",
+        "(Prof. Dr. Anja Neumann)"
+      ],
+      "display": "Universität Duisburg-Essen | (Prof. Dr. Anja Neumann)",
+      "name": "Universität Duisburg-Essen",
+      "email": null,
+      "phone": null,
+      "organization": "(Prof. Dr. Anja Neumann)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "Deutsche Stiftung Organtransplantation",
+      "Essener Forschungsinstitut für Medizinmanagement GmbH"
     ],
     "essential_elements": {},
     "decision_date": null,
@@ -80105,6 +82967,73 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/817/2025-03-21_WOLGA_Ergebnisbericht.pdf"
       }
     ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
+    "project_id": 859,
+    "slug": "youseeme.859",
+    "url": "https://innovationsfonds.g-ba.de/projekte/youseeme.859",
+    "title": "YouSeeMe – Früherkennung und Versorgung von Augenerkrankungen bei Kindern und Jugendlichen verstehen und verbessern",
+    "acronym": "YouSeeMe",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF26033",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,475 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Versorgungsforschung zur Verbesserung der Versorgung von Menschen mit Augenerkrankungen"
+    },
+    "thematic_focuses": [],
+    "target_groups": [],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "",
+    "status": "laufend",
+    "duration_raw": "",
+    "start_date": null,
+    "end_date": null,
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,475 Mio. Euro",
+    "funding_sum_eur": 1475000,
+    "funding_reference": "01VSF26033",
+    "themenfeld": "Versorgungsforschung zur Verbesserung der Versorgung von Menschen mit Augenerkrankungen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Projektbeschreibung",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Universität zu Köln",
+        "(Ingo Meyer)"
+      ],
+      "display": "Universität zu Köln | (Ingo Meyer)",
+      "name": "Universität zu Köln",
+      "email": null,
+      "phone": null,
+      "organization": "(Ingo Meyer)"
+    },
+    "project_lead_city": null,
+    "consortium_partners": [
+      "DAK-Gesundheit",
+      "GWQ ServicePlus AG",
+      "Private Universität Witten/Herdecke gGmbH",
+      "Pronova BKK",
+      "Universität Bielefeld"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-08T06:57:31+00:00",
+  "generatedAt": "2026-06-15T07:05:04+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
-    "projectCount": 815,
+    "projectCount": 860,
     "neurologyCount": 170,
     "neurologyFilterUrl": "https://innovationsfonds.g-ba.de/projekte/?projektname=&themenschwerpunkt=neurologische+Erkrankungen&zielgruppe=&projektelemente%5BprojektelementGruppe%5D=&projektelemente%5Bprojektelement%5D=&foerderbereich%5Bfoerderbereich%5D=&foerderbereich%5Bfoerderverfahren%5D=&versorgungsbereich=&bundesland=&status%5Bstatus%5D=&status%5Btransferempfehlung%5D=&sort=projekt.akronym&direction=asc"
   },
   "overview": {
-    "totalProjectsScraped": 815,
+    "totalProjectsScraped": 860,
     "neurologyProjects": 170,
     "onlineFilterNeurologyProjects": 170,
     "explicitNeurologyProjects": 170,
@@ -33,7 +33,7 @@
       "filename": "projects_all.json",
       "label": "Alle Projekte",
       "format": "JSON",
-      "size": "4.7 MB"
+      "size": "4.8 MB"
     },
     {
       "href": "./downloads/projects_all.csv",
@@ -10986,7 +10986,7 @@
       "acronym": "RegioDem",
       "url": "https://innovationsfonds.g-ba.de/projekte/regiodem.546",
       "summary": "Immer mehr Menschen erreichen ein hohes Alter, damit steigt aber auch der Anteil an Menschen mit altersassoziierten Erkrankungen wie Demenzen.",
-      "description": "Immer mehr Menschen erreichen ein hohes Alter, damit steigt aber auch der Anteil an Menschen mit altersassoziierten Erkrankungen wie Demenzen. In Deutschland gibt es aktuell rund 1,6 Millionen Menschen mit Demenz, und es ist zu erwarten, dass dieser Anteil in den kommenden Jahren weiter steigt. Menschen mit Demenz sind auf eine komplexe, interprofessionelle und sektorenübergreifende Versorgung angewiesen. Allerdings werden bislang nicht alle Betroffenen leitliniengerecht versorgt. Zudem gibt es große regionale Unterschiede bei der Versorgung der Betroffenen, etwa beim Angebot und in der Qualität der Versorgungsleistungen.\n\nDas Projekt RegioDem widmet sich daher gezielt den regionalen Unterschieden in der Versorgungsqualität und den Versorgungskosten von Menschen mit Demenz. Dazu wird die Gesundheitsversorgung kleinräumig betrachtet, um Unterschiede in der Versorgung, deren Ursachen und Konsequenzen zu identifizieren.\n\nUm dieses Ziel zu erreichen, gehen die Projektpartner in drei aufeinander aufbauenden Schritten vor. Zunächst erfassen sie bundesweit Routinedaten von gesetzlichen Krankenversicherern, um regional-spezifische Versorgungsvariationen von Menschen mit Demenz zu identifizieren. Anschließend analysieren sie diese Aspekte vertieft in ausgewählten Regionen. Danach werden die gewonnenen Erkenntnisse zusammengeführt und Handlungsempfehlungen für eine bedarfs- und regionalgerechte Versorgungsplanung abgeleitet. Das Projekt wird für 42 Monate mit insgesamt ca. 1,7 Millionen Euro gefördert.\n\nIm Erfolgsfall liefern die Ergebnisse des Projektes eine wichtige Grundlage, Menschen mit Demenz über die gesetzliche Krankenversicherung besser zu versorgen.",
+      "description": "Immer mehr Menschen erreichen ein hohes Alter, damit steigt aber auch der Anteil an Menschen mit altersassoziierten Erkrankungen wie Demenzen. In Deutschland gibt es aktuell rund 1,6 Millionen Menschen mit Demenz, und es ist zu erwarten, dass dieser Anteil in den kommenden Jahren weiter steigt. Menschen mit Demenz sind auf eine komplexe, interprofessionelle und sektorenübergreifende Versorgung angewiesen. Allerdings werden bislang nicht alle Betroffenen leitliniengerecht versorgt. Zudem gibt es große regionale Unterschiede bei der Versorgung der Betroffenen, etwa beim Angebot und in der Qualität der Versorgungsleistungen.\n\nDas Projekt RegioDem widmet sich daher gezielt den regionalen Unterschieden in der Versorgungsqualität und den Versorgungskosten von Menschen mit Demenz. Dazu wird die Gesundheitsversorgung kleinräumig betrachtet, um Unterschiede in der Versorgung, deren Ursachen und Konsequenzen zu identifizieren.\n\nUm dieses Ziel zu erreichen, gehen die Projektpartner in drei aufeinander aufbauenden Schritten vor. Zunächst erfassen sie bundesweit Routinedaten von gesetzlichen Krankenversicherern, um regional-spezifische Versorgungsvariationen von Menschen mit Demenz zu identifizieren. Anschließend analysieren sie diese Aspekte vertieft in ausgewählten Regionen. Danach werden die gewonnenen Erkenntnisse zusammengeführt und Handlungsempfehlungen für eine bedarfs- und regionalgerechte Versorgungsplanung abgeleitet. Das Projekt wird für 46 Monate mit insgesamt ca. 1,7 Millionen Euro gefördert.\n\nIm Erfolgsfall liefern die Ergebnisse des Projektes eine wichtige Grundlage, Menschen mit Demenz über die gesetzliche Krankenversicherung besser zu versorgen.",
       "status": "laufend",
       "states": [
         "Brandenburg"
@@ -11013,9 +11013,9 @@
       "fundingProcess": "Versorgungsforschung",
       "fundingSumLabel": "ca. 1,7 Mio. Euro",
       "fundingSumEur": 1700000,
-      "duration": "03/2023 – 08/2026",
+      "duration": "03/2023 – 12/2026",
       "startDate": "2023-03",
-      "endDate": "2026-08",
+      "endDate": "2026-12",
       "transferRecommendation": "",
       "projectLead": {
         "raw_lines": [
