@@ -1,5 +1,5 @@
 window.GBA_NEUROLOGY_DATA = {
-  "generatedAt": "2026-06-22T07:06:55+00:00",
+  "generatedAt": "2026-06-29T06:57:39+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 860,
@@ -6801,7 +6801,7 @@ window.GBA_NEUROLOGY_DATA = {
       "projectLeadCity": "Köln",
       "partners": [],
       "projectWebsites": [
-        "https://www.imvr.de/lehrstuhl-fuer-rehabilitationswissenschaft/#maibest"
+        "https://www.imvr.de/lehrstuhl-fuer-versorgungsforschung-in-der-rehabilitation/#maibest"
       ],
       "decisionDate": null,
       "documents": [],
@@ -8369,7 +8369,7 @@ window.GBA_NEUROLOGY_DATA = {
       "projectLeadCity": "München",
       "partners": [],
       "projectWebsites": [
-        "https://www.medizin.uni-greifswald.de/optiniv/index.php?id=376"
+        "https://www.unimedizin-greifswald.de/optiniv/index.php?id=376"
       ],
       "decisionDate": null,
       "documents": [],

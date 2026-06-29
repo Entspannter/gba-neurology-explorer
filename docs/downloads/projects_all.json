@@ -270,8 +270,12 @@
     "acronym": "AAAKUT-GFP",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkt": "Notfälle, Verletzung und Vergiftungen",
+      "Zielgruppe": "Erwachsene",
+      "Versorgungsbereich": "ambulant",
       "Bundesland": "Hamburg",
       "Förderkennzeichen": "01VSF26011",
+      "Laufzeit": "01/2027 – 06/2029",
       "Status": "laufend"
     },
     "funding_info": {
@@ -281,16 +285,21 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien zur Erstversorgung durch nichtärztliches medizinisches Fachpersonal und strukturierte Abfrage zur Steuerung von Patientinnen und Patienten in der Notfall- und Akutmedizin"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Notfälle",
+      "Verletzung und Vergiftungen"
+    ],
+    "target_groups": [
+      "Erwachsene"
+    ],
     "states": [
       "Hamburg"
     ],
-    "care_setting": "",
+    "care_setting": "ambulant",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "01/2027 – 06/2029",
+    "start_date": "2027-01",
+    "end_date": "2029-06",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 564.000 Euro",
     "funding_sum_eur": 564000,
@@ -299,25 +308,39 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "Der Fachkräftemangel im Gesundheitswesen, die zunehmend eingeschränkten ärztlichen Ressourcen, der steigende Kostendruck sowie die alternde Bevölkerung mit wachsendem Versorgungsbedarf stellen Deutschland vor die Herausforderung, auch zukünftig eine qualitativ hochwertige und zugleich effiziente Versorgung sicherzustellen. Eine Möglichkeit, diese Herausforderung zu bewältigen, ist die Übertragung ärztlicher Aufgaben an qualifizierte nicht-ärztliche Gesundheitsfachkräfte.\n\nDas Ziel von AAAKUT-GFP besteht daher darin, eine S3-Leitlinie zu entwickeln, die Empfehlungen zu übertragbaren Aufgaben und Kompetenzanforderungen an nichtärztliche Fachpersonen in der aufsuchenden ambulanten Akut- und Notfallversorgung formuliert. Dabei werden folgende Fragen beantwortet: (1) Welche Tätigkeiten können übertragen werden? (2) Welche Kenntnisse, Fertigkeiten und Haltungen sind erforderlich? (3) Welche organisatorischen, rechtlichen und ethischen Rahmenbedingungen müssen gelten?\n\nDie Leitlinie wird gemäß dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF) erstellt. Neben den relevanten Fachgesellschaften und Organisationen wie Berufsverbänden werden auch Patientenvertretungen an der Leitlinienentwicklung mitwirken. Zunächst werden Schlüsselfragen nach dem sogenannten PICO-Schema (Patient, Intervention, Comparison, Outcome) formuliert, um Suchbegriffe für die Literaturrecherche abzuleiten. Im Anschluss erfolgt eine systematische Literaturrecherche und -bewertung. Auf dieser Grundlage werden handlungsleitende Empfehlungen erarbeitet und in einem strukturierten Verfahren konsentiert. Die Ergebnisse fließen in die Erstellung der endgültigen Leitlinie ein.\n\nDas Projekt wird für zweieinhalb Jahre mit insgesamt ca. 564.000 Euro gefördert.\n\nIm Erfolgsfall trägt die Leitlinie dazu bei, die Versorgung, die Patientensicherheit und die Bedarfsgerechtigkeit in der ambulanten Akut- und Notfallversorgung zu verbessern und zugleich die Effizienz zu steigern.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Prof. Dr. Martin Scherer",
         "Universitätsklinikum Hamburg-Eppendorf",
-        "(Prof. Dr. Martin Scherer)"
+        "Institut und Poliklinik für Allgemeinmedizin",
+        "Martinistraße 52",
+        "20246 Hamburg",
+        "+49 40 741052400",
+        "m.scherer@uke.de"
       ],
-      "display": "Universitätsklinikum Hamburg-Eppendorf | (Prof. Dr. Martin Scherer)",
-      "name": "Universitätsklinikum Hamburg-Eppendorf",
-      "email": null,
-      "phone": null,
-      "organization": "(Prof. Dr. Martin Scherer)"
+      "display": "Prof. Dr. Martin Scherer | Universitätsklinikum Hamburg-Eppendorf | Institut und Poliklinik für Allgemeinmedizin | Martinistraße 52 | 20246 Hamburg | +49 40 741052400 | m.scherer@uke.de",
+      "name": "Prof. Dr. Martin Scherer",
+      "email": "m.scherer@uke.de",
+      "phone": "+49 40 741052400",
+      "postal_code": "20246",
+      "city": "Hamburg",
+      "organization": "Universitätsklinikum Hamburg-Eppendorf",
+      "department": "Institut und Poliklinik für Allgemeinmedizin",
+      "street": "Martinistraße 52"
     },
-    "project_lead_city": null,
+    "project_lead_city": "Hamburg",
     "consortium_partners": [
       "Medizinische Hochschule Hannover",
       "Zentralinstitut für die Kassenärztliche Versorgung in der Bundesrepublik Deutschland"
     ],
-    "essential_elements": {},
+    "essential_elements": {
+      "Qualifikation und Delegation": [
+        "Delegation ärztlicher Leistungen",
+        "Substitution ärztlicher Leistungen"
+      ]
+    },
     "decision_date": null,
     "result_documents": [],
     "additional_documents": [],
@@ -1005,9 +1028,7 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
     "description": "Über die Hälfte der deutschen Bevölkerung bewegt sich zu wenig. Bewegungsmangel ist - neben ungesunder Ernährung - die Hauptursache für Adipositas, Diabetes Typ-2, Fettleber etc. Regelmäßige körperliche Aktivität ist eine der wirkungsvollsten und kostengünstigsten Maßnahmen bei Prävention und Therapie vieler chronischer Erkrankungen. Obwohl Sport und Bewegung in medizinischen Leitlinien immer wieder empfohlen werden, und trotz zahlloser Gesundheitskampagnen, gelingt die dauerhafte Lebensstiländerung zu selten.\n\nEine Erklärung für das häufige Scheitern kann im Fehlen wichtiger Kenndaten zur adressatengerechten und nachhaltigen Gesundheitsförderung durch Krankenversicherungen liegen. Dazu gehören z. B. genauere Kenntnisse über Bewegungshemmnisse, aber auch über Attraktoren und Motive für Sport. Diese können sich bei Individuen - trotz gleichem Alter, Bildung, Geschlecht - erheblich unterscheiden und durch andere Faktoren (z. B. persönliches Umfeld und Einstellung, Biografie, Gesundheit, Arbeit, Stress) bedingt sein.\n\nIm Projekt ActIv-KV fokussiert ein Forschungsverbund zunächst den Vergleich von vier Gruppen mit unterschiedlichem Sportstatus: (1) Niemals-Sporttreibende, (2) Ex-Sporttreibende, (3) Sporteinsteiger und (4) Immer-Sporttreibende. Mithilfe der ActIv-Befragung werden Angaben zu Gesundheit, körperlichen Aktivitäten, Ernährung, Schlaf, Sportmotiven und -barrieren erhoben. Der Vergleich erfolgt über zueinander passende alters- und geschlechtsbezogene Subgruppen.\n\nZiel ist es (i) präventionsrelevante Gruppenunterschiede zu ermitteln und (ii) Items zu identifizieren, die sich zur Vorhersage z. B. Zugänglichkeit für Bewegungsangebote und Änderungsbereitschaft eignen. Daraus soll das benutzerfreundliche Kurzfrage-Tool ActIv-KV entwickelt werden, mit dessen Hilfe ein adressatengerecht zugeschnittenes Bewegungsangebot erarbeitet werden kann. Die Prüfung des Kurzfrage-Tools erfolgt über einen Ergebnisvergleich mit der ActIv-Langfassung. Das Projekt wird für dreieinhalb Jahre mit ca. einer Million Euro gefördert.\n\nBei erfolgreichem Projektverlauf kann das Kurzfrage-Tool ActIv-KV zur zielgruppenspezifischen Bewegungsförderung von körperlich inaktiven Personengruppen genutzt werden.",
-    "project_websites": [
-      "https://www.dshs-koeln.de/activ-kv-projekt/activ-kv/"
-    ],
+    "project_websites": [],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Stephanie Klatt",
@@ -12230,7 +12251,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "30.06.2023",
-    "description": "Um mögliche Schilddrüsenerkrankungen abzuklären, werden rund ein Drittel der Labortests nicht leitliniengerecht vorgenommen und Ultraschalluntersuchungen häufig zu früh eingesetzt. Die Wahrscheinlichkeit, einen Schilddrüsenknoten zu finden, ist dabei hoch und liegt Studien zufolge bei bis zu 70 Prozent. Fast alle Knoten sind gutartig und gesundheitlich unproblematisch, ihre Entdeckung führt aber häufig zu unnötigen Folgeuntersuchungen sowie Therapien und kann die Betroffenen stark verunsichern. Bislang fehlt ein Verfahren zur korrekten Risikoabwägung bei Diagnoseuntersuchungen und der entsprechenden Kommunikation mit den Betroffenen.\n\nDas Projektteam DIAMANT-SD möchte dazu beitragen, dass die Notwendigkeit und die Risiken von diagnostischen Tests mit größerer Sicherheit beurteilt werden. Dazu wird eine Diagnostik-Box (Intervention) aus Arzt- und Patientensicht entwickelt und deren Machbarkeit geprüft. Sie besteht unter anderem aus Elementen wie Schulung zur Diagnostik, Überdiagnostik sowie Risikokommunikation, Informationsmaterialien für Patientinnen und Patienten und einem Instrument zur Risikokommunikation bei Ultraschalluntersuchungen. Fünfzehn Arztpraxen erhalten eine Schulung und anschließend Zugang zur Diagnostik-Box, um diese zu testen. Sechs Monate lang werden diese Interventionspraxen dazu angehalten, die Elemente gezielt im Praxisalltag zu nutzen und ihre Erfahrungen zu dokumentieren. Fünfzehn weitere Kontrollpraxen erhalten keine zusätzlichen Informationen bezüglich schilddrüsenbezogener Diagnostik. Nach einem halben Jahr wird evaluiert, ob die Diagnostik-Box dazu beiträgt, die Notwendigkeit und Risiken diagnostischer Tests mit größerer Sicherheit zu beurteilen.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,5 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die Diagnostik-Box helfen, unnötige Untersuchungen der Schilddrüse zu vermeiden. Die Entwicklung der Box kann als methodische Vorlage für weitere Diagnostik-Boxen dienen, die auch in anderen medizinischen Bereichen zur besseren Risikokommunikation beitragen und unnötige Diagnostik vermeiden helfen.",
+    "description": "Um mögliche Schilddrüsenerkrankungen abzuklären, werden rund ein Drittel der Labortests nicht leitliniengerecht vorgenommen und Ultraschalluntersuchungen häufig zu früh eingesetzt. Die Wahrscheinlichkeit, einen Schilddrüsenknoten zu finden, ist dabei hoch und liegt Studien zufolge bei bis zu 70 Prozent. Fast alle Knoten sind gutartig und gesundheitlich unproblematisch, ihre Entdeckung führt aber häufig zu unnötigen Folgeuntersuchungen sowie Therapien und kann die Betroffenen stark verunsichern. Bislang fehlt ein Verfahren zur korrekten Risikoabwägung bei Diagnoseuntersuchungen und der entsprechenden Kommunikation mit den Betroffenen.\n\nDas Projektteam DIAMANT-SD möchte dazu beitragen, dass die Notwendigkeit und die Risiken von diagnostischen Tests mit größerer Sicherheit beurteilt werden. Dazu wird eine Diagnostik-Box (Intervention) aus Arzt- und Patientensicht entwickelt und deren Machbarkeit geprüft. Sie besteht unter anderem aus Elementen wie Schulung zur Diagnostik, Überdiagnostik sowie Risikokommunikation, Informationsmaterialien für Patientinnen und Patienten und einem Instrument zur Risikokommunikation bei Ultraschalluntersuchungen. 20 Ärztinnen und Ärzte erhalten als Interventionsgruppe eine Schulung und anschließend Zugang zur Diagnostik-Box, um diese zu testen. Sechs Monate lang werden diese dazu angehalten, die Elemente gezielt im Praxisalltag zu nutzen und ihre Erfahrungen zu dokumentieren. Zehn weitere Ärztinnen und Ärzte erhalten als Kontrollgruppe keine zusätzlichen Informationen bezüglich schilddrüsenbezogener Diagnostik. Nach einem halben Jahr wird evaluiert, ob die Diagnostik-Box dazu beiträgt, die Notwendigkeit und Risiken diagnostischer Tests mit größerer Sicherheit zu beurteilen.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,5 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die Diagnostik-Box helfen, unnötige Untersuchungen der Schilddrüse zu vermeiden. Die Entwicklung der Box kann als methodische Vorlage für weitere Diagnostik-Boxen dienen, die auch in anderen medizinischen Bereichen zur besseren Risikokommunikation beitragen und unnötige Diagnostik vermeiden helfen.",
     "project_websites": [
       "https://www.allgemeinmedizin.uk-erlangen.de/forschung/forschungsprojekte/diamant/"
     ],
@@ -13669,8 +13690,12 @@
     "acronym": "DIRECT",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkte": "Notfälle, Verletzung und Vergiftungen, Sonstige",
+      "Zielgruppen": "Erwachsene, Kinder und Jugendliche, Leistungserbringer",
+      "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF26012",
+      "Laufzeit": "11/2026 – 04/2029",
       "Status": "laufend"
     },
     "funding_info": {
@@ -13680,16 +13705,24 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien zur Erstversorgung durch nichtärztliches medizinisches Fachpersonal und strukturierte Abfrage zur Steuerung von Patientinnen und Patienten in der Notfall- und Akutmedizin"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Notfälle",
+      "Verletzung und Vergiftungen",
+      "Sonstige"
+    ],
+    "target_groups": [
+      "Erwachsene",
+      "Kinder und Jugendliche",
+      "Leistungserbringer"
+    ],
     "states": [
       "Berlin"
     ],
-    "care_setting": "",
+    "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "11/2026 – 04/2029",
+    "start_date": "2026-11",
+    "end_date": "2029-04",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 524.000 Euro",
     "funding_sum_eur": 524000,
@@ -13698,22 +13731,40 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "Notfallsituationen sind unvorhersehbar und können Menschen jeden Alters, Geschlechts und mit jeder Vorerkrankung treffen – von gesunden Erwachsenen nach Verkehrsunfällen bis zu älteren Personen mit akuter Verschlechterung chronischer Leiden. Bei Patientinnen und Patienten, die sich selbstständig in eine Notfalleinrichtung begeben, ist es wichtig, dass sie schnell und zielgerichtet in der für sie am besten geeigneten Versorgungstruktur weiterbetreut werden.\n\nZiel des Projekts ist daher die Entwicklung einer neuen S3-Leitlinie zur evidenzbasierten und standardisierten Ersteinschätzung von Notfallpatientinnen und -patienten, die sich selbst vorstellen. Die Leitlinie soll das Personal in Notaufnahmen, Integrierten Versorgungszentren und Notfallpraxen insbesondere bei der Entscheidungsfindung unterstützen. Zu diesem Zweck wird zunächst eine Gruppe interdisziplinär zusammengesetzter Expertinnen und Experten klinisch relevante Leitfragen entwickeln und relevante Parameter zur Messung des Erfolgs und der Sicherheit der Steuerung in der Notfall- und Akutversorgung ermitteln. Zudem wird eine systematische Recherche, Auswahl, Bewertung und Aufarbeitung vorhandener Literatur erfolgen. Abschließend werden die einzelnen Empfehlungen in themenspezifischen Arbeitsgruppen erarbeitet und in der Leitliniengruppe diskutiert. Ein besonderes Augenmerk wird hierbei auf die Bedürfnisse und die Sicherheit der Patientinnen und Patienten gelegt. Eine enge Zusammenarbeit mit Patientenvertreterinnen und -vertretern ist daher vorgesehen.\n\nDas Projekt wird für zweieinhalb Jahre mit insgesamt ca. 524.000 Euro gefördert.\n\nDie S3-Leitlinie zur medizinischen Ersteinschätzung kann dazu beitragen, die Notfallversorgung in Deutschland zielgerichteter und gleichzeitig patientenorientierter zu gestalten. Ebenso kann sie durch eine potenzielle Entlastung der Krankenhausnotfallaufnahmen zu einer ressourcenschonenden Inanspruchnahme der Notfallstrukturen beitragen, ohne dass die Versorgungsqualität beeinträchtigt wird.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Prof. Dr. Anna Slagman",
         "Charité - Universitätsmedizin Berlin",
-        "(Prof. Dr. Anna Slagman)"
+        "Notfall- und Akutmedizin",
+        "Charitéplatz 1",
+        "10117 Berlin",
+        "+49 30 450565 659",
+        "anna.slagman@charite.de"
       ],
-      "display": "Charité - Universitätsmedizin Berlin | (Prof. Dr. Anna Slagman)",
-      "name": "Charité - Universitätsmedizin Berlin",
-      "email": null,
-      "phone": null,
-      "organization": "(Prof. Dr. Anna Slagman)"
+      "display": "Prof. Dr. Anna Slagman | Charité - Universitätsmedizin Berlin | Notfall- und Akutmedizin | Charitéplatz 1 | 10117 Berlin | +49 30 450565 659 | anna.slagman@charite.de",
+      "name": "Prof. Dr. Anna Slagman",
+      "email": "anna.slagman@charite.de",
+      "phone": "+49 30 450565 659",
+      "postal_code": "10117",
+      "city": "Berlin",
+      "organization": "Charité - Universitätsmedizin Berlin",
+      "department": "Notfall- und Akutmedizin",
+      "street": "Charitéplatz 1"
     },
-    "project_lead_city": null,
+    "project_lead_city": "Berlin",
     "consortium_partners": [],
-    "essential_elements": {},
+    "essential_elements": {
+      "Versorgungsmodelle und Behandlungsprogramme": [
+        "ambulante ärztliche Versorgung",
+        "Integrierte Versorgung (IV)",
+        "Koordinierungstellen",
+        "Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit",
+        "Patienten- und Behandlungspfade",
+        "stationäre Versorgung"
+      ]
+    },
     "decision_date": null,
     "result_documents": [],
     "additional_documents": [],
@@ -15723,9 +15774,17 @@
     "acronym": "EKIT",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkt": "Erkrankungen des Muskel-Skelett-Systems",
+      "Zielgruppen": "ältere Menschen, Erwachsene, Leistungserbringer, Menschen mit chronischen Krankheiten, Sonstige",
+      "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Sachsen",
       "Förderkennzeichen": "01VSF26005",
-      "Status": "laufend"
+      "Laufzeit": "04/2027 – 03/2029",
+      "Status": "laufend",
+      "Einsatz von Arzneimitteln": "Medikationsmanagement",
+      "Heil- und Hilfsmittelversorgung": "orthopädische Hilfsmittel (orthopädische Schuhe, Rollstühle) , Physiotherapie",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante spezialfachärztliche Versorgung (ASV) , Entlassmanagement / Nachsorge , Patienten- und Behandlungspfade , spezialisierte Versorgungszentren , stationäre Versorgung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -15734,16 +15793,24 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Erkrankungen des Muskel-Skelett-Systems"
+    ],
+    "target_groups": [
+      "ältere Menschen",
+      "Erwachsene",
+      "Leistungserbringer",
+      "Menschen mit chronischen Krankheiten",
+      "Sonstige"
+    ],
     "states": [
       "Sachsen"
     ],
-    "care_setting": "",
+    "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "04/2027 – 03/2029",
+    "start_date": "2027-04",
+    "end_date": "2029-03",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 369.000 Euro",
     "funding_sum_eur": 369000,
@@ -15752,20 +15819,29 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "Arthrose ist eine der häufigsten Ursachen für Einschränkungen und Schmerzen im Alter. Ist die Erkrankung stark fortgeschritten, bleibt oft nur der Einsatz eines künstlichen Gelenks. Hüft- und Knieendoprothesenoperationen gehören bereits heute zu den häufigsten Eingriffen und ihre Zahl wird durch den demografischen Wandel weiter steigen. Die meisten Patientinnen und Patienten profitieren von solchen Eingriffen, allerdings kann jede zehnte Person auch nach der Operation weiterhin Beschwerden haben. Deshalb ist es wichtig, dass im Zuge der Indikationsstellung Nutzen und Risiken gemeinsam mit den Betroffenen abgewogen werden. An diesem Punkt soll die Weiterentwicklung der bestehenden Leitlinien ansetzen.\n\nBei der Erstellung der Leitlinie folgt das Forschungsteam den Vorgaben der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF). Es werden evidenz- und konsensbasierte Empfehlungen zur Indikationsstellung und zu Kontraindikationskriterien für die Implantation von Hüft- und Knieendoprothesen zusammengeführt und auf das höchste Evidenzniveau (S3) weiterentwickelt. Hierzu erfolgt zunächst eine Zusammenstellung und Bewertung der aktuellen wissenschaftlichen Erkenntnisse durch Expertinnen und Experten der relevanten Fachgesellschaften. Anschließend werden Empfehlungen formuliert und in einem moderierten Konsensusprozess verabschiedet. Die Projektergebnisse sollen es ermöglichen, dass die Indikationsstellung für eine Hüft- oder Knieendoprothese in einem strukturierten Prozess erfolgt. Dabei werden der Leidensdruck der Betroffenen, bereits erfolgte Vorbehandlungen, klinische Befunde und Begleiterkrankungen sowie optimierbare patientenseitige Faktoren berücksichtigt. Die Entscheidung für oder gegen eine Operation soll letztlich im Rahmen einer partizipativen Entscheidungsfindung getroffen werden.\n\nDas Projekt wird für zwei Jahre mit insgesamt ca. 369.000 € gefördert.\n\nIm Erfolgsfall liegt anschließend eine praxisnahe, interdisziplinäre S3-Leitlinie mit einem einheitlichen Indikationsalgorithmus für Hüft- und Knieendoprothesen vor. Sie unterstützt Ärztinnen und Ärzte sowie Patientinnen und Patienten bei der Entscheidungsfindung, verbessert die Indikationsqualität und liefert messbare Indikatoren für die Qualitätssicherung. Dies trägt langfristig zu einer besseren Versorgung der Betroffenen bei.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Prof. Dr. Jörg Lützner",
         "Technische Universität Dresden",
-        "(Prof. Dr. Jörg Lützner)"
+        "Medizinische Fakultät Carl Gustav Carus, UniversitätsCentrum für Orthopädie, Unfall- und Plastische Chirurgie",
+        "Fetscherstraße 74",
+        "01307 Dresden",
+        "+49 351 458-13628",
+        "Joerg.Luetzner@uniklinikum-dresden.de"
       ],
-      "display": "Technische Universität Dresden | (Prof. Dr. Jörg Lützner)",
-      "name": "Technische Universität Dresden",
-      "email": null,
-      "phone": null,
-      "organization": "(Prof. Dr. Jörg Lützner)"
+      "display": "Prof. Dr. Jörg Lützner | Technische Universität Dresden | Medizinische Fakultät Carl Gustav Carus, UniversitätsCentrum für Orthopädie, Unfall- und Plastische Chirurgie | Fetscherstraße 74 | 01307 Dresden | +49 351 458-13628 | Joerg.Luetzner@uniklinikum-dresden.de",
+      "name": "Prof. Dr. Jörg Lützner",
+      "email": "Joerg.Luetzner@uniklinikum-dresden.de",
+      "phone": "+49 351 458-13628",
+      "postal_code": "01307",
+      "city": "Dresden",
+      "organization": "Technische Universität Dresden",
+      "department": "Medizinische Fakultät Carl Gustav Carus, UniversitätsCentrum für Orthopädie, Unfall- und Plastische Chirurgie",
+      "street": "Fetscherstraße 74"
     },
-    "project_lead_city": null,
+    "project_lead_city": "Dresden",
     "consortium_partners": [],
     "essential_elements": {},
     "decision_date": null,
@@ -16864,7 +16940,7 @@
     "funding_process": "zweistufig lang",
     "funding_area": "Neue Versorgungsformen",
     "call_date": "02.03.2023",
-    "description": "Die Endometriose, eine chronisch-entzündliche Erkrankung der Gebärmutterschleimhaut, ist eine der häufigsten Erkrankungen bei Frauen im gebärfähigen Alter. Genaue Angaben über die Zahl der Betroffenen liegen nicht vor, da die Erkrankung schwer zu diagnostizieren ist, unterschiedlich schwer verläuft und mit einer Vielzahl von Symptomen einhergehen kann. Schätzungen gehen davon aus, dass etwa jede achte Frau an Endometriose leidet. Vom Auftreten der ersten Beschwerden bis zur Diagnose vergehen oft bis zu zehn Jahre bis eine adäquate Therapie eingeleitet wird.\n\nIm Projekt ENDO-EVE wollen die Forschenden ein systematisches Behandlungsprogramm entwickeln und evaluieren. Dieses soll Ärztinnen und Ärzte in die Lage versetzen, die Wahrscheinlichkeit für das Vorliegen einer Endometriose besser und früher einzuschätzen sowie die Patientinnen entsprechend an spezielle Endometriosezentren zu überweisen. Ein digitales Lernprogramm soll Patientinnen bei der Schmerzbewältigung und im Umgang mit der Krankheit unterstützen Dank eines engmaschigen Monitorings der Symptome können die Lernmodule und digitale Coachings bedarfsgerecht angepasst werden.\n\nDie Forschenden werden das Behandlungsprogramm und das digitale Lernprogramm in zwei unabhängigen Analysen auswerten. In einem ersten Arbeitsschritt wird das Forschungsteam bei rund 1.300 Patientinnen ermitteln, ob der Anteil an bestätigten Verdachtsfällen durch das Behandlungsprogramm steigt und die Überweisungen an Endometriosezentren schneller erfolgen. In einem zweiten Schritt untersuchen die Forschenden bei rund 660 Patientinnen, ob die Lebensqualität der Frauen, die das digitale Lernprogramm nutzen, besser ist als bei Frauen, die das Programm nicht nutzen. Das Projekt wird für dreieinhalb Jahre mit insgesamt ca. 5,9 Millionen Euro gefördert.\n\nIm Erfolgsfall tragen die Ergebnisse der Forschenden dazu bei, die Diagnosezeit zu verkürzen und schneller eine leitliniengerechte Therapie der Endometriose einzuleiten.",
+    "description": "Die Endometriose, eine chronisch-entzündliche Erkrankung der Gebärmutterschleimhaut, ist eine der häufigsten Erkrankungen bei Frauen im gebärfähigen Alter. Genaue Angaben über die Zahl der Betroffenen liegen nicht vor, da die Erkrankung schwer zu diagnostizieren ist, unterschiedlich schwer verläuft und mit einer Vielzahl von Symptomen einhergehen kann. Schätzungen gehen davon aus, dass etwa jede achte Frau an Endometriose leidet. Vom Auftreten der ersten Beschwerden bis zur Diagnose vergehen oft bis zu zehn Jahre bis eine adäquate Therapie eingeleitet wird.\n\nIm Projekt ENDO-EVE wollen die Forschenden ein systematisches Behandlungsprogramm entwickeln und evaluieren. Dieses soll Ärztinnen und Ärzte in die Lage versetzen, die Wahrscheinlichkeit für das Vorliegen einer Endometriose besser und früher einzuschätzen sowie die Patientinnen entsprechend an spezielle Endometriosezentren zu überweisen. Ein digitales Lernprogramm soll Patientinnen bei der Schmerzbewältigung und im Umgang mit der Krankheit unterstützen Dank eines engmaschigen Monitorings der Symptome können die Lernmodule und digitale Coachings bedarfsgerecht angepasst werden.\n\nDie Forschenden werden das Behandlungsprogramm und das digitale Lernprogramm in zwei unabhängigen Analysen auswerten. In einem ersten Arbeitsschritt wird das Forschungsteam bei rund 1.300 Patientinnen ermitteln, ob der Anteil an bestätigten Verdachtsfällen durch das Behandlungsprogramm steigt und die Überweisungen an Endometriosezentren schneller erfolgen. In einem zweiten Schritt untersuchen die Forschenden bei rund 770 Patientinnen, ob die Lebensqualität der Frauen, die das digitale Lernprogramm nutzen, besser ist als bei Frauen, die das Programm nicht nutzen. Das Projekt wird für dreieinhalb Jahre mit insgesamt ca. 5,9 Millionen Euro gefördert.\n\nIm Erfolgsfall tragen die Ergebnisse der Forschenden dazu bei, die Diagnosezeit zu verkürzen und schneller eine leitliniengerechte Therapie der Endometriose einzuleiten.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -21627,7 +21703,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "07.06.2021",
-    "description": "Die telefonische Servicenummer 116117 der Kassenärztlichen Vereinigung ist rund um die Uhr für Anrufende mit akuten Gesundheitsbeschwerden erreichbar. Auf Basis einer strukturierten Ersteinschätzung erfolgt eine Bewertung der Dringlichkeit und die Vermittlung eines passenden medizinischen Versorgungsangebots. Dieser Service wird seit einigen Jahren immer häufiger nachgefragt; abhängig von der Tageszeit und dem jeweiligen Wohnort kommt es zu teils längeren Wartezeiten.\n\nZiel des Projekts ist es, die Wartezeiten für Notfälle und Anrufende mit besonders dringlichen Anliegen zu reduzieren. Sobald telefonische Warteschlangen entstehen, sollen dringliche Fälle in der Warteschleife durch automatisierte Sprachdialoge identifiziert und bevorzugt ersteingeschätzt werden. Die technische Umsetzung erfolgt über automatisierte Konversationssysteme (z. B. Voice- und Chatbot) Es werden zwei Interventionen entwickelt und umgesetzt: ein einfaches Instrument zur Selbsteinschätzung und eine automatisierte Kurzabfrage von Notfallsymptomen. Ergibt sich daraus eine hohe Dringlichkeit, erfolgt eine Priorisierung der Anrufenden.\n\nIm Rahmen einer Studie werden neben dem Vergleich mit dem bisherigen Verfahren (Kontrollgruppe) auch die beiden Interventionen miteinander verglichen. Es wird untersucht, wie gut medizinische Notfälle durch die Verfahren identifiziert werden und ob damit auch möglichst wenig nicht dringliche Fälle aufgegriffen werden. Hierfür wird eine Stichprobe von N=470.933 Anrufen benötigt. Zudem wird die praktische Eignung für Anrufende, der Effekt auf die Arbeit der Mitarbeitenden der Servicestelle, die effektive Verkürzung der Wartezeit und der Entlastungseffekt für die Nummer 112 in Befragungen erhoben. Für die Befragungen wird eine Stichprobe von 24.000 Anrufenden gezogen. Das Projekt wird für drei Jahre mit insgesamt ca. 2,2 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das entwickelte System in der ambulanten Versorgung eingesetzt und auch auf andere telefonische Hotlines oder telemedizinische Angebote im Gesundheitswesen übertragen werden.",
+    "description": "Die telefonische Servicenummer 116117 der Kassenärztlichen Vereinigung ist rund um die Uhr für Anrufende mit akuten Gesundheitsbeschwerden erreichbar. Auf Basis einer strukturierten Ersteinschätzung erfolgt eine Bewertung der Dringlichkeit und die Vermittlung eines passenden medizinischen Versorgungsangebots. Dieser Service wird seit einigen Jahren immer häufiger nachgefragt; abhängig von der Tageszeit und dem jeweiligen Wohnort kommt es zu teils längeren Wartezeiten.\n\nZiel des Projekts ist es, die Wartezeiten für Notfälle und Anrufende mit besonders dringlichen Anliegen zu reduzieren. Sobald telefonische Warteschlangen entstehen, sollen dringliche Fälle in der Warteschleife durch automatisierte Sprachdialoge identifiziert und bevorzugt ersteingeschätzt werden. Die technische Umsetzung erfolgt über automatisierte Konversationssysteme (z. B. Voice- und Chatbot). Es werden zwei Interventionen entwickelt und umgesetzt: ein einfaches Instrument zur Selbsteinschätzung und eine automatisierte Kurzabfrage von Notfallsymptomen. Ergibt sich daraus eine hohe Dringlichkeit, erfolgt eine Priorisierung der Anrufenden.\n\nIm Rahmen einer Studie werden neben dem Vergleich mit dem bisherigen Verfahren (Kontrollgruppe) auch die beiden Interventionen miteinander verglichen. Es wird untersucht, wie gut medizinische Notfälle durch die Verfahren identifiziert werden und ob damit auch möglichst wenig nicht dringliche Fälle aufgegriffen werden. Hierfür wird eine Stichprobe von N=470.933 Anrufen benötigt. Zudem wird die praktische Eignung für Anrufende, der Effekt auf die Arbeit der Mitarbeitenden der Servicestelle, die effektive Verkürzung der Wartezeit und der Entlastungseffekt für die Nummer 112 in Befragungen erhoben. Für die Befragungen wird eine Stichprobe von 24.000 Anrufenden gezogen. Das Projekt wird für drei Jahre mit insgesamt ca. 2,2 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das entwickelte System in der ambulanten Versorgung eingesetzt und auch auf andere telefonische Hotlines oder telemedizinische Angebote im Gesundheitswesen übertragen werden.",
     "project_websites": [
       "https://www.zi.de/themen/medizin/akut-und-notfallversorgung/projekte/fast-track"
     ],
@@ -22847,7 +22923,7 @@
       },
       {
         "title": "Evaluationsbericht",
-        "meta": "(PDF 14,35 MB)",
+        "meta": "(PDF 15,40 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1105/2026-05-22_FLS-CARE_Evaluationsbericht.pdf"
       }
     ],
@@ -26120,9 +26196,7 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "20.02.2017",
     "description": "In der Bevölkerung ländlicher Regionen steigt der Anteil älterer Menschen mit einem hohen medizinischen Versorgungsbedarf. Zugleich sinkt hier die Zahl der Hausärzte. Es fehlen Nachwuchsärzte, die den steigenden Versorgungsbedarf auf dem Land künftig sicherstellen. Der Weg zum nächstgelegenen Hausarzt ist hier schon heute für viele ältere Patienten zu weit. Auch dadurch steigt die Zahl medizinisch nicht erforderlicher Hausbesuche. Die Überlastung ländlicher Arztpraxen verursacht wiederum unnötige Krankenhauseinweisungen und -aufenthalte.\n\nDas Projekt „HandinHand“ soll dieser Entwicklung entgegenwirken. Es überträgt ärztliche Tätigkeiten auf praktisch und akademisch ausgebildete Pflegeexperten. In einer ausgewählten, ländlichen Region sollen diese Pflegeexperten die Hausärzte bei der zeitintensiven Begleitung chronisch kranker Menschen entlasten. Das soll die Gesundheitssituation der Patienten verbessern und ihre Sicherheit erhöhen. Damit die Hausärzte mögliche Komplikationen frühzeitig erkennen, wird über eine elektronische Fallakte Transparenz über den aktuellen Gesundheitszustand der Patienten hergestellt.\n\n700 chronisch kranke Patienten im Alter von mehr als 60 Jahren im Kreis Ahrweiler, Rheinland-Pfalz, werden an dem Projekt teilnehmen. HandinHand wird wissenschaftlich begleitet, damit die verschiedenen Versorgungsansätze, deren Kosten und Ergebnisse verglichen und bewertet werden können. Mit Einbezug der ersten Patienten ist im Laufe des IV. Quartals 2019 zu rechnen.\n\nDas Projekt wird für 48 Monate mit rund 8 Millionen Euro gefördert.",
-    "project_websites": [
-      "https://www.pflegeexperten-center.de/startseite"
-    ],
+    "project_websites": [],
     "project_lead": {
       "raw_lines": [
         "Elena Faber",
@@ -27101,40 +27175,40 @@
     "result_documents": [
       {
         "title": "Beschlusstext",
-        "meta": "(PDF 172,81 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1165/2026-06-19_HerzCheck.pdf"
+        "meta": "(PDF 179,73 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1165/2026-06-19_Herz-Check.pdf"
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 26,51 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1166/2026-06-19_HerzCheck_Ergebnisbericht.pdf"
+        "meta": "(PDF 26,06 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1166/2026-06-19_Herz-Check_Ergebnisbericht.pdf"
       },
       {
         "title": "Evaluationsbericht",
-        "meta": "(PDF 6,51 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1167/2026-06-19_HerzCheck_Evaluationsbericht.pdf"
+        "meta": "(PDF 6,64 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1167/2026-06-19_Herz-Check_Evaluationsbericht.pdf"
       }
     ],
     "additional_documents": [
       {
         "title": "Patienteninformationsbroschüre",
         "meta": "(PDF 918,76 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/408/2026-06-19_HerzCheck_Ergebnisbericht_Anlage_2_ausfuehrliche_Patienteninformationsbroschuere.pdf"
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/408/2026-06-19_Herz-Check_Ergebnisbericht_Anlage_2_ausfuehrliche_Patienteninformationsbroschuere.pdf"
       },
       {
         "title": "Arztinformationsbroschüre",
         "meta": "(PDF 10,52 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/409/2026-06-19_HerzCheck_Ergebnisbericht_Anlage_3_Arztinformationsbroschuere.pdf"
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/409/2026-06-19_Herz-Check_Ergebnisbericht_Anlage_3_Arztinformationsbroschuere.pdf"
       },
       {
         "title": "Webinar HerzCheck 2021",
         "meta": "(PDF 6,03 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/410/2026-06-19_HerzCheck_Ergebnisbericht_Anlage_26_Webinar_HerzCheck_2021.pdf"
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/410/2026-06-19_Herz-Check_Ergebnisbericht_Anlage_26_Webinar_Herz-Check_2021.pdf"
       },
       {
         "title": "Informationsmaterialien",
-        "meta": "(PDF 144,92 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/411/2026-06-19_HerzCheck_Ergebnisbericht_Anlage_27_Informationsmaterialien.pdf"
+        "meta": "(PDF 149,65 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/411/2026-06-19_Herz-Check_Ergebnisbericht_Anlage_27_Informationsmaterialien.pdf"
       }
     ],
     "has_explicit_neurology_focus": false,
@@ -27392,7 +27466,7 @@
     "call_date": "08.04.2016",
     "description": "Die medikamentöse Versorgung in Einrichtungen der Langzeitpflege ist problematisch. Über die Hälfte aller Heimbewohner nehmen im Durchschnitt fünf und mehr Dauermedikamente ein. Das Risiko einer unangemessenen Medikation ist dabei sehr hoch, denn Arzneimittel können sich gegenseitig beeinflussen oder behindern. Das führt häufig zu unerwünschten arzneimittelbedingten Ereignissen und zu Klinikeinweisungen, die vermeidbar wären.\n\nDas Ziel des Projektes HIOPP-3 „Interprofessionelle Toolbox (iTBX)“ ist es, die Arzneimitteltherapiesicherheit bei Heimbewohnern zu verbessern. Dafür soll der Medikationsprozess für die beteiligten Berufsgruppen (MitarbeiterInnen aus Heim, Hausarztpraxis und Apotheke) nachhaltig optimiert werden. Hierzu wird eine cluster-randomisierte multizentrische Studie durchgeführt. Die Kernintervention besteht aus einem Medikamentenreview durch eine/n geschulte/n Apotheker/In, dessen Ergebnisse den versorgenden Hausärzten übermittelt und von diesen geprüft und ggf. umgesetzt werden. Dieser Ablauf wird unterstützt durch\n\nDie Studie erfolgt an 760 Heimbewohnern in 50 Einrichtungen der Langzeitpflege an den Standorten Hannover, Düsseldorf, Rostock und Tübingen. Während der sechsmonatigen Interventionsphase wird untersucht, ob sich die Medikation bei HeimbewohnerInnen der Interventionsgruppe im Vergleich zu denen in der Kontrollgruppe (Regelversorgung) verändert hat. Neben der Qualität der Medikation mit besonderem Fokus auf potentiell inadäquate Medikamente (PIM) und Neuroleptika wird der Einfluss auf die Gesundheit und Lebensqualität der Betroffenen überprüft, beispielsweise im Bereich Stürze, Krankenhausaufenthalte und Hausarztkontakte. Auch wird eine gesundheitsökonomische Auswertung durchgeführt, und zudem werden in Kooperation mit dem aQua Institut und dem WIdO die Charakteristika der Studienteilnehmer mit denen gleichaltriger AOK-Versicherter in Deutschland verglichen. Das Projekt wird für 43 Monate mit insgesamt ca. 1,7 Millionen Euro gefördert.\n\nZum Ende der Intervention wird ein Feedback von teilnehmenden Hausärzten, Apothekern und Pflegepersonal eingeholt. Anhand dessen sollen die Interventionselemente dahingehend angepasst werden, dass eine Implementierung in der Regelversorgung möglich wäre. Im Erfolgsfall können die Interventionselemente flächendeckend in das Gesundheitssystem eingeführt werden, um die Arzneimitteltherapiesicherheit von Heimbewohnern langfristig zu verbessern.",
     "project_websites": [
-      "www.mh-hannover.de/36841.html"
+      "https://www.mhh.de/allpallmed/hiopp-3"
     ],
     "project_lead": {
       "raw_lines": [
@@ -35549,9 +35623,15 @@
     "acronym": "KiSch-LiG",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkte": "psychische Erkrankungen, Sonstige",
+      "Zielgruppen": "Früh- und Neugeborene, Kinder und Jugendliche, Menschen mit Behinderung, Pflegebedürftige, Schwangere und Wöchnerinnen",
+      "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF26010",
-      "Status": "laufend"
+      "Laufzeit": "01/2027 – 12/2029",
+      "Status": "laufend",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Früherkennung",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , spezialisierte Versorgungszentren , stationäre Versorgung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -35560,16 +35640,25 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "psychische Erkrankungen",
+      "Sonstige"
+    ],
+    "target_groups": [
+      "Früh- und Neugeborene",
+      "Kinder und Jugendliche",
+      "Menschen mit Behinderung",
+      "Pflegebedürftige",
+      "Schwangere und Wöchnerinnen"
+    ],
     "states": [
       "Nordrhein-Westfalen"
     ],
-    "care_setting": "",
+    "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "01/2027 – 12/2029",
+    "start_date": "2027-01",
+    "end_date": "2029-12",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 568.000 Euro",
     "funding_sum_eur": 568000,
@@ -35578,20 +35667,30 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "In Deutschland erfahren schätzungsweise 7,4 % aller Kinder und Jugendlichen (Stand: 2024) Vernachlässigung, körperliche, emotionale und/oder sexualisierte Gewalt. Dies hat meist weitreichende, lebenslange Folgen, die sich auch auf die Gesundheit auswirken können. Der Kinder- und Jugendschutz vor solchen Gefährdungen ist in Deutschland gesetzlich verankert und somit auch Aufgabe des Gesundheitswesens. Seit 2019 unterstützt die S3-Leitlinie „Kinderschutz“ medizinische Fachkräfte dabei, Fälle von Vernachlässigung und Gewalt rechtzeitig zu erkennen und daraufhin die richtigen Schritte einzuleiten. Da die Leitlinie im Jahr 2024 ausgelaufen ist, muss sie aktualisiert werden, um ihre inhaltliche Evidenz, Anwendbarkeit und Akzeptanz zu erhalten und zu verbessern.\n\nHierzu werden die Forschenden des Projekts KiSch-LiG die bestehende Leitlinie methodisch überarbeiten, dabei die Ergebnisse neuer Studien einbeziehen und einen besonderen Fokus auf Ziele legen, die für die betroffenen Kinder und Jugendlichen relevant sind. Die Handlungsempfehlungen sollen klarer formuliert und begründet werden, um ihre Verständlichkeit und Akzeptanz zu erhöhen - sowohl bei Fachkräften im Gesundheits- und Sozialwesen als auch bei Betroffenen. Zudem wird die Leitlinie zu einer sogenannten Living Guideline weiterentwickelt, die kurzfristig bedarfsorientiert aktualisiert werden kann.\n\nDie Überarbeitung folgt dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF). Zunächst entwickelt eine Leitliniengruppe relevante Fragestellungen, führt dann systematische Literaturrecherchen und -bewertungen durch und leitet schließlich konkrete Handlungsempfehlungen daraus ab. Parallel dazu wird das Schema der Evidenzbewertung aktualisiert. Ergänzend zur Leitlinie werden Kitteltaschenkarten, Patienteninformationen und Ablaufdiagramme angepasst.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 568.000 Euro gefördert.\n\nDie Aktualisierung der Leitlinie wird dazu beitragen, den medizinischen Kinderschutz in Deutschland wirksam umzusetzen. Als Living Guideline wird sie dies auch langfristig und nachhaltig sicherstellen.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Dr. Oliver Berthold",
         "Deutsche Gesellschaft für Kinderschutz in der Medizin e. V.",
-        "(Dr. Oliver Berthold)"
+        "Geschäftsstelle",
+        "c/o Abteilung für Kinderschutz, Vestische Kinder- und Jugendklinik Datteln",
+        "Dr.-Friedrich-Steiner-Straße 5",
+        "45711 Datteln",
+        "+49 30 30354472",
+        "o.berthold@drk-kliniken-berlin.de"
       ],
-      "display": "Deutsche Gesellschaft für Kinderschutz in der Medizin e. V. | (Dr. Oliver Berthold)",
-      "name": "Deutsche Gesellschaft für Kinderschutz in der Medizin e. V.",
-      "email": null,
-      "phone": null,
-      "organization": "(Dr. Oliver Berthold)"
+      "display": "Dr. Oliver Berthold | Deutsche Gesellschaft für Kinderschutz in der Medizin e. V. | Geschäftsstelle | c/o Abteilung für Kinderschutz, Vestische Kinder- und Jugendklinik Datteln | Dr.-Friedrich-Steiner-Straße 5 | 45711 Datteln | +49 30 30354472 | o.berthold@drk-kliniken-berlin.de",
+      "name": "Dr. Oliver Berthold",
+      "email": "o.berthold@drk-kliniken-berlin.de",
+      "phone": "+49 30 30354472",
+      "postal_code": "45711",
+      "city": "Datteln",
+      "organization": "Deutsche Gesellschaft für Kinderschutz in der Medizin e. V.",
+      "department": "Geschäftsstelle | c/o Abteilung für Kinderschutz, Vestische Kinder- und Jugendklinik Datteln",
+      "street": "Dr.-Friedrich-Steiner-Straße 5"
     },
-    "project_lead_city": null,
+    "project_lead_city": "Datteln",
     "consortium_partners": [],
     "essential_elements": {},
     "decision_date": null,
@@ -38765,9 +38864,15 @@
     "acronym": "LL Kopfschmerz",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkt": "Sonstige",
+      "Zielgruppe": "Erwachsene",
+      "Versorgungsbereich": "ambulant",
       "Bundesland": "Sachsen-Anhalt",
       "Förderkennzeichen": "01VSF26003",
-      "Status": "laufend"
+      "Laufzeit": "10/2026 – 09/2028",
+      "Status": "laufend",
+      "E-Health": "Künstliche Intelligenz / maschinelles Lernen / Algorithmen",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -38776,16 +38881,20 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Sonstige"
+    ],
+    "target_groups": [
+      "Erwachsene"
+    ],
     "states": [
       "Sachsen-Anhalt"
     ],
-    "care_setting": "",
+    "care_setting": "ambulant",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "10/2026 – 09/2028",
+    "start_date": "2026-10",
+    "end_date": "2028-09",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 247.000 Euro",
     "funding_sum_eur": 247000,
@@ -38794,20 +38903,29 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "Kopfschmerzen gehören in Deutschland zu den häufigsten Symptomen und Einzeldiagnosen für Krankschreibungen. Sie führen zu nationalen wirtschaftlichen Verlusten von über 100 Milliarden Euro pro Jahr, größtenteils aufgrund der verringerten Produktivität, gefolgt von Ausfallzeiten. Viele Betroffene versorgen sich in der Akutsituation selbst mit Medikamenten. Daher entfällt häufig eine leitliniengerechte hausärztliche Behandlung und Prophylaxe.\n\nIm Projekt LL Kopfschmerz wollen die Forschenden eine umfassende neue S3-Leitlinie erarbeiten, um die symptomorientierte Versorgung von Patientinnen und Patienten mit Kopfschmerzen im hausärztlichen Setting zu verbessern. Die Entwicklung der Leitlinie erfolgt gemäß dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF), d. h. eine Leitliniengruppe legt konkrete Fragestellungen fest, führt eine systematische Recherche und Bewertung wissenschaftlicher Veröffentlichungen durch und formuliert auf dieser Grundlage Empfehlungen. Mit Hilfe künstlicher Intelligenz sowie Patientinnen- und Patientenorganisationen soll zudem die Perspektive der Betroffenen in die Leitlinienentwicklung miteinfließen. Danach soll ein Praxistest erfolgen, indem Hausarztpraxen eine vorläufige Kurzversion der entwickelten Leitlinie sowie der Patientinnen- und Patienteninformation erhalten und diese evaluieren. Die Ergebnisse aus dem Praxistest fließen dann in die finale Fassung der neuen S3-Leitlinie „Kopfschmerzen in der Hausarztpraxis“ mit ein.\n\nDas Projekt wird für zwei Jahre mit insgesamt ca. 247.000 Euro gefördert.\n\nIm Erfolgsfall wird die neue S3-Leitlinie dazu beitragen, die Versorgung von Patientinnen und Patienten mit Kopfschmerzen zu optimieren, indem Über- und Unterversorgungen vermieden und Chronifizierungen reduziert werden. Dadurch sollen die Lebensqualität und Produktivität der betroffenen Patientinnen und Patienten nachhaltig verbessert werden.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Prof. Dr. Susanne Unverzagt",
         "Martin-Luther-Universität Halle-Wittenberg",
-        "(Prof. Dr. Susanne Unverzagt)"
+        "Institut für Allgemeinmedizin",
+        "Magdeburger Straße 8",
+        "06112 Halle (Saale)",
+        "+49 345 5575337",
+        "susanne.unverzagt@uk-halle.de"
       ],
-      "display": "Martin-Luther-Universität Halle-Wittenberg | (Prof. Dr. Susanne Unverzagt)",
-      "name": "Martin-Luther-Universität Halle-Wittenberg",
-      "email": null,
-      "phone": null,
-      "organization": "(Prof. Dr. Susanne Unverzagt)"
+      "display": "Prof. Dr. Susanne Unverzagt | Martin-Luther-Universität Halle-Wittenberg | Institut für Allgemeinmedizin | Magdeburger Straße 8 | 06112 Halle (Saale) | +49 345 5575337 | susanne.unverzagt@uk-halle.de",
+      "name": "Prof. Dr. Susanne Unverzagt",
+      "email": "susanne.unverzagt@uk-halle.de",
+      "phone": "+49 345 5575337",
+      "postal_code": "06112",
+      "city": "Halle (Saale)",
+      "organization": "Martin-Luther-Universität Halle-Wittenberg",
+      "department": "Institut für Allgemeinmedizin",
+      "street": "Magdeburger Straße 8"
     },
-    "project_lead_city": null,
+    "project_lead_city": "Halle (Saale)",
     "consortium_partners": [],
     "essential_elements": {},
     "decision_date": null,
@@ -39406,9 +39524,16 @@
     "acronym": "LL-Stimulanzien",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkte": "Notfälle, Verletzung und Vergiftungen, psychische Erkrankungen, Schwangerschaft, Geburt und Wochenbett",
+      "Zielgruppen": "Angehörige, Erwachsene, Früh- und Neugeborene, Kinder und Jugendliche, Leistungserbringer, Menschen mit chronischen Krankheiten, multimorbide Menschen, Schwangere und Wöchnerinnen",
+      "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Sachsen",
       "Förderkennzeichen": "01VSF26006",
-      "Status": "laufend"
+      "Laufzeit": "01/2027 – 06/2029",
+      "Status": "laufend",
+      "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Off-Label-Use , unerwünschte Arzneimittelwirkungen",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement , Screeninginstrumente oder -verfahren",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Care und Case Management / Lotsen , Entlassmanagement / Nachsorge , Integrierte Versorgung (IV) , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade , spezialisierte Versorgungszentren , stationäre Versorgung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -39417,16 +39542,31 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Notfälle",
+      "Verletzung und Vergiftungen",
+      "psychische Erkrankungen",
+      "Schwangerschaft",
+      "Geburt und Wochenbett"
+    ],
+    "target_groups": [
+      "Angehörige",
+      "Erwachsene",
+      "Früh- und Neugeborene",
+      "Kinder und Jugendliche",
+      "Leistungserbringer",
+      "Menschen mit chronischen Krankheiten",
+      "multimorbide Menschen",
+      "Schwangere und Wöchnerinnen"
+    ],
     "states": [
       "Sachsen"
     ],
-    "care_setting": "",
+    "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "01/2027 – 06/2029",
+    "start_date": "2027-01",
+    "end_date": "2029-06",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 404.000 Euro",
     "funding_sum_eur": 404000,
@@ -39435,20 +39575,29 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "Der Konsum von Stimulanzien (Aufputschmitteln wie Kokain oder Amphetamine) geht mit einem erhöhten Risiko für akute Erkrankungen der inneren Organe sowie des Nervensystems einher. Auch psychische und kognitive Beeinträchtigungen können akute oder chronische Folgen sein. Betroffene benötigen eine einheitliche Versorgung mit hoher Behandlungsqualität auf Basis guter wissenschaftlicher Erkenntnisse. Dies erfordert insbesondere die notwendige Zusammenarbeit verschiedener Sektoren wie Notfallmedizin, Suchthilfe und Psychiatrie.\n\nZiel des Projekts ist die Erstellung einer Leitlinie zur Vorbeugung, Früherkennung, Diagnose und Behandlung von durch den Konsum von Stimulanzien verursachten Beeinträchtigungen nach höchsten wissenschaftlichen Standards (Stufenklassifikation 3). In die Entwicklung der Leitlinie sollen neben den relevanten Fachgesellschaften auch Patientinnen und Patienten sowie deren Angehörige, vertreten durch Selbsthilfeorganisationen, einbezogen werden.\n\nDie Leitlinie wird nach dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF) erstellt. Zunächst werden relevante Themen priorisiert und es werden bestehende Leitlinien, Studien und wissenschaftliche Zusammenfassungen recherchiert. Die gewonnenen Erkenntnisse und Ergebnisse werden zusammengefasst und hinsichtlich ihrer wissenschaftlichen Qualität bewertet. Auf Basis dieser Ergebnisse sowie den Erfahrungswerten des beteiligten Fachpersonals und der Betroffenen werden Handlungsempfehlungen formuliert. Diese werden im Anschluss in einem mehrstufigen Konsensusprozess diskutiert und abgestimmt. Die finalen Empfehlungen werden in die S3-Leitlinie und in eine laienverständliche Patientenhilfe überführt.\n\nDas Projekt wird für zweieinhalb Jahre mit insgesamt ca. 400.000 Euro gefördert.\n\nIm Erfolgsfall führt die neue S3-Leitlinie zu einer einheitlichen und qualitativ hochwertigen Versorgung von Betroffenen. Dadurch lassen sich gesundheitliche und psychosoziale Belastungen vermeiden bzw. verringern und zugleich die Kosten medizinischer und suchttherapeutischer Maßnahmen reduzieren.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Dr. Johannes Petzold",
         "Technische Universität Dresden",
-        "(Dr. Johannes Petzold)"
+        "Medizinische Fakultät, Klinik und Poliklinik für Psychiatrie und Psychotherapie",
+        "Fetscherstraße 74",
+        "01307 Dresden",
+        "+49 351 458-19379",
+        "johannes.petzold@ukdd.de"
       ],
-      "display": "Technische Universität Dresden | (Dr. Johannes Petzold)",
-      "name": "Technische Universität Dresden",
-      "email": null,
-      "phone": null,
-      "organization": "(Dr. Johannes Petzold)"
+      "display": "Dr. Johannes Petzold | Technische Universität Dresden | Medizinische Fakultät, Klinik und Poliklinik für Psychiatrie und Psychotherapie | Fetscherstraße 74 | 01307 Dresden | +49 351 458-19379 | johannes.petzold@ukdd.de",
+      "name": "Dr. Johannes Petzold",
+      "email": "johannes.petzold@ukdd.de",
+      "phone": "+49 351 458-19379",
+      "postal_code": "01307",
+      "city": "Dresden",
+      "organization": "Technische Universität Dresden",
+      "department": "Medizinische Fakultät, Klinik und Poliklinik für Psychiatrie und Psychotherapie",
+      "street": "Fetscherstraße 74"
     },
-    "project_lead_city": null,
+    "project_lead_city": "Dresden",
     "consortium_partners": [
       "Universitätsklinikum Regensburg"
     ],
@@ -40782,7 +40931,7 @@
     "call_date": "27.06.2022",
     "description": "Die Digitalisierung des Gesundheitswesens soll durch das im Jahr 2020 in Kraft getretene Krankenhauszukunftsgesetz gestärkt werden. Dieses sieht vor, dass alle Krankenhäuser bis zum Jahresende 2024 ein Patientenportal betreiben, um Patientinnen und Patienten in den Behandlungsprozess einzubinden und Arbeitsabläufe zu erleichtern. So können dort beispielsweise medizinisch relevante Dokumente digital ausgetauscht und in den meisten Fällen mit dem medizinischen Personal besprochen werden. Die Einführung eines solchen Portals stellt jedoch sehr viele Krankenhäuser vor große Herausforderungen, da die Nutzung von Patientenportalen in Deutschland aktuell kaum stattfindet und weitestgehend unerforscht ist.\n\nDie Forschenden im Projekt MAiBest knüpfen daran an und möchten eine Hilfestellung erarbeiten, welche Anforderungen Patientenportale erfüllen sollten. Zudem sollen Hindernisse zur Nutzung eines solchen Portals ermittelt und medizinische Dokumentationen analysiert werden.\n\nUm genauere Erkenntnisse zu gewinnen, führt das Projektteam eine Trenderhebung in drei Kliniken durch. In jeder der drei Kliniken werden vor der Implementierung, direkt nach der Implementierung sowie sechs Monate nach der Einführung des Patientenportals jeweils Daten erhoben. In Summe werden hierbei 1.800 Patienten- und 198 Arztbefragungen ausgewertet. Zusätzlich interviewen die Forschenden 72 Patientinnen und Patienten sowie 24 Ärztinnen und Ärzte, warum sie das eingerichtete Portal nicht nutzen und analysieren 270 Anamnesedokumentationen sowie alle angefallenen Verwaltungsdaten eines Monats je Zeitraum in einer Klinik. Das Projekt wird für 42 Monate mit insgesamt ca. 840.000 Euro gefördert.\n\nMit ihren Erkenntnissen wollen die Forschenden die Einrichtung und den Betrieb von Patientenportalen optimieren und langfristig so zu einer verbesserten Versorgung beitragen. Auch erhalten Software-Hersteller Orientierungshilfen zur anwenderfreundlichen Ausrichtung von Patientenportalen.",
     "project_websites": [
-      "https://www.imvr.de/lehrstuhl-fuer-rehabilitationswissenschaft/#maibest"
+      "https://www.imvr.de/lehrstuhl-fuer-versorgungsforschung-in-der-rehabilitation/#maibest"
     ],
     "project_lead": {
       "raw_lines": [
@@ -41040,9 +41189,15 @@
     "acronym": "MaTiKar",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkt": "Erkrankungen der Zähne, des Kiefers und des Mundes",
+      "Zielgruppen": "ältere Menschen, Erwachsene, Kinder und Jugendliche, Leistungserbringer",
+      "Versorgungsbereich": "zahnärztlich",
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF26002",
-      "Status": "laufend"
+      "Laufzeit": "10/2026 – 03/2028",
+      "Status": "laufend",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitsinformationen / Flyer / Infobriefe",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -41051,16 +41206,24 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Erkrankungen der Zähne",
+      "des Kiefers und des Mundes"
+    ],
+    "target_groups": [
+      "ältere Menschen",
+      "Erwachsene",
+      "Kinder und Jugendliche",
+      "Leistungserbringer"
+    ],
     "states": [
       "Bayern"
     ],
-    "care_setting": "",
+    "care_setting": "zahnärztlich",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "10/2026 – 03/2028",
+    "start_date": "2026-10",
+    "end_date": "2028-03",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 112.000 Euro",
     "funding_sum_eur": 112000,
@@ -41069,20 +41232,29 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "Tiefe Kariesläsionen, bei denen die Karies bereits in die Nähe des Zahnnervs fortgeschritten ist, können starke Schmerzen verursachen und die Zähne gefährden. Sie gehören in Deutschland zu den häufigsten Behandlungsanlässen in der Zahnmedizin. Fast jeder Erwachsene ist von kariösen oder gefüllten Zähnen betroffen, besonders häufig Menschen mit geringem Einkommen. Bei sehr tiefen Läsionen besteht oft Unsicherheit: Zahn erhalten oder invasiv behandeln?\n\nHier setzt das Projekt „MaTiKar“ an. Die Projektbeteiligten wollen die in bestehenden Leitlinien identifizierten Lücken mithilfe der internationalen Leitlinie zum Management tiefer Karies schließen. Ihr Ziel ist es, klare Entscheidungshilfen für die Therapie solcher Läsionen zu erarbeiten. Hierzu analysiert die Forschungsgruppe zunächst die Empfehlungen der internationalen Leitlinie und bezieht jüngste Forschungsergebnisse zur Behandlung tiefer Karies mit ein. So werden u. a. Therapieempfehlungen – etwa zur schrittweisen Kariesentfernung oder zu vitalerhaltenden Maßnahmen – geprüft und an gesetzliche und praktische Rahmenbedingungen angepasst.\n\nDie Entwicklung der Leitlinie erfolgt gemäß dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF), d. h. eine Leitliniengruppe legt konkrete Fragestellungen fest und führt eine systematische Recherche und Bewertung der internationalen Leitlinie sowie wissenschaftlicher Veröffentlichungen durch. In einem nächsten Schritt werden in einem strukturierten Verfahren Empfehlungen formuliert, die in einem moderierten Konsensusprozess zwischen Fachgesellschaften, Berufsverbänden und Patientenvertretungen abgestimmt werden.\n\nDas Projekt wird 18 Monate mit ca. 110.000 Euro gefördert.\n\nIm Erfolgsfall trägt die Leitlinie zu einer verbesserten Kariesversorgung im deutschen Gesundheitssystem bei, was langfristig den Zahnerhalt und die Wirtschaftlichkeit der Versorgung fördert. Eine Patientenleitlinie unterstützt die gemeinsame Entscheidungsfindung.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Dr. Helena Dujic",
         "LMU Klinikum München",
-        "(Dr. Helena Dujic)"
+        "Poliklinik für Zahnerhaltung, Parodontologie und digitale Zahnmedizin",
+        "Goethestr. 70",
+        "80336 München",
+        "+49 89 440059337",
+        "H.Dujic@med.uni-muenchen.de"
       ],
-      "display": "LMU Klinikum München | (Dr. Helena Dujic)",
-      "name": "LMU Klinikum München",
-      "email": null,
-      "phone": null,
-      "organization": "(Dr. Helena Dujic)"
+      "display": "Dr. Helena Dujic | LMU Klinikum München | Poliklinik für Zahnerhaltung, Parodontologie und digitale Zahnmedizin | Goethestr. 70 | 80336 München | +49 89 440059337 | H.Dujic@med.uni-muenchen.de",
+      "name": "Dr. Helena Dujic",
+      "email": "H.Dujic@med.uni-muenchen.de",
+      "phone": "+49 89 440059337",
+      "postal_code": "80336",
+      "city": "München",
+      "organization": "LMU Klinikum München",
+      "department": "Poliklinik für Zahnerhaltung, Parodontologie und digitale Zahnmedizin",
+      "street": "Goethestr. 70"
     },
-    "project_lead_city": null,
+    "project_lead_city": "München",
     "consortium_partners": [],
     "essential_elements": {},
     "decision_date": null,
@@ -41144,9 +41316,7 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "08.04.2016",
     "description": "Wenn die menschlichen Nieren versagen, müssen ihre Funktionen, will man das Leben der Patienten erhalten, ersetzt werden. Die Verfahren dazu sind entweder die Nierentransplantation oder die Dialyse. In Deutschland werden jährlich etwa 13.000 Patienten neu in ein chronisches Dialyseprogramm aufgenommen, und müssen häufig über Jahre hinweg behandelt werden. Zwei Dialyseverfahren stehen zur Verfügung: die Hämodialyse (HD) und die Peritonealdialyse (PD). Während die HD üblicherweise in Dialysezentren durchgeführt werden muss, kann die PD meist zuhause von den Patienten selbst angewendet werden. Obwohl die PD den Patienten ein zeitlich selbstbestimmteres Leben und oft mehr Lebensqualität ermöglicht, erhält nur ein geringer Teil der Patienten diese Dialyseform.\n\nIn diesem Projekt soll untersucht werden, welche Faktoren die Entscheidung für oder gegen die PD beeinflussen. Krankenkassen- und Registerdaten werden ausgewertet, um regionale Versorgungsunterschiede zu finden. In Interviews und anhand von Befragungen der Betroffenen und der Akteure (Patienten, Ärzte, und Pflegekräfte) sollen versorgungsrelevante Einflussfaktoren identifiziert werden. Das Projekt wird für drei Jahre mit insgesamt ca. 847.000 Euro gefördert.\n\nIm Erfolgsfall können im Rahmen dieses Projektes die Ursachen für die niedrige PD-Rate identifiziert werden, um diese dann in Folge anzugehen. Ziel ist es, den Patienten mit chronischen Nierenerkrankungen zu ermöglichen, die für sie am besten geeignete Behandlungsform auszuwählen. Auf Basis der Ergebnisse sollen Handlungsempfehlungen und Entscheidungshilfen für Ärzte und Patienten erstellt werden.",
-    "project_websites": [
-      "https://www.maupd.uni-koeln.de/"
-    ],
+    "project_websites": [],
     "project_lead": {
       "raw_lines": [
         "Dr. Nadine Scholten",
@@ -45483,9 +45653,7 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "20.10.2017",
     "description": "Zu früh geborene Kinder mit einem kritischen Geburtsgewicht werden in sogenannten Perinatalzentren versorgt. Im Jahr 2016 waren das in Deutschland knapp 10.500 „Frühchen“. Für Eltern, die nicht dauerhaft im Krankenhaus bei ihrem Kind anwesend sein können, bieten einige Einrichtungen an, das Kind über eine Webcam sehen zu können. Denn eine Trennung der Mutter bzw. der Eltern von ihrem Kind kann weitreichende Folgen für die spätere Mutter-Kind-Beziehung bzw. die Eltern-Bindung insgesamt haben. Dieser Service steht jedoch bisher nur auf einigen wenigen Frühgeborenen-Intensivstationen (NICUs) in Deutschland zur Verfügung. Die Nutzung solcher Webcams birgt aber auch psychische Herausforderungen und Belastungen. Eine systematische Aufklärung oder Schulung der Eltern findet häufig nicht statt.\n\nDas Ziel des Projektes Neo-CamCare ist es, den aktuellen Stand der Einbindung von Webcams auf NICUs zu erfassen. Gleichzeitig sollen Bedarf, mögliche Hürden und die Bedenken der Eltern untersucht werden. Im Anschluss soll eine Handlungshilfe für Eltern und Klinikmitarbeiter entwickelt werden, die Empfehlungen für den Einsatz und den Umgang mit Webcams umfasst. Das Projekt wird für 45 Monate mit insgesamt ca. 1,92 Millionen Euro gefördert.\n\nDie Ergebnisse ermöglichen langfristig einen strukturierten, wissenschaftlich fundierten Einsatz von Webcams auf NICUs in Deutschland und adressieren sowohl die Bedürfnisse der Eltern, als auch die der beteiligten Klinikmitarbeiter.",
-    "project_websites": [
-      "https://www.neocamcare.uni-koeln.de/"
-    ],
+    "project_websites": [],
     "project_lead": {
       "raw_lines": [
         "Dr. Nadine Scholten",
@@ -49193,7 +49361,7 @@
     "call_date": "12.12.2019",
     "description": "Derzeit sind in Deutschland ca. 30.000 Menschen auch nach einer stationären intensivmedizinischen Behandlung auf eine maschinelle Beatmung oder einen dauerhaften Zugang zur Luftröhre (Trachealkanüle, TK) angewiesen. Die Versorgung dieser Patientinnen und Patienten erfolgt durch außerklinische Intensivpflege (AIP) und ist mit hohen Kosten verbunden. Insbesondere neurologische Patientinnen und Patienten, z. B. nach einem Schlaganfall, könnten jedoch ein großes Potenzial haben, sich langfristig zu erholen und erfolgreich von Beatmung/TK entwöhnt zu werden. Dieses Erholungspotenzial wird derzeit aber nur bedingt ausgeschöpft, weil koordinierende-rehabilitative Strukturen und Prozesse im ambulanten Bereich fehlen. Hier soll OptiNIV Abhilfe schaffen.\n\nDas Projekt entwickelt und evaluiert neue Diagnostik- und Behandlungspfade an der Schnittstelle von stationärer, neurorehabilitativer und AIP-Versorgung. Ambulante Experten-Teams betreuen und behandeln die Patientinnen und Patienten regelmäßig zu Hause. Studienzentren in Schwerpunktkliniken der neurologischen Frührehabilitation koordinieren die Behandlungsmaßnahmen und übernehmen das Fallmanagement. Ein fachübergreifendes Assessment identifiziert das individuelle Entwöhnungspotenzial der Patientinnen und Patienten. Die Entwöhnung von maschineller Beatmung/TK erfolgt dann ggf. während einer stationären neurologischen Intervallrehabilitation.\n\nDie auf ein Jahr angelegte Studie mit 173 neurologischen AIP-Patientinnen und -Patienten soll den Erfolg bei ihrer Entwöhnung von der maschinellen Beatmung/TK ermitteln. Dazu wird die Studiengruppe (115 Patientinnen und Patienten mit OptiNIV) mit einer Kontrollgruppe (58 Patientinnen und Patienten mit Regelversorgung) verglichen. Zudem analysieren die Forschenden die Kosten des neuen Behandlungspfads im Vergleich zur Standardbehandlung. Das Projekt wird für vier Jahre mit ca. 5,3 Millionen Euro gefördert.\n\nIm Erfolgsfall müssen nach Projektabschluss weniger Patientinnen und Patienten maschinell beatmet oder mit einer Trachealkanüle versorgt und in der AIP betreut werden. Für die Betroffenen ist damit eine Verbesserung an Lebensqualität und gesellschaftlicher Teilhabe verbunden.",
     "project_websites": [
-      "https://www.medizin.uni-greifswald.de/optiniv/index.php?id=376"
+      "https://www.unimedizin-greifswald.de/optiniv/index.php?id=376"
     ],
     "project_lead": {
       "raw_lines": [
@@ -52249,9 +52417,15 @@
     "acronym": "PAT-PI",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkt": "Impfungen und Infektionskrankheiten",
+      "Zielgruppe": "Erwachsene",
+      "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Schleswig-Holstein",
       "Förderkennzeichen": "01VSF26007",
-      "Status": "laufend"
+      "Laufzeit": "12/2026 – 11/2028",
+      "Status": "laufend",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Patienten-Empowerment , Patientenkommunikation",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV)"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -52260,16 +52434,20 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Impfungen und Infektionskrankheiten"
+    ],
+    "target_groups": [
+      "Erwachsene"
+    ],
     "states": [
       "Schleswig-Holstein"
     ],
-    "care_setting": "",
+    "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "12/2026 – 11/2028",
+    "start_date": "2026-12",
+    "end_date": "2028-11",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 473.000 Euro",
     "funding_sum_eur": 473000,
@@ -52278,20 +52456,29 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "In Deutschland beläuft sich die Zahl der Infektionen, die Patientinnen und Patienten während stationärer oder ambulanter Aufenthalte in medizinischen Einrichtungen erwerben, auf jährlich rund 600.000 Fälle. Zu den entsprechenden, von Krankheitserregern verursachten, Erkrankungen zählen u. a. Lungenentzündung, Harnwegsinfekte sowie Infektionen von Operationsstellen, der Blutbahn, oder des Magen-Darm-Trakts. Dabei verlaufen diese Infektionen in etwa 15.000 Fällen pro Jahr tödlich. Um die Ausbreitung entsprechender Krankheitserreger wie Viren, Bakterien oder Pilze zu verhindern, sind infektionspräventive Maßnahmen essenziell. Für die Durchführung dieser Maßnahmen sollten sowohl Ärztinnen und Ärzte, das Pflegepersonal, Patientinnen und Patienten sowie deren Angehörige einbezogen werden.\n\nZiel des Projekts PAT-PI ist daher die Entwicklung einer neuen Leitlinie, in der Informationen zur Infektionsprävention in stationären und ambulanten Einrichtungen zusammengeführt werden.\n\nDie Entwicklung der S3-Leitlinie erfolgt gemäß dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF). Zunächst wird eine systematische Literaturrecherche nach vorab definierten Kriterien durchgeführt. Die so zusammengetragenen Ergebnisse bilden die Grundlage für die Arbeit der themenspezifischen Arbeitsgruppen, welche sich aus Expertinnen und Experten der (Krankenhaus-)Hygiene, Infektionsprävention, medizinischen Psychologie, chirurgischen und konservativen Medizin, Pflege, Public Health und Patientensicherheit zusammensetzen. In diesen Arbeitsgruppen werden entsprechende Entwürfe von Empfehlungen und Texten erarbeitet. Diese werden in einem moderierten Prozess konsentiert und anschließend in die Leitlinie und Entscheidungshilfen überführt. Zudem wird eine laienverständliche Version erstellt.\n\nDas Projekt wird für zwei Jahre mit insgesamt ca. 470.000 Euro gefördert.\n\nIm Erfolgsfall wird die Leitlinie dazu beitragen, Patientinnen und Patienten besser vor Infektionen zu schützen und somit die Fälle der Krankenhausinfektionen zu minimieren.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Prof. Dr. Iris Freya Chaberny",
         "Christian-Albrechts-Universität zu Kiel",
-        "(Prof. Dr. Iris Freya Chaberny)"
+        "Universitätsklinikum Schleswig-Holstein, Institut für Krankenhaus- und Umwelthygiene, Campus Kiel",
+        "Arnold-Heller-Straße 3",
+        "24105 Kiel",
+        "+49 431 50016402",
+        "irisfreya.chaberny@uksh.de"
       ],
-      "display": "Christian-Albrechts-Universität zu Kiel | (Prof. Dr. Iris Freya Chaberny)",
-      "name": "Christian-Albrechts-Universität zu Kiel",
-      "email": null,
-      "phone": null,
-      "organization": "(Prof. Dr. Iris Freya Chaberny)"
+      "display": "Prof. Dr. Iris Freya Chaberny | Christian-Albrechts-Universität zu Kiel | Universitätsklinikum Schleswig-Holstein, Institut für Krankenhaus- und Umwelthygiene, Campus Kiel | Arnold-Heller-Straße 3 | 24105 Kiel | +49 431 50016402 | irisfreya.chaberny@uksh.de",
+      "name": "Prof. Dr. Iris Freya Chaberny",
+      "email": "irisfreya.chaberny@uksh.de",
+      "phone": "+49 431 50016402",
+      "postal_code": "24105",
+      "city": "Kiel",
+      "organization": "Christian-Albrechts-Universität zu Kiel",
+      "department": "Universitätsklinikum Schleswig-Holstein, Institut für Krankenhaus- und Umwelthygiene, Campus Kiel",
+      "street": "Arnold-Heller-Straße 3"
     },
-    "project_lead_city": null,
+    "project_lead_city": "Kiel",
     "consortium_partners": [
       "Georg-August-Universität Göttingen",
       "Medizinische Hochschule Hannover",
@@ -52355,7 +52542,7 @@
     "call_date": "30.06.2023",
     "description": "Krankenhäuser sind gesetzlich verpflichtet, Patientinnen und Patienten eine Beschwerde zu ermöglichen (Beschwerdemanagement) und entsprechende Ansprechpartner zur Verfügung zu stellen (Patientenfürsprache). Allerdings belegen die wenigen hierzu vorliegenden empirischen Studien, dass in der Umsetzung Verbesserungspotentiale liegen .\n\nDas Projektteam Patient Power will in einer umfassenden empirischen Bestandsaufnahme ermitteln, inwieweit die Patientenfürsprache und das Beschwerdemanagement aktuell tatsächlich Patientinnen und Patienten bei ihren Rechten und Interessen unterstützen (Patient-Empowerment). Zudem sollen zentrale Einflussfaktoren für ein erfolgreiches Patient-Empowerment identifiziert werden. Auf dieser Basis werden gezielt Verbesserungsbedarfe und Handlungsempfehlungen abgeleitet. Zunächst befragt das Projektteam an allen Allgemeinkrankenhäusern ab 100 Betten und, unabhängig von der Krankenhausgröße, allen psychiatrischen und psychosomatischen Fachkliniken (insgesamt 1.535 Einrichtungen) das im Beschwerde- und Fürsprachebereich tätige Personal. Zudem befragen die Forschenden 2.000 Patientinnen und Patienten, die eine Beschwerde eingelegt haben, nach ihren Erfahrungen und Anliegen sowie die Geschäftsführungen von Krankenhäusern zur strategischen und operativen Verankerung der beiden Aufgabenbereiche. Schließlich werden national und international erfolgreiche Beispiele identifiziert und förderliche sowie hinderliche Faktoren der Umsetzung herausgearbeitet. Mithilfe der Ergebnisse will das Projektteam Handlungsempfehlungen entwickeln, beispielsweise für Praxisleitfäden von Krankenhäusern, für Mitarbeitende in der Patientenfürsprache und für das Beschwerdemanagement, Fortbildungen, die Entwicklung einer Internetplattform sowie zum gesetzlich vorgegebenen oder sonst ratsamen Anpassungsbedarf.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 900.000 Euro gefördert\n\nIm Erfolgsfall bietet das Projekt erstmalig differenzierte und fundierte Erkenntnisse zu den strategischen, konzeptionellen und institutionellen Voraussetzungen für eine wirksame Patientenfürsprache und ein effektives Beschwerdemanagement. Dies trägt dazu bei, die Patientenorientierung in der Gesundheitsversorgung zu verbessern.",
     "project_websites": [
-      "https://www.imvr.de/lehrstuhl-fuer-rehabilitationswissenschaft/#patientpower"
+      "https://www.imvr.de/lehrstuhl-fuer-versorgungsforschung-in-der-rehabilitation/#patientpower"
     ],
     "project_lead": {
       "raw_lines": [
@@ -58885,17 +59072,17 @@
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
-        "Anna Bußmann",
+        "Dr. Anna Bußmann",
         "Essener Forschungsinstitut für Medizinmanagement GmbH",
         "Bredeneyer Straße 2b",
         "45133 Essen",
-        "+49 201 4517285",
+        "+49 201 565754-12",
         "anna.bussmann@esfomed.de"
       ],
-      "display": "Anna Bußmann | Essener Forschungsinstitut für Medizinmanagement GmbH | Bredeneyer Straße 2b | 45133 Essen | +49 201 4517285 | anna.bussmann@esfomed.de",
-      "name": "Anna Bußmann",
+      "display": "Dr. Anna Bußmann | Essener Forschungsinstitut für Medizinmanagement GmbH | Bredeneyer Straße 2b | 45133 Essen | +49 201 565754-12 | anna.bussmann@esfomed.de",
+      "name": "Dr. Anna Bußmann",
       "email": "anna.bussmann@esfomed.de",
-      "phone": "+49 201 4517285",
+      "phone": "+49 201 565754-12",
       "postal_code": "45133",
       "city": "Essen",
       "organization": "Essener Forschungsinstitut für Medizinmanagement GmbH",
@@ -61889,9 +62076,7 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "20.10.2017",
     "description": "Die Wirksamkeit von Psychotherapie zur Behandlung verschiedenster psychischer Störungen ist gut belegt. Trotz dessen sind die Behandlungsraten, auch in Ländern mit einem gut ausgebauten Gesundheitsversorgungssystem, gering – obwohl der Bedarf hoch ist. In Deutschland bleiben je nach Störungsbild ca. 28 bis 63 Prozent der Betroffenen unbehandelt.\n\nDas Ziel des Projekts ist es, internetbasierte Interventionen in die ambulante psychotherapeutische Routineversorgung zu integrieren. Dies geschieht am Beispiel von depressiven Störungen und Angststörungen. Im Projekt werden die Wirksamkeit, die Kosten-Effektivität sowie die Akzeptanz und Durchführbarkeit zweier Varianten von PSYCHOnlineTHERAPIE getestet. PSYCHOnlineTHERAPIE kombiniert Online- und Vor-Ort-Psychotherapiesitzungen (Variante „fix“: maximal 8 Online-/8 Vor-Ort-Sitzungen; Variante „flex“: maximal 16 Sitzungen flexibel Online/Vor-Ort im Ermessen des Therapeuten; jeweils kognitive Verhaltenstherapie (KVT)). Der Behandlungserfolg wird mit dem der Standardbehandlung (maximal 16 Sitzungen KVT) verglichen. Im Vorhaben werden 900 Patienten von 75 Psychotherapeuten in Baden-Württemberg untersucht. Das Projekt wird für 54 Monate mit insgesamt ca. 3,4 Millionen Euro gefördert.\n\nIm Erfolgsfall liegt bei diesem Projekt eine neue Versorgungsform vor, die den Patienten weiterhin den hohen psychotherapeutischen Standard ermöglicht und den Psychotherapeuten sowie den Betroffenen eine flexible Therapieplanung und -gestaltung bietet. Außerdem bietet sie der Gesellschaft, durch ggf. frei werdende psychotherapeutische Kapazitäten, eine verbesserte Versorgung. PSYCHOnlineTHERAPIE kann zudem bei erfolgreicher Evaluation deutschlandweit implementiert und auf weitere Störungsbilder ausgeweitet werden.",
-    "project_websites": [
-      "https://psychonlinetherapie.de/"
-    ],
+    "project_websites": [],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Harald Baumeister",
@@ -63809,9 +63994,7 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "08.04.2016",
     "description": "Psychische Erkrankungen sind sehr häufig. Laut Weltgesundheitsorganisation erleidet jede dritte Person mindestens einmal in ihrem Leben eine depressive Phase oder eine andere psychische Störung. Sie verursachen nicht nur großes menschliches Leid, sondern auch enorme gesellschaftliche Kosten durch Klinikaufenthalte, Arbeitsausfälle, Frühverrentung und die teilweise notwendige lebenslange Betreuung. Schnelle und vor allem richtige Hilfe kann Schlimmeres verhindern und den Patienten dabei unterstützen, einen geregelten Alltag zu führen.\n\nDas Projekt RECOVER zielt darauf, die Behandlungsqualität und -effizienz vieler psychischer Erkrankungen zu verbessern. Patienten sollen - im Vergleich zur bestehenden Regelversorgung - eine vom Schweregrad unabhängige höhere Chance auf schnellere und umfassendere Gesundung (RECOVERY) haben. Das Vorhaben wird beispielhaft für Deutschland in einer Modellphase in der großstädtischen Region Hamburg und in einer Transferphase in der ländlich-kleinstädtischen Region Kreis Steinburg (Itzehoe) durchgeführt. Der Schwerpunkt liegt dabei auf der besseren sektorenübergreifenden Zusammenarbeit zwischen Hausärzten, Krankenhäusern, Arbeitgebern und Angehörigenverbänden. Dafür werden modernste Therapieansätze zusammengeführt (beispielsweise auch E-Mental-Health Module) und besondere Anreizsysteme gesetzt, sich an der Umstrukturierung hin zu einer evidenzbasierten, wohnortnahen und gesellschaftlich eingebundenen Versorgung aktiv zu beteiligen. Das Konzept wird innerhalb der Laufzeit auf seine bessere gesundheitliche Wirkung und eine bessere Kosteneffizienz - verglichen mit der Regelversorgung - hin evaluiert. Das Projekt wird für 48 Monate mit insgesamt ca. 6,8 Millionen Euro gefördert.\n\nIm Projekt werden Instrumente entwickelt, die im Erfolgsfall eine bundesweite Übertragung des Gesamtmodells oder auch nur einzelner Komponenten unterstützen.",
-    "project_websites": [
-      "https://www.recover-hamburg.de/"
-    ],
+    "project_websites": [],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Martin Lambert",
@@ -67306,8 +67489,12 @@
     "acronym": "S3-LL ErDys",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkt": "Erkrankungen des Urogenitalsystems",
+      "Zielgruppe": "Erwachsene",
+      "Versorgungsbereich": "ambulant",
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF26001",
+      "Laufzeit": "04/2027 – 09/2029",
       "Status": "laufend"
     },
     "funding_info": {
@@ -67317,16 +67504,20 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Erkrankungen des Urogenitalsystems"
+    ],
+    "target_groups": [
+      "Erwachsene"
+    ],
     "states": [
       "Nordrhein-Westfalen"
     ],
-    "care_setting": "",
+    "care_setting": "ambulant",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "04/2027 – 09/2029",
+    "start_date": "2027-04",
+    "end_date": "2029-09",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 341.000 Euro",
     "funding_sum_eur": 341000,
@@ -67335,22 +67526,36 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "In Deutschland leidet etwa jeder fünfte Mann im Alter zwischen 30 und 80 Jahren an einer erektilen Dysfunktion (ED). ED betrifft nicht nur die Sexualgesundheit, sondern beeinträchtigt auch die körperliche und psychische Gesundheit. Zudem kann sie ein frühes Warnzeichen für Herz-Kreislauf-Erkrankungen oder Diabetes mellitus sein. Trotz dieser hohen Relevanz existiert bislang keine S3-Leitlinie in deutscher Sprache.\n\nDaran knüpft das Forschungsteam im Projekt S3-LL ErDys an. Ziel ist die Entwicklung einer S3-Leitlinie, die sowohl die medizinische als auch die psychosoziale Dimension der Erkrankung berücksichtigt. Die Leitlinie richtet sich an alle Fachdisziplinen, die im Versorgungsalltag mit ED konfrontiert sind. Gleichzeitig sollen Betroffene sowie deren Angehörige in den Versorgungsprozess einbezogen werden, um deren Präferenzen und Lebensumstände zu berücksichtigen.\n\nDie Leitlinienerstellung erfolgt nach den Vorgaben der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF). Zunächst definiert eine Leitliniengruppe relevante Schlüsselfragen. Anschließend wird eine systematische Literaturrecherche durchgeführt. Die gefundene Evidenz wird bewertet und in Empfehlungen übersetzt, die im strukturierten Konsensverfahren unter neutraler Moderation abgestimmt werden. Zudem wird eine Patientenleitlinie in laienverständlicher Sprache erstellt. Sie bietet den Betroffenen Orientierung, zeigt Möglichkeiten für den Umgang sowie die Therapie mit ED auf und unterstützt sie bei der Entscheidungsfindung. Zudem wird eine Kurzversion („Kitteltaschenversion“) für den klinischen Alltag entwickelt, die schnell und prägnant die wichtigsten Empfehlungen zusammenfasst.\n\nDas Projekt wird für zweieinhalb Jahre mit insgesamt ca. 340.000 Euro gefördert.\n\nDie Leitlinie soll dazu beitragen, die Versorgungsqualität bei ED zu standardisieren und die interdisziplinäre Zusammenarbeit der eingebundenen Fachdisziplinen zu stärken. Darüber hinaus kann die Leitlinie als Grundlage für Fortbildungen dienen – und letztlich dazu beitragen, dass Männer mit ED früher und umfassender behandelt und aufgeklärt werden.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Stefanie Schmidt",
         "Deutsche Gesellschaft für Urologie e. V.",
-        "(Stefanie Schmidt)"
+        "UroEvidence",
+        "Martin-Buber-Straße 10",
+        "14163 Berlin",
+        "+49 30 887083312",
+        "schmidt@dgu.de"
       ],
-      "display": "Deutsche Gesellschaft für Urologie e. V. | (Stefanie Schmidt)",
-      "name": "Deutsche Gesellschaft für Urologie e. V.",
-      "email": null,
-      "phone": null,
-      "organization": "(Stefanie Schmidt)"
+      "display": "Stefanie Schmidt | Deutsche Gesellschaft für Urologie e. V. | UroEvidence | Martin-Buber-Straße 10 | 14163 Berlin | +49 30 887083312 | schmidt@dgu.de",
+      "name": "Stefanie Schmidt",
+      "email": "schmidt@dgu.de",
+      "phone": "+49 30 887083312",
+      "postal_code": "14163",
+      "city": "Berlin",
+      "organization": "Deutsche Gesellschaft für Urologie e. V.",
+      "department": "UroEvidence",
+      "street": "Martin-Buber-Straße 10"
     },
-    "project_lead_city": null,
+    "project_lead_city": "Berlin",
     "consortium_partners": [],
-    "essential_elements": {},
+    "essential_elements": {
+      "Versorgungsmodelle und Behandlungsprogramme": [
+        "ambulante ärztliche Versorgung",
+        "ambulante spezialfachärztliche Versorgung (ASV)"
+      ]
+    },
     "decision_date": null,
     "result_documents": [],
     "additional_documents": [],
@@ -67640,9 +67845,17 @@
     "acronym": "S3-LL-Skabies",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkte": "Hauterkrankungen und Erkrankungen des Bindegewebes, Impfungen und Infektionskrankheiten",
+      "Zielgruppen": "ältere Menschen, Angehörige, Erwachsene, Früh- und Neugeborene, Kinder und Jugendliche, Leistungserbringer, Menschen mit Behinderung, Menschen mit chronischen Krankheiten, Migrantinnen und Migranten, multimorbide Menschen, Pflegebedürftige, Schwangere und Wöchnerinnen",
+      "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF26009",
-      "Status": "laufend"
+      "Laufzeit": "10/2026 – 09/2028",
+      "Status": "laufend",
+      "E-Health": "digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
+      "Einsatz von Arzneimitteln": "Medikationsmanagement , unerwünschte Arzneimittelwirkungen",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patientenkommunikation",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Hausarztzentrierte Versorgung (HzV) , Patienten- und Behandlungspfade"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -67651,16 +67864,32 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Hauterkrankungen und Erkrankungen des Bindegewebes",
+      "Impfungen und Infektionskrankheiten"
+    ],
+    "target_groups": [
+      "ältere Menschen",
+      "Angehörige",
+      "Erwachsene",
+      "Früh- und Neugeborene",
+      "Kinder und Jugendliche",
+      "Leistungserbringer",
+      "Menschen mit Behinderung",
+      "Menschen mit chronischen Krankheiten",
+      "Migrantinnen und Migranten",
+      "multimorbide Menschen",
+      "Pflegebedürftige",
+      "Schwangere und Wöchnerinnen"
+    ],
     "states": [
       "Berlin"
     ],
-    "care_setting": "",
+    "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "10/2026 – 09/2028",
+    "start_date": "2026-10",
+    "end_date": "2028-09",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 365.000 Euro",
     "funding_sum_eur": 365000,
@@ -67669,20 +67898,28 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "Skabies (Krätze) ist eine durch die Skabiesmilbe verursachte ansteckende Hautkrankheit, die vor allem bei längerem direkten Hautkontakt übertragen werden kann. Während die Infektionszahlen in Deutschland steigen, häuft sich das Therapieversagen unter der Erstlinientherapie, was mit hohen Mehrkosten durch wiederholte Arztkontakte und Therapiezyklen verbunden ist. Daher ist das Krankheitsbild von hoher gesundheitsökonomischer und versorgungspolitischer Relevanz. Insbesondere Ausbrüche in familiären Kontexten und in Pflegeheimen, Gemeinschaftsunterkünften oder Krankenhäusern verursachen erhebliche Kosten, binden personelle Ressourcen und führen zu hohen Belastungen für Betroffene, Angehörige und Einrichtungen.\n\nZiel der Leitlinie S3-LL-Skabies ist daher die Entwicklung von Handlungsempfehlungen, um einheitliche Standards für Diagnostik, Therapie und Umfeldmanagement zu etablieren. Hierbei werden vulnerable Gruppen, wie Kinder, Schwangere und Ältere, besonders berücksichtigt.\n\nDie Entwicklung der Leitlinie erfolgt gemäß dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF), d. h. eine Leitliniengruppe legt konkrete Fragestellungen fest und führt eine Recherche und Bewertung wissenschaftlicher Veröffentlichungen durch. In einem strukturierten Verfahren werden daraufhin Empfehlungen formuliert, diskutiert und konsentiert. Besonders innovativ ist die konsequente Ausrichtung auf Adressatengruppen auch außerhalb der Ärzteschaft: Pflege- und Gemeinschaftseinrichtungen, Sozialarbeiter und -arbeiterinnen sowie Betroffene, deren Angehörige und Kontaktpersonen. Zusätzlich sollen digitale und leicht verständliche Informationsmaterialien, auch in mehreren Sprachen, entwickelt werden, um die Umsetzung in der Praxis zu erleichtern.\n\nDas Projekt wird für zwei Jahre mit insgesamt ca. 365.000 Euro gefördert.\n\nEine erfolgreiche Entwicklung von Empfehlungen soll dazu beitragen, die Versorgung, die Prävention sowie die Infektionskontrolle zu verbessern und die Versorgungsqualität zu stärken. Dabei ist es besonders wichtig, Informationsmaterial an die unterschiedlichen Adressaten anzupassen und dieses mehrsprachig sowie in einfacher Sprache anzubieten.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Dr. Ricardo Niklas Werner",
         "Charité - Universitätsmedizin Berlin",
-        "(Dr. Ricardo Niklas Werner)"
+        "CharitéCentrum für Innere Medizin und Dermatologie CC12",
+        "Charitéplatz 1",
+        "10117 Berlin",
+        "+49 30 450618264",
+        "ricardo.werner@charite.de"
       ],
-      "display": "Charité - Universitätsmedizin Berlin | (Dr. Ricardo Niklas Werner)",
-      "name": "Charité - Universitätsmedizin Berlin",
-      "email": null,
-      "phone": null,
-      "organization": "(Dr. Ricardo Niklas Werner)"
+      "display": "Dr. Ricardo Niklas Werner | Charité - Universitätsmedizin Berlin | CharitéCentrum für Innere Medizin und Dermatologie CC12 | Charitéplatz 1 | 10117 Berlin | +49 30 450618264 | ricardo.werner@charite.de",
+      "name": "Dr. Ricardo Niklas Werner",
+      "email": "ricardo.werner@charite.de",
+      "phone": "+49 30 450618264",
+      "postal_code": "10117",
+      "city": "Berlin",
+      "organization": "Charité - Universitätsmedizin Berlin",
+      "street": "CharitéCentrum für Innere Medizin und Dermatologie CC12"
     },
-    "project_lead_city": null,
+    "project_lead_city": "Berlin",
     "consortium_partners": [],
     "essential_elements": {},
     "decision_date": null,
@@ -67978,9 +68215,16 @@
     "acronym": "S3-PPFx",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkte": "Erkrankungen des Muskel-Skelett-Systems, Notfälle, Verletzung und Vergiftungen",
+      "Zielgruppen": "ältere Menschen, Angehörige, Erwachsene, ländliche Bevölkerung, Leistungserbringer, Menschen mit Behinderung, multimorbide Menschen, Pflegebedürftige",
+      "Versorgungsbereich": "stationär",
       "Bundesland": "Mecklenburg-Vorpommern",
       "Förderkennzeichen": "01VSF26008",
-      "Status": "laufend"
+      "Laufzeit": "11/2026 – 04/2029",
+      "Status": "laufend",
+      "Heil- und Hilfsmittelversorgung": "Körperersatzstücke (Prothesen) , orthopädische Hilfsmittel (orthopädische Schuhe, Rollstühle) , Physiotherapie",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie",
+      "Versorgungsmodelle und Behandlungsprogramme": "Entlassmanagement / Nachsorge , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade , stationäre Versorgung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -67989,16 +68233,29 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von Leitlinien mit besonderem Augenmerk auf die Erstellung von Hilfen, Formaten zur Unterstützung der Disseminierung/Implementierung unter Berücksichtigung der Informationsbedürfnisse verschiedener Adressaten"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Erkrankungen des Muskel-Skelett-Systems",
+      "Notfälle",
+      "Verletzung und Vergiftungen"
+    ],
+    "target_groups": [
+      "ältere Menschen",
+      "Angehörige",
+      "Erwachsene",
+      "ländliche Bevölkerung",
+      "Leistungserbringer",
+      "Menschen mit Behinderung",
+      "multimorbide Menschen",
+      "Pflegebedürftige"
+    ],
     "states": [
       "Mecklenburg-Vorpommern"
     ],
-    "care_setting": "",
+    "care_setting": "stationär",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "11/2026 – 04/2029",
+    "start_date": "2026-11",
+    "end_date": "2029-04",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 527.000 Euro",
     "funding_sum_eur": 527000,
@@ -68007,18 +68264,24 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "Mit der steigenden Lebenserwartung nehmen Implantationen von künstlichen Hüft-, Knie- und Schultergelenken kontinuierlich zu. In Deutschland werden jährlich mehr als 200.000 künstliche Hüftgelenke, über 170.000 Kniegelenke und mehr als 30.000 Schultergelenke eingesetzt. Dabei treten in 10 – 40 % der Fälle Komplikationen auf, insbesondere Knochenbrüche rund um das künstliche Gelenk. Besonders gefährdet sind ältere Menschen, Frauen sowie Personen, die an Rheuma oder Osteoporose erkrankt sind. Bislang hängt deren Behandlung stark von der individuellen Erfahrung und operativen Ausrichtung der Behandelnden ab.\n\nDas Forschungsteam des Projekts S3-PPFx wird daher die bestehende S1-Leitlinie überarbeiten und unter Berücksichtigung aller an der Versorgung beteiligten Professionen zu einer S3-Leitlinie weiterentwickeln. In diese sollen evidenzbasierte Empfehlungen zu Diagnostik, Therapie, Rehabilitation und Prävention von Knochenbrüchen nach Gelenkersatz aufgenommen werden.\n\nDie S3-Leitlinie wird gemäß dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF) erstellt. Dabei legt eine Leitliniengruppe zunächst konkrete klinische Fragestellungen fest und führt anschließend eine systematische Recherche und Bewertung der wissenschaftlichen Literatur durch. Im weiteren Verlauf formuliert, diskutiert und konsentiert sie dazu gemeinsam mit Expertinnen und Experten der beteiligten Fachgesellschaften entsprechende Empfehlungen. Zudem werden Patientenorganisationen direkt einbezogen und die Informationsbedürfnisse von Behandelnden, Betroffenen und Angehörigen berücksichtigt. Diese Perspektive fließt in die endgültige Leitlinie ein. Zusätzlich werden die Inhalte der Leitlinie auf einer Website mit Bildern und zusätzlichen Informationen zielgruppenspezifisch aufbereitet. Ein wichtiges Ziel der Leitlinie ist die Entwicklung verschiedener Formate, die eine Anwendung und Verbreitung der Leitlinie fördern soll. So werden neben den Leitliniendokumenten interprofessionell abgestimmte Behandlungsalgorithmen, standardisierte Diagnostik- und Therapiepfade, strukturierte Nachsorgeprogramme und klare Schnittstellen zwischen Klinik, Rehabilitation und ambulanter Versorgung erarbeitet.\n\nDas Projekt wird für zweieinhalb Jahre mit insgesamt ca. 527.000 Euro gefördert.\n\nDie Entwicklung evidenzbasierter Handlungsempfehlungen soll dazu beitragen, die Behandlung von Knochenbrüchen nach einem künstlichen Gelenkersatz zu vereinheitlichen und die Lebensqualität der Betroffenen zu verbessern.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Prof. Dr. Sven Märdian",
         "Universitätsmedizin Rostock",
-        "(Prof. Dr. Sven Märdian)"
+        "Klinik und Poliklinik für Unfall-, Hand- und Wiederherstellungschirurgie",
+        "Schillingallee 3518057 Rostock",
+        "+49 381 4946051",
+        "sven.maerdian@med.uni-rostock.de"
       ],
-      "display": "Universitätsmedizin Rostock | (Prof. Dr. Sven Märdian)",
-      "name": "Universitätsmedizin Rostock",
-      "email": null,
-      "phone": null,
-      "organization": "(Prof. Dr. Sven Märdian)"
+      "display": "Prof. Dr. Sven Märdian | Universitätsmedizin Rostock | Klinik und Poliklinik für Unfall-, Hand- und Wiederherstellungschirurgie | Schillingallee 3518057 Rostock | +49 381 4946051 | sven.maerdian@med.uni-rostock.de",
+      "name": "Prof. Dr. Sven Märdian",
+      "email": "sven.maerdian@med.uni-rostock.de",
+      "phone": "+49 381 4946051",
+      "organization": "Universitätsmedizin Rostock",
+      "department": "Klinik und Poliklinik für Unfall-, Hand- und Wiederherstellungschirurgie",
+      "street": "Schillingallee 3518057 Rostock"
     },
     "project_lead_city": null,
     "consortium_partners": [
@@ -75419,8 +75682,12 @@
     "acronym": "SYMCHRON",
     "funding_category": "Versorgungsforschung",
     "project_data": {
+      "Themenschwerpunkt": "Erkrankungen des Urogenitalsystems",
+      "Zielgruppe": "Erwachsene",
+      "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Sachsen",
       "Förderkennzeichen": "01VSF26004",
+      "Laufzeit": "10/2026 – 03/2029",
       "Status": "laufend"
     },
     "funding_info": {
@@ -75430,16 +75697,20 @@
       "Förderbekanntmachung": "20.06.2025",
       "Themenfeld": "Entwicklung oder Weiterentwicklung von übergeordneten Leitlinien zu häufigen Beratungsanlässen sowie Zusammenführung von Leitlinien bei einer Aktualisierung oder Weiterentwicklung"
     },
-    "thematic_focuses": [],
-    "target_groups": [],
+    "thematic_focuses": [
+      "Erkrankungen des Urogenitalsystems"
+    ],
+    "target_groups": [
+      "Erwachsene"
+    ],
     "states": [
       "Sachsen"
     ],
-    "care_setting": "",
+    "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "",
-    "start_date": null,
-    "end_date": null,
+    "duration_raw": "10/2026 – 03/2029",
+    "start_date": "2026-10",
+    "end_date": "2029-03",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 372.000 Euro",
     "funding_sum_eur": 372000,
@@ -75448,24 +75719,39 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "20.06.2025",
-    "description": "Projektbeschreibung",
+    "description": "Etwa jede vierte Frau in Deutschland ist von chronischen Unterbauchschmerzen, die auch Chronic Pelvic Pain Syndrome (CPPS) bezeichnet werden, betroffen. Die Beschwerden können sich in Form von Schmerzen und Funktionseinschränkungen äußern und bis hin zu psychischen Erkrankungen und sozialer Isolation führen. Die Versorgung dieses Krankheitsbilds ist fragmentiert: Betroffene durchlaufen häufig wiederholte, teils invasive Diagnostiken ohne klare Orientierung, während Ärztinnen und Ärzte mangels interdisziplinärer Empfehlungen oft überfordert sind - mit Folgen für individuelles Leid und hohe gesundheitsökonomische Kosten.\n\nDas Ziel des Projekts SYMCHRON ist die Erstellung einer S3-Leitlinie, in der erstmals evidenzbasierte Empfehlungen für die Diagnostik und Therapie mit klaren Indikationskriterien für invasive und nicht-invasive Verfahren sowie Therapiepfade entwickelt werden sollen. In die Entwicklung der Leitlinie sollen neben den relevanten Fachgesellschaften auch Patientinnen, die durch Selbsthilfeorganisationen vertreten werden, einbezogen werden.\n\nDie Leitlinie wird gemäß den Vorgaben der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF) erstellt. Eine Leitliniengruppe, die sich aus relevanten Akteuren der Bereiche Gynäkologie, Psychosomatik, Schmerzmedizin, Urologie und Innere Medizin - um hier nur einige zu nennen - zusammensetzt, entwickelt Schlüsselfragen und Schwerpunkte zu den Themen Diagnostik, Risikofaktoren, Ursachen, Prognosen, Komorbiditäten, Therapie, Versorgungsqualität und -struktur sowie Geschlechtsdiverse und kulturelle Aspekte. Es folgt eine systematische Literaturrecherche, anschließend werden die Ergebnisse und Empfehlungen aufbereitet. Im nächsten Schritt erstellen Arbeitsgruppen Textvorschläge, die dann in einem mehrstufigen Beratungsverfahren im Konsens zu Empfehlungen führen. Nach externer Begutachtung werden die Leitlinie und eine laienverständliche Version veröffentlicht.\n\nDas Projekt wird für zweieinhalb Jahre mit insgesamt ca. 372.000 Euro gefördert.\n\nIm Erfolgsfall zeigt die S3-Leitlinie evidenzbasierte Therapiepfade auf, stärkt die Kooperation unterschiedlicher Disziplinen wie beispielsweise der Gynäkologie und Schmerzmedizin, reduziert unnötige Eingriffe und verbessert die Lebensqualität der Betroffenen. Langfristig führt dies zu einer Entlastung der Behandelnden und stärkt die Qualität und Wirtschaftlichkeit der Versorgung.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
+        "Dr. Friederike Siedentopf",
         "Deutsche Gesellschaft für Psychosomatische Frauenheilkunde und Geburtshilfe e. V.",
-        "(Dr. Friederike Siedentopf)"
+        "Klinik für Gynäkologie (Universitätsklinikum Hamburg-Eppendorf)",
+        "Tzschimmerstr. 30",
+        "01309 Dresden",
+        "+49 26134617090",
+        "friederike.siedentopf@gmx.de"
       ],
-      "display": "Deutsche Gesellschaft für Psychosomatische Frauenheilkunde und Geburtshilfe e. V. | (Dr. Friederike Siedentopf)",
-      "name": "Deutsche Gesellschaft für Psychosomatische Frauenheilkunde und Geburtshilfe e. V.",
-      "email": null,
-      "phone": null,
-      "organization": "(Dr. Friederike Siedentopf)"
+      "display": "Dr. Friederike Siedentopf | Deutsche Gesellschaft für Psychosomatische Frauenheilkunde und Geburtshilfe e. V. | Klinik für Gynäkologie (Universitätsklinikum Hamburg-Eppendorf) | Tzschimmerstr. 30 | 01309 Dresden | +49 26134617090 | friederike.siedentopf@gmx.de",
+      "name": "Dr. Friederike Siedentopf",
+      "email": "friederike.siedentopf@gmx.de",
+      "phone": "+49 26134617090",
+      "postal_code": "01309",
+      "city": "Dresden",
+      "organization": "Deutsche Gesellschaft für Psychosomatische Frauenheilkunde und Geburtshilfe e. V.",
+      "department": "Klinik für Gynäkologie (Universitätsklinikum Hamburg-Eppendorf)",
+      "street": "Tzschimmerstr. 30"
     },
-    "project_lead_city": null,
+    "project_lead_city": "Dresden",
     "consortium_partners": [
       "Heinrich-Heine-Universität Düsseldorf"
     ],
-    "essential_elements": {},
+    "essential_elements": {
+      "Versorgungsmodelle und Behandlungsprogramme": [
+        "ambulante ärztliche Versorgung",
+        "ambulante spezialfachärztliche Versorgung (ASV)",
+        "stationäre Versorgung"
+      ]
+    },
     "decision_date": null,
     "result_documents": [],
     "additional_documents": [],
