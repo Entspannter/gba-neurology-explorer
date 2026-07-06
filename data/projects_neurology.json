@@ -1949,7 +1949,7 @@
       "Bundesland": "Hessen",
       "Förderkennzeichen": "01VSF22046",
       "Laufzeit": "01/2023 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Big Data und Gesundheitsdatenanalyse",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Rehabilitation und Therapie , Screeninginstrumente oder -verfahren",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Patienten- und Behandlungspfade"
@@ -1977,7 +1977,7 @@
       "Hessen"
     ],
     "care_setting": "ambulant",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 06/2026",
     "start_date": "2023-01",
     "end_date": "2026-06",
@@ -4138,18 +4138,18 @@
     ],
     "project_lead": {
       "raw_lines": [
-        "Dr. Sebastian Carnarius",
+        "Dr. Karl Schenkel",
         "Zentralinstitut für die kassenärztliche Versorgung",
         "Fachbereich Medizin",
         "Salzufer 8",
         "10587 Berlin",
-        "+49 30 2200 56118",
-        "scarnarius@zi.de"
+        "+49 30 2200 56081",
+        "kschenkel@zi.de"
       ],
-      "display": "Dr. Sebastian Carnarius | Zentralinstitut für die kassenärztliche Versorgung | Fachbereich Medizin | Salzufer 8 | 10587 Berlin | +49 30 2200 56118 | scarnarius@zi.de",
-      "name": "Dr. Sebastian Carnarius",
-      "email": "scarnarius@zi.de",
-      "phone": "+49 30 2200 56118",
+      "display": "Dr. Karl Schenkel | Zentralinstitut für die kassenärztliche Versorgung | Fachbereich Medizin | Salzufer 8 | 10587 Berlin | +49 30 2200 56081 | kschenkel@zi.de",
+      "name": "Dr. Karl Schenkel",
+      "email": "kschenkel@zi.de",
+      "phone": "+49 30 2200 56081",
       "postal_code": "10587",
       "city": "Berlin",
       "organization": "Zentralinstitut für die kassenärztliche Versorgung",
@@ -4678,7 +4678,7 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF23009",
       "Laufzeit": "10/2023 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Einsatz von Arzneimitteln": "Medikationsmanagement",
       "Heil- und Hilfsmittelversorgung": "Ergotherapie , Ernährungstherapie , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement , Screeninginstrumente oder -verfahren , Vorsorgeuntersuchungen"
@@ -4715,7 +4715,7 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "10/2023 – 06/2026",
     "start_date": "2023-10",
     "end_date": "2026-06",
@@ -5786,7 +5786,7 @@
       "Bundesland": "Sachsen",
       "Förderkennzeichen": "01VSF22027",
       "Laufzeit": "01/2023 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "App , Digitale Gesundheitsanwendungen (DiGA) , Informations- und Kommunikationstechnologien (IKT) , Künstliche Intelligenz / maschinelles Lernen / Algorithmen , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement , Selbstmanagement-Programme , Telematik-Infrastruktur",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Blended Care / Blended Treatment , Entlassmanagement / Nachsorge , Patienten- und Behandlungspfade , personalisierte Medizin"
@@ -5826,7 +5826,7 @@
       "Sachsen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 06/2026",
     "start_date": "2023-01",
     "end_date": "2026-06",
@@ -16212,7 +16212,7 @@
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF23004",
       "Laufzeit": "10/2023 – 06/2026",
-      "Status": "laufend"
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -16231,7 +16231,7 @@
       "Berlin"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "10/2023 – 06/2026",
     "start_date": "2023-10",
     "end_date": "2026-06",

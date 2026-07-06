@@ -564,7 +564,7 @@
     "project_id": 740,
     "slug": "abs-ambulant.740",
     "url": "https://innovationsfonds.g-ba.de/projekte/abs-ambulant.740",
-    "title": "ABS ambulant – S3-Leitlinie: Empfehlungen für ein ambulantes Antibiotic Stewardship Programm für Deutschland",
+    "title": "ABS ambulant – S3-Leitlinie Antibiotic Stewardship in der Primärversorgung",
     "acronym": "ABS ambulant",
     "funding_category": "Versorgungsforschung",
     "project_data": {
@@ -5869,7 +5869,7 @@
       "Bundesland": "Hamburg",
       "Förderkennzeichen": "01VSF22031",
       "Laufzeit": "01/2023 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "App",
       "Heil- und Hilfsmittelversorgung": "Ernährungstherapie , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , Rehabilitation und Therapie",
@@ -5892,7 +5892,7 @@
       "Hamburg"
     ],
     "care_setting": "ambulant",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 06/2026",
     "start_date": "2023-01",
     "end_date": "2026-06",
@@ -7808,7 +7808,7 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 12,65 MB)",
+        "meta": "(PDF 14,10 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1170/2026-06-19_CareTrans_Ergebnisbericht.pdf"
       }
     ],
@@ -8897,7 +8897,7 @@
       "Bundesland": "Hessen",
       "Förderkennzeichen": "01VSF22046",
       "Laufzeit": "01/2023 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Big Data und Gesundheitsdatenanalyse",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Rehabilitation und Therapie , Screeninginstrumente oder -verfahren",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Patienten- und Behandlungspfade"
@@ -8925,7 +8925,7 @@
       "Hessen"
     ],
     "care_setting": "ambulant",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 06/2026",
     "start_date": "2023-01",
     "end_date": "2026-06",
@@ -11762,7 +11762,7 @@
       "Bundesland": "Niedersachsen",
       "Förderkennzeichen": "01VSF21036",
       "Laufzeit": "07/2022 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "App",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitskompetenz und Gesundheitsressourcen , Patientenkommunikation , Rehabilitation und Therapie"
     },
@@ -11785,7 +11785,7 @@
       "Niedersachsen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "07/2022 – 06/2026",
     "start_date": "2022-07",
     "end_date": "2026-06",
@@ -18760,18 +18760,18 @@
     ],
     "project_lead": {
       "raw_lines": [
-        "Dr. Sebastian Carnarius",
+        "Dr. Karl Schenkel",
         "Zentralinstitut für die kassenärztliche Versorgung",
         "Fachbereich Medizin",
         "Salzufer 8",
         "10587 Berlin",
-        "+49 30 2200 56118",
-        "scarnarius@zi.de"
+        "+49 30 2200 56081",
+        "kschenkel@zi.de"
       ],
-      "display": "Dr. Sebastian Carnarius | Zentralinstitut für die kassenärztliche Versorgung | Fachbereich Medizin | Salzufer 8 | 10587 Berlin | +49 30 2200 56118 | scarnarius@zi.de",
-      "name": "Dr. Sebastian Carnarius",
-      "email": "scarnarius@zi.de",
-      "phone": "+49 30 2200 56118",
+      "display": "Dr. Karl Schenkel | Zentralinstitut für die kassenärztliche Versorgung | Fachbereich Medizin | Salzufer 8 | 10587 Berlin | +49 30 2200 56081 | kschenkel@zi.de",
+      "name": "Dr. Karl Schenkel",
+      "email": "kschenkel@zi.de",
+      "phone": "+49 30 2200 56081",
       "postal_code": "10587",
       "city": "Berlin",
       "organization": "Zentralinstitut für die kassenärztliche Versorgung",
@@ -23269,7 +23269,7 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF23009",
       "Laufzeit": "10/2023 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Einsatz von Arzneimitteln": "Medikationsmanagement",
       "Heil- und Hilfsmittelversorgung": "Ergotherapie , Ernährungstherapie , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement , Screeninginstrumente oder -verfahren , Vorsorgeuntersuchungen"
@@ -23306,7 +23306,7 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "10/2023 – 06/2026",
     "start_date": "2023-10",
     "end_date": "2026-06",
@@ -30502,7 +30502,7 @@
       "Bundesland": "Sachsen",
       "Förderkennzeichen": "01VSF22027",
       "Laufzeit": "01/2023 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "App , Digitale Gesundheitsanwendungen (DiGA) , Informations- und Kommunikationstechnologien (IKT) , Künstliche Intelligenz / maschinelles Lernen / Algorithmen , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement , Selbstmanagement-Programme , Telematik-Infrastruktur",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Blended Care / Blended Treatment , Entlassmanagement / Nachsorge , Patienten- und Behandlungspfade , personalisierte Medizin"
@@ -30542,7 +30542,7 @@
       "Sachsen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 06/2026",
     "start_date": "2023-01",
     "end_date": "2026-06",
@@ -35263,7 +35263,7 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF22025",
       "Laufzeit": "04/2023 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Entscheidungshilfesystem , Künstliche Intelligenz / maschinelles Lernen / Algorithmen",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Früherkennung , Screeninginstrumente oder -verfahren",
       "Versorgungsmodelle und Behandlungsprogramme": "Patienten- und Behandlungspfade"
@@ -35288,7 +35288,7 @@
       "Bayern"
     ],
     "care_setting": "zahnärztlich",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "04/2023 – 06/2026",
     "start_date": "2023-04",
     "end_date": "2026-06",
@@ -44973,7 +44973,7 @@
       "Bundesland": "Niedersachsen",
       "Förderkennzeichen": "01VSF23031",
       "Laufzeit": "01/2024 – 06/2026",
-      "Status": "laufend"
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -44998,7 +44998,7 @@
       "Niedersachsen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2024 – 06/2026",
     "start_date": "2024-01",
     "end_date": "2026-06",
@@ -57487,7 +57487,7 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 5,77 MB)",
+        "meta": "(PDF 7,12 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1141/2026-05-22_PraeVi_Ergebnisbericht.pdf"
       }
     ],
@@ -60287,7 +60287,7 @@
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF21037",
       "Laufzeit": "07/2022 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "App , Big Data und Gesundheitsdatenanalyse , digitale Informationsplattform / Wissensdatenbank / Therapiemodule , Entscheidungshilfesystem , Informations- und Kommunikationstechnologien (IKT)",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Screeninginstrumente oder -verfahren , Selbstmanagement-Programme",
       "Versorgungsmodelle und Behandlungsprogramme": "Disease-Management-Programme (DMP)"
@@ -60311,7 +60311,7 @@
       "Berlin"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "07/2022 – 06/2026",
     "start_date": "2022-07",
     "end_date": "2026-06",
@@ -62076,7 +62076,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "20.10.2017",
     "description": "Die Wirksamkeit von Psychotherapie zur Behandlung verschiedenster psychischer Störungen ist gut belegt. Trotz dessen sind die Behandlungsraten, auch in Ländern mit einem gut ausgebauten Gesundheitsversorgungssystem, gering – obwohl der Bedarf hoch ist. In Deutschland bleiben je nach Störungsbild ca. 28 bis 63 Prozent der Betroffenen unbehandelt.\n\nDas Ziel des Projekts ist es, internetbasierte Interventionen in die ambulante psychotherapeutische Routineversorgung zu integrieren. Dies geschieht am Beispiel von depressiven Störungen und Angststörungen. Im Projekt werden die Wirksamkeit, die Kosten-Effektivität sowie die Akzeptanz und Durchführbarkeit zweier Varianten von PSYCHOnlineTHERAPIE getestet. PSYCHOnlineTHERAPIE kombiniert Online- und Vor-Ort-Psychotherapiesitzungen (Variante „fix“: maximal 8 Online-/8 Vor-Ort-Sitzungen; Variante „flex“: maximal 16 Sitzungen flexibel Online/Vor-Ort im Ermessen des Therapeuten; jeweils kognitive Verhaltenstherapie (KVT)). Der Behandlungserfolg wird mit dem der Standardbehandlung (maximal 16 Sitzungen KVT) verglichen. Im Vorhaben werden 900 Patienten von 75 Psychotherapeuten in Baden-Württemberg untersucht. Das Projekt wird für 54 Monate mit insgesamt ca. 3,4 Millionen Euro gefördert.\n\nIm Erfolgsfall liegt bei diesem Projekt eine neue Versorgungsform vor, die den Patienten weiterhin den hohen psychotherapeutischen Standard ermöglicht und den Psychotherapeuten sowie den Betroffenen eine flexible Therapieplanung und -gestaltung bietet. Außerdem bietet sie der Gesellschaft, durch ggf. frei werdende psychotherapeutische Kapazitäten, eine verbesserte Versorgung. PSYCHOnlineTHERAPIE kann zudem bei erfolgreicher Evaluation deutschlandweit implementiert und auf weitere Störungsbilder ausgeweitet werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://psychonlinetherapie.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Harald Baumeister",
@@ -71572,7 +71574,7 @@
       "Bundesländer": "Hamburg, Nordrhein-Westfalen",
       "Förderkennzeichen": "01NVF21108",
       "Laufzeit": "07/2022 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Einsatz von Arzneimitteln": "Medikationsmanagement , Multimedikation / Polypharmazie",
       "Heil- und Hilfsmittelversorgung": "Ergotherapie , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Rehabilitation und Therapie",
@@ -71599,7 +71601,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "07/2022 – 06/2026",
     "start_date": "2022-07",
     "end_date": "2026-06",
@@ -77776,7 +77778,7 @@
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF23004",
       "Laufzeit": "10/2023 – 06/2026",
-      "Status": "laufend"
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -77795,7 +77797,7 @@
       "Berlin"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "10/2023 – 06/2026",
     "start_date": "2023-10",
     "end_date": "2026-06",
@@ -79034,7 +79036,13 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1178/2026-06-19_TransitADI_Ergebnisbericht.pdf"
       }
     ],
-    "additional_documents": [],
+    "additional_documents": [
+      {
+        "title": "Patient:innenleitlinie",
+        "meta": "(PDF 1,84 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/420/2026-06-19_01VSF22014_TransitAdi_Ergebnisbericht_Anlage_3_Patientinnenleitlinie.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
