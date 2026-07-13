@@ -7894,7 +7894,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesländer": "Baden-Württemberg, Bayern, Hamburg, Hessen, Nordrhein-Westfalen, Schleswig-Holstein",
       "Förderkennzeichen": "01NVF25312",
-      "Laufzeit": "07/2026 – 06/2030",
+      "Laufzeit": "11/2026 – 10/2030",
       "Status": "laufend",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement , Screeninginstrumente oder -verfahren",
       "Qualifikation und Delegation": "Substitution ärztlicher Leistungen , Zusatzqualifikation von medizinischem Assistenzpersonal",
@@ -7933,9 +7933,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "07/2026 – 06/2030",
-    "start_date": "2026-07",
-    "end_date": "2030-06",
+    "duration_raw": "11/2026 – 10/2030",
+    "start_date": "2026-11",
+    "end_date": "2030-10",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 5,9 Mio. Euro",
     "funding_sum_eur": 5900000,
@@ -40499,7 +40499,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Mecklenburg-Vorpommern",
       "Förderkennzeichen": "01NVF23112",
-      "Laufzeit": "10/2024 – 03/2028",
+      "Laufzeit": "10/2024 – 09/2028",
       "Status": "laufend",
       "E-Health": "App , digitale Informationsplattform / Wissensdatenbank / Therapiemodule , Telekonsil / Televisite / Teletherapie , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Resilienzförderung und Stressmanagement , Screeninginstrumente oder -verfahren , Selbstmanagement-Programme",
@@ -40527,9 +40527,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "10/2024 – 03/2028",
+    "duration_raw": "10/2024 – 09/2028",
     "start_date": "2024-10",
-    "end_date": "2028-03",
+    "end_date": "2028-09",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 7,4 Mio. Euro",
     "funding_sum_eur": 7400000,
@@ -40538,7 +40538,7 @@
     "funding_process": "zweistufig lang",
     "funding_area": "Neue Versorgungsformen",
     "call_date": "03.03.2022",
-    "description": "Der steigende Anteil älterer Menschen an der Bevölkerung stellt in Deutschland ein wachsendes Problem für das Gesundheitssystem dar. Insbesondere in ländlichen Gebieten wird sich diese Entwicklung und der gleichzeitig wachsende Fachkräftemangel im Gesundheitswesen in den kommenden Jahren auf die Versorgungsqualität auswirken. Um der drohenden Unterversorgung in ländlichen Regionen entgegenzuwirken, bedarf es neuer Ansätze für eine flächendeckende Erreichbarkeit und den Zugang zu medizinischer Versorgung.\n\nIm Projekt LuP-Regio ist geplant, ein ambulantes Versorgungszentrum als Bestandteil eines vernetzen ländlichen Krankenhausmodells zu entwickeln. Am Beispiel eines Krankenhauses im Landkreis Ludwigslust-Parchim soll eine wohnortnahe Leistungsstruktur erprobt werden, die auf eine Bevölkerung mit einem hohen Anteil älterer Menschen zugeschnitten ist. Zu diesem Zweck sollen eine ambulante fachärztliche Grundversorgung sowie integrierte Mobilitätsangebote wie ein bedarfsgerechter Transport zum Behandlungsort aufgebaut werden. Weiterhin wird dieses Krankenhaus mittels digitaler Schnittstellen mit umliegenden Krankenhäusern vernetzt, so dass bei Bedarf über telemedizinische Beratungen und Fallkonferenzen ein Austausch zwischen verschiedenen Disziplinen möglich ist. Zudem sollen Community Health Nurses, also speziell ausgebildete Pflegefachkräfte die ambulanten, präventiven und gesundheitsfördernden Leistungen im Versorgungszentrum koordinieren. Patientenbefragungen und die Auswertung von Routinedaten sollen helfen, Bedarfe und etwaige Hürden bei der Umsetzung der neuen Versorgungsform zu identifizieren. Eine gesundheitsökonomische Analyse dient dazu, den Ressourcenverbrauch im Rahmen der Intervention zu erfassen und auszuwerten. Das Projekt wird für dreieinhalb Jahre mit insgesamt ca. 7,4 Millionen Euro gefördert.\n\nErweisen sich die neuen Verfahren als wirksam, können sie in der Praxis umgesetzt werden und so dazu beitragen, die Versorgungsqualität in strukturschwachen Regionen auch in Zukunft zu erhalten und gegebenenfalls zu verbessern.",
+    "description": "Der steigende Anteil älterer Menschen an der Bevölkerung stellt in Deutschland ein wachsendes Problem für das Gesundheitssystem dar. Insbesondere in ländlichen Gebieten wird sich diese Entwicklung und der gleichzeitig wachsende Fachkräftemangel im Gesundheitswesen in den kommenden Jahren auf die Versorgungsqualität auswirken. Um der drohenden Unterversorgung in ländlichen Regionen entgegenzuwirken, bedarf es neuer Ansätze für eine flächendeckende Erreichbarkeit und den Zugang zu medizinischer Versorgung.\n\nIm Projekt LuP-Regio ist geplant, ein ambulantes Versorgungszentrum als Bestandteil eines vernetzen ländlichen Krankenhausmodells zu entwickeln. Am Beispiel eines Krankenhauses im Landkreis Ludwigslust-Parchim soll eine wohnortnahe Leistungsstruktur erprobt werden, die auf eine Bevölkerung mit einem hohen Anteil älterer Menschen zugeschnitten ist. Zu diesem Zweck sollen eine ambulante fachärztliche Grundversorgung sowie integrierte Mobilitätsangebote wie ein bedarfsgerechter Transport zum Behandlungsort aufgebaut werden. Weiterhin wird dieses Krankenhaus mittels digitaler Schnittstellen mit umliegenden Krankenhäusern vernetzt, so dass bei Bedarf über telemedizinische Beratungen und Fallkonferenzen ein Austausch zwischen verschiedenen Disziplinen möglich ist. Zudem sollen Community Health Nurses, also speziell ausgebildete Pflegefachkräfte die ambulanten, präventiven und gesundheitsfördernden Leistungen im Versorgungszentrum koordinieren. Patientenbefragungen und die Auswertung von Routinedaten sollen helfen, Bedarfe und etwaige Hürden bei der Umsetzung der neuen Versorgungsform zu identifizieren. Eine gesundheitsökonomische Analyse dient dazu, den Ressourcenverbrauch im Rahmen der Intervention zu erfassen und auszuwerten. Das Projekt wird für vier Jahre mit insgesamt ca. 7,4 Millionen Euro gefördert.\n\nErweisen sich die neuen Verfahren als wirksam, können sie in der Praxis umgesetzt werden und so dazu beitragen, die Versorgungsqualität in strukturschwachen Regionen auch in Zukunft zu erhalten und gegebenenfalls zu verbessern.",
     "project_websites": [
       "https://lup-regio.de/"
     ],
@@ -59154,19 +59154,19 @@
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
-        "Dr. Sebastian Voigt-Radloff",
+        "Dr. Lukas Horstmeier",
         "Albert-Ludwigs-Universität Freiburg",
         "Universitätsklinikum Freiburg",
         "Institut für Medizinische Biometrie und Statistik, Sektion Versorgungsforschung und Rehabilitationsforschung (SEVERA)",
         "Hugstetter Straße 49",
         "79106 Freiburg",
-        "+49 761 27074470",
-        "sebastian.voigt@uniklinik-freiburg.de"
+        "+49 761 27074293",
+        "lukas.horstmeier@uniklinik-freiburg.de"
       ],
-      "display": "Dr. Sebastian Voigt-Radloff | Albert-Ludwigs-Universität Freiburg | Universitätsklinikum Freiburg | Institut für Medizinische Biometrie und Statistik, Sektion Versorgungsforschung und Rehabilitationsforschung (SEVERA) | Hugstetter Straße 49 | 79106 Freiburg | +49 761 27074470 | sebastian.voigt@uniklinik-freiburg.de",
-      "name": "Dr. Sebastian Voigt-Radloff",
-      "email": "sebastian.voigt@uniklinik-freiburg.de",
-      "phone": "+49 761 27074470",
+      "display": "Dr. Lukas Horstmeier | Albert-Ludwigs-Universität Freiburg | Universitätsklinikum Freiburg | Institut für Medizinische Biometrie und Statistik, Sektion Versorgungsforschung und Rehabilitationsforschung (SEVERA) | Hugstetter Straße 49 | 79106 Freiburg | +49 761 27074293 | lukas.horstmeier@uniklinik-freiburg.de",
+      "name": "Dr. Lukas Horstmeier",
+      "email": "lukas.horstmeier@uniklinik-freiburg.de",
+      "phone": "+49 761 27074293",
       "postal_code": "79106",
       "city": "Freiburg",
       "organization": "Albert-Ludwigs-Universität Freiburg",
@@ -76476,7 +76476,7 @@
     "result_documents": [
       {
         "title": "Beschlusstext",
-        "meta": "(PDF 163,97 kB)",
+        "meta": "(PDF 169,17 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1159/2026-06-19_TELE-KASPER.pdf"
       },
       {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T06:50:15+00:00",
+  "generatedAt": "2026-07-13T08:31:51+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 860,
@@ -1922,9 +1922,9 @@
       "fundingProcess": "zweistufig lang",
       "fundingSumLabel": "ca. 5,9 Mio. Euro",
       "fundingSumEur": 5900000,
-      "duration": "07/2026 – 06/2030",
-      "startDate": "2026-07",
-      "endDate": "2030-06",
+      "duration": "11/2026 – 10/2030",
+      "startDate": "2026-11",
+      "endDate": "2030-10",
       "transferRecommendation": "",
       "projectLead": {
         "raw_lines": [
@@ -10024,19 +10024,19 @@
       "transferRecommendation": "",
       "projectLead": {
         "raw_lines": [
-          "Dr. Sebastian Voigt-Radloff",
+          "Dr. Lukas Horstmeier",
           "Albert-Ludwigs-Universität Freiburg",
           "Universitätsklinikum Freiburg",
           "Institut für Medizinische Biometrie und Statistik, Sektion Versorgungsforschung und Rehabilitationsforschung (SEVERA)",
           "Hugstetter Straße 49",
           "79106 Freiburg",
-          "+49 761 27074470",
-          "sebastian.voigt@uniklinik-freiburg.de"
+          "+49 761 27074293",
+          "lukas.horstmeier@uniklinik-freiburg.de"
         ],
-        "display": "Dr. Sebastian Voigt-Radloff | Albert-Ludwigs-Universität Freiburg | Universitätsklinikum Freiburg | Institut für Medizinische Biometrie und Statistik, Sektion Versorgungsforschung und Rehabilitationsforschung (SEVERA) | Hugstetter Straße 49 | 79106 Freiburg | +49 761 27074470 | sebastian.voigt@uniklinik-freiburg.de",
-        "name": "Dr. Sebastian Voigt-Radloff",
-        "email": "sebastian.voigt@uniklinik-freiburg.de",
-        "phone": "+49 761 27074470",
+        "display": "Dr. Lukas Horstmeier | Albert-Ludwigs-Universität Freiburg | Universitätsklinikum Freiburg | Institut für Medizinische Biometrie und Statistik, Sektion Versorgungsforschung und Rehabilitationsforschung (SEVERA) | Hugstetter Straße 49 | 79106 Freiburg | +49 761 27074293 | lukas.horstmeier@uniklinik-freiburg.de",
+        "name": "Dr. Lukas Horstmeier",
+        "email": "lukas.horstmeier@uniklinik-freiburg.de",
+        "phone": "+49 761 27074293",
         "postal_code": "79106",
         "city": "Freiburg",
         "organization": "Albert-Ludwigs-Universität Freiburg",
