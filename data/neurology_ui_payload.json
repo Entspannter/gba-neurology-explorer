@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T08:31:51+00:00",
+  "generatedAt": "2026-07-20T08:21:44+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 860,
@@ -14,8 +14,8 @@
     "exclusiveNeurologyProjects": 47,
     "multiFocusNeurologyProjects": 123,
     "onlineFilterOnlyProjects": 0,
-    "activeNeurologyProjects": 82,
-    "completedNeurologyProjects": 88,
+    "activeNeurologyProjects": 80,
+    "completedNeurologyProjects": 90,
     "statesWithNeurologyProjects": 16,
     "totalFundingEur": 446922497
   },
@@ -9848,7 +9848,7 @@
       "url": "https://innovationsfonds.g-ba.de/projekte/poise.379",
       "summary": "Akut aufgetretener Schwindel ist einer der häufigsten Gründe für Arztbesuche. Obwohl viele Formen des Schwindels gut erkennbar sind, werden Schwindelpatientinnen und -patienten häufig falsch diagnostiziert und behandelt.",
       "description": "Akut aufgetretener Schwindel ist einer der häufigsten Gründe für Arztbesuche. Obwohl viele Formen des Schwindels gut erkennbar sind, werden Schwindelpatientinnen und -patienten häufig falsch diagnostiziert und behandelt. Das kann zu Chronifizierung, einer starken Einschränkung der Lebensqualität und des Alltagslebens, hohen Kosten und Arbeitsunfähigkeit führen.\n\nDas Projekt PoiSe hat das Ziel, Schwindelpatientinnen und -patienten mit Hilfe eines multimodalen Konzepts besser zu versorgen. Ein automatisiertes Diagnosesystem, Fortbildungsmodule und ein Expertennetzwerk werden die behandelnden Haus- und Fachärzte bei der Entscheidungsfindung und der Versorgung der Schwindelpatientinnen und -patienten unterstützen. Bestandteil dieses Systems ist auch eine mobile Applikation, die den Therapieverlauf bei den Patientinnen und Patienten dokumentiert und unerwartete Verläufe und Risiken erkennt. Das dezentrale Expertennetzwerk wird die behandelnden Haus- und Fachärzte auch in ländlichen Gebieten flächendeckend unterstützen.\n\nEs wird eine clusterrandomisierte kontrollierte Studie durchgeführt. Wirksamkeit und Effektivität des Programms werden parallel zur Einführung des Konzepts untersucht. Dabei werden gesundheitsbezogene Lebensqualität und Teilhabe der Patientinnen und Patienten sowie Kosten für Inanspruchnahme von Gesundheitsleistungen untersucht. Eine detaillierte Prozessevaluation untersucht, ob das Programm die Diagnosesicherheit der Ärztinnen und Ärzte erhöht, ob es für Patientinnen und Patienten und Ärztinnen und Ärzte akzeptabel ist und welche Barrieren bei seiner Einführung zu überwinden sind. Das Projekt wird für 60 Monate mit insgesamt ca. 4,5 Millionen Euro gefördert.\n\nDas Programm wird zunächst in Bayern erprobt, kann aber als Muster für eine Ausweitung auf weitere Regionen, andere Erkrankungen und Patientengruppen dienen – insbesondere solche, bei denen eine enge und kurzfristige Zusammenarbeit von Ärztinnen und Ärzten verschiedener Fachrichtungen erforderlich ist.",
-      "status": "Abschlussbericht wird erstellt",
+      "status": "beendet",
       "states": [
         "Bayern"
       ],
@@ -9872,7 +9872,7 @@
       "duration": "03/2020 – 02/2025",
       "startDate": "2020-03",
       "endDate": "2025-02",
-      "transferRecommendation": "",
+      "transferRecommendation": "keine Empfehlung",
       "projectLead": {
         "raw_lines": [
           "Dr. Filipp M. Filippopulos",
@@ -9901,8 +9901,39 @@
         "Martin-Luther-Universität Halle-Wittenberg"
       ],
       "projectWebsites": [],
-      "decisionDate": null,
-      "documents": [],
+      "decisionDate": "17.07.2026",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 145,87 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1188/2026-07-17_PoiSe.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 31,88 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1189/2026-07-17_PoiSe_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Evaluationsbericht",
+          "meta": "(PDF 8,70 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1190/2026-07-17_PoiSe_Evaluationsbericht.pdf"
+        },
+        {
+          "title": "Digitale Inhalte der Plattform und App",
+          "meta": "(PDF 12,88 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/422/2026-07-17_PoiSe_Ergebnisbericht_Anlage_4_Digitale_Inhalte_der_Plattform_und_App.pdf"
+        },
+        {
+          "title": "Fortbildung für teilnehmende Leistungserbringer",
+          "meta": "(PDF 4,58 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/423/2026-07-17_PoiSe_Ergebnisbericht_Anlage_5_Fortbildung_fuer_teilnehmende_Leistungserbringer.pdf"
+        },
+        {
+          "title": "Anleitungen und Beispiele zum Videomodul",
+          "meta": "(PDF 281,93 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/424/2026-07-17_PoiSe_Ergebnisbericht_Anlage_10_Anleitungen_und_Beispiele_zum_Videomodul.pdf"
+        }
+      ],
       "essentialElements": {
         "Versorgungsmodelle und Behandlungsprogramme": [
           "ambulante ärztliche Versorgung",
@@ -10918,7 +10949,7 @@
       "url": "https://innovationsfonds.g-ba.de/projekte/redurisk.299",
       "summary": "Ältere und gebrechliche Patienten tragen ein erhöhtes Risiko, dass Krankenhausaufenthalte ihre Lebensqualität und Gesundheit negativ beeinflussen.",
       "description": "Ältere und gebrechliche Patienten tragen ein erhöhtes Risiko, dass Krankenhausaufenthalte ihre Lebensqualität und Gesundheit negativ beeinflussen. Oft geraten sie während des stationären Aufenthalts in einen Verwirrtheitszustand (Delir), sind körperlich unzureichend aktiv und haben ein erhöhtes Risiko für eine inadäquate Medikation. Diese Faktoren können den Morbiditätsgrad und die Entwicklung kognitiver Einschränkungen fördern. Die Unterbringung der Betroffenen in Pflegeeinrichtungen und erhöhte Sterberaten sind die Folgen. Eine frühzeitige Erfassung der Risikofaktoren für den funktionellen Abbau nach der Entlassung aus dem Krankenhaus kann dem entgegenwirken, ist in den Routineabläufen der Versorgung aber noch nicht flächendeckend etabliert.\n\nIm ReduRisk-Projekt soll ein Screening bereits kurz nach der stationären Aufnahme älterer Menschen mögliche Risikopatienten identifizieren. Diese erhalten dann ein individuell maßgeschneidertes Präventionsprogramm (Delirprävention, Mobilitätstraining, Medikationsberatung). Es soll der mit Krankenhausaufenthalten oft assoziierten verschlechterten Lebensqualität, Gesundheit und Selbstständigkeit älterer Patienten entgegenwirken. Dies soll auch die Rate der stationären Wiederaufnahmen und die Versorgungskosten senken.\n\nUm die Wirksamkeit des Konzepts im Alltag zu testen, wird eine sogenannte kontrollierte randomisierte Studie mit ca. 600 Patienten auf sechs Stationen des Universitätsklinikums Freiburg durchgeführt. Die Hälfte der Patienten nutzt das Redu-Risk-Präventionsprogramm, die andere Hälfte erhält die Routineversorgung. Alle Patienten werden am ersten und letzten Tag ihres stationären Aufenthalts sowie sechs Monate nach ihrer Entlassung zu verschiedenen Endunkten befragt, beispielsweise zu ihrer Mobilität, ihren Alltagsaktivitäten und kognitiven Fähigkeiten sowie ihrer Lebensqualität. Die Rate stationärer Wiedereinweisungen und die Versorgungskosten werden durch die Auswertung von Routinedaten der Krankenkassen evaluiert.\n\nDas Projekt wird für vier Jahre mit insgesamt ca. 2,4 Millionen Euro gefördert.\n\nMit den Erfahrungen, Materialien und Prozeduren des Projekts wird ein ReduRisk-Handbuch erarbeitet. Bei positiven Ergebnissen ist dessen Etablierung im Pflegeforschungsnetzwerk der Unikliniken und anderer Akutkrankenhäuser geplant.",
-      "status": "Abschlussbericht wird erstellt",
+      "status": "beendet",
       "states": [
         "Baden-Württemberg"
       ],
@@ -10945,7 +10976,7 @@
       "duration": "12/2020 – 11/2024",
       "startDate": "2020-12",
       "endDate": "2024-11",
-      "transferRecommendation": "",
+      "transferRecommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "projectLead": {
         "raw_lines": [
           "Dr. Sebastian Voigt-Radloff",
@@ -10971,8 +11002,24 @@
         "AOK Baden-Württemberg"
       ],
       "projectWebsites": [],
-      "decisionDate": null,
-      "documents": [],
+      "decisionDate": "17.07.2026",
+      "documents": [
+        {
+          "title": "Beschlusstext",
+          "meta": "(PDF 171,04 kB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1193/2026-07-17_ReduRisk.pdf"
+        },
+        {
+          "title": "Ergebnisbericht",
+          "meta": "(PDF 5,98 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1194/2026-07-17_ReduRisk_Ergebnisbericht.pdf"
+        },
+        {
+          "title": "Flyer aktiver",
+          "meta": "(PDF 4,73 MB)",
+          "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/421/2026-07-17_ReduRisk_Ergebnisbericht_Anlage_5_Flyer_aktiver.pdf"
+        }
+      ],
       "essentialElements": {
         "Versorgungsmodelle und Behandlungsprogramme": [
           "stationäre Versorgung"

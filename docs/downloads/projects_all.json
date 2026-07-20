@@ -1028,7 +1028,9 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
     "description": "Über die Hälfte der deutschen Bevölkerung bewegt sich zu wenig. Bewegungsmangel ist - neben ungesunder Ernährung - die Hauptursache für Adipositas, Diabetes Typ-2, Fettleber etc. Regelmäßige körperliche Aktivität ist eine der wirkungsvollsten und kostengünstigsten Maßnahmen bei Prävention und Therapie vieler chronischer Erkrankungen. Obwohl Sport und Bewegung in medizinischen Leitlinien immer wieder empfohlen werden, und trotz zahlloser Gesundheitskampagnen, gelingt die dauerhafte Lebensstiländerung zu selten.\n\nEine Erklärung für das häufige Scheitern kann im Fehlen wichtiger Kenndaten zur adressatengerechten und nachhaltigen Gesundheitsförderung durch Krankenversicherungen liegen. Dazu gehören z. B. genauere Kenntnisse über Bewegungshemmnisse, aber auch über Attraktoren und Motive für Sport. Diese können sich bei Individuen - trotz gleichem Alter, Bildung, Geschlecht - erheblich unterscheiden und durch andere Faktoren (z. B. persönliches Umfeld und Einstellung, Biografie, Gesundheit, Arbeit, Stress) bedingt sein.\n\nIm Projekt ActIv-KV fokussiert ein Forschungsverbund zunächst den Vergleich von vier Gruppen mit unterschiedlichem Sportstatus: (1) Niemals-Sporttreibende, (2) Ex-Sporttreibende, (3) Sporteinsteiger und (4) Immer-Sporttreibende. Mithilfe der ActIv-Befragung werden Angaben zu Gesundheit, körperlichen Aktivitäten, Ernährung, Schlaf, Sportmotiven und -barrieren erhoben. Der Vergleich erfolgt über zueinander passende alters- und geschlechtsbezogene Subgruppen.\n\nZiel ist es (i) präventionsrelevante Gruppenunterschiede zu ermitteln und (ii) Items zu identifizieren, die sich zur Vorhersage z. B. Zugänglichkeit für Bewegungsangebote und Änderungsbereitschaft eignen. Daraus soll das benutzerfreundliche Kurzfrage-Tool ActIv-KV entwickelt werden, mit dessen Hilfe ein adressatengerecht zugeschnittenes Bewegungsangebot erarbeitet werden kann. Die Prüfung des Kurzfrage-Tools erfolgt über einen Ergebnisvergleich mit der ActIv-Langfassung. Das Projekt wird für dreieinhalb Jahre mit ca. einer Million Euro gefördert.\n\nBei erfolgreichem Projektverlauf kann das Kurzfrage-Tool ActIv-KV zur zielgruppenspezifischen Bewegungsförderung von körperlich inaktiven Personengruppen genutzt werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.dshs-koeln.de/universitaet/organisation/institute-einrichtungen/institut-fuer-trainingswissenschaft-und-sportinformatik/abt-kognitions-und-sportspielforschung/forschung-projekte/activ-kv"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Stephanie Klatt",
@@ -29176,7 +29178,8 @@
       "Bundesland": "Baden-Württemberg",
       "Förderkennzeichen": "01NVF19026",
       "Laufzeit": "01/2021 – 06/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "Einsatz von Arzneimitteln": "Antibiotika , Antibiotikaresistenzen / multiresistente Keime",
       "Versorgungsmodelle und Behandlungsprogramme": "Patienten- und Behandlungspfade , stationäre Versorgung"
     },
@@ -29198,11 +29201,11 @@
       "Baden-Württemberg"
     ],
     "care_setting": "stationär",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "01/2021 – 06/2024",
     "start_date": "2021-01",
     "end_date": "2024-06",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 3,2 Mio. Euro",
     "funding_sum_eur": 3200000,
     "funding_reference": "01NVF19026",
@@ -29236,9 +29239,126 @@
     "project_lead_city": "Freiburg",
     "consortium_partners": [],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "17.07.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 155,28 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1185/2026-07-17_ID-ROLL-OUT.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 35,65 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1186/2026-07-17_ID-ROLL-OUT_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 21,71 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1187/2026-07-17_ID-ROLL-OUT_Evaluationsbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Checkliste ABS-Visitendokumentation",
+        "meta": "(PDF 451,32 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/425/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_2_Checkliste_ABS-Visitendokumentation.pdf"
+      },
+      {
+        "title": "Checkliste Reevaluation der empirischen Therapie",
+        "meta": "(PDF 731,41 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/426/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_3_Checkliste_Reevaluation_der_empirischen_Therapie.pdf"
+      },
+      {
+        "title": "Pocketcard CAP",
+        "meta": "(PDF 185,45 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/427/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_4_Pocketcard_CAP.pdf"
+      },
+      {
+        "title": "Pocketcard Gezielte Therapie bei Erregernachweis",
+        "meta": "(PDF 198,67 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/428/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_5_Pocketcard_Gezielte_Therapie_bei_Erregernachweis.pdf"
+      },
+      {
+        "title": "Pocketcard Intraabdominelle Infektionen",
+        "meta": "(PDF 232,80 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/429/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_6_Pocketcard_Intraabdominelle_Infektionen.pdf"
+      },
+      {
+        "title": "Pocketcard Katheterinfektionen",
+        "meta": "(PDF 778,56 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/430/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_7_Pocketcard_Katheterinfektionen.pdf"
+      },
+      {
+        "title": "Pocketcard Knochen-und Gelenkinfektionen",
+        "meta": "(PDF 264,25 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/431/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_8_Pocketcard_Knochen-und_Gelenkinfektionen.pdf"
+      },
+      {
+        "title": "Pocketcard Oralisierung",
+        "meta": "(PDF 173,23 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/432/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_9_Pocketcard_Oralisierung.pdf"
+      },
+      {
+        "title": "Pocketcard Penicillinallergie",
+        "meta": "(PDF 271,87 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/433/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_10_Pocketcard_Penicillinallergie.pdf"
+      },
+      {
+        "title": "Pocketcard Reserveantibiotika",
+        "meta": "(PDF 207,02 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/434/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_11_Pocketcard_Reserveantibiotika.pdf"
+      },
+      {
+        "title": "Pocketcard S.aureus-Bakteriaemie",
+        "meta": "(PDF 166,38 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/435/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_12_Pocketcard_S-aureus-Bakteriaemie.pdf"
+      },
+      {
+        "title": "Pocketcard Zystitis",
+        "meta": "(PDF 748,82 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/436/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_13_Pocketcard_Zystitis.pdf"
+      },
+      {
+        "title": "Pocketcard Wann frage die Infektiologie Arm 1",
+        "meta": "(PDF 595,90 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/437/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_14_Pocketcard_Wann_frage_die_Infektiologie_Arm_1.pdf"
+      },
+      {
+        "title": "Pocketcard Wann frage die Infektiologie Arm 2",
+        "meta": "(PDF 595,72 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/438/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_15_Pocketcard_Wann_frage_die_Infektiologie_Arm_2.pdf"
+      },
+      {
+        "title": "Poster ABS in Notaufnahme",
+        "meta": "(PDF 710,26 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/439/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_16_Poster_ABS_in_Notaufnahme.pdf"
+      },
+      {
+        "title": "Poster ABS-Strategien",
+        "meta": "(PDF 977,37 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/440/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_17_Poster_ABS-Strategien.pdf"
+      },
+      {
+        "title": "Poster Top-10-Infektionen",
+        "meta": "(PDF 1,19 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/441/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_18_Poster_Top_10_Infektionen.pdf"
+      },
+      {
+        "title": "Poster Adäquates Sampling Urin",
+        "meta": "(PDF 579,22 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/442/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_19_Poster_Adaequates_Sampling_Urin.pdf"
+      },
+      {
+        "title": "Poster Blutkulturentnahme",
+        "meta": "(PDF 2,10 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/443/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_20_Poster_Blutkulturentnahme.pdf"
+      },
+      {
+        "title": "ID ROLL OUT Antibiogramm",
+        "meta": "(PDF 227,86 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/444/2026-07-17_ID-ROLL-OUT_Ergebnisbericht_Anlage_31_ID_ROLL_OUT_Antibiogramm.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
     "neurology_focus_scope": "none",
@@ -45653,7 +45773,9 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "20.10.2017",
     "description": "Zu früh geborene Kinder mit einem kritischen Geburtsgewicht werden in sogenannten Perinatalzentren versorgt. Im Jahr 2016 waren das in Deutschland knapp 10.500 „Frühchen“. Für Eltern, die nicht dauerhaft im Krankenhaus bei ihrem Kind anwesend sein können, bieten einige Einrichtungen an, das Kind über eine Webcam sehen zu können. Denn eine Trennung der Mutter bzw. der Eltern von ihrem Kind kann weitreichende Folgen für die spätere Mutter-Kind-Beziehung bzw. die Eltern-Bindung insgesamt haben. Dieser Service steht jedoch bisher nur auf einigen wenigen Frühgeborenen-Intensivstationen (NICUs) in Deutschland zur Verfügung. Die Nutzung solcher Webcams birgt aber auch psychische Herausforderungen und Belastungen. Eine systematische Aufklärung oder Schulung der Eltern findet häufig nicht statt.\n\nDas Ziel des Projektes Neo-CamCare ist es, den aktuellen Stand der Einbindung von Webcams auf NICUs zu erfassen. Gleichzeitig sollen Bedarf, mögliche Hürden und die Bedenken der Eltern untersucht werden. Im Anschluss soll eine Handlungshilfe für Eltern und Klinikmitarbeiter entwickelt werden, die Empfehlungen für den Einsatz und den Umgang mit Webcams umfasst. Das Projekt wird für 45 Monate mit insgesamt ca. 1,92 Millionen Euro gefördert.\n\nDie Ergebnisse ermöglichen langfristig einen strukturierten, wissenschaftlich fundierten Einsatz von Webcams auf NICUs in Deutschland und adressieren sowohl die Bedürfnisse der Eltern, als auch die der beteiligten Klinikmitarbeiter.",
-    "project_websites": [],
+    "project_websites": [
+      "https://ceres.uni-koeln.de/forschung/projekte/neo-camcare"
+    ],
     "project_lead": {
       "raw_lines": [
         "Dr. Nadine Scholten",
@@ -47979,7 +48101,8 @@
       "Bundesländer": "Hamburg, Hessen, Nordrhein-Westfalen",
       "Förderkennzeichen": "01NVF19017",
       "Laufzeit": "05/2020 – 12/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation",
       "Qualifikation und Delegation": "Delegation ärztlicher Leistungen , Zusatzqualifikation von medizinischem Assistenzpersonal",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung"
@@ -48007,11 +48130,11 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "ambulant",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "05/2020 – 12/2024",
     "start_date": "2020-05",
     "end_date": "2024-12",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 5,8 Mio. Euro",
     "funding_sum_eur": 5800000,
     "funding_reference": "01NVF19017",
@@ -48042,8 +48165,24 @@
     "project_lead_city": "Frankfurt am Main",
     "consortium_partners": [],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "17.07.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 173,86 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1182/2026-07-17_OnCoPaTh.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 49,26 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1183/2026-07-17_OnCoPaTh_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 31,67 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1184/2026-07-17_OnCoPaTh_Evaluationsbericht.pdf"
+      }
+    ],
     "additional_documents": [
       {
         "title": "Projektflyer",
@@ -48054,6 +48193,31 @@
         "title": "Flyer Struktur, Handlungsfeld und Kooperationspartner",
         "meta": "(PDF 245,39 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/110/01NVF19017_OnCoPaTh_Flyer%20Struktur,%20Handlungsfeld%20und%20Kooperationspartner.pdf"
+      },
+      {
+        "title": "Kitteltaschenkarte",
+        "meta": "(PDF 513,14 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/445/2026-07-17_OnCoPaTh_Ergebnisbericht_Anlage_3_Kitteltaschenkarte.pdf"
+      },
+      {
+        "title": "Patientenpass",
+        "meta": "(PDF 245,35 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/446/2026-07-17_OnCoPaTh_Ergebnisbericht_Anlage_4_Patientenpass.pdf"
+      },
+      {
+        "title": "Handout Konsiliarische Beratung durch Palliative-Care-Pflegefachpersonen",
+        "meta": "(PDF 1.023,73 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/447/2026-07-17_OnCoPaTh_Ergebnisbericht_Anlage_9_Handout_Konsiliarische_Beratung_durch_Palliative-Care_Pflegefachpersonen.pdf"
+      },
+      {
+        "title": "Handout KAM-Datenbank",
+        "meta": "(PDF 558,10 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/448/2026-07-17_OnCoPaTh_Ergebnisbericht_Anlage_16_Handout_KAM-Datenbank.pdf"
+      },
+      {
+        "title": "Handout OnCoPaTh-App",
+        "meta": "(PDF 312,45 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/449/2026-07-17_OnCoPaTh_Ergebnisbericht_Anlage_17_OnCoPaTh-App-Handout.pdf"
       }
     ],
     "has_explicit_neurology_focus": false,
@@ -51915,7 +52079,8 @@
       "Bundesland": "Baden-Württemberg",
       "Förderkennzeichen": "01VSF21026",
       "Laufzeit": "04/2022 – 03/2025",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung",
       "E-Health": "App , Digitale Gesundheitsanwendungen (DiGA) , digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Selbstmanagement-Programme"
     },
@@ -51939,11 +52104,11 @@
       "Baden-Württemberg"
     ],
     "care_setting": "zahnärztlich",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "04/2022 – 03/2025",
     "start_date": "2022-04",
     "end_date": "2025-03",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 891.000 Euro",
     "funding_sum_eur": 891000,
     "funding_reference": "01VSF21026",
@@ -51981,8 +52146,19 @@
       "phellow seven GmbH"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "17.07.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 145,73 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1199/2026-07-17_Paro-ComPas.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 9,01 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1200/2026-07-17_Paro-ComPas_Ergebnisbericht.pdf"
+      }
+    ],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -55767,7 +55943,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01NVF19030",
       "Laufzeit": "03/2020 – 02/2025",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung"
     },
     "funding_info": {
       "Förderbereich": "Neue Versorgungsformen",
@@ -55788,11 +55965,11 @@
       "Bayern"
     ],
     "care_setting": "ambulant",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "03/2020 – 02/2025",
     "start_date": "2020-03",
     "end_date": "2025-02",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 4,5 Mio. Euro",
     "funding_sum_eur": 4500000,
     "funding_reference": "01NVF19030",
@@ -55835,9 +56012,41 @@
         "ambulante spezialfachärztliche Versorgung (ASV)"
       ]
     },
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "17.07.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 145,87 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1188/2026-07-17_PoiSe.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 31,88 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1189/2026-07-17_PoiSe_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 8,70 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1190/2026-07-17_PoiSe_Evaluationsbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Digitale Inhalte der Plattform und App",
+        "meta": "(PDF 12,88 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/422/2026-07-17_PoiSe_Ergebnisbericht_Anlage_4_Digitale_Inhalte_der_Plattform_und_App.pdf"
+      },
+      {
+        "title": "Fortbildung für teilnehmende Leistungserbringer",
+        "meta": "(PDF 4,58 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/423/2026-07-17_PoiSe_Ergebnisbericht_Anlage_5_Fortbildung_fuer_teilnehmende_Leistungserbringer.pdf"
+      },
+      {
+        "title": "Anleitungen und Beispiele zum Videomodul",
+        "meta": "(PDF 281,93 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/424/2026-07-17_PoiSe_Ergebnisbericht_Anlage_10_Anleitungen_und_Beispiele_zum_Videomodul.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -64259,7 +64468,8 @@
       "Bundesland": "Baden-Württemberg",
       "Förderkennzeichen": "01VSF19007",
       "Laufzeit": "12/2020 – 11/2024",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -64283,11 +64493,11 @@
       "Baden-Württemberg"
     ],
     "care_setting": "stationär",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "12/2020 – 11/2024",
     "start_date": "2020-12",
     "end_date": "2024-11",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 2,4 Mio. Euro",
     "funding_sum_eur": 2400000,
     "funding_reference": "01VSF19007",
@@ -64326,9 +64536,26 @@
         "stationäre Versorgung"
       ]
     },
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "17.07.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 171,04 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1193/2026-07-17_ReduRisk.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 5,98 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1194/2026-07-17_ReduRisk_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Flyer aktiver",
+        "meta": "(PDF 4,73 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/421/2026-07-17_ReduRisk_Ergebnisbericht_Anlage_5_Flyer_aktiver.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -65635,7 +65862,8 @@
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF18010",
       "Laufzeit": "04/2019 – 03/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade , stationäre Versorgung"
     },
@@ -65657,11 +65885,11 @@
       "Berlin"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "04/2019 – 03/2024",
     "start_date": "2019-04",
     "end_date": "2024-03",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 2,4 Mio. Euro",
     "funding_sum_eur": 2400000,
     "funding_reference": "01VSF18010",
@@ -65700,8 +65928,19 @@
       "Techniker Krankenkasse"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "17.07.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 152,00 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1191/2026-07-17_REVASK.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 10,85 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1192/2026-07-17_REVASK_Ergebnisbericht.pdf"
+      }
+    ],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -73323,7 +73562,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF19030",
       "Laufzeit": "01/2021 – 12/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Einsatz von Arzneimitteln": "Multimedikation / Polypharmazie",
       "Heil- und Hilfsmittelversorgung": "Körperersatzstücke (Prothesen)",
       "Versorgungsmodelle und Behandlungsprogramme": "Patienten- und Behandlungspfade , stationäre Versorgung"
@@ -73346,11 +73586,11 @@
       "Bayern"
     ],
     "care_setting": "stationär",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "01/2021 – 12/2024",
     "start_date": "2021-01",
     "end_date": "2024-12",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 1,4 Mio. Euro",
     "funding_sum_eur": 1400000,
     "funding_reference": "01VSF19030",
@@ -73385,8 +73625,19 @@
       "Technische Universität München"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "17.07.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 171,73 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1197/2026-07-17_SOG.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 2,36 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1198/2026-07-17_SOG_Ergebnisbericht.pdf"
+      }
+    ],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
@@ -81721,7 +81972,8 @@
       "Bundesland": "Sachsen-Anhalt",
       "Förderkennzeichen": "01VSF19013",
       "Laufzeit": "09/2020 – 08/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Care und Case Management / Lotsen , Entlassmanagement / Nachsorge , Integrierte Versorgung (IV) , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade"
     },
@@ -81750,11 +82002,11 @@
       "Sachsen-Anhalt"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "09/2020 – 08/2024",
     "start_date": "2020-09",
     "end_date": "2024-08",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 2,3 Mio. Euro",
     "funding_sum_eur": 2300000,
     "funding_reference": "01VSF19013",
@@ -81797,8 +82049,19 @@
       "Techniker Krankenkasse"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "17.07.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 149,55 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1195/2026-07-17_VersKiK.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 13,12 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1196/2026-07-17_VersKiK_Ergebnisbericht.pdf"
+      }
+    ],
     "additional_documents": [],
     "has_explicit_neurology_focus": false,
     "matches_neurology_online_filter": false,
