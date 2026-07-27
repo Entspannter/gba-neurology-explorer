@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-20T08:21:44+00:00",
+  "generatedAt": "2026-07-27T08:50:58+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
-    "projectCount": 860,
+    "projectCount": 861,
     "neurologyCount": 170,
     "neurologyFilterUrl": "https://innovationsfonds.g-ba.de/projekte/?projektname=&themenschwerpunkt=neurologische+Erkrankungen&zielgruppe=&projektelemente%5BprojektelementGruppe%5D=&projektelemente%5Bprojektelement%5D=&foerderbereich%5Bfoerderbereich%5D=&foerderbereich%5Bfoerderverfahren%5D=&versorgungsbereich=&bundesland=&status%5Bstatus%5D=&status%5Btransferempfehlung%5D=&sort=projekt.akronym&direction=asc"
   },
   "overview": {
-    "totalProjectsScraped": 860,
+    "totalProjectsScraped": 861,
     "neurologyProjects": 170,
     "onlineFilterNeurologyProjects": 170,
     "explicitNeurologyProjects": 170,

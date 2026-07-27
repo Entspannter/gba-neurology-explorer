@@ -33088,6 +33088,90 @@
     "is_neurology": false
   },
   {
+    "project_id": 885,
+    "slug": "intense.885",
+    "url": "https://innovationsfonds.g-ba.de/projekte/intense.885",
+    "title": "INTENSE – Pilotierung einer interdisziplinären, telemedizinisch-gestützten Nachsorge für Sepsisüberlebende",
+    "acronym": "INTENSE",
+    "funding_category": "Neue Versorgungsformen",
+    "project_data": {
+      "Themenschwerpunkte": "Blut- und Immunsystemerkrankungen, Impfungen und Infektionskrankheiten",
+      "Zielgruppen": "ältere Menschen, Erwachsene",
+      "Versorgungsbereich": "ambulant",
+      "Bundesland": "Thüringen",
+      "Förderkennzeichen": "01NVF26101",
+      "Laufzeit": "01/2027 – 12/2028",
+      "Status": "laufend",
+      "E-Health": "App , Digitale Gesundheitsanwendungen (DiGA) , Telekonsil / Televisite / Teletherapie",
+      "Heil- und Hilfsmittelversorgung": "Physiotherapie",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Rehabilitation und Therapie",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Entlassmanagement / Nachsorge , spezialisierte Versorgungszentren"
+    },
+    "funding_info": {
+      "Förderbereich": "Neue Versorgungsformen",
+      "Förderverfahren": "einstufig kurz",
+      "Fördersumme": "ca. 580.000 Euro",
+      "Förderbekanntmachung": "24.01.2025",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [
+      "Blut- und Immunsystemerkrankungen",
+      "Impfungen und Infektionskrankheiten"
+    ],
+    "target_groups": [
+      "ältere Menschen",
+      "Erwachsene"
+    ],
+    "states": [
+      "Thüringen"
+    ],
+    "care_setting": "ambulant",
+    "status": "laufend",
+    "duration_raw": "01/2027 – 12/2028",
+    "start_date": "2027-01",
+    "end_date": "2028-12",
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 580.000 Euro",
+    "funding_sum_eur": 580000,
+    "funding_reference": "01NVF26101",
+    "themenfeld": "themenoffen",
+    "funding_process": "einstufig kurz",
+    "funding_area": "Neue Versorgungsformen",
+    "call_date": "24.01.2025",
+    "description": "In Deutschland erkranken jährlich bis zu 300.000 Menschen an einer Sepsis - umgangssprachlich auch Blutvergiftung genannt. Mehr als 70.000 Menschen sterben an den Folgen. Viele Überlebende leiden langfristig unter Spätfolgen, die als Post-Sepsis-Syndrom bezeichnet werden. Dazu zählen anhaltende körperliche Einschränkungen, kognitive Probleme und psychische Belastungen. Für diese komplexen Beschwerden fehlt bislang eine koordinierte, fachübergreifende Versorgung.\n\nDie Forschenden des Projekts INTENSE wollen daher ein interdisziplinäres Nachsorgekonzept für Patientinnen und Patienten mit Post-Sepsis-Syndrom auf Basis von Post-COVID-Versorgungsstrukturen erproben. Das Programm umfasst zunächst eine dreitägige Assessmentphase in der Tagesklinik des Interdisziplinären Zentrums für Postinfektiöse Langzeitfolgen, in der individuelle körperliche, kognitive und psychische Beeinträchtigungen systematisch erfasst werden. In der anschließenden, überwiegend telemedizinisch umgesetzten zwölfwöchigen Interventionsphase werden kognitive Trainings, aktivierende Bewegungs- und Atemübungen, psychologische Gruppenangebote sowie ärztliche Beratungen durchgeführt. Untersucht werden Umsetzbarkeit, Akzeptanz und organisatorische Machbarkeit des Ansatzes. Nach 90 Tagen zeigt sich, wie sich das Nachsorgekonzept auf Lebensqualität und Alltagsrückkehr der Teilnehmenden auswirkt. Gleichzeitig wird ausgewertet, inwieweit sich Versorgungsansätze aus der Post-COVID-Behandlung auf andere postinfektiöse Krankheitsbilder übertragen lassen.\n\nDas Projekt wird für zwei Jahre mit insgesamt ca. 580.000 Euro gefördert.\n\nIm Erfolgsfall verbessert das Nachsorgekonzept Lebensqualität, Funktionsfähigkeit und berufliche Wiedereingliederung von Menschen mit Post-Sepsis-Syndrom – und senkt zugleich die durch Folgemorbidität und -mortalität verursachten Gesundheitskosten. Langfristig stärken die Ergebnisse die Versorgungskompetenz im Umgang mit komplexen, multifaktoriellen Langzeitfolgen nach schweren Infektionen.",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Dr. Ha-Yeun Chung",
+        "Universitätsklinikum Jena",
+        "Klinik für Neurologie",
+        "Am Klinikum 1",
+        "07747 Jena",
+        "+49 3641 9323529",
+        "Ha-Yeun.Chung@med.uni-jena.de"
+      ],
+      "display": "Dr. Ha-Yeun Chung | Universitätsklinikum Jena | Klinik für Neurologie | Am Klinikum 1 | 07747 Jena | +49 3641 9323529 | Ha-Yeun.Chung@med.uni-jena.de",
+      "name": "Dr. Ha-Yeun Chung",
+      "email": "Ha-Yeun.Chung@med.uni-jena.de",
+      "phone": "+49 3641 9323529",
+      "postal_code": "07747",
+      "city": "Jena",
+      "organization": "Universitätsklinikum Jena",
+      "department": "Klinik für Neurologie",
+      "street": "Am Klinikum 1"
+    },
+    "project_lead_city": "Jena",
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": false,
+    "matches_neurology_online_filter": false,
+    "neurology_focus_scope": "none",
+    "is_neurology": false
+  },
+  {
     "project_id": 62,
     "slug": "interprof-act.62",
     "url": "https://innovationsfonds.g-ba.de/projekte/interprof-act.62",
