@@ -101,7 +101,7 @@
     ],
     "additional_documents": [
       {
-        "title": "01VSF19034 ABPATITE Ergebnisbericht Anhang 29 Handreichung - Empfehlungen für den bedarfsgerechten Auf- und Ausbau von palliativmedizinischen Tageskliniken und Tageshospizen",
+        "title": "Handreichung – Empfehlungen für den bedarfsgerechten Auf- und Ausbau von palliativmedizinischen Tageskliniken und Tageshospizen",
         "meta": "(PDF 2,74 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/239/01VSF19034%20ABPATITE_Ergebnisbericht%20Anhang%2029%20Handreichung_Empfehlungen%20Auf-%20und%20Ausbau%20von%20palliativmedizinischen%20Tageskliniken.pdf"
       }
@@ -324,7 +324,7 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01VSF23016 ADAPT-HEAT Projektablauf",
+        "title": "Grafik Projektablauf",
         "meta": "(PDF 61,92 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/287/01VSF23016%20ADAPT-HEAT_Flowchart_Projektablauf.pdf"
       }
@@ -635,7 +635,7 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01NVF22101 ALVEEG Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 149,86 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/174/01NVF22101%20ALVEEG_Flyer.pdf"
       }
@@ -1342,7 +1342,7 @@
     "project_id": 687,
     "slug": "bd-lc-ps.687",
     "url": "https://innovationsfonds.g-ba.de/projekte/bd-lc-ps.687",
-    "title": "BD-LC-PS – Behandlungsverläufe und Determinanten bei Long COVID und anderen postviralen Symptomkomplexen",
+    "title": "BD-LC-PS – Behandlungsverläufe und Determinanten bei Long-COVID und anderen postviralen Symptomkomplexen",
     "acronym": "BD-LC-PS",
     "funding_category": "Versorgungsforschung",
     "project_data": {
@@ -1753,12 +1753,12 @@
     "acronym": "CAROL",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
-      "Themenschwerpunkte": "Gendiagnostik, kardiologische Erkrankungen, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, psychische Erkrankungen",
+      "Themenschwerpunkte": "Erkrankungen des Kreislaufsystems, Gendiagnostik, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, psychische Erkrankungen",
       "Zielgruppen": "ältere Menschen, Angehörige, Erwachsene, Leistungserbringer, Menschen mit chronischen Krankheiten, Menschen mit seltenen Krankheiten",
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesländer": "Baden-Württemberg, Bayern, Hamburg, Hessen, Nordrhein-Westfalen, Schleswig-Holstein",
       "Förderkennzeichen": "01NVF25312",
-      "Laufzeit": "07/2026 – 06/2030",
+      "Laufzeit": "11/2026 – 10/2030",
       "Status": "laufend",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement , Screeninginstrumente oder -verfahren",
       "Qualifikation und Delegation": "Substitution ärztlicher Leistungen , Zusatzqualifikation von medizinischem Assistenzpersonal",
@@ -1772,8 +1772,8 @@
       "Themenfeld": "themenoffen"
     },
     "thematic_focuses": [
+      "Erkrankungen des Kreislaufsystems",
       "Gendiagnostik",
-      "kardiologische Erkrankungen",
       "neurologische Erkrankungen",
       "Notfälle",
       "Verletzung und Vergiftungen",
@@ -1797,9 +1797,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "07/2026 – 06/2030",
-    "start_date": "2026-07",
-    "end_date": "2030-06",
+    "duration_raw": "11/2026 – 10/2030",
+    "start_date": "2026-11",
+    "end_date": "2030-10",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 5,9 Mio. Euro",
     "funding_sum_eur": 5900000,
@@ -1837,7 +1837,7 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01NVF25312 CAROL Ablaufplan",
+        "title": "Grafik Ablaufplan",
         "meta": "(PDF 64,61 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/319/CAROL_Ablaufplan_01NVF25312.pdf"
       }
@@ -1949,7 +1949,7 @@
       "Bundesland": "Hessen",
       "Förderkennzeichen": "01VSF22046",
       "Laufzeit": "01/2023 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Big Data und Gesundheitsdatenanalyse",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Rehabilitation und Therapie , Screeninginstrumente oder -verfahren",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Patienten- und Behandlungspfade"
@@ -1977,7 +1977,7 @@
       "Hessen"
     ],
     "care_setting": "ambulant",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 06/2026",
     "start_date": "2023-01",
     "end_date": "2026-06",
@@ -2219,6 +2219,97 @@
     "is_neurology": true
   },
   {
+    "project_id": 617,
+    "slug": "contribute.617",
+    "url": "https://innovationsfonds.g-ba.de/projekte/contribute.617",
+    "title": "CONTRIBUTE – WeChsel vON Off-Label & Best Supportive Care auf zugelassene TheRapIen Bei verschiedenen AUToimmunerkrankungEn: Implementierung, Auswirkungen auf den Krankheitsverlauf und unerwünschte Ereignisse",
+    "acronym": "CONTRIBUTE",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Themenschwerpunkte": "Blut- und Immunsystemerkrankungen, neurologische Erkrankungen",
+      "Zielgruppen": "Erwachsene, Leistungserbringer, Menschen mit chronischen Krankheiten, Menschen mit seltenen Krankheiten",
+      "Versorgungsbereich": "sektorenübergreifend",
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF23041",
+      "Laufzeit": "04/2024 – 05/2027",
+      "Status": "laufend",
+      "E-Health": "Big Data und Gesundheitsdatenanalyse",
+      "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Off-Label-Use , unerwünschte Arzneimittelwirkungen",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitsinformationen / Flyer / Infobriefe , Patientenkommunikation , Rehabilitation und Therapie"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,26 Mio. Euro",
+      "Förderbekanntmachung": "27.06.2022",
+      "Themenfeld": "Arzneimitteltherapie: Auswirkungen des Wechsels von Best Supportive Care (BSC) oder Off-Label-Use (OLU) hin zu indikationsspezifisch zugelassenen Arzneimitteln"
+    },
+    "thematic_focuses": [
+      "Blut- und Immunsystemerkrankungen",
+      "neurologische Erkrankungen"
+    ],
+    "target_groups": [
+      "Erwachsene",
+      "Leistungserbringer",
+      "Menschen mit chronischen Krankheiten",
+      "Menschen mit seltenen Krankheiten"
+    ],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "sektorenübergreifend",
+    "status": "laufend",
+    "duration_raw": "04/2024 – 05/2027",
+    "start_date": "2024-04",
+    "end_date": "2027-05",
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,26 Mio. Euro",
+    "funding_sum_eur": 1260000,
+    "funding_reference": "01VSF23041",
+    "themenfeld": "Arzneimitteltherapie: Auswirkungen des Wechsels von Best Supportive Care (BSC) oder Off-Label-Use (OLU) hin zu indikationsspezifisch zugelassenen Arzneimitteln",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "27.06.2022",
+    "description": "Bei Autoimmunerkrankungen bekämpft das Immunsystem fälschlicherweise körpereigene Strukturen (Gewebe/Organe). Etwa fünf bis acht Prozent der Menschen in Deutschland leiden an einer solchen Krankheit, die die Betroffenen sehr belastet. Darunter befinden sich auch relativ seltene Erkrankungen wie z. B. Myasthenia gravis und Riesenzellarteriitis. Diese Erkrankungen wurden in der Vergangenheit oft mit Medikamenten behandelt, die das Immunsystem stark beeinträchtigen, oder für andere Autoimmunerkrankungen zugelassen sind. In den letzten Jahren wurden zunehmend spezifische Therapien für diese seltenen Autoimmunerkrankungen entwickelt und zugelassen. Unklar ist allerdings, in welchem Umfang diese Wirkstoffe eingesetzt werden und in welchem Ausmaß sie die Behandlungsergebnisse der Betroffenen unter Alltagsbedingungen verbessern.\n\nDas Projektteam von CONTRIBUTE möchte diese Wissenslücke schließen und somit perspektivisch die Arzneimittelversorgung der Betroffenen verbessern. Dazu sollen insbesondere Erkenntnisse zu den Eigenschaften der behandelten Patientinnen und Patienten, sowie zur Wirksamkeit und Nebenwirkungen der eingesetzten Medikamente ermittelt werden. Geplant ist eine Hauptauswertung mit den Daten der zweitgrößten Krankenkasse Deutschlands (BARMER). Um einen Einblick in die Versorgungspraxis zu erhalten, werden u. a. auch ca. 30 Patientinnen und Patienten zu ihren Erfahrungen mit den Arzneimitteln befragt. Die dabei gewonnenen Erkenntnisse werden den Therapiezielen, aber auch Auswirkungen auf die Therapiekosten für das Gesundheitssystem gegenübergestellt. Das Projekt wird für 38 Monate mit insgesamt ca. 1,26 Millionen Euro gefördert.\n\nIm besten Fall ermöglichen die Auswertungen, Strategien für eine bessere Versorgung der Betroffenen zu entwickeln und beispielsweise Risiken bei der Einnahme der Arzneimittel zu reduzieren. Der Überblick über Kosten und Nutzen der verschiedenen Arzneimittel erlaubt eine realistischere Einschätzung der ökonomischen Rahmenbedingungen.",
+    "project_websites": [
+      "https://www.uni-wh.de/contribute-studie"
+    ],
+    "project_lead": {
+      "raw_lines": [
+        "Prof. Dr. Sven Schmiedl",
+        "Private Universität Witten/Herdecke gGmbH",
+        "Lehrstuhl für Klinische Pharmakologie",
+        "Alfred-Herrhausen-Straße 50",
+        "58455 Witten",
+        "+49 202 8961854",
+        "Sven.Schmiedl@uni-wh.de"
+      ],
+      "display": "Prof. Dr. Sven Schmiedl | Private Universität Witten/Herdecke gGmbH | Lehrstuhl für Klinische Pharmakologie | Alfred-Herrhausen-Straße 50 | 58455 Witten | +49 202 8961854 | Sven.Schmiedl@uni-wh.de",
+      "name": "Prof. Dr. Sven Schmiedl",
+      "email": "Sven.Schmiedl@uni-wh.de",
+      "phone": "+49 202 8961854",
+      "postal_code": "58455",
+      "city": "Witten",
+      "organization": "Private Universität Witten/Herdecke gGmbH",
+      "department": "Lehrstuhl für Klinische Pharmakologie",
+      "street": "Alfred-Herrhausen-Straße 50"
+    },
+    "project_lead_city": "Witten",
+    "consortium_partners": [
+      "Ruhr-Universität Bochum",
+      "St. Elisabeth Gruppe GmbH - Katholische Kliniken Rhein-Ruhr",
+      "Universität zu Köln"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": true,
+    "matches_neurology_online_filter": true,
+    "neurology_focus_scope": "multiple",
+    "is_neurology": true
+  },
+  {
     "project_id": 338,
     "slug": "dasi.338",
     "url": "https://innovationsfonds.g-ba.de/projekte/dasi.338",
@@ -2424,23 +2515,23 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 42,02 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1058/2026-02-20_DECADE_Ergebnisbericht.pdf"
+        "meta": "(PDF 42,34 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1058/2026-02-28_DECADE_Ergebnisbericht.pdf"
       }
     ],
     "additional_documents": [
       {
-        "title": "01VSF19021 DECADE Broschüre Entscheiden und Handeln",
+        "title": "Broschüre Entscheiden und Handeln",
         "meta": "(PDF 850,19 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/228/01VSF19021%20DECADE_Broschuere_Entscheiden%20und%20Handeln.pdf"
       },
       {
-        "title": "01VSF19021 DECADE Broschüre Informationen für einen gesunden Lebensstil! bei Herzkreislauferkrankungen",
+        "title": "Broschüre Informationen für einen gesunden Lebensstil!",
         "meta": "(PDF 33,92 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/229/01VSF19021%20DECADE_Broschuere_Informationen%20f%C3%BCr%20einen%20gesunden%20Lebensstil!%20bei%20Herzkreislauferkrankungen.pdf"
       },
       {
-        "title": "01VSF19021 DECADE Schulungsmaterial",
+        "title": "Schulungsmaterial",
         "meta": "(PDF 2,76 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/230/01VSF19021%20DECADE_Schulungsmaterial.pdf"
       }
@@ -3067,12 +3158,12 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01VSF22040 Digi-POD Delirpraevention Flyer 2023",
+        "title": "Flyer Delirprävention 2023",
         "meta": "(PDF 168,10 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/277/01VSF22040%20Digi-POD_Delirpraevention_Flyer_2023.pdf"
       },
       {
-        "title": "01VSF22040 Digi-POD CBP-App Screenshots",
+        "title": "CBP-App Screenshots",
         "meta": "(PDF 2,54 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/278/01VSF22040%20Digi-POD_CBP_App_Screenshots.pdf"
       }
@@ -3134,8 +3225,10 @@
     "funding_process": "zweistufig lang",
     "funding_area": "Neue Versorgungsformen",
     "call_date": "26.06.2020",
-    "description": "Bewohnerinnen und Bewohner von Pflegeeinrichtungen werden häufig zur Abklärung von Gesundheitsproblemen wie Infekten, Stürzen oder Herzkreislaufstörungen ins Krankenhaus eingewiesen. Da diese Patientengruppe besonders anfällig ist, kommt es dabei nicht selten zu Komplikationen wie z. B. Verwirrungszuständen, (weiteren) Stürzen, Wundliegen oder Depressionen. Im Pflegebericht der AOK wurde 2018 von 40,5 Prozent vermeidbaren Krankenhauseinweisungen berichtet. Diese Zahl ließe sich mit einer adäquaten Versorgung im ambulanten Bereich unter Umständen reduzieren, wodurch die Notaufnahmen in den Krankenhäusern entlastet werden könnten.\n\nIm Projekt DIKOM soll mithilfe einer Mobilen Geriatrie-Unit (MGU) apparative Diagnostik direkt im Pflegeheim durchgeführt werden. Die MGU ist ein Fahrzeug, welches mit verschiedenen Geräten wie CT, Röntgen, EKG, EEG, Ultraschall und einem Labor ausgestattet ist. Das Team der MGU besteht aus einer Fachärztin bzw. einem Facharzt und einer bzw. einem Radiologie-MTA. Zusätzlich werden vor Ort erhobene Befunde direkt an Expertinnen und Experten in Partnerkliniken übermittelt und in einem telemedizinischen Konsil beraten. Auf diese Weise könnten die Patientinnen und Patienten in der Pflegeeinrichtung bleiben und dort weiterbehandelt werden.\n\nIn einer hierzu geplanten Studie (cluster-randomisiert, d. h. es werden nicht zufällig Patientinnen und Patienten in Gruppen aufgeteilt, sondern es werden Einheiten, hier Pflegeheime, zufällig in Gruppen aufgeteilt) wird geprüft, ob die apparative Diagnostik direkt im Pflegeheim die Rate von Krankenhauseinweisungen verringern kann und ob sich dies günstig auf die Entwicklung von Pflegebedürftigkeit und Kosten auswirkt. Dazu sollen in einem Zeitraum von 27 Monaten 2.277 Betroffene in die Interventions- und 2.684 in die Kontrollgruppe eingeschlossen werden. Das Projekt wird für vier Jahre mit insgesamt ca. 9,8 Millionen Euro gefördert.\n\nIm Erfolgsfall werden Krankenhauseinweisungen und Folgeerkrankungen von Pflegebedürftigen vermieden und zudem die Notaufnahmen entlastet.",
-    "project_websites": [],
+    "description": "Bewohnerinnen und Bewohner von Pflegeeinrichtungen werden häufig zur Abklärung von Gesundheitsproblemen wie Infekten, Stürzen oder Herzkreislaufstörungen ins Krankenhaus eingewiesen. Da diese Patientengruppe besonders anfällig ist, kommt es dabei nicht selten zu Komplikationen wie z. B. Verwirrungszuständen, (weiteren) Stürzen, Wundliegen oder Depressionen. Im Pflegebericht der AOK wurde 2018 von 40,5 Prozent vermeidbaren Krankenhauseinweisungen berichtet. Diese Zahl ließe sich mit einer adäquaten Versorgung im ambulanten Bereich unter Umständen reduzieren, wodurch die Notaufnahmen in den Krankenhäusern entlastet werden könnten.\n\nIm Projekt DIKOM soll mithilfe einer Mobilen Geriatrie-Unit (MGU) apparative Diagnostik direkt im Pflegeheim durchgeführt werden. Die MGU ist ein Fahrzeug, welches mit verschiedenen Geräten wie CT, Röntgen, EKG, EEG, Ultraschall und einem Labor ausgestattet ist. Das Team der MGU besteht aus einer Fachärztin bzw. einem Facharzt und einer bzw. einem Radiologie-MTA. Zusätzlich werden vor Ort erhobene Befunde direkt an Expertinnen und Experten in Partnerkliniken übermittelt und in einem telemedizinischen Konsil beraten. Auf diese Weise könnten die Patientinnen und Patienten in der Pflegeeinrichtung bleiben und dort weiterbehandelt werden.\n\nIm Rahmen einer zwölfmonatigen Erprobungsphase wird evaluiert, ob die apparative Diagnostik direkt im Pflegeheim die Rate von Krankenhauseinweisungen verringern kann und ob sich dies günstig auf die Entwicklung von Pflegebedürftigkeit und Kosten auswirkt. Das Projekt wird für vier Jahre mit insgesamt ca. 9,8 Millionen Euro gefördert.\n\nIm Erfolgsfall werden Krankenhauseinweisungen und Folgeerkrankungen von Pflegebedürftigen vermieden und zudem die Notaufnahmen entlastet.",
+    "project_websites": [
+      "https://www.medizin-daheim.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Klaus Faßbender",
@@ -3470,7 +3563,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF21011",
       "Laufzeit": "04/2022 – 05/2025",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Einsatz von Arzneimitteln": "Medikationsmanagement , unerwünschte Arzneimittelwirkungen",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Screeninginstrumente oder -verfahren , Vorsorgeuntersuchungen",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Integrierte Versorgung (IV) , Koordinierungstellen , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , spezialisierte Versorgungszentren , stationäre Versorgung"
@@ -3508,11 +3602,11 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "04/2022 – 05/2025",
     "start_date": "2022-04",
     "end_date": "2025-05",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 288.000 Euro",
     "funding_sum_eur": 288000,
     "funding_reference": "01VSF21011",
@@ -3549,9 +3643,26 @@
       "Wir sind 22q e. V."
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "17.04.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 138,41 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1099/2026-04-17_DS22q.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 25,38 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1100/2026-04-17_DS22q_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Pocket Guide",
+        "meta": "(PDF 3,49 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/360/01VSF21011_DS22q_Ergebnisbericht_Anlage_2_Pocket-Guide.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -3571,7 +3682,7 @@
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF21035",
       "Laufzeit": "04/2022 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Telekonsil / Televisite / Teletherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Screeninginstrumente oder -verfahren , Telematik-Infrastruktur",
       "Versorgungsmodelle und Behandlungsprogramme": "Koordinierungstellen , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade"
@@ -3604,7 +3715,7 @@
       "Berlin"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "04/2022 – 03/2026",
     "start_date": "2022-04",
     "end_date": "2026-03",
@@ -3649,13 +3760,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "01VSF21035 E=MC²_Studienüberblick",
-        "meta": "(JPG 453,50 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/262/01VSF21035%20E=MC%C2%B2_Studienueberblick.jpg"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -4033,18 +4138,18 @@
     ],
     "project_lead": {
       "raw_lines": [
-        "Dr. Sebastian Carnarius",
+        "Dr. Karl Schenkel",
         "Zentralinstitut für die kassenärztliche Versorgung",
         "Fachbereich Medizin",
         "Salzufer 8",
         "10587 Berlin",
-        "+49 30 2200 56118",
-        "scarnarius@zi.de"
+        "+49 30 2200 56081",
+        "kschenkel@zi.de"
       ],
-      "display": "Dr. Sebastian Carnarius | Zentralinstitut für die kassenärztliche Versorgung | Fachbereich Medizin | Salzufer 8 | 10587 Berlin | +49 30 2200 56118 | scarnarius@zi.de",
-      "name": "Dr. Sebastian Carnarius",
-      "email": "scarnarius@zi.de",
-      "phone": "+49 30 2200 56118",
+      "display": "Dr. Karl Schenkel | Zentralinstitut für die kassenärztliche Versorgung | Fachbereich Medizin | Salzufer 8 | 10587 Berlin | +49 30 2200 56081 | kschenkel@zi.de",
+      "name": "Dr. Karl Schenkel",
+      "email": "kschenkel@zi.de",
+      "phone": "+49 30 2200 56081",
       "postal_code": "10587",
       "city": "Berlin",
       "organization": "Zentralinstitut für die kassenärztliche Versorgung",
@@ -4553,13 +4658,7 @@
     "essential_elements": {},
     "decision_date": null,
     "result_documents": [],
-    "additional_documents": [
-      {
-        "title": "01VSF20008 Feed-bApp Projektübersicht",
-        "meta": "(SVG 1,77 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/250/01VSF20008%20Feed-bApp_Projektuebersicht.svg"
-      }
-    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -4578,8 +4677,8 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF23009",
-      "Laufzeit": "10/2023 – 03/2026",
-      "Status": "laufend",
+      "Laufzeit": "10/2023 – 06/2026",
+      "Status": "Abschlussbericht wird erstellt",
       "Einsatz von Arzneimitteln": "Medikationsmanagement",
       "Heil- und Hilfsmittelversorgung": "Ergotherapie , Ernährungstherapie , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement , Screeninginstrumente oder -verfahren , Vorsorgeuntersuchungen"
@@ -4616,10 +4715,10 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
-    "duration_raw": "10/2023 – 03/2026",
+    "status": "Abschlussbericht wird erstellt",
+    "duration_raw": "10/2023 – 06/2026",
     "start_date": "2023-10",
-    "end_date": "2026-03",
+    "end_date": "2026-06",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 400.000 Euro",
     "funding_sum_eur": 400000,
@@ -4628,7 +4727,7 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "In Deutschland kommen jährlich etwa 10.000 Frühgeborene zur Welt, also vor der vollendeten 37. Schwangerschaftswoche, die ein Geburtsgewicht unter 1.500 Gramm haben. Im Vergleich zu reifgeborenen Kindern tragen sie häufiger ein hohes Risiko für eine auffällige Entwicklung. Das können Sehstörungen, Defizite in der Sprachentwicklung oder auch Aufmerksamkeitsstörungen sein. Diese Erkrankungen dauern bis in das Jugend- und Erwachsenenalter an.\n\nDas Projektteam von FrühTEV hat sich vorgenommen, die bislang geltende S2k-Leitlinie zu einer S3-Leitlinie weiterzuentwickeln. Die angestrebten Handlungsempfehlungen werden fächer- und institutionenübergreifend, aber auch fachspezifisch angelegt sein. Sie betreffen Schlüsselfragen der Diagnostik, Prävention, Frühintervention und Therapie im Kindes- und Jugendalter und berücksichtigen dabei entwicklungsabhängige mit einer Frühgeburt verbundene Risiken. Analog dazu erstellt das Projektteam eine Patientenleitlinie.\n\nDie Entwicklung der S3-Leitlinie erfolgt gemäß dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF): Eine Leitliniengruppe mit Expertinnen und Experten aus unterschiedlichen relevanten Fachgebieten legt konkrete, klinisch relevante Fragestellungen fest, und führt eine systematische Recherche und Bewertung wissenschaftlicher Veröffentlichungen durch. In einem festgelegten Verfahren formuliert die Leitliniengruppe wissenschaftlich fundierte Entscheidungshilfen und Handlungsempfehlungen, die durch die AWMF veröffentlicht werden. Das Projekt wird für zweieinhalb Jahre mit insgesamt ca. 400.000 Euro gefördert.\n\nIm Erfolgsfall können Frühgeborene besser versorgt und diejenigen unter ihnen identifiziert werden, die ein erhöhtes Risiko für Folgeerkrankungen haben. Die vorhandenen Versorgungsverfahren werden auf ihre Wirkung hin überprüft und entsprechend umgesetzt.",
+    "description": "In Deutschland kommen jährlich etwa 10.000 Frühgeborene zur Welt, also vor der vollendeten 37. Schwangerschaftswoche, die ein Geburtsgewicht unter 1.500 Gramm haben. Im Vergleich zu reifgeborenen Kindern tragen sie häufiger ein hohes Risiko für eine auffällige Entwicklung. Das können Sehstörungen, Defizite in der Sprachentwicklung oder auch Aufmerksamkeitsstörungen sein. Diese Erkrankungen dauern bis in das Jugend- und Erwachsenenalter an.\n\nDas Projektteam von FrühTEV hat sich vorgenommen, die bislang geltende S2k-Leitlinie zu einer S3-Leitlinie weiterzuentwickeln. Die angestrebten Handlungsempfehlungen werden fächer- und institutionenübergreifend, aber auch fachspezifisch angelegt sein. Sie betreffen Schlüsselfragen der Diagnostik, Prävention, Frühintervention und Therapie im Kindes- und Jugendalter und berücksichtigen dabei entwicklungsabhängige mit einer Frühgeburt verbundene Risiken. Analog dazu erstellt das Projektteam eine Patientenleitlinie.\n\nDie Entwicklung der S3-Leitlinie erfolgt gemäß dem Regelwerk der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF): Eine Leitliniengruppe mit Expertinnen und Experten aus unterschiedlichen relevanten Fachgebieten legt konkrete, klinisch relevante Fragestellungen fest, und führt eine systematische Recherche und Bewertung wissenschaftlicher Veröffentlichungen durch. In einem festgelegten Verfahren formuliert die Leitliniengruppe wissenschaftlich fundierte Entscheidungshilfen und Handlungsempfehlungen, die durch die AWMF veröffentlicht werden. Das Projekt wird für zwei Jahre und neun Monate mit insgesamt ca. 400.000 Euro gefördert.\n\nIm Erfolgsfall können Frühgeborene besser versorgt und diejenigen unter ihnen identifiziert werden, die ein erhöhtes Risiko für Folgeerkrankungen haben. Die vorhandenen Versorgungsverfahren werden auf ihre Wirkung hin überprüft und entsprechend umgesetzt.",
     "project_websites": [],
     "project_lead": {},
     "project_lead_city": null,
@@ -4936,12 +5035,12 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01VSF24015 GRAPPA Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 1,16 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/292/01VSF24015%20GRAPPA_Flyer.pdf"
       },
       {
-        "title": "01VSF24015 GRAPPA Projektvorstellung",
+        "title": "Projektvorstellung",
         "meta": "(PDF 1,40 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/293/01VSF24015%20GRAPPA_Projektvorstellung.pdf"
       }
@@ -5068,7 +5167,7 @@
     "acronym": "HIT-Life",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
-      "Themenschwerpunkte": "Augenerkrankungen, Erkrankungen des Muskel-Skelett-Systems, Hals-Nasen-Ohrenerkrankungen, Hauterkrankungen und Erkrankungen des Bindegewebes, Hormon- und Stoffwechselstörungen, kardiologische Erkrankungen, neurologische Erkrankungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
+      "Themenschwerpunkte": "Augenerkrankungen, Erkrankungen des Kreislaufsystems, Erkrankungen des Muskel-Skelett-Systems, Hals-Nasen-Ohrenerkrankungen, Hauterkrankungen und Erkrankungen des Bindegewebes, Hormon- und Stoffwechselstörungen, neurologische Erkrankungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
       "Zielgruppen": "Erwachsene, Kinder und Jugendliche, Menschen mit Behinderung, Menschen mit chronischen Krankheiten, Menschen mit seltenen Krankheiten",
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesländer": "Hamburg, Nordrhein-Westfalen",
@@ -5087,11 +5186,11 @@
     },
     "thematic_focuses": [
       "Augenerkrankungen",
+      "Erkrankungen des Kreislaufsystems",
       "Erkrankungen des Muskel-Skelett-Systems",
       "Hals-Nasen-Ohrenerkrankungen",
       "Hauterkrankungen und Erkrankungen des Bindegewebes",
       "Hormon- und Stoffwechselstörungen",
-      "kardiologische Erkrankungen",
       "neurologische Erkrankungen",
       "onkologische Erkrankungen",
       "psychische Erkrankungen",
@@ -5307,7 +5406,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "20.10.2017",
     "description": "Knapp 40 Prozent der älteren Patienten, die wegen einer körperlichen Krankheit im Krankenhaus behandelt werden, haben außerdem Gedächtnisbeeinträchtigungen, ca. 20 Prozent vom Schweregrad einer Demenz. Aus dieser Begleiterkrankung ergibt sich im Krankenhaus ein erhöhtes Risiko für Verwirrtheitszustände, Krankenhausinfektionen, Mangelernährung und Stürze. Daher liegen diese Patienten oft länger im Krankenhaus, müssen häufiger verlegt werden und es entsteht ein erhöhter Behandlungs- und Betreuungsaufwand. Weil die somatischen Akutstationen derzeit nicht auf diese Patientengruppe eingestellt sind, steht das Pflegepersonal vor zusätzlichen inhaltlichen und zeitlichen Herausforderungen. Die Angehörigen werden häufig nicht einbezogen.\n\nIm Projekt IdA werden geschulte Koordinatoren und Tagesbegleiter regelhaft eingesetzt. Die Koordinatoren sammeln und führen alle für die Behandlung des Patienten notwendigen Informationen zusammen. Dies sind z. B. regelmäßige Beurteilungen der Gedächtnisleistung des Patienten sowie Einschätzungen von Angehörigen, niedergelassenen Behandlern und Pflegepersonal. Basierend darauf erstellt und terminiert der Koordinator den Behandlungs- und Maßnahmenplan. Während des Krankenhausaufenthalts betreuen die Tagesbegleiter die Patienten, strukturieren deren Tag und entlasten damit das Pflegepersonal. An fünf Standorten der drei beteiligten Kliniken sollen rund 2.600 Patienten ab 70 Jahren diese neue Versorgungsform erhalten. Die Qualität der Behandlung wird mit den Ergebnissen von Patienten dreier weiterer Kliniken verglichen. Dies geschieht mithilfe von Daten der Krankenhäuser und der beteiligten Krankenkassen, der durchgeführten Assessments und den Einschätzungen der Pflegepersonen und Angehörigen. Das Projekt wird für vier Jahre mit insgesamt ca. 7,25 Millionen Euro gefördert.\n\nDurch das Projekt soll sich die Zusammenarbeit innerhalb und zwischen verschiedenen Versorgungsbereichen, -einrichtungen und Berufsgruppen bei der Versorgung älterer Patienten verbessern. Im Erfolgsfall hilft die neue Versorgungsform die Häufigkeit von Delirien, Stürzen, freiheitsbeschränkenden Maßnahmen und Notfallverlegungen in die Akutpsychiatrie sowie die Zahl der Behandlungstage im Krankenhaus zu senken. Hierdurch könnten auch die Behandlungs- und Pflegefolgekosten signifikant verringert werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.ida-brandenburg.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Dorothea Mantei",
@@ -5349,12 +5450,12 @@
     ],
     "additional_documents": [
       {
-        "title": "01NVF18020 IdA Ergebnisbericht Anlage 7 Patientenflyer OHV",
+        "title": "Patientenflyer OHV",
         "meta": "(PDF 220,22 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/101/01NVF18020_IdA_Ergebnisbericht_Anlage%207_Patientenflyer%20OHV.pdf"
       },
       {
-        "title": "01NVF18020 IdA Ergebnisbericht Anlage 8 Falzflyer Arzt",
+        "title": "Falzflyer Arzt",
         "meta": "(PDF 253,56 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/102/01NVF18020_IdA_Ergebnisbericht_Anlage%208_Falzflyer%20Arzt.pdf"
       }
@@ -5411,7 +5512,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "30.06.2023",
-    "description": "Demenz ist bei älteren Erwachsenen die häufigste chronische Erkrankung. Die meisten Betroffenen leben zu Hause und werden von Familienangehörigen betreut. Viele Pflegende sind durch die alltäglichen Herausforderungen überlastet und erschöpft . Mit iSupport hat die Weltgesundheitsorganisation ein digitales Weiterbildungs- und Trainingsprogramm entwickelt, das pflegende Angehörige unterstützen soll. Eine Anpassung der Plattform an die deutschen Gegebenheiten ist bislang noch nicht erfolgt. Zudem tun sich viele Menschen schwer, digitale Informationsangebote zu finden, zu verstehen und sinnvoll anzuwenden.\n\nDas Projektteam iDEM-Support möchte dazu beitragen, iSupport in Deutschland nutzbar und breit verfügbar zu machen. Durch die Erweiterung um ein zusätzliches Modul soll die Nutzung des Angebots zudem verbessert werden. Dazu lässt das Forschungsteam die bereits bestehenden iSupport-Module in die deutsche Sprache übersetzen und richtet das Programm inhaltlich auf die Versorgungssituation in Deutschland aus. Parallel dazu werden Angehörige von Menschen mit Demenz zu ihren Bedürfnissen befragt und wie sie gesundheitsbezogene Informationen im Internet suchen und nutzen. Aus den Ergebnissen sowie vorhandenen wissenschaftlichen Erkenntnissen stellt das Projektteam Hilfestellungen zum Umgang mit digitalen Gesundheitsinformationen in einem neuen Modul zusammen. Nachdem pflegende Angehörige und Expertinnen und Experten das so adaptierte Programm getestet haben, wird es auf eine barrierefreie Plattform für PC und Smartphones überführt. Abschließend überprüfen die Forschenden in einer wissenschaftlichen Studie mit ca. 140 Teilnehmenden, ob das deutsche iSupport die gewünschte Unterstützung für die Betroffenen bietet.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,3 Millionen Euro gefördert.\n\nIm Erfolgsfall erweist sich die optimierte Plattform für Angehörige von Menschen mit Demenz als wichtiges Hilfsmittel, um die Versorgungs- und Lebensqualität in der häuslichen Pflege zu verbessern.",
+    "description": "Demenz ist bei älteren Erwachsenen die häufigste chronische Erkrankung. Die meisten Betroffenen leben zu Hause und werden von Familienangehörigen betreut. Viele Pflegende sind durch die alltäglichen Herausforderungen überlastet und erschöpft . Mit iSupport hat die Weltgesundheitsorganisation ein digitales Weiterbildungs- und Trainingsprogramm entwickelt, das pflegende Angehörige unterstützen soll. Eine Anpassung der Plattform an die deutschen Gegebenheiten ist bislang noch nicht erfolgt. Zudem tun sich viele Menschen schwer, digitale Informationsangebote zu finden, zu verstehen und sinnvoll anzuwenden.\n\nDas Projektteam iDEM-Support möchte dazu beitragen, iSupport in Deutschland nutzbar und breit verfügbar zu machen. Durch die Erweiterung um ein zusätzliches Modul soll die Nutzung des Angebots zudem verbessert werden. Dazu lässt das Forschungsteam die bereits bestehenden iSupport-Module in eine verständliche, demenz- und kultursensitive Sprache anpassen und richtet das Programm inhaltlich auf die Versorgungssituation in Deutschland aus. Parallel dazu werden Angehörige von Menschen mit Demenz zu ihren Bedürfnissen befragt und wie sie gesundheitsbezogene Informationen im Internet suchen und nutzen. Aus den Ergebnissen sowie vorhandenen wissenschaftlichen Erkenntnissen stellt das Projektteam Hilfestellungen zum Umgang mit digitalen Gesundheitsinformationen in einem neuen Modul zusammen. Nachdem pflegende Angehörige und Expertinnen und Experten das so adaptierte Programm getestet haben, wird es auf eine barrierefreie Plattform für PC und Smartphones überführt. Abschließend überprüfen die Forschenden in einer wissenschaftlichen Studie mit ca. 140 Teilnehmenden, ob das deutsche iSupport die gewünschte Unterstützung für die Betroffenen bietet.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,3 Millionen Euro gefördert.\n\nIm Erfolgsfall erweist sich die optimierte Plattform für Angehörige von Menschen mit Demenz als wichtiges Hilfsmittel, um die Versorgungs- und Lebensqualität in der häuslichen Pflege zu verbessern.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -5443,12 +5544,12 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01VSF24033 iDEM-Support_Abbildung Inhalte der erweiterten iSupport-Plattform",
+        "title": "Grafik Inhalte der erweiterten iSupport-Plattform",
         "meta": "(PDF 108,09 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/294/01VSF24033%20iDEM-Support_Abbildung1_InhaltePlattform.pdf"
       },
       {
-        "title": "01VSF24033 iDEM-Support Abbildung Projektvorhaben",
+        "title": "Grafik Projektvorhaben",
         "meta": "(PDF 95,47 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/295/01VSF24033%20iDEM-Support_Abbildung2_Projektvorhaben%20.pdf"
       }
@@ -5685,7 +5786,7 @@
       "Bundesland": "Sachsen",
       "Förderkennzeichen": "01VSF22027",
       "Laufzeit": "01/2023 – 06/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "App , Digitale Gesundheitsanwendungen (DiGA) , Informations- und Kommunikationstechnologien (IKT) , Künstliche Intelligenz / maschinelles Lernen / Algorithmen , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement , Selbstmanagement-Programme , Telematik-Infrastruktur",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Blended Care / Blended Treatment , Entlassmanagement / Nachsorge , Patienten- und Behandlungspfade , personalisierte Medizin"
@@ -5725,7 +5826,7 @@
       "Sachsen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 06/2026",
     "start_date": "2023-01",
     "end_date": "2026-06",
@@ -5984,12 +6085,12 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01NVF22107 INSPIRE - PNRM+ Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 658,61 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/184/01NVF22107%20INSPIRE%20-%20PNRM+_Flyer.pdf"
       },
       {
-        "title": "01NVF22107 INSPIRE - PNRM+ Plakat",
+        "title": "Projektplakat",
         "meta": "(PDF 1,37 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/185/01NVF22107%20INSPIRE%20-%20PNRM+_Plakat.pdf"
       }
@@ -6115,22 +6216,22 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01NVF21117 INTEGRATE-ATMP Broschüre",
+        "title": "Broschüre",
         "meta": "(PDF 2,41 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/170/01NVF21117%20INTEGRATE-ATMP_Brosch%C3%BCre.pdf"
       },
       {
-        "title": "01NVF21117 INTEGRATE-ATMP grafische Darstellung Konsortium",
+        "title": "Grafik Darstellung Konsortium",
         "meta": "(PDF 145,61 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/171/01NVF21117%20INTEGRATE-ATMP_grafische%20Darstellung%20Konsortium.pdf"
       },
       {
-        "title": "01NVF21117 INTEGRATE-ATMP Scientific Advisory Board",
+        "title": "Grafik Scientific Advisory Board",
         "meta": "(PDF 67,55 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/173/01NVF21117%20INTEGRATE-ATMP_Scientific%20Advisory%20Board.pdf"
       },
       {
-        "title": "01NVF21117 INTEGRATE-ATMP Deutschlandkarte Behandlungszentren verschiedene Formate",
+        "title": "Deutschlandkarte Behandlungszentren",
         "meta": "(PDF 2,72 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/172/01NVF21117%20INTEGRATE-ATMP_Deutschlandkarte%20Behandlungszentren_verschiedene%20Formate.pdf"
       }
@@ -6366,7 +6467,13 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/140/2022-02-16_INVEST_Billstedt.Horn_Evaluationsbericht.pdf"
       }
     ],
-    "additional_documents": [],
+    "additional_documents": [
+      {
+        "title": "Stellungnahme Referentenentwurf GVSG",
+        "meta": "(PDF 632,97 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/335/240430_GfBH_Stellungnahme_Referentenentwurf_GVSG.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -6764,7 +6871,7 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01VSF23014 KlimGesVor Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 461,17 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/286/01VSF23014%20KlimGesVor_Flyer.pdf"
       }
@@ -6894,7 +7001,8 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF19029",
       "Laufzeit": "08/2020 – 08/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung",
       "Einsatz von Arzneimitteln": "Medikationsmanagement",
       "Heil- und Hilfsmittelversorgung": "andere Hilfsmittel , Ergotherapie , Logopädie , orthopädische Hilfsmittel (orthopädische Schuhe, Rollstühle) , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Resilienzförderung und Stressmanagement",
@@ -6923,11 +7031,11 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "08/2020 – 08/2024",
     "start_date": "2020-08",
     "end_date": "2024-08",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 1,6 Mio. Euro",
     "funding_sum_eur": 1600000,
     "funding_reference": "01VSF19029",
@@ -6963,16 +7071,27 @@
     "project_lead_city": "Köln",
     "consortium_partners": [],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "20.03.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 158,65 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1067/2026-03-20_KOKOS-MS.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 9,34 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1068/2026-03-20_KOKOS-MS_Ergebnisbericht.pdf"
+      }
+    ],
     "additional_documents": [
       {
-        "title": "01VSF19029 KOKOS-M Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 850,41 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/236/01VSF19029%20KOKOS-MS_Flyer.pdf"
       },
       {
-        "title": "01VSF19029 KOKOS-MS Studienablauf",
+        "title": "Grafik Studienablauf",
         "meta": "(PDF 108,91 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/237/01VSF19029%20KOKOS-MS_Studienablauf.pdf"
       }
@@ -7086,7 +7205,7 @@
     ],
     "additional_documents": [
       {
-        "title": "01VSF18024 KOPAL Ergebnisbericht Anlage 1 Gesprächsleitfaden",
+        "title": "Gesprächsleitfaden",
         "meta": "(PDF 1,08 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/226/01VSF18024%20KOPAL_Ergebnisbericht%20Anlage%201_Gespr%C3%A4chsleitfaden.pdf"
       }
@@ -7297,17 +7416,17 @@
     ],
     "additional_documents": [
       {
-        "title": "01VSF19053 LESTOR Ergebnisbericht Anlage 1 - Pocketcard",
+        "title": "Pocketcard Armparese",
         "meta": "(PDF 2,18 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/316/01VSF19053%20LESTOR%20Ergebnisbericht%20Anlage%201%20-%20Pocketcard.pdf"
       },
       {
-        "title": "01VSF19053 LESTOR Ergebnisbericht Anlage 2 - Handout",
+        "title": "Handout Praktisches präklinisches Vorgehen bei Verdacht auf Schlaganfall",
         "meta": "(PDF 879,49 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/317/01VSF19053%20LESTOR%20Ergebnisbericht%20Anlage%202%20-%20Handout.pdf"
       },
       {
-        "title": "01VSF19053 LESTOR Ergebnisbericht Anlage 5 - FRENS",
+        "title": "Grafik FRENS",
         "meta": "(PDF 462,12 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/318/01VSF19053%20LESTOR%20Ergebnisbericht%20Anlage%205%20-%20FRENS.pdf"
       }
@@ -7517,7 +7636,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01VSF21006",
       "Laufzeit": "06/2022 – 05/2025",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
       "Heil- und Hilfsmittelversorgung": "andere Hilfsmittel , Ergotherapie , Logopädie , orthopädische Hilfsmittel (orthopädische Schuhe, Rollstühle) , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Rehabilitation und Therapie",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Integrierte Versorgung (IV) , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade , personalisierte Medizin , spezialisierte Versorgungszentren , stationäre Versorgung"
@@ -7544,11 +7664,11 @@
       "Bayern"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "06/2022 – 05/2025",
     "start_date": "2022-06",
     "end_date": "2025-05",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 369.000 Euro",
     "funding_sum_eur": 369000,
     "funding_reference": "01VSF21006",
@@ -7585,9 +7705,26 @@
       "Universitätsklinikum Tübingen"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 136,60 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1146/2026-05-22_LL-uCP.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 31,66 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1147/2026-05-22_LL-uCP_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Patientenleitlinie",
+        "meta": "(PDF 5,22 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/390/01VSF21006_LL-uCP_Ergebnisbericht_Anlage_7_Patientenleitlinie.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "exclusive",
@@ -7936,7 +8073,7 @@
     "call_date": "27.06.2022",
     "description": "Die Digitalisierung des Gesundheitswesens soll durch das im Jahr 2020 in Kraft getretene Krankenhauszukunftsgesetz gestärkt werden. Dieses sieht vor, dass alle Krankenhäuser bis zum Jahresende 2024 ein Patientenportal betreiben, um Patientinnen und Patienten in den Behandlungsprozess einzubinden und Arbeitsabläufe zu erleichtern. So können dort beispielsweise medizinisch relevante Dokumente digital ausgetauscht und in den meisten Fällen mit dem medizinischen Personal besprochen werden. Die Einführung eines solchen Portals stellt jedoch sehr viele Krankenhäuser vor große Herausforderungen, da die Nutzung von Patientenportalen in Deutschland aktuell kaum stattfindet und weitestgehend unerforscht ist.\n\nDie Forschenden im Projekt MAiBest knüpfen daran an und möchten eine Hilfestellung erarbeiten, welche Anforderungen Patientenportale erfüllen sollten. Zudem sollen Hindernisse zur Nutzung eines solchen Portals ermittelt und medizinische Dokumentationen analysiert werden.\n\nUm genauere Erkenntnisse zu gewinnen, führt das Projektteam eine Trenderhebung in drei Kliniken durch. In jeder der drei Kliniken werden vor der Implementierung, direkt nach der Implementierung sowie sechs Monate nach der Einführung des Patientenportals jeweils Daten erhoben. In Summe werden hierbei 1.800 Patienten- und 198 Arztbefragungen ausgewertet. Zusätzlich interviewen die Forschenden 72 Patientinnen und Patienten sowie 24 Ärztinnen und Ärzte, warum sie das eingerichtete Portal nicht nutzen und analysieren 270 Anamnesedokumentationen sowie alle angefallenen Verwaltungsdaten eines Monats je Zeitraum in einer Klinik. Das Projekt wird für 42 Monate mit insgesamt ca. 840.000 Euro gefördert.\n\nMit ihren Erkenntnissen wollen die Forschenden die Einrichtung und den Betrieb von Patientenportalen optimieren und langfristig so zu einer verbesserten Versorgung beitragen. Auch erhalten Software-Hersteller Orientierungshilfen zur anwenderfreundlichen Ausrichtung von Patientenportalen.",
     "project_websites": [
-      "https://www.imvr.de/lehrstuhl-fuer-rehabilitationswissenschaft/#maibest"
+      "https://www.imvr.de/lehrstuhl-fuer-versorgungsforschung-in-der-rehabilitation/#maibest"
     ],
     "project_lead": {
       "raw_lines": [
@@ -8866,17 +9003,17 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01NVF20025 MSnetWork Flyer Patienten",
+        "title": "Flyer Patienten",
         "meta": "(PDF 569,44 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/145/01NVF20025%20MSnetWork_Flyer%20Patienten.pdf"
       },
       {
-        "title": "01NVF20025 MSnetWork Flyer Praxen",
+        "title": "Flyer Praxen",
         "meta": "(PDF 4,96 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/146/01NVF20025%20MSnetWork_Flyer_Praxen.pdf"
       },
       {
-        "title": "01NVF20025 MSnetWork Grafik Netzwerk",
+        "title": "Grafik Netzwerk",
         "meta": "(PDF 122,15 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/147/01NVF20025%20MSnetWork_Grafik%20Netzwerk.pdf"
       }
@@ -9104,7 +9241,7 @@
     ],
     "additional_documents": [
       {
-        "title": "01VSF16058 MULTIqual Ergebnisse QiSA Band F2 - Multimorbidität",
+        "title": "Ergebnisse QiSA Band F2 - Multimorbidität",
         "meta": "(PDF 3,16 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/208/01VSF16058%20MULTIqual%20Ergebnisse%20QiSA%20Band%20F2%20-%20Multimorbidit%C3%A4t.pdf"
       }
@@ -9707,7 +9844,8 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF19059",
       "Laufzeit": "11/2020 – 02/2024",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -9730,11 +9868,11 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "11/2020 – 02/2024",
     "start_date": "2020-11",
     "end_date": "2024-02",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Prüfbitte/Überführung",
     "funding_sum_label": "ca. 670.000 Euro",
     "funding_sum_eur": 670000,
     "funding_reference": "01VSF19059",
@@ -9770,9 +9908,26 @@
       "DAK-Gesundheit"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 241,51 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1138/2026-05-22_Op-US.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 5,56 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1139/2026-05-22_Op-US_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Gesundheitspolitische Handlungsempfehlungen",
+        "meta": "(PDF 629,46 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/384/01VSF19059_Op-US_Ergebnisbericht_Anlage_8_Gesundheitspolitische_Handlungsempfehlungen.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -9882,7 +10037,13 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/363/2023-01-24_OPAL_Ergebnisbericht.pdf"
       }
     ],
-    "additional_documents": [],
+    "additional_documents": [
+      {
+        "title": "Handlungsempfehlungen",
+        "meta": "(PDF 1,63 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/336/2025_12_12_OPAL_01VSF17028_Handlungsempfehlungen.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -9940,7 +10101,7 @@
     "call_date": "12.12.2019",
     "description": "Derzeit sind in Deutschland ca. 30.000 Menschen auch nach einer stationären intensivmedizinischen Behandlung auf eine maschinelle Beatmung oder einen dauerhaften Zugang zur Luftröhre (Trachealkanüle, TK) angewiesen. Die Versorgung dieser Patientinnen und Patienten erfolgt durch außerklinische Intensivpflege (AIP) und ist mit hohen Kosten verbunden. Insbesondere neurologische Patientinnen und Patienten, z. B. nach einem Schlaganfall, könnten jedoch ein großes Potenzial haben, sich langfristig zu erholen und erfolgreich von Beatmung/TK entwöhnt zu werden. Dieses Erholungspotenzial wird derzeit aber nur bedingt ausgeschöpft, weil koordinierende-rehabilitative Strukturen und Prozesse im ambulanten Bereich fehlen. Hier soll OptiNIV Abhilfe schaffen.\n\nDas Projekt entwickelt und evaluiert neue Diagnostik- und Behandlungspfade an der Schnittstelle von stationärer, neurorehabilitativer und AIP-Versorgung. Ambulante Experten-Teams betreuen und behandeln die Patientinnen und Patienten regelmäßig zu Hause. Studienzentren in Schwerpunktkliniken der neurologischen Frührehabilitation koordinieren die Behandlungsmaßnahmen und übernehmen das Fallmanagement. Ein fachübergreifendes Assessment identifiziert das individuelle Entwöhnungspotenzial der Patientinnen und Patienten. Die Entwöhnung von maschineller Beatmung/TK erfolgt dann ggf. während einer stationären neurologischen Intervallrehabilitation.\n\nDie auf ein Jahr angelegte Studie mit 173 neurologischen AIP-Patientinnen und -Patienten soll den Erfolg bei ihrer Entwöhnung von der maschinellen Beatmung/TK ermitteln. Dazu wird die Studiengruppe (115 Patientinnen und Patienten mit OptiNIV) mit einer Kontrollgruppe (58 Patientinnen und Patienten mit Regelversorgung) verglichen. Zudem analysieren die Forschenden die Kosten des neuen Behandlungspfads im Vergleich zur Standardbehandlung. Das Projekt wird für vier Jahre mit ca. 5,3 Millionen Euro gefördert.\n\nIm Erfolgsfall müssen nach Projektabschluss weniger Patientinnen und Patienten maschinell beatmet oder mit einer Trachealkanüle versorgt und in der AIP betreut werden. Für die Betroffenen ist damit eine Verbesserung an Lebensqualität und gesellschaftlicher Teilhabe verbunden.",
     "project_websites": [
-      "https://www.medizin.uni-greifswald.de/optiniv/index.php?id=376"
+      "https://www.unimedizin-greifswald.de/optiniv/index.php?id=376"
     ],
     "project_lead": {
       "raw_lines": [
@@ -10090,7 +10251,7 @@
       "Bundesland": "Niedersachsen",
       "Förderkennzeichen": "01VSF22043",
       "Laufzeit": "01/2023 – 03/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Heil- und Hilfsmittelversorgung": "Logopädie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Rehabilitation und Therapie"
     },
@@ -10114,7 +10275,7 @@
       "Niedersachsen"
     ],
     "care_setting": "stationär",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "01/2023 – 03/2026",
     "start_date": "2023-01",
     "end_date": "2026-03",
@@ -10591,7 +10752,8 @@
       "Bundesland": "Thüringen",
       "Förderkennzeichen": "01VSF19026",
       "Laufzeit": "11/2020 – 10/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "E-Health": "digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
       "Einsatz von Arzneimitteln": "Medikationsmanagement , Multimedikation / Polypharmazie , Off-Label-Use",
       "Qualifikation und Delegation": "Delegation ärztlicher Leistungen , Substitution ärztlicher Leistungen",
@@ -10626,11 +10788,11 @@
       "Thüringen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "11/2020 – 10/2024",
     "start_date": "2020-11",
     "end_date": "2024-10",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 900.000 Euro",
     "funding_sum_eur": 900000,
     "funding_reference": "01VSF19026",
@@ -10667,11 +10829,22 @@
       "BARMER"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "17.04.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 154,25 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1097/2026-04-17_pallCompare.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 7,28 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1098/2026-04-17_pallCompare_Ergebnisbericht.pdf"
+      }
+    ],
     "additional_documents": [
       {
-        "title": "01VSF19026 pallCompare Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 2,09 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/235/01VSF19026%20pallCompare_Flyer.pdf"
       }
@@ -10891,7 +11064,8 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01NVF19002",
       "Laufzeit": "10/2020 – 09/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung",
       "E-Health": "digitale Informationsplattform / Wissensdatenbank / Therapiemodule , Entscheidungshilfesystem , Informations- und Kommunikationstechnologien (IKT) , Telekonsil / Televisite / Teletherapie",
       "Einsatz von Arzneimitteln": "Medikationsmanagement",
       "Heil- und Hilfsmittelversorgung": "andere Hilfsmittel , Ergotherapie , Logopädie , Physiotherapie",
@@ -10920,11 +11094,11 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "10/2020 – 09/2024",
     "start_date": "2020-10",
     "end_date": "2024-09",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 2,6 Mio. Euro",
     "funding_sum_eur": 2600000,
     "funding_reference": "01NVF19002",
@@ -10962,11 +11136,27 @@
       "Nuromedia GmbH"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
+    "decision_date": "20.03.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 158,58 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1077/2026-03-20_Parkinson-AKTIV.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 17,92 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1078/2026-03-20_Parkinson-AKTIV_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 7,46 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1079/2026-03-20_Parkinson-AKTIV_Evaluationsbericht.pdf"
+      }
+    ],
     "additional_documents": [
       {
-        "title": "01NVF19002 Parkinson AKTIV Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 340,08 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/106/01NVF19002%20Parkinson%20AKTIV_Flyer.pdf"
       }
@@ -11068,16 +11258,110 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01NVF20019 ParkProReakt Ablauf Ersttermin Stand Mai 2024",
+        "title": "Grafik Ablauf Ersttermin",
         "meta": "(PDF 104,29 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/142/01NVF20019%20ParkProReakt_Ablauf_Ersttermin_Mai24.pdf"
       },
       {
-        "title": "01NVF20019 ParkProReakt Versorgungsmodell",
+        "title": "Grafik Versorgungsmodell",
         "meta": "(PDF 149,52 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/141/01NVF20019%20ParkProReakt_Versorgungsmodell.pdf"
       }
     ],
+    "has_explicit_neurology_focus": true,
+    "matches_neurology_online_filter": true,
+    "neurology_focus_scope": "exclusive",
+    "is_neurology": true
+  },
+  {
+    "project_id": 154,
+    "slug": "parkprotrain.154",
+    "url": "https://innovationsfonds.g-ba.de/projekte/parkprotrain.154",
+    "title": "ParkProTrain – Individualisiertes Trainingsprogramm für Parkinson-Patienten",
+    "acronym": "ParkProTrain",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Themenschwerpunkt": "neurologische Erkrankungen",
+      "Zielgruppe": "Menschen mit chronischen Krankheiten",
+      "Versorgungsbereich": "ambulant",
+      "Bundesland": "Schleswig-Holstein",
+      "Förderkennzeichen": "01VSF17037",
+      "Laufzeit": "06/2018 – 06/2021",
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung",
+      "E-Health": "App , Digitale Gesundheitsanwendungen (DiGA) , digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
+      "Heil- und Hilfsmittelversorgung": "Physiotherapie",
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie , Selbstmanagement-Programme",
+      "Versorgungsmodelle und Behandlungsprogramme": "Blended Care / Blended Treatment"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 700.00 Euro",
+      "Förderbekanntmachung": "20.02.2017",
+      "Themenfeld": "themenoffen"
+    },
+    "thematic_focuses": [
+      "neurologische Erkrankungen"
+    ],
+    "target_groups": [
+      "Menschen mit chronischen Krankheiten"
+    ],
+    "states": [
+      "Schleswig-Holstein"
+    ],
+    "care_setting": "ambulant",
+    "status": "beendet",
+    "duration_raw": "06/2018 – 06/2021",
+    "start_date": "2018-06",
+    "end_date": "2021-06",
+    "transfer_recommendation": "keine Empfehlung",
+    "funding_sum_label": "ca. 700.00 Euro",
+    "funding_sum_eur": 70000,
+    "funding_reference": "01VSF17037",
+    "themenfeld": "themenoffen",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.02.2017",
+    "description": "Parkinson ist eine der häufigsten neurodegenerativen Erkrankung in Deutschland. Erkrankte Personen sind in ihrem Alltag und ihrer Lebensqualität stark beeinträchtigt. Neben dem gravierenden körperlichen und psychischen Leid für die Betroffenen belastet die Krankheit das deutsche Gesundheitssystem mit jährlichen Gesamtkosten von etwa 2,8 Milliarden Euro enorm. Ein Großteil dieser Kosten entsteht durch die stationäre Behandlung, die sogenannte Parkinson-Komplexbehandlung (PKB). Hier werden die Patienten in drei Wochen medikamentös eingestellt, unterstützt durch verschiedene Therapien wie Physio-, Ergo-, Sprach-, Musik- und Sporttherapie.\n\nIm Projekt ParkProTrain wird ein tabletbasiertes Trainingsprogramm während und nach der stationären PKB eingeführt. Es unterstützt Parkinson-Patienten dabei, die in der PKB erlernten körperlich-aktivierenden Übungen unter Anleitung und mit regelmäßigen Anpassungen eigenständig dauerhaft im häuslichen Alltag weiterzuführen. Das Trainingsprogramm für die Patienten wird als Tablet-Applikation entwickelt. Es enthält parkinsonspezifische Übungen, beispielsweise alle wichtigen Formen von Bewegungsübungen wie Ausdauer, Kraft und Gleichgewicht sowie weitere körperliche Aktivitäten wie Nordic Walking, Tai Chi oder Tanzen. Alle Übungen sind durch Bilder und Videos anschaulich angeleitet. Parkinson-Patienten, die dieses Programm bis zu neun Monate nach der stationären Behandlung anwenden, werden verglichen mit Parkinson Patienten, die die bisherige Standardversorgung erhalten. Während der Studie wird auch untersucht, ob das Programm als neue Versorgungsform umsetzbar wäre, wie es im Durchschnitt umgesetzt wird und wie die Akzeptanz bei den Erkrankten einzuschätzen ist. Dafür werden Patienten und die behandelnden Physiotherapeuten zu drei Zeitpunkten telefonisch befragt. Das Projekt wird für 37 Monate mit insgesamt ca. 700.00 Euro gefördert.\n\nIm Erfolgsfall können durch einen Einsatz des tabletbasierten Trainingsprogramms die Lebensqualität und die soziale Teilhabe gesteigert sowie das Voranschreiten der Krankheitssymptome verzögert werden.",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Dr. Ruth Deck",
+        "Universität Lübeck",
+        "Institut für Sozialmedizin und Epidemiologie",
+        "Ratzeburger Allee 160",
+        "23538 Lübeck",
+        "0049 451 500 51211",
+        "ruth.deck@uksh.de"
+      ],
+      "display": "Dr. Ruth Deck | Universität Lübeck | Institut für Sozialmedizin und Epidemiologie | Ratzeburger Allee 160 | 23538 Lübeck | 0049 451 500 51211 | ruth.deck@uksh.de",
+      "name": "Dr. Ruth Deck",
+      "email": "ruth.deck@uksh.de",
+      "phone": null,
+      "postal_code": "23538",
+      "city": "Lübeck",
+      "organization": "Universität Lübeck",
+      "department": "Institut für Sozialmedizin und Epidemiologie",
+      "street": "Ratzeburger Allee 160"
+    },
+    "project_lead_city": "Lübeck",
+    "consortium_partners": [],
+    "essential_elements": {},
+    "decision_date": "24.01.2023",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 130,56 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/364/2023-01-24_ParkProTrain.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 10,92 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/365/2023-01-24_ParkProTrain_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "exclusive",
@@ -11314,19 +11598,14 @@
     ],
     "additional_documents": [
       {
-        "title": "01NVF17017 PASTA Evaluationsbericht Anlage 1 Patientenbrief-Beispiel",
+        "title": "Patientenbrief-Beispiel",
         "meta": "(PDF 367,08 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/304/01NVF17017_PASTA_Evaluationsbericht_Anlage%201_Patientenbrief-Beispiel.PDF"
       },
       {
-        "title": "01NVF17017 PASTA Evaluationsbericht Anlage 2 Regelwerk für das Erklären medizinischer Sachverhalte in einer leichten Sprache",
+        "title": "Regelwerk für das Erklären medizinischer Sachverhalte in einer leichten Sprache",
         "meta": "(PDF 370,61 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/305/01NVF17017_PASTA_Evaluationsbericht_Anlage_2_Regelwerk_f%C3%BCr%20das%20Erkl%C3%A4ren%20medizinischer%20Sachverhalte%20in%20einer%20leicht.pdf"
-      },
-      {
-        "title": "01NVF17017 PASTA Deutscher Nachhaltigkeitpreis Gesundheit 2025 Fotograf Christian Köster",
-        "meta": "(JPG 4,19 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/306/01NVF17017_PASTA_dnp2025_0512_Christian_Koester-95.jpg"
       }
     ],
     "has_explicit_neurology_focus": true,
@@ -11566,7 +11845,7 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF21028",
       "Laufzeit": "11/2022 – 04/2026",
-      "Status": "laufend"
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -11589,7 +11868,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "11/2022 – 04/2026",
     "start_date": "2022-11",
     "end_date": "2026-04",
@@ -11657,7 +11936,7 @@
     "acronym": "PICnet-Kids",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {
-      "Themenschwerpunkte": "Atemwegserkrankungen und Beatmung, Impfungen und Infektionskrankheiten, kardiologische Erkrankungen, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
+      "Themenschwerpunkte": "Atemwegserkrankungen und Beatmung, Erkrankungen des Kreislaufsystems, Impfungen und Infektionskrankheiten, neurologische Erkrankungen, Notfälle, Verletzung und Vergiftungen, onkologische Erkrankungen, psychische Erkrankungen, Sonstige",
       "Zielgruppen": "Angehörige, Kinder und Jugendliche, Leistungserbringer, Menschen mit chronischen Krankheiten",
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Baden-Württemberg",
@@ -11677,8 +11956,8 @@
     },
     "thematic_focuses": [
       "Atemwegserkrankungen und Beatmung",
+      "Erkrankungen des Kreislaufsystems",
       "Impfungen und Infektionskrankheiten",
-      "kardiologische Erkrankungen",
       "neurologische Erkrankungen",
       "Notfälle",
       "Verletzung und Vergiftungen",
@@ -11755,7 +12034,8 @@
       "Bundesland": "Bayern",
       "Förderkennzeichen": "01NVF19030",
       "Laufzeit": "03/2020 – 02/2025",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung"
     },
     "funding_info": {
       "Förderbereich": "Neue Versorgungsformen",
@@ -11776,11 +12056,11 @@
       "Bayern"
     ],
     "care_setting": "ambulant",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "03/2020 – 02/2025",
     "start_date": "2020-03",
     "end_date": "2025-02",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 4,5 Mio. Euro",
     "funding_sum_eur": 4500000,
     "funding_reference": "01NVF19030",
@@ -11823,9 +12103,41 @@
         "ambulante spezialfachärztliche Versorgung (ASV)"
       ]
     },
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "17.07.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 145,87 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1188/2026-07-17_PoiSe.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 31,88 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1189/2026-07-17_PoiSe_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 8,70 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1190/2026-07-17_PoiSe_Evaluationsbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Digitale Inhalte der Plattform und App",
+        "meta": "(PDF 12,88 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/422/2026-07-17_PoiSe_Ergebnisbericht_Anlage_4_Digitale_Inhalte_der_Plattform_und_App.pdf"
+      },
+      {
+        "title": "Fortbildung für teilnehmende Leistungserbringer",
+        "meta": "(PDF 4,58 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/423/2026-07-17_PoiSe_Ergebnisbericht_Anlage_5_Fortbildung_fuer_teilnehmende_Leistungserbringer.pdf"
+      },
+      {
+        "title": "Anleitungen und Beispiele zum Videomodul",
+        "meta": "(PDF 281,93 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/424/2026-07-17_PoiSe_Ergebnisbericht_Anlage_10_Anleitungen_und_Beispiele_zum_Videomodul.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -12058,14 +12370,9 @@
     ],
     "additional_documents": [
       {
-        "title": "01NVF18024 PRÄP-GO Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 13,54 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/103/01NVF18024%20PR%C3%84P-GO_Flyer.pdf"
-      },
-      {
-        "title": "01NVF18024 PRÄP-GO Patientenpfad",
-        "meta": "(PNG 337,86 kB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/104/01NVF18024%20PR%C3%84P-GO_Patientenpfad.png"
       }
     ],
     "has_explicit_neurology_focus": true,
@@ -12214,19 +12521,19 @@
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
-        "Dr. Sebastian Voigt-Radloff",
+        "Dr. Lukas Horstmeier",
         "Albert-Ludwigs-Universität Freiburg",
         "Universitätsklinikum Freiburg",
         "Institut für Medizinische Biometrie und Statistik, Sektion Versorgungsforschung und Rehabilitationsforschung (SEVERA)",
         "Hugstetter Straße 49",
         "79106 Freiburg",
-        "+49 761 27074470",
-        "sebastian.voigt@uniklinik-freiburg.de"
+        "+49 761 27074293",
+        "lukas.horstmeier@uniklinik-freiburg.de"
       ],
-      "display": "Dr. Sebastian Voigt-Radloff | Albert-Ludwigs-Universität Freiburg | Universitätsklinikum Freiburg | Institut für Medizinische Biometrie und Statistik, Sektion Versorgungsforschung und Rehabilitationsforschung (SEVERA) | Hugstetter Straße 49 | 79106 Freiburg | +49 761 27074470 | sebastian.voigt@uniklinik-freiburg.de",
-      "name": "Dr. Sebastian Voigt-Radloff",
-      "email": "sebastian.voigt@uniklinik-freiburg.de",
-      "phone": "+49 761 27074470",
+      "display": "Dr. Lukas Horstmeier | Albert-Ludwigs-Universität Freiburg | Universitätsklinikum Freiburg | Institut für Medizinische Biometrie und Statistik, Sektion Versorgungsforschung und Rehabilitationsforschung (SEVERA) | Hugstetter Straße 49 | 79106 Freiburg | +49 761 27074293 | lukas.horstmeier@uniklinik-freiburg.de",
+      "name": "Dr. Lukas Horstmeier",
+      "email": "lukas.horstmeier@uniklinik-freiburg.de",
+      "phone": "+49 761 27074293",
       "postal_code": "79106",
       "city": "Freiburg",
       "organization": "Albert-Ludwigs-Universität Freiburg",
@@ -12553,16 +12860,16 @@
     ],
     "project_lead": {
       "raw_lines": [
-        "Dr. Ruth Hecker",
+        "Dr. Heidemarie Haeske-Seeberg",
         "Aktionsbündnis Patientensicherheit e. V.",
         "Alte Jakobstraße 81",
         "10179 Berlin",
         "+49 30 36428 160",
-        "hecker@aps-ev.de"
+        "haeske-seeberg@aps-ev.de"
       ],
-      "display": "Dr. Ruth Hecker | Aktionsbündnis Patientensicherheit e. V. | Alte Jakobstraße 81 | 10179 Berlin | +49 30 36428 160 | hecker@aps-ev.de",
-      "name": "Dr. Ruth Hecker",
-      "email": "hecker@aps-ev.de",
+      "display": "Dr. Heidemarie Haeske-Seeberg | Aktionsbündnis Patientensicherheit e. V. | Alte Jakobstraße 81 | 10179 Berlin | +49 30 36428 160 | haeske-seeberg@aps-ev.de",
+      "name": "Dr. Heidemarie Haeske-Seeberg",
+      "email": "haeske-seeberg@aps-ev.de",
       "phone": "+49 30 36428 160",
       "postal_code": "10179",
       "city": "Berlin",
@@ -12898,8 +13205,8 @@
       },
       {
         "title": "Ergebnisbericht",
-        "meta": "(PDF 8,63 MB)",
-        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1040/2026-01-23_QuaSiApps_Ergebnisbericht.pdf"
+        "meta": "(PDF 7,11 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1040/2026-02-28_QuaSiApps_Ergebnisbericht.pdf"
       }
     ],
     "additional_documents": [],
@@ -13123,7 +13430,8 @@
       "Bundesland": "Baden-Württemberg",
       "Förderkennzeichen": "01VSF19007",
       "Laufzeit": "12/2020 – 11/2024",
-      "Status": "Abschlussbericht wird erstellt"
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -13147,11 +13455,11 @@
       "Baden-Württemberg"
     ],
     "care_setting": "stationär",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "12/2020 – 11/2024",
     "start_date": "2020-12",
     "end_date": "2024-11",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 2,4 Mio. Euro",
     "funding_sum_eur": 2400000,
     "funding_reference": "01VSF19007",
@@ -13190,9 +13498,26 @@
         "stationäre Versorgung"
       ]
     },
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "17.07.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 171,04 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1193/2026-07-17_ReduRisk.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 5,98 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1194/2026-07-17_ReduRisk_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Flyer aktiver",
+        "meta": "(PDF 4,73 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/421/2026-07-17_ReduRisk_Ergebnisbericht_Anlage_5_Flyer_aktiver.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -13211,7 +13536,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Brandenburg",
       "Förderkennzeichen": "01VSF22036",
-      "Laufzeit": "03/2023 – 08/2026",
+      "Laufzeit": "03/2023 – 12/2026",
       "Status": "laufend",
       "E-Health": "Big Data und Gesundheitsdatenanalyse",
       "Einsatz von Arzneimitteln": "Medikationsmanagement , Multimedikation / Polypharmazie , Off-Label-Use",
@@ -13244,9 +13569,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "03/2023 – 08/2026",
+    "duration_raw": "03/2023 – 12/2026",
     "start_date": "2023-03",
-    "end_date": "2026-08",
+    "end_date": "2026-12",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 1,7 Mio. Euro",
     "funding_sum_eur": 1700000,
@@ -13255,7 +13580,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "07.06.2021",
-    "description": "Immer mehr Menschen erreichen ein hohes Alter, damit steigt aber auch der Anteil an Menschen mit altersassoziierten Erkrankungen wie Demenzen. In Deutschland gibt es aktuell rund 1,6 Millionen Menschen mit Demenz, und es ist zu erwarten, dass dieser Anteil in den kommenden Jahren weiter steigt. Menschen mit Demenz sind auf eine komplexe, interprofessionelle und sektorenübergreifende Versorgung angewiesen. Allerdings werden bislang nicht alle Betroffenen leitliniengerecht versorgt. Zudem gibt es große regionale Unterschiede bei der Versorgung der Betroffenen, etwa beim Angebot und in der Qualität der Versorgungsleistungen.\n\nDas Projekt RegioDem widmet sich daher gezielt den regionalen Unterschieden in der Versorgungsqualität und den Versorgungskosten von Menschen mit Demenz. Dazu wird die Gesundheitsversorgung kleinräumig betrachtet, um Unterschiede in der Versorgung, deren Ursachen und Konsequenzen zu identifizieren.\n\nUm dieses Ziel zu erreichen, gehen die Projektpartner in drei aufeinander aufbauenden Schritten vor. Zunächst erfassen sie bundesweit Routinedaten von gesetzlichen Krankenversicherern, um regional-spezifische Versorgungsvariationen von Menschen mit Demenz zu identifizieren. Anschließend analysieren sie diese Aspekte vertieft in ausgewählten Regionen. Danach werden die gewonnenen Erkenntnisse zusammengeführt und Handlungsempfehlungen für eine bedarfs- und regionalgerechte Versorgungsplanung abgeleitet. Das Projekt wird für 42 Monate mit insgesamt ca. 1,7 Millionen Euro gefördert.\n\nIm Erfolgsfall liefern die Ergebnisse des Projektes eine wichtige Grundlage, Menschen mit Demenz über die gesetzliche Krankenversicherung besser zu versorgen.",
+    "description": "Immer mehr Menschen erreichen ein hohes Alter, damit steigt aber auch der Anteil an Menschen mit altersassoziierten Erkrankungen wie Demenzen. In Deutschland gibt es aktuell rund 1,6 Millionen Menschen mit Demenz, und es ist zu erwarten, dass dieser Anteil in den kommenden Jahren weiter steigt. Menschen mit Demenz sind auf eine komplexe, interprofessionelle und sektorenübergreifende Versorgung angewiesen. Allerdings werden bislang nicht alle Betroffenen leitliniengerecht versorgt. Zudem gibt es große regionale Unterschiede bei der Versorgung der Betroffenen, etwa beim Angebot und in der Qualität der Versorgungsleistungen.\n\nDas Projekt RegioDem widmet sich daher gezielt den regionalen Unterschieden in der Versorgungsqualität und den Versorgungskosten von Menschen mit Demenz. Dazu wird die Gesundheitsversorgung kleinräumig betrachtet, um Unterschiede in der Versorgung, deren Ursachen und Konsequenzen zu identifizieren.\n\nUm dieses Ziel zu erreichen, gehen die Projektpartner in drei aufeinander aufbauenden Schritten vor. Zunächst erfassen sie bundesweit Routinedaten von gesetzlichen Krankenversicherern, um regional-spezifische Versorgungsvariationen von Menschen mit Demenz zu identifizieren. Anschließend analysieren sie diese Aspekte vertieft in ausgewählten Regionen. Danach werden die gewonnenen Erkenntnisse zusammengeführt und Handlungsempfehlungen für eine bedarfs- und regionalgerechte Versorgungsplanung abgeleitet. Das Projekt wird für 46 Monate mit insgesamt ca. 1,7 Millionen Euro gefördert.\n\nIm Erfolgsfall liefern die Ergebnisse des Projektes eine wichtige Grundlage, Menschen mit Demenz über die gesetzliche Krankenversicherung besser zu versorgen.",
     "project_websites": [
       "https://www.mhb-fontane.de/de/regiodem"
     ],
@@ -13865,7 +14190,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "20.02.2017",
     "description": "In Deutschland erleiden jährlich rund 260.000 Menschen einen Schlaganfall. Nach Schlaganfällen ist das Risiko für schwerwiegende Komplikationen deutlich erhöht. Dabei können schwerwiegende Folgen oft durch eine gezielte Nachsorge verringert werden.\n\nZiel des Projektes „SANO“ ist die Verbesserung der Versorgung nach ischämischem Schlaganfall sowie einer besseren Diagnose und Therapie von Komplikationen. Dafür wird ein berufsgruppenübergreifendes Netzwerk bestehend aus Hausärzten, einem Schlaganfallkoordinator und einer geschulten Schlaganfallpflegekraft, der „Stroke Nurse“ an Kliniken sowie Therapeuten, Diätassistenten und Sozialarbeitern aufgebaut. Die Patienten erhalten hier eine ausführliche Beratung, führen Motivationsgespräche und formulieren individuelle Zielvereinbarungen unter Einbeziehung von Angehörigen. Ein Gesunderhaltungspass dient als Steuerungsinstrument. Durch regelmäßige Vorstellungen in der Klinik und beim Hausarzt kann eine Behandlung von Risikofaktoren direkt eingeleitet werden und mögliche Folgeerkrankungen besser überprüft werden. Im Anschluss wird evaluiert, inwieweit Folgekomplikationen und erneute Krankenhauseinweisungen durch die neue Versorgungsform reduziert werden können. Dafür werden insgesamt rund 1500 Patienten aus 15 Regionen, in der die neue Versorgungsform angeboten wird, mit rund 1500 Patienten aus 15 Vergleichsregionen verglichen, die regulär versorgt werden. Zudem werden auch die Folgekosten im ersten Jahr nach Schlaganfällen ermittelt. Das Projekt wird für 48 Monate mit insgesamt ca. 5,8 Millionen Euro gefördert.\n\nIm Erfolgsfall kann die neue Versorgungsform auf weite Teile Deutschlands und auf andere vaskuläre und neurologische Erkrankungen übertragen werden. Dadurch können für zahlreiche Patienten Komplikationen und Risikofaktoren und schließlich Folgekosten reduziert werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.sano-studie.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Armin Grau",
@@ -14287,7 +14614,7 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01NVF22105 SEBDem Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 276,73 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/181/01NVF22105%20SEBDem_Flyer.pdf"
       }
@@ -14896,12 +15223,12 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01NVF21113 STAY@HOME-TREAT@HOME Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 2,86 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/164/01NVF21113%20STAY@HOME-TREAT@HOME_Flyer.pdf"
       },
       {
-        "title": "01NVF21113 STAY@HOME-TREAT@HOME grafische Projektvorstellung",
+        "title": "Grafik Projektvorstellung",
         "meta": "(PDF 712,66 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/165/01NVF21113%20STAY@HOME-TREAT@HOME_grafische%20Projektvorstellung.pdf"
       }
@@ -14925,7 +15252,8 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF19033",
       "Laufzeit": "11/2020 – 10/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "Weitergabe der wissenschaftlichen Erkenntnisse",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment",
       "Versorgungsmodelle und Behandlungsprogramme": "stationäre Versorgung"
     },
@@ -14958,11 +15286,11 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "stationär",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "11/2020 – 10/2024",
     "start_date": "2020-11",
     "end_date": "2024-10",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "Weitergabe der wissenschaftlichen Erkenntnisse",
     "funding_sum_label": "ca. 2 Mio. Euro",
     "funding_sum_eur": 2000000,
     "funding_reference": "01VSF19033",
@@ -15001,9 +15329,116 @@
       "Universitätsklinikum Hamburg-Eppendorf"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "22.05.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 145,55 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1134/2026-05-22_StiK-OV.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 14,84 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1135/2026-05-22_StiK-OV_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Maßnahme Fortbildungen",
+        "meta": "(PDF 170,07 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/363/01VSF19033_StiK-OV_EB_Anlage_18_Ma%C3%9Fnahme_Fortbildungen.pdf"
+      },
+      {
+        "title": "Wegweiser Angehörige",
+        "meta": "(PDF 235,54 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/364/01VSF19033_StiK-OV_EB_Anlage_19_Wegweiser_Angehoerige.pdf"
+      },
+      {
+        "title": "Checkliste Versorgende",
+        "meta": "(PDF 82,46 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/365/01VSF19033_StiK-OV_EB_Anlage_20_Checkliste_Versorgende.pdf"
+      },
+      {
+        "title": "Leitfaden Kommunikation Angehörige",
+        "meta": "(PDF 1,47 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/366/01VSF19033_StiK-OV_EB_Anlage_21_Leitfaden_Kommunikation_Angehoerige.pdf"
+      },
+      {
+        "title": "Kontaktliste Versorgende",
+        "meta": "(PDF 68,71 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/367/01VSF19033_StiK-OV_EB_Anlage_22_Kontaktliste_Versorgende.pdf"
+      },
+      {
+        "title": "Handout Aromapflege",
+        "meta": "(PDF 245,29 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/368/01VSF19033_StiK-OV_EB_Anlage_23_Handout_Aromapflege.pdf"
+      },
+      {
+        "title": "Leitfaden Sterbephase",
+        "meta": "(PDF 878,51 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/369/01VSF19033_StiK-OV_EB_Anlage_24_Leitfaden_Sterbephase.pdf"
+      },
+      {
+        "title": "Versorgungsstandards",
+        "meta": "(PDF 111,22 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/370/01VSF19033_StiK-OV_EB_Anlage_25_Versorgungsstandards.pdf"
+      },
+      {
+        "title": "Checkliste Sterbephase",
+        "meta": "(PDF 468,84 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/371/01VSF19033_StiK-OV_EB_Anlage_26_Checkliste_Sterbephase.pdf"
+      },
+      {
+        "title": "Checkliste Versorgung nach Therapiezieländerung",
+        "meta": "(PDF 216,92 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/372/01VSF19033_StiK-OV_EB_Anlage_27_Checkliste_Versorgung_nach_Therapiezielaenderung.pdf"
+      },
+      {
+        "title": "Gewohnheits- und Ressourcenbogen",
+        "meta": "(PDF 55,65 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/373/01VSF19033_StiK-OV_EB_Anlage_28_Gewohnheits-_und_Ressourcenbogen.pdf"
+      },
+      {
+        "title": "Räumliche Gestaltung",
+        "meta": "(PDF 129,55 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/374/01VSF19033_StiK-OV_EB_Anlage_29_Raeumliche_Gestaltung.pdf"
+      },
+      {
+        "title": "Empfehlungen Dokumentation",
+        "meta": "(PDF 184,90 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/375/01VSF19033_StiK-OV_EB_Anlage_30_Empfehlungen_Dokumentation.pdf"
+      },
+      {
+        "title": "Empfehlungen Gesprächsführung",
+        "meta": "(PDF 443,88 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/376/01VSF19033_StiK-OV_EB_Anlage_31_Empfehlungen_Gespraechsfuehrung.pdf"
+      },
+      {
+        "title": "Checkliste Fallbesprechung",
+        "meta": "(PDF 363,37 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/377/01VSF19033_StiK-OV_EB_Anlage_32_Checkliste_Fallbesprechung.pdf"
+      },
+      {
+        "title": "Checkliste 15 Minuten Fallbesprechung",
+        "meta": "(PDF 196,63 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/378/01VSF19033_StiK-OV_EB_Anlage_33_Checkliste_15-Minuten_Fallbesprechung.pdf"
+      },
+      {
+        "title": "Einbindung Seelsorge",
+        "meta": "(PDF 141,12 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/379/01VSF19033_StiK-OV_EB_Anlage_34_Einbindung_Seelsorge.pdf"
+      },
+      {
+        "title": "Einbindung Palliativmedizinischer (Konsil-)Dienst",
+        "meta": "(PDF 173,43 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/380/01VSF19033_StiK-OV_EB_Anlage_35_Einbindung_Palliativmedizinischer_%28Konsil-%29Dienst.pdf"
+      },
+      {
+        "title": "Politische Forderungen",
+        "meta": "(PDF 400,86 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/381/01VSF19033_StiK-OV_EB_Anlage_40_Politische_Forderungen.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -15259,7 +15694,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "11.05.2016",
     "description": "Knapp 270.000 Menschen erleiden jährlich in Deutschland einen Schlaganfall. Über ein Drittel stirbt innerhalb eines Jahres an dieser Erkrankung. Die, die überleben, haben ein höheres Risiko für einen erneuten Schlaganfall: Je nach Ursache erleidet fast jeder Fünfte erneut einen Schlaganfall. Rund die Hälfte der überlebenden Schlaganfall-Patientinnen und -Patienten ist ein Jahr nach dem Ereignis dauerhaft behindert und auf fremde Hilfe angewiesen.\n\nZiel des Projektes STROKE OWL ist es, die Rate der wiederholten Schlaganfälle innerhalb eines Jahres nach dem Schlaganfallereignis zu verringern. Außerdem soll die Lebensqualität und Zufriedenheit der Betroffenen verbessert werden. Im Projekt werden dafür sogenannte Schlaganfall-Lotsen eingesetzt, die die Patientinnen und Patienten für ein Jahr begleiten. Die Leistungen der Lotsen bestehen darin, Betroffene und Angehörige über mögliche Schlaganfall-Komplikationen zu informieren und frühzeitig auf mögliche Risiken hinzuweisen. Sie koordinieren auch regelmäßige Rücksprachemöglichkeiten mit den behandelnden Ärzten sowie die Medikation, wobei die Verwaltung der Daten durch eine digitale Belotsungsakte („Lotsen-APP“) unterstützt wird. Im Projekt sollen in Ostwestfalen-Lippe 1.587 Schlaganfall-Patientinnen und -Patienten von Schlaganfall-Lotsen betreut werden. Um prüfen zu können, ob die Betroffenen mit Lotsen besser versorgt sind, werden die Krankheitsverläufe mit einer gleichen Anzahl an Erkrankten aus zwei Vergleichs-Regionen verglichen, in der die Lotsen nicht eingesetzt werden. Gleichzeitig kann ausgewertet werden, ob durch diese neue Versorgungsform insgesamt Kosten gesenkt werden. Das Projekt wird für vier Jahre mit insgesamt ca. 7,1 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Vorgehen auf andere Indikationen, vor allem chronische Erkrankungen, angepasst und übertragen werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://www.schlaganfall-hilfe.de/de/das-tun-wir/aktivitaeten/projekt-stroke-owl"
+    ],
     "project_lead": {
       "raw_lines": [
         "Dr. Georg Galle",
@@ -15268,11 +15705,11 @@
         "Schulstraße 22",
         "33330 Gütersloh",
         "+49 5241 97700",
-        "stroke.owl@schlaganfall-hilfe.de"
+        "georg.galle@schlaganfall-hilfe.de"
       ],
-      "display": "Dr. Georg Galle | Leitung STROKE OWL | Stiftung Deutsche Schlaganfall-Hilfe | Schulstraße 22 | 33330 Gütersloh | +49 5241 97700 | stroke.owl@schlaganfall-hilfe.de",
+      "display": "Dr. Georg Galle | Leitung STROKE OWL | Stiftung Deutsche Schlaganfall-Hilfe | Schulstraße 22 | 33330 Gütersloh | +49 5241 97700 | georg.galle@schlaganfall-hilfe.de",
       "name": "Dr. Georg Galle",
-      "email": "stroke.owl@schlaganfall-hilfe.de",
+      "email": "georg.galle@schlaganfall-hilfe.de",
       "phone": "+49 5241 97700",
       "postal_code": "33330",
       "city": "Gütersloh",
@@ -15405,12 +15842,12 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01NVF23109 T-CABS Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 762,46 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/196/01NVF23109%20T-CABS_Flyer.pdf"
       },
       {
-        "title": "01NVF23109 T-CABS Abbildung Vergleich Versorgungsformen",
+        "title": "Graifk Vergleich Versorgungsformen",
         "meta": "(PDF 220,23 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/197/01NVF23109%20T-CABS_Abbildung%20Vergleich%20Versorgungsformen.pdf"
       }
@@ -15797,12 +16234,12 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01NVF24001 TENEAM Flyer Fachpersonal",
+        "title": "Flyer Fachpersonal",
         "meta": "(PDF 1,41 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/204/01NVF24001%20TENEAM_Flyer_Fachpersonal.pdf"
       },
       {
-        "title": "01NVF24001 TENEAM Plakat A3",
+        "title": "Projektplakat",
         "meta": "(PDF 1,02 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/205/01NVF24001%20TENEAM_Plakat%20A3.pdf"
       }
@@ -15825,8 +16262,8 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF23004",
-      "Laufzeit": "10/2023 – 03/2026",
-      "Status": "laufend"
+      "Laufzeit": "10/2023 – 06/2026",
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -15845,10 +16282,10 @@
       "Berlin"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
-    "duration_raw": "10/2023 – 03/2026",
+    "status": "Abschlussbericht wird erstellt",
+    "duration_raw": "10/2023 – 06/2026",
     "start_date": "2023-10",
-    "end_date": "2026-03",
+    "end_date": "2026-06",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 449.000 Euro",
     "funding_sum_eur": 449000,
@@ -15857,7 +16294,7 @@
     "funding_process": "Medizinische Leitlinien",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "Innerhalb eines Jahres erleiden in Deutschland rund 1,6 Prozent aller Erwachsenen einen Schlaganfall. Zwei Drittel der Patientinnen und Patienten sind danach pflegebedürftig oder auf Unterstützung im Alltag angewiesen. Der Schlaganfall ist die häufigste Ursache einer erworbenen Behinderung im Erwachsenenalter. Die dadurch ausgelösten Einschränkungen der Mobilität sind der häufigste Grund für die Beantragung einer Pflegestufe oder einer vollstationären Unterbringung. Wird eine spezifische Therapie rasch und konsequent umgesetzt, kann die jeweilige Störung häufig verringert werden.\n\nDie Projektpartner von TheMoS wollen gemeinsam eine S3-Leitlinie zur Therapie von Störungen der Mobilität nach einem Schlaganfall erarbeiten und damit vor allem die Standardisierung der Therapie verbessern. Dabei sollen die Therapieempfehlungen konkreten Zielkriterien folgen, wie beispielsweise der Fähigkeit, eigenständig gehen zu lernen oder weniger zu stürzen. Die vorhandene S2k-Leitlinie „Rehabilitation der Mobilität nach Schlaganfall“ (ReMoS) wird damit ersetzt.\n\nDie Besonderheit des geplanten Projekts besteht darin, dass die Forschungsgruppe über die systematische Literatursuche und –bewertung hinaus zielgruppenspezifische Versionen der Leitlinie entwickeln wird. Dafür werden unterschiedliche Berufsgruppen und Disziplinen wie Neurologie, Allgemeinmedizin oder Altersmedizin beteiligt. Die Perspektive der Betroffenen wird durch die Einbindung von Patientenvertretungen berücksichtigt. Das Projekt wird für zweieinhalb Jahre mit ca. 449.000 Euro gefördert.\n\nIm Erfolgsfall trägt die neue S3-Leitlinie zu einer besseren Versorgung von Patientinnen und Patienten mit Mobilitätsstörungen nach einem Schlaganfall bei. Ein Schlüssel wird dabei eine kontinuierliche Qualitätskontrolle der empfohlenen Therapien sein.",
+    "description": "Innerhalb eines Jahres erleiden in Deutschland rund 1,6 Prozent aller Erwachsenen einen Schlaganfall. Zwei Drittel der Patientinnen und Patienten sind danach pflegebedürftig oder auf Unterstützung im Alltag angewiesen. Der Schlaganfall ist die häufigste Ursache einer erworbenen Behinderung im Erwachsenenalter. Die dadurch ausgelösten Einschränkungen der Mobilität sind der häufigste Grund für die Beantragung einer Pflegestufe oder einer vollstationären Unterbringung. Wird eine spezifische Therapie rasch und konsequent umgesetzt, kann die jeweilige Störung häufig verringert werden.\n\nDie Projektpartner von TheMoS wollen gemeinsam eine S3-Leitlinie zur Therapie von Störungen der Mobilität nach einem Schlaganfall erarbeiten und damit vor allem die Standardisierung der Therapie verbessern. Dabei sollen die Therapieempfehlungen konkreten Zielkriterien folgen, wie beispielsweise der Fähigkeit, eigenständig gehen zu lernen oder weniger zu stürzen. Die vorhandene S2k-Leitlinie „Rehabilitation der Mobilität nach Schlaganfall“ (ReMoS) wird damit ersetzt.\n\nDie Besonderheit des geplanten Projekts besteht darin, dass die Forschungsgruppe über die systematische Literatursuche und –bewertung hinaus zielgruppenspezifische Versionen der Leitlinie entwickeln wird. Dafür werden unterschiedliche Berufsgruppen und Disziplinen wie Neurologie, Allgemeinmedizin oder Altersmedizin beteiligt. Die Perspektive der Betroffenen wird durch die Einbindung von Patientenvertretungen berücksichtigt. Das Projekt wird für zwei Jahre und neun Monate mit ca. 449.000 Euro gefördert.\n\nIm Erfolgsfall trägt die neue S3-Leitlinie zu einer besseren Versorgung von Patientinnen und Patienten mit Mobilitätsstörungen nach einem Schlaganfall bei. Ein Schlüssel wird dabei eine kontinuierliche Qualitätskontrolle der empfohlenen Therapien sein.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -16195,32 +16632,32 @@
     ],
     "additional_documents": [
       {
-        "title": "01VSF18052 TRADE_Angehörigenposter",
+        "title": "Angehörigenposter",
         "meta": "(PDF 153,47 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/307/01VSF18052%20TRADE_Angeh%C3%B6rigenposter.pdf"
       },
       {
-        "title": "01VSF18052 TRADE_Ergebnisbericht_Anlage 6_Flyer",
+        "title": "Projektflyer",
         "meta": "(PDF 156,40 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/308/01VSF18052%20TRADE_Ergebnisbericht_Anlage%206_Flyer.pdf"
       },
       {
-        "title": "01VSF18052 TRADE_Ergebnisbericht_Anlage 9_Leitfaden",
+        "title": "Leitfaden für Gesundheitspersonal im Krankenhaus",
         "meta": "(PDF 480,16 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/309/01VSF18052%20TRADE_Ergebnisbericht_Anlage%209_Leitfaden.pdf"
       },
       {
-        "title": "01VSF18052 TRADE_Ergebnisbericht_Anlage 10_Plakat",
+        "title": "Projektplakat",
         "meta": "(PDF 417,60 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/310/01VSF18052%20TRADE_Ergebnisbericht_Anlage%2010_Plakat.pdf"
       },
       {
-        "title": "01VSF18052 TRADE_Ergebnisbericht_Anlage 11_1-Min-Info",
+        "title": "Sammlung 1-Min-Infos",
         "meta": "(PDF 354,38 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/311/01VSF18052%20TRADE_Ergebnisbericht_Anlage%2011_1-Min-Info.pdf"
       },
       {
-        "title": "01VSF18052 TRADE_Ergebnisbericht_Anlage 18_Rekrutierungsflyer",
+        "title": "Rekrutierungsflyer",
         "meta": "(PDF 85,78 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/312/01VSF18052%20TRADE_Ergebnisbericht_Anlage%2018_Rekrutierungsflyer.pdf"
       }
@@ -16493,7 +16930,7 @@
     "result_documents": [],
     "additional_documents": [
       {
-        "title": "01VSF21044 VAC-MAC Faktenblatt zum Impfen bei Immunerkrankungen 09/2023",
+        "title": "Faktenblatt zum Impfen bei Immunerkrankungen",
         "meta": "(PDF 2,45 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/265/01VSF21044%20VAC-MAC_Faktenblatt%20zum%20Impfen%20bei%20Immunerkrankungen_09-2023.pdf"
       }
@@ -16689,6 +17126,107 @@
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
+    "is_neurology": true
+  },
+  {
+    "project_id": 239,
+    "slug": "versi-ms-pv.239",
+    "url": "https://innovationsfonds.g-ba.de/projekte/versi-ms-pv.239",
+    "title": "VerSI-MS-PV – Versorgung sicher gestalten – Machbarkeitsstudie zur Eignung verschiedener Datenquellen als Grundlage der Verbesserung der Pharmakovigilanz innovativer Therapien am Beispiel der Multiplen Sklerose",
+    "acronym": "VerSI-MS-PV",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Themenschwerpunkt": "neurologische Erkrankungen",
+      "Zielgruppen": "Erwachsene, Leistungserbringer",
+      "Versorgungsbereich": "sektorenübergreifend",
+      "Bundesland": "Nordrhein-Westfalen",
+      "Förderkennzeichen": "01VSF18038",
+      "Laufzeit": "06/2019 – 04/2023",
+      "Status": "beendet",
+      "Transferempfehlung": "Prüfbitte/Überführung",
+      "E-Health": "Big Data und Gesundheitsdatenanalyse , Entscheidungshilfesystem , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
+      "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS) , Medikationsmanagement , unerwünschte Arzneimittelwirkungen",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , stationäre Versorgung"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,5 Mio. Euro",
+      "Förderbekanntmachung": "20.10.2017",
+      "Themenfeld": "Verbesserung der Patientensicherheit"
+    },
+    "thematic_focuses": [
+      "neurologische Erkrankungen"
+    ],
+    "target_groups": [
+      "Erwachsene",
+      "Leistungserbringer"
+    ],
+    "states": [
+      "Nordrhein-Westfalen"
+    ],
+    "care_setting": "sektorenübergreifend",
+    "status": "beendet",
+    "duration_raw": "06/2019 – 04/2023",
+    "start_date": "2019-06",
+    "end_date": "2023-04",
+    "transfer_recommendation": "Prüfbitte/Überführung",
+    "funding_sum_label": "ca. 1,5 Mio. Euro",
+    "funding_sum_eur": 1500000,
+    "funding_reference": "01VSF18038",
+    "themenfeld": "Verbesserung der Patientensicherheit",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.10.2017",
+    "description": "Die Multiple Sklerose (MS) ist eine häufige Erkrankung des zentralen Nervensystems und betrifft in Deutschland über 250.000 Menschen. Die Krankheit zeigt einen fortschreitenden, oft zunehmend schweren Verlauf. MS lässt sich bislang nicht heilen, aber gut behandeln. Für die Behandlung der MS sind in den letzten zehn Jahren zahlreiche Medikamente neu zugelassen worden, weitere Medikamente werden in den nächsten Jahren folgen. Bis auf Ergebnisse aus klinischen Studien liegen oft keine oder geringe Erfahrungen in der Anwendung neuer Therapien vor – insbesondere im Hinblick auf unerwünschte Wirkungen.\n\nDas Projekt VerSI-MS-PV untersucht, wie unerwünschte Wirkungen dieser neuen Behandlungsmöglichkeiten bei MS-Patientinnen und -Patienten besser erfasst werden können. Etabliert ist, wie bei anderen Krankheiten auch, ein Berichtssystem für sogenannte Spontanmeldungen über Nebenwirkungen durch die verschreibenden Ärzte und Ärztinnen. Aber eine systematische Pflicht zur Erfassung unerwünschter Wirkungen besteht nicht. Im Projekt werden deshalb verschiedene Datenquellen aus der ambulanten Versorgung von MS-Patienten und MS-Patientinnen in niedergelassenen Praxen und Behandlungszentren analysiert. Darunter fallen Registerdaten, in denen Krankheitsverlauf und Behandlungserfolge dokumentiert werden und die üblichen Abrechnungsdaten der Versicherten – in diesem Fall der BKK-Versicherten. Die Analyse gibt unter anderem Auskunft darüber, wann und warum die Therapie gewechselt wurde und wie häufig unerwünschte Wirkungen auftreten. Neuerkrankungen und Krankenhausaufenthalte werden dabei auch berücksichtigt. Das Projekt wird für vier Jahre mit insgesamt ca. 1,5 Millionen Euro gefördert.\n\nIm Erfolgsfall lassen sich Erkenntnisse darüber gewinnen, wie in Krankheitsfeldern mit sich stark ändernden Behandlungsmöglichkeiten das Spontanmeldesystem der Arzneimittelsicherheit durch Daten der Regelversorgung ergänzt werden kann. Daraus ließen sich entsprechende Hinweise für den Gesetzgeber ableiten.",
+    "project_websites": [
+      "https://www.medizin.uni-muenster.de/?id=18973"
+    ],
+    "project_lead": {
+      "raw_lines": [
+        "Prof. Dr. med. Klaus Berger",
+        "Institut für Epidemiologie und Sozialmedizin",
+        "Universität Münster",
+        "Albert-Schweitzer-Campus 1, Gebäude D3",
+        "48149 Münster",
+        "+49 251 8355650",
+        "bergerk@uni-muenster.de"
+      ],
+      "display": "Prof. Dr. med. Klaus Berger | Institut für Epidemiologie und Sozialmedizin | Universität Münster | Albert-Schweitzer-Campus 1, Gebäude D3 | 48149 Münster | +49 251 8355650 | bergerk@uni-muenster.de",
+      "name": "Prof. Dr. med. Klaus Berger",
+      "email": "bergerk@uni-muenster.de",
+      "phone": "+49 251 8355650",
+      "postal_code": "48149",
+      "city": "Münster",
+      "organization": "Institut für Epidemiologie und Sozialmedizin",
+      "department": "Universität Münster",
+      "street": "Albert-Schweitzer-Campus 1, Gebäude D3"
+    },
+    "project_lead_city": "Münster",
+    "consortium_partners": [
+      "BKK Dachverband e. V.",
+      "MS Forschungs- und Projektentwicklungs-gGmbH",
+      "Zentralinstitut der kassenärztlichen Vereinigung",
+      "Paul-Ehrlich-Institut"
+    ],
+    "essential_elements": {},
+    "decision_date": "12.07.2024",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 152,09 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/634/2024-07-12_VerSI-MS-PV.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 14,44 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/635/2024-07-12_VerSI-MS-PV_Ergebnisbericht.pdf"
+      }
+    ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": true,
+    "matches_neurology_online_filter": true,
+    "neurology_focus_scope": "exclusive",
     "is_neurology": true
   },
   {
@@ -17025,22 +17563,22 @@
     ],
     "additional_documents": [
       {
-        "title": "01NVF17031 ZSE-DUO Studienprotokoll V1.3 2020-09-04",
+        "title": "Studienprotokoll",
         "meta": "(PDF 512,92 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/95/01NVF17031%20ZSE-DUO_Studienprotokoll_V1.3_2020-09-04.pdf"
       },
       {
-        "title": "01NVF17031 ZSE-DUO Ergebnisbericht Anlage 11 Manual Duale Lotsenstruktur 2022-08-29 V1.0",
+        "title": "Manual Duale Lotsenstruktur",
         "meta": "(PDF 2,25 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/96/01NVF17031%20ZSE-DUO_Ergebnisbericht_Anlage%2011_Manual_Duale_Lotsenstruktur_2022-08-29_V1.0.pdf"
       },
       {
-        "title": "01NVF17031 ZSE-DUO Ergebnisse Poster NAKSE 2023",
+        "title": "Poster Ergebnisse NAKSE 2023",
         "meta": "(PDF 1,03 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/97/01NVF17031%20ZSE-DUO_Ergebnisse_Poster_NAKSE2023.pdf"
       },
       {
-        "title": "01NVF17031 ZSE-DUO ORPHA-Klassifikation Seltene Erkrankungen Poster NAKSE 2025",
+        "title": "Poster Klassifikation Seltene Erkrankungen NAKSE 2025",
         "meta": "(PDF 236,52 kB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/98/01NVF17031%20ZSE-DUO_ORPHA-Klassifikation_SE_Poster_NAKSE2025.pdf"
       }

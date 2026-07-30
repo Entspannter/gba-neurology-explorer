@@ -29,10 +29,13 @@ jobs:
       - name: Refresh data and rebuild Pages artifact
         run: gba-refresh --force
 
+      - name: Validate generated data and Pages artifact
+        run: gba-validate
+
       - name: Detect changes
         id: diff
         run: |
-          if git diff --quiet --exit-code -- data docs site/data.js; then
+          if git diff --quiet --exit-code -- data docs site/data.js site/downloads; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -43,6 +46,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data docs site/data.js
+          git add data docs site/data.js site/downloads
           git commit -m "chore: refresh scraped data"
           git push

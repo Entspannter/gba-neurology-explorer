@@ -27,7 +27,7 @@ The scraper currently works against the server-rendered HTML project index and t
 
 Neurology subset reference:
 
-- [Public G-BA filter for neurologische Erkrankungen](https://innovationsfonds.g-ba.de/projekte/?projektname=&themenschwerpunkt=neurologische+Erkrankungen&zielgruppe=&projektelemente%5BprojektelementGruppe%5D=&projektelemente%5Bprojektelement%5D=&foerderbereich%5Bfoerderbereich%5D=&foerderverfahren%5Bfoerderverfahren%5D=&versorgungsbereich=&bundesland=&status%5Bstatus%5D=&status%5Btransferempfehlung%5D=&sort=projekt.akronym&direction=asc)
+- [Public G-BA filter for neurologische Erkrankungen](https://innovationsfonds.g-ba.de/projekte/?projektname=&themenschwerpunkt=neurologische+Erkrankungen&zielgruppe=&projektelemente%5BprojektelementGruppe%5D=&projektelemente%5Bprojektelement%5D=&foerderbereich%5Bfoerderbereich%5D=&foerderbereich%5Bfoerderverfahren%5D=&versorgungsbereich=&bundesland=&status%5Bstatus%5D=&status%5Btransferempfehlung%5D=&sort=projekt.akronym&direction=asc)
 
 ## Quick Start
 
@@ -43,6 +43,7 @@ pip install -e .
 
 ```bash
 gba-refresh
+gba-validate
 ```
 
 `gba-refresh` now performs the full pipeline:
@@ -75,6 +76,7 @@ Then open `http://127.0.0.1:8000`.
 - `data/projects_neurology.json`: neurology subset
 - `data/neurology_ui_payload.json`: compact payload for the website
 - `site/data.js`: generated browser bundle used by the frontend
+- `site/downloads/`: local-preview copies of the downloadable datasets
 - `site/index.html`: static Pages entrypoint
 - `docs/`: mirrored publish artifact for GitHub Pages
 - `docs/downloads/`: directly downloadable dataset files exposed on the website
@@ -86,6 +88,7 @@ src/gba_projects/
   scraper.py        scrape the project index and detail pages
   site_builder.py   transform scraped data into the frontend payload
   refresh.py        run scrape + site build in one command
+  validate.py       verify datasets and deployment mirrors
 site/
   *                 source frontend files
 docs/
@@ -113,13 +116,12 @@ More detail:
 
 ## Current Snapshot
 
-The checked-in dataset was generated on March 3, 2026 and currently contains:
+The current build timestamp and counts are generated from the checked-in data instead of being
+duplicated in this README. They are available on the [live site](https://entspannter.github.io/gba-neurology-explorer/)
+and in `data/neurology_ui_payload.json` under `generatedAt`, `overview`, and `classification`.
 
-- 803 scraped projects in total
-- 167 projects returned by the public neurology online filter
-- 45 projects with neurology as the only listed thematic focus
-- 122 projects where neurology is listed alongside additional thematic focuses
-- 0 scrape errors in the latest full run
+Run `gba-validate` after a refresh to check project-key uniqueness, required fields, neurology
+subset consistency, summary counts, downloadable files, and the complete GitHub Pages mirror.
 
 ## Interpretation Of The Neurology Filter
 
@@ -138,13 +140,16 @@ The frontend therefore includes a dedicated filter called `Neurologie-Definition
 
 ## Automation
 
-A GitHub Actions workflow is included under `.github/workflows/refresh-pages.yml`.
+A GitHub Actions workflow is included under `.github/workflows/refresh-pages.yml`. It runs every
+Monday at 05:15 UTC and can also be started manually. GitHub may delay scheduled jobs during
+periods of high Actions load.
 
 Its intended job is:
 
 - scheduled or manual refresh of the live dataset
 - rebuild of the frontend and Pages artifact
-- auto-commit of changed data and `docs/`
+- validation of generated data, download mirrors, and Pages assets
+- auto-commit of changed data, local-preview downloads, and `docs/`
 
 If pushing workflow files fails, the local GitHub CLI token most likely needs the `workflow` scope:
 

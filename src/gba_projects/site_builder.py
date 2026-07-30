@@ -16,6 +16,7 @@ SITE_DATA_JS = SITE_DIR / "data.js"
 UI_PAYLOAD_JSON = DATA_DIR / "neurology_ui_payload.json"
 SITE_DOWNLOADS_DIR = SITE_DIR / "downloads"
 PAGES_DOWNLOADS_DIR = PAGES_DIR / "downloads"
+STATIC_FILES = ["index.html", "styles.css", "app.js", "data.js", "favicon.svg"]
 
 DOWNLOAD_SPECS = [
     {
@@ -283,7 +284,7 @@ def mirror_site_for_pages() -> None:
     PAGES_DIR.mkdir(parents=True, exist_ok=True)
     SITE_DOWNLOADS_DIR.mkdir(parents=True, exist_ok=True)
     PAGES_DOWNLOADS_DIR.mkdir(parents=True, exist_ok=True)
-    for filename in ["index.html", "styles.css", "app.js", "data.js"]:
+    for filename in STATIC_FILES:
         shutil.copy2(SITE_DIR / filename, PAGES_DIR / filename)
     for spec in DOWNLOAD_SPECS:
         source = spec["source"]
