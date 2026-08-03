@@ -1831,7 +1831,7 @@
       "Bundesland": "Schleswig-Holstein",
       "Förderkennzeichen": "01VSF21049",
       "Laufzeit": "08/2022 – 07/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Patientenkommunikation , Resilienzförderung und Stressmanagement , Vorsorgeuntersuchungen",
       "Versorgungsmodelle und Behandlungsprogramme": "Integrierte Versorgung (IV) , personalisierte Medizin"
     },
@@ -1853,7 +1853,7 @@
       "Schleswig-Holstein"
     ],
     "care_setting": "ambulant",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "08/2022 – 07/2026",
     "start_date": "2022-08",
     "end_date": "2026-07",
@@ -9923,7 +9923,9 @@
     "funding_area": "Neue Versorgungsformen",
     "call_date": "02.03.2023",
     "description": "Das Post-COVID-Syndrom und andere postakute Infektionssyndrome sind komplexe Erkrankungen mit langanhaltenden Krankheitssymptomen nach einer Virusinfektion. Die Betroffenen können im Verlauf ganz gesunden, aber auch unter anhaltenden Einschränkungen mit zum Teil schweren Verläufen bis hin zur Bettlägerigkeit (z. B. bei ME/CFS) leiden. Häufige Symptome sind beispielsweise Fatigue, Belastungsintoleranz, Atemnot, kognitive Einschränkungen und Schmerzen. Durch die COVID-19-Pandemie ist die Zahl der Betroffenen sprunghaft angestiegen. Das Wissen über diese Erkrankungen ist begrenzt und neue Erkenntnisse könnten deutliche Veränderungen in der Behandlung mit sich bringen. Nach wie vor fehlen aussagekräftige diagnostische Parameter. Damit stellen sich den Betroffenen persönlich, aber auch dem Gesundheitssystem große Herausforderungen.\n\nZiel des Projekts CONFIDENCE ist der Aufbau und die Erprobung einer individuell ausgerichteten abgestuften Versorgung von Menschen mit postakuten Infektionssyndromen. Im Zentrum steht die Versorgung der Betroffenen durch ihre Hausärztinnen und Hausärzte in Zusammenarbeit mit spezialisierten Ambulanzen. Beschäftigte in weiteren Gesundheitsberufen werden in den Behandlungsplan mit einbezogen. Das Konzept beinhaltet maßgeschneiderte Patienteninformationen, Fortbildungskonzepte für alle Gesundheitsberufe, optimierte Versorgungspfade und telemedizinische Maßnahmen. Das Versorgungsmodell wird in einer cluster-randomisierten kontrollierten Studie evaluiert. Begleitend werden eine Prozess- und gesundheitsökonomische Evaluation durchgeführt. Das Projekt wird für drei Jahre mit insgesamt ca. 7,6 Millionen Euro gefördert.\n\nIm Erfolgsfall tragen die Ergebnisse dazu bei, eine effiziente patientenzentrierte Versorgung von Menschen mit postakutem Infektionssyndrom nachhaltig zu fördern. Über-, Unter- und Fehlversorgung sollen dabei zudem reduziert werden.",
-    "project_websites": [],
+    "project_websites": [
+      "https://versorgung-mit-system.de/"
+    ],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Attila Altiner",
@@ -36168,7 +36170,7 @@
       "Bundesländer": "Baden-Württemberg, Bayern, Niedersachsen, Nordrhein-Westfalen, Sachsen",
       "Förderkennzeichen": "01NVF21112",
       "Laufzeit": "12/2022 – 07/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "elektronisches Rezept (E-Rezept) / Medikationsplan (eMP) / Patientenakte (ePA) , Telekonsil / Televisite / Teletherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Patienten-Empowerment , Telematik-Infrastruktur",
       "Versorgungsmodelle und Behandlungsprogramme": "Care und Case Management / Lotsen , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade , stationäre Versorgung"
@@ -36198,7 +36200,7 @@
       "Sachsen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "12/2022 – 07/2026",
     "start_date": "2022-12",
     "end_date": "2026-07",
@@ -36481,7 +36483,7 @@
       "Bundesland": "Niedersachsen",
       "Förderkennzeichen": "01VSF23036",
       "Laufzeit": "10/2023 – 07/2026",
-      "Status": "laufend"
+      "Status": "Abschlussbericht wird erstellt"
     },
     "funding_info": {
       "Förderbereich": "Versorgungsforschung",
@@ -36501,7 +36503,7 @@
       "Niedersachsen"
     ],
     "care_setting": "stationär",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "10/2023 – 07/2026",
     "start_date": "2023-10",
     "end_date": "2026-07",
@@ -64162,7 +64164,7 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF21043",
       "Laufzeit": "08/2022 – 07/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Telekonsil / Televisite / Teletherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote",
       "Versorgungsmodelle und Behandlungsprogramme": "personalisierte Medizin"
@@ -64187,7 +64189,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "08/2022 – 07/2026",
     "start_date": "2022-08",
     "end_date": "2026-07",
@@ -68925,7 +68927,7 @@
       "Bundesland": "Hamburg",
       "Förderkennzeichen": "01VSF23002",
       "Laufzeit": "08/2023 – 07/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Rehabilitation und Therapie",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , stationäre Versorgung"
     },
@@ -68951,7 +68953,7 @@
       "Hamburg"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "08/2023 – 07/2026",
     "start_date": "2023-08",
     "end_date": "2026-07",
@@ -73546,7 +73548,7 @@
       "Bundesländer": "Bayern, Berlin, Brandenburg, Nordrhein-Westfalen",
       "Förderkennzeichen": "01NVF21116",
       "Laufzeit": "10/2022 – 07/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "App , Big Data und Gesundheitsdatenanalyse , Entscheidungshilfesystem , Informations- und Kommunikationstechnologien (IKT) , Telekonsil / Televisite / Teletherapie , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
       "Einsatz von Arzneimitteln": "Medikationsmanagement",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Patienten-Empowerment , Patientenkommunikation , Screeninginstrumente oder -verfahren , Telematik-Infrastruktur",
@@ -73576,7 +73578,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "ambulant",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "10/2022 – 07/2026",
     "start_date": "2022-10",
     "end_date": "2026-07",
@@ -73687,24 +73689,22 @@
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Günther Maderbacher",
-        "Universitätsklinikum Regensburg",
-        "Klinik und Poliklinik für Orthopädie",
-        "Kaiser-Karl V.-Allee 3",
-        "93077 Bad Abbach",
-        "+49 9405 18 4886",
-        "g.maderbacher@asklepios.com"
+        "MedArtes",
+        "Regensburger Straße 13",
+        "93037 Neutraubling",
+        "+49 9401 607950",
+        "guenther.maderbacher@ukr.de"
       ],
-      "display": "Prof. Dr. Günther Maderbacher | Universitätsklinikum Regensburg | Klinik und Poliklinik für Orthopädie | Kaiser-Karl V.-Allee 3 | 93077 Bad Abbach | +49 9405 18 4886 | g.maderbacher@asklepios.com",
+      "display": "Prof. Dr. Günther Maderbacher | MedArtes | Regensburger Straße 13 | 93037 Neutraubling | +49 9401 607950 | guenther.maderbacher@ukr.de",
       "name": "Prof. Dr. Günther Maderbacher",
-      "email": "g.maderbacher@asklepios.com",
-      "phone": "+49 9405 18 4886",
-      "postal_code": "93077",
-      "city": "Bad Abbach",
-      "organization": "Universitätsklinikum Regensburg",
-      "department": "Klinik und Poliklinik für Orthopädie",
-      "street": "Kaiser-Karl V.-Allee 3"
+      "email": "guenther.maderbacher@ukr.de",
+      "phone": "+49 9401 607950",
+      "postal_code": "93037",
+      "city": "Neutraubling",
+      "organization": "MedArtes",
+      "street": "Regensburger Straße 13"
     },
-    "project_lead_city": "Bad Abbach",
+    "project_lead_city": "Neutraubling",
     "consortium_partners": [
       "Technische Universität München"
     ],
@@ -76407,7 +76407,7 @@
     "project_id": 679,
     "slug": "target-ade.679",
     "url": "https://innovationsfonds.g-ba.de/projekte/target-ade.679",
-    "title": "TARGET-ADE – TARGETed prevention of hospitalisations due to Adverse Drug Events",
+    "title": "TARGET-ADE – Gezielte Prävention von Hospitalisierungen aufgrund unerwünschter Arzneimittelereignisse",
     "acronym": "TARGET-ADE",
     "funding_category": "Versorgungsforschung",
     "project_data": {
@@ -79784,7 +79784,7 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF21048",
       "Laufzeit": "08/2022 – 07/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Künstliche Intelligenz / maschinelles Lernen / Algorithmen",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Früherkennung , Rehabilitation und Therapie , Screeninginstrumente oder -verfahren",
       "Versorgungsmodelle und Behandlungsprogramme": "stationäre Versorgung"
@@ -79810,7 +79810,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "stationär",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "08/2022 – 07/2026",
     "start_date": "2022-08",
     "end_date": "2026-07",
