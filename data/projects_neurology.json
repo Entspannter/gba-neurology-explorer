@@ -11731,7 +11731,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF23027",
-      "Laufzeit": "03/2024 – 02/2027",
+      "Laufzeit": "03/2024 – 09/2027",
       "Status": "laufend",
       "E-Health": "App , digitale Informationsplattform / Wissensdatenbank / Therapiemodule , Informations- und Kommunikationstechnologien (IKT)",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patientenkommunikation , Telematik-Infrastruktur",
@@ -11771,9 +11771,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "03/2024 – 02/2027",
+    "duration_raw": "03/2024 – 09/2027",
     "start_date": "2024-03",
-    "end_date": "2027-02",
+    "end_date": "2027-09",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 2,1 Mio. Euro",
     "funding_sum_eur": 2100000,
@@ -11782,7 +11782,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "Die Häufigkeit körperlicher und psychischer chronischer Erkrankungen im Kindes- und Jugendalter ist in den vergangenen Jahren deutlich gestiegen. Hierzu zählen unter anderem Asthma, ADHS, Epilepsie, Autismus und Depressionen. Das erfordert neben der komplexen medizinischen Versorgung der erkrankten Kinder auch eine Unterstützung der betroffenen Familien. Die Forschenden bei PedSupport widmen sich bei ihren Arbeiten deshalb gezielt Patienten und Patientinnen, die langfristig verschiedene gesundheitliche und soziale Leistungen in Anspruch nehmen und in ihren alltäglichen Aktivitäten eingeschränkt sind.\n\nDie Projektbeteiligten wollen einen Werkzeugkasten entwickeln, der die Entwicklung und Effektivität von eHealth-Angeboten zur Unterstützung von Familien chronisch kranker Kinder während des ersten Jahres nach Diagnosestellung verbessern soll. Die im Rahmen der Projektarbeiten identifizierten bestehenden eHealth-Angebote sollen in Bezug auf ihre Erfüllung der tatsächlichen Bedarfe und Bedürfnisse bei betroffenen Familien geprüft werden. So können Empfehlungen zur zukünftigen Optimierung dieser Angebote entwickelt werden.\n\nDas Projekt ist als versorgungswissenschaftliche Studie unter Alltagsbedingungen mit einem Multi-methodischen Ansatz konzipiert. Dieser umfasst eine längsschnittlich wiederholte Befragung einer Kohorte von Eltern chronisch kranker Kinder, die zeitlich detaillierte Erfassung subjektiver Erfahrungen der Eltern und qualitative Interviews mit Eltern und Versorgern im ersten Jahr nach Diagnose. Dazu kommen eine Analyse der Stärken und Schwächen bereits bestehender eHealth-Angebote und eine Befragung der Versicherten der beteiligten Krankenkassen zu diesen bestehenden Angeboten. Darauf basierend wird das Projektteam Anforderungen für bedarfsorientierte und empirisch gesicherte Formen, Inhalte und optimale Zeitpunkte für eHealth-basierte Unterstützungsangebote formulieren. Zusätzlich erarbeitet das Team Empfehlungen in Bezug auf eine erfolgreiche Implementierung dieser Angebote. Das Projekt wird für drei Jahre mit insgesamt ca. 2,1 Millionen Euro gefördert.\n\nIm Erfolgsfall gelingt es in Zukunft, mit Hilfe des Anforderungskatalogs und der Empfehlungen, vorhandene eHealth-basierte Unterstützungsangebote zu verbessern oder bedarfsbezogene Neuentwicklungen gezielt voran zu treiben. Auf diese Weise sollen Belastungen für die Betroffenen und ihre Familien reduziert, ihre Lebensqualität und die soziale Unterstützung der Familien gefördert werden.",
+    "description": "Die Häufigkeit körperlicher und psychischer chronischer Erkrankungen im Kindes- und Jugendalter ist in den vergangenen Jahren deutlich gestiegen. Hierzu zählen unter anderem Asthma, ADHS, Epilepsie, Autismus und Depressionen. Das erfordert neben der komplexen medizinischen Versorgung der erkrankten Kinder auch eine Unterstützung der betroffenen Familien. Die Forschenden bei PedSupport widmen sich bei ihren Arbeiten deshalb gezielt Patienten und Patientinnen, die langfristig verschiedene gesundheitliche und soziale Leistungen in Anspruch nehmen und in ihren alltäglichen Aktivitäten eingeschränkt sind.\n\nDie Projektbeteiligten wollen einen Werkzeugkasten entwickeln, der die Entwicklung und Effektivität von eHealth-Angeboten zur Unterstützung von Familien chronisch kranker Kinder während des ersten Jahres nach Diagnosestellung verbessern soll. Die im Rahmen der Projektarbeiten identifizierten bestehenden eHealth-Angebote sollen in Bezug auf ihre Erfüllung der tatsächlichen Bedarfe und Bedürfnisse bei betroffenen Familien geprüft werden. So können Empfehlungen zur zukünftigen Optimierung dieser Angebote entwickelt werden.\n\nDas Projekt ist als versorgungswissenschaftliche Studie unter Alltagsbedingungen mit einem Multi-methodischen Ansatz konzipiert. Dieser umfasst eine längsschnittlich wiederholte Befragung einer Kohorte von Eltern chronisch kranker Kinder, die zeitlich detaillierte Erfassung subjektiver Erfahrungen der Eltern und qualitative Interviews mit Eltern und Versorgern im ersten Jahr nach Diagnose. Dazu kommen eine Analyse der Stärken und Schwächen bereits bestehender eHealth-Angebote und eine Befragung der Versicherten der beteiligten Krankenkassen zu diesen bestehenden Angeboten. Darauf basierend wird das Projektteam Anforderungen für bedarfsorientierte und empirisch gesicherte Formen, Inhalte und optimale Zeitpunkte für eHealth-basierte Unterstützungsangebote formulieren. Zusätzlich erarbeitet das Team Empfehlungen in Bezug auf eine erfolgreiche Implementierung dieser Angebote. Das Projekt wird für 43 Monate mit insgesamt ca. 2,1 Millionen Euro gefördert.\n\nIm Erfolgsfall gelingt es in Zukunft, mit Hilfe des Anforderungskatalogs und der Empfehlungen, vorhandene eHealth-basierte Unterstützungsangebote zu verbessern oder bedarfsbezogene Neuentwicklungen gezielt voran zu treiben. Auf diese Weise sollen Belastungen für die Betroffenen und ihre Familien reduziert, ihre Lebensqualität und die soziale Unterstützung der Familien gefördert werden.",
     "project_websites": [
       "https://heroes-kohorte.de/"
     ],
@@ -11810,6 +11810,7 @@
     "project_lead_city": "Düsseldorf",
     "consortium_partners": [
       "AOK Rheinland/Hamburg – Die Gesundheitskasse",
+      "Charité – Universitätsmedizin Berlin",
       "DAK-Gesundheit",
       "Deutsche Diabetes-Forschungsgesellschaft e. V.",
       "Katholisches Klinikum Bochum gGmbH",

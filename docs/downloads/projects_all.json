@@ -15244,7 +15244,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Brandenburg",
       "Förderkennzeichen": "01VSF23022",
-      "Laufzeit": "12/2023 – 11/2026",
+      "Laufzeit": "12/2023 – 11/2027",
       "Status": "laufend",
       "E-Health": "digitale Informationsplattform / Wissensdatenbank / Therapiemodule",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment"
@@ -15267,9 +15267,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "12/2023 – 11/2026",
+    "duration_raw": "12/2023 – 11/2027",
     "start_date": "2023-12",
-    "end_date": "2026-11",
+    "end_date": "2027-11",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 671.000 Euro",
     "funding_sum_eur": 671000,
@@ -15278,7 +15278,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "Medizinische Leitlinien dienen vor allem dazu, Ärztinnen und Ärzten bei ihren Entscheidungen zu unterstützen. Sie sollen jedoch auch die Sichtweisen und Vorstellungen der Patientinnen und Patienten berücksichtigen. Shared Decision Making (SDM) ist ein Verfahren, das gemeinsame Entscheidungen von Patient und Arzt unterstützt und fördert. Das gelingt, indem beide gleichberechtigt und aktiv auf Basis derselben Information gemeinsam über die Therapie entscheiden. National sowie auch international überwiegt die Einschätzung, dass Leitlinie und SDM einander bedingen sollten. Allerdings weisen erste Untersuchungen darauf hin, dass Leitlinien in Deutschland in ihrer aktuellen Form nur sehr begrenzt eine gemeinsame Entscheidungsfindung im Sinne von SDM unterstützen.\n\nDie Partner im Projekt EDELL wollen daher ein Verfahren entwickeln, das bereits bei der Erarbeitung von Leitlinien eingesetzt wird und sicherstellt, dass SDM integraler Bestandteil von Leitlinien wird. Hierzu bereitet die Forschungsgruppe zunächst die internationale Fachliteratur auf und führt Interviews mit Expertinnen und Experten. Parallel dazu definieren die Forschenden in einem Konzept, was Patientinnen und Patienten besonders wichtig ist, auch dies auf Basis der Literatur und den Gesprächen mit den Fachleuten. Auf dieser Grundlage erarbeiten sie dann das SDM-Verfahren. Damit es auch unter Praxisbedingungen einsetzbar ist, wird es in eine bereits vorhandene Datenbank mit Entscheidungshilfen integriert. Am Ende steht der Praxistest: Am Beispiel von zwölf bis 15 Leitlinien soll das neue Verfahren und die Datenbank unter realen Bedingungen, also während der Erstellung der jeweiligen Leitlinie, getestet und gegebenenfalls angepasst werden. Das Projekt wird für drei Jahre mit insgesamt ca. 671.000 Euro gefördert\n\nIm Erfolgsfall werden Verfahren, die die gemeinsame Entscheidungsfindung zwischen Arzt und Patient unterstützen, fester Bestandteil von medizinischen Leitlinien. Liegt eine Leitlinie im digitalen Format vor, so erlaubt die Verknüpfung mit der Datenbank relevante Entscheidungshilfen direkt während des Arzt-Patienten-Gesprächs abzurufen.",
+    "description": "Medizinische Leitlinien dienen vor allem dazu, Ärztinnen und Ärzten bei ihren Entscheidungen zu unterstützen. Sie sollen jedoch auch die Sichtweisen und Vorstellungen der Patientinnen und Patienten berücksichtigen. Shared Decision Making (SDM) ist ein Verfahren, das gemeinsame Entscheidungen von Patient und Arzt unterstützt und fördert. Das gelingt, indem beide gleichberechtigt und aktiv auf Basis derselben Information gemeinsam über die Therapie entscheiden. National sowie auch international überwiegt die Einschätzung, dass Leitlinie und SDM einander bedingen sollten. Allerdings weisen erste Untersuchungen darauf hin, dass Leitlinien in Deutschland in ihrer aktuellen Form nur sehr begrenzt eine gemeinsame Entscheidungsfindung im Sinne von SDM unterstützen.\n\nDie Partner im Projekt EDELL wollen daher ein Verfahren entwickeln, das bereits bei der Erarbeitung von Leitlinien eingesetzt wird und sicherstellt, dass SDM integraler Bestandteil von Leitlinien wird. Hierzu bereitet die Forschungsgruppe zunächst die internationale Fachliteratur auf und führt Interviews mit Expertinnen und Experten. Parallel dazu definieren die Forschenden in einem Konzept, was Patientinnen und Patienten besonders wichtig ist, auch dies auf Basis der Literatur und den Gesprächen mit den Fachleuten. Auf dieser Grundlage erarbeiten sie dann das SDM-Verfahren. Damit es auch unter Praxisbedingungen einsetzbar ist, wird es in eine bereits vorhandene Datenbank mit Entscheidungshilfen integriert. Am Ende steht der Praxistest: Am Beispiel von zwölf bis 15 Leitlinien soll das neue Verfahren und die Datenbank unter realen Bedingungen, also während der Erstellung der jeweiligen Leitlinie, getestet und gegebenenfalls angepasst werden. Das Projekt wird für vier Jahre mit insgesamt ca. 671.000 Euro gefördert.\n\nIm Erfolgsfall werden Verfahren, die die gemeinsame Entscheidungsfindung zwischen Arzt und Patient unterstützen, fester Bestandteil von medizinischen Leitlinien. Liegt eine Leitlinie im digitalen Format vor, so erlaubt die Verknüpfung mit der Datenbank relevante Entscheidungshilfen direkt während des Arzt-Patienten-Gesprächs abzurufen.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -15379,19 +15379,19 @@
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
-        "Prof. Dr. Steve Strupeit",
+        "Prof. Dr. Karlhans Endlich",
         "Universitätsmedizin Greifswald",
         "Institut für Pflegewissenschaft und",
         "Interprofessionelles Lernen",
         "Walther-Rathenau-Str. 49 a",
         "17489 Greifswald",
-        "+49 3834 864807",
-        "steve.strupeit@med.uni-greifswald.de"
+        "+49 3834 86-5000",
+        "Karlhans.Endlich@med.uni-greifswald.de"
       ],
-      "display": "Prof. Dr. Steve Strupeit | Universitätsmedizin Greifswald | Institut für Pflegewissenschaft und | Interprofessionelles Lernen | Walther-Rathenau-Str. 49 a | 17489 Greifswald | +49 3834 864807 | steve.strupeit@med.uni-greifswald.de",
-      "name": "Prof. Dr. Steve Strupeit",
-      "email": "steve.strupeit@med.uni-greifswald.de",
-      "phone": "+49 3834 864807",
+      "display": "Prof. Dr. Karlhans Endlich | Universitätsmedizin Greifswald | Institut für Pflegewissenschaft und | Interprofessionelles Lernen | Walther-Rathenau-Str. 49 a | 17489 Greifswald | +49 3834 86-5000 | Karlhans.Endlich@med.uni-greifswald.de",
+      "name": "Prof. Dr. Karlhans Endlich",
+      "email": "Karlhans.Endlich@med.uni-greifswald.de",
+      "phone": "+49 3834 86-5000",
       "postal_code": "17489",
       "city": "Greifswald",
       "organization": "Universitätsmedizin Greifswald",
@@ -26641,7 +26641,7 @@
       "Versorgungsbereich": "ambulant",
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF24040",
-      "Laufzeit": "01/2025 – 06/2027",
+      "Laufzeit": "01/2025 – 12/2027",
       "Status": "laufend",
       "Heil- und Hilfsmittelversorgung": "Seh- und Hörhilfen (Brillen, Hörgeräte)",
       "Versorgungsmodelle und Behandlungsprogramme": "Patienten- und Behandlungspfade"
@@ -26665,9 +26665,9 @@
     ],
     "care_setting": "ambulant",
     "status": "laufend",
-    "duration_raw": "01/2025 – 06/2027",
+    "duration_raw": "01/2025 – 12/2027",
     "start_date": "2025-01",
-    "end_date": "2027-06",
+    "end_date": "2027-12",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 1,3 Mio. Euro",
     "funding_sum_eur": 1300000,
@@ -26676,7 +26676,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "30.06.2023",
-    "description": "Mit zunehmendem Lebensalter entwickeln viele Menschen eine Schwerhörigkeit, in Deutschland sind über sechs Millionen der über 60-Jährigen davon betroffen. Hörstörungen können mit zahlreichen negativen Auswirkungen wie Stürze, Depression, Demenz und eingeschränkter Selbstständigkeit verbunden sein, die das Gesundheitssystem zusätzlich belasten. Zugleich bestehen trotz verfügbarer Behandlungsmöglichkeiten große quantitative und qualitative Versorgungslücken bei der Behandlung von Schwerhörigkeit.\n\nMit dem Projekt HearForFuture will das Forschungsteam zielgruppenspezifische strukturelle und prozessuale Schwachstellen bei der Versorgung hörgeschädigter Menschen identifizieren und Lösungsansätze für eine verbesserte Versorgung entwickeln. Hierzu sollen anhand von Krankenkassendaten und Daten aus der Qualitätssicherung der Kassenärztlichen Bundesvereinigung die aktuelle Versorgungssituation erfasst und individuelle Einflussfaktoren wie Alter, Geschlecht, Begleiterkrankungen und Region ermittelt werden. Parallel sollen qualitative Fokusgruppeninterviews mit Betroffenen, Patientenvertretungen, Akustikerinnen und Akustikern sowie HNO-Ärztinnen und -Ärzten aufzeigen, wo diese hemmende und fördernde Einflussfaktoren und Bedarfe bei der Versorgung von Schwerhörigen sehen. Auf Basis aller Vorarbeiten soll ein quantitativer Fragebogen für eine deutschlandweite Befragung von Menschen mit einer Hörminderung und HNO-Ärztinnen und -Ärzten erstellt werden. Ergänzend wird bei einem Teil der Betroffenen das Nutzungsverhalten und die subjektive und objektive Qualität der Hörgeräteversorgung ermittelt. Die Erkenntnisse aus den Erhebungen werden abschließend in einem Workshop mit den genannten Zielgruppen diskutiert, um Handlungsempfehlungen für ein zukunftsorientiertes praxistaugliches Versorgungskonzept zu formulieren, das die Versorgungssituation von schwerhörigen Menschen im Alter verbessert.\n\nDas Projekt wird für zweieinhalb Jahre mit insgesamt ca. 1,3 Millionen Euro gefördert.\n\nIm Erfolgsfall wird aus den Ergebnissen ein praxistaugliches Versorgungskonzept entwickelt, das die Versorgungssituation von altersbedingt schwerhörigen Menschen verbessert.",
+    "description": "Mit zunehmendem Lebensalter entwickeln viele Menschen eine Schwerhörigkeit, in Deutschland sind über sechs Millionen der über 60-Jährigen davon betroffen. Hörstörungen können mit zahlreichen negativen Auswirkungen wie Stürze, Depression, Demenz und eingeschränkter Selbstständigkeit verbunden sein, die das Gesundheitssystem zusätzlich belasten. Zugleich bestehen trotz verfügbarer Behandlungsmöglichkeiten große quantitative und qualitative Versorgungslücken bei der Behandlung von Schwerhörigkeit.\n\nMit dem Projekt HearForFuture will das Forschungsteam zielgruppenspezifische strukturelle und prozessuale Schwachstellen bei der Versorgung hörgeschädigter Menschen identifizieren und Lösungsansätze für eine verbesserte Versorgung entwickeln. Hierzu sollen anhand von Krankenkassendaten und Daten aus der Qualitätssicherung der Kassenärztlichen Bundesvereinigung die aktuelle Versorgungssituation erfasst und individuelle Einflussfaktoren wie Alter, Geschlecht, Begleiterkrankungen und Region ermittelt werden. Parallel sollen qualitative Fokusgruppeninterviews mit Betroffenen, Patientenvertretungen, Akustikerinnen und Akustikern sowie HNO-Ärztinnen und -Ärzten aufzeigen, wo diese hemmende und fördernde Einflussfaktoren und Bedarfe bei der Versorgung von Schwerhörigen sehen. Auf Basis aller Vorarbeiten soll ein quantitativer Fragebogen für eine deutschlandweite Befragung von Menschen mit einer Hörminderung und HNO-Ärztinnen und -Ärzten erstellt werden. Ergänzend wird bei einem Teil der Betroffenen das Nutzungsverhalten und die subjektive und objektive Qualität der Hörgeräteversorgung ermittelt. Die Erkenntnisse aus den Erhebungen werden abschließend in einem Workshop mit den genannten Zielgruppen diskutiert, um Handlungsempfehlungen für ein zukunftsorientiertes praxistaugliches Versorgungskonzept zu formulieren, das die Versorgungssituation von schwerhörigen Menschen im Alter verbessert.\n\nDas Projekt wird für 36 Monate mit insgesamt ca. 1,3 Millionen Euro gefördert.\n\nIm Erfolgsfall wird aus den Ergebnissen ein praxistaugliches Versorgungskonzept entwickelt, das die Versorgungssituation von altersbedingt schwerhörigen Menschen verbessert.",
     "project_websites": [],
     "project_lead": {
       "raw_lines": [
@@ -53534,7 +53534,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01VSF23027",
-      "Laufzeit": "03/2024 – 02/2027",
+      "Laufzeit": "03/2024 – 09/2027",
       "Status": "laufend",
       "E-Health": "App , digitale Informationsplattform / Wissensdatenbank / Therapiemodule , Informations- und Kommunikationstechnologien (IKT)",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Patientenkommunikation , Telematik-Infrastruktur",
@@ -53574,9 +53574,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "03/2024 – 02/2027",
+    "duration_raw": "03/2024 – 09/2027",
     "start_date": "2024-03",
-    "end_date": "2027-02",
+    "end_date": "2027-09",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 2,1 Mio. Euro",
     "funding_sum_eur": 2100000,
@@ -53585,7 +53585,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "27.06.2022",
-    "description": "Die Häufigkeit körperlicher und psychischer chronischer Erkrankungen im Kindes- und Jugendalter ist in den vergangenen Jahren deutlich gestiegen. Hierzu zählen unter anderem Asthma, ADHS, Epilepsie, Autismus und Depressionen. Das erfordert neben der komplexen medizinischen Versorgung der erkrankten Kinder auch eine Unterstützung der betroffenen Familien. Die Forschenden bei PedSupport widmen sich bei ihren Arbeiten deshalb gezielt Patienten und Patientinnen, die langfristig verschiedene gesundheitliche und soziale Leistungen in Anspruch nehmen und in ihren alltäglichen Aktivitäten eingeschränkt sind.\n\nDie Projektbeteiligten wollen einen Werkzeugkasten entwickeln, der die Entwicklung und Effektivität von eHealth-Angeboten zur Unterstützung von Familien chronisch kranker Kinder während des ersten Jahres nach Diagnosestellung verbessern soll. Die im Rahmen der Projektarbeiten identifizierten bestehenden eHealth-Angebote sollen in Bezug auf ihre Erfüllung der tatsächlichen Bedarfe und Bedürfnisse bei betroffenen Familien geprüft werden. So können Empfehlungen zur zukünftigen Optimierung dieser Angebote entwickelt werden.\n\nDas Projekt ist als versorgungswissenschaftliche Studie unter Alltagsbedingungen mit einem Multi-methodischen Ansatz konzipiert. Dieser umfasst eine längsschnittlich wiederholte Befragung einer Kohorte von Eltern chronisch kranker Kinder, die zeitlich detaillierte Erfassung subjektiver Erfahrungen der Eltern und qualitative Interviews mit Eltern und Versorgern im ersten Jahr nach Diagnose. Dazu kommen eine Analyse der Stärken und Schwächen bereits bestehender eHealth-Angebote und eine Befragung der Versicherten der beteiligten Krankenkassen zu diesen bestehenden Angeboten. Darauf basierend wird das Projektteam Anforderungen für bedarfsorientierte und empirisch gesicherte Formen, Inhalte und optimale Zeitpunkte für eHealth-basierte Unterstützungsangebote formulieren. Zusätzlich erarbeitet das Team Empfehlungen in Bezug auf eine erfolgreiche Implementierung dieser Angebote. Das Projekt wird für drei Jahre mit insgesamt ca. 2,1 Millionen Euro gefördert.\n\nIm Erfolgsfall gelingt es in Zukunft, mit Hilfe des Anforderungskatalogs und der Empfehlungen, vorhandene eHealth-basierte Unterstützungsangebote zu verbessern oder bedarfsbezogene Neuentwicklungen gezielt voran zu treiben. Auf diese Weise sollen Belastungen für die Betroffenen und ihre Familien reduziert, ihre Lebensqualität und die soziale Unterstützung der Familien gefördert werden.",
+    "description": "Die Häufigkeit körperlicher und psychischer chronischer Erkrankungen im Kindes- und Jugendalter ist in den vergangenen Jahren deutlich gestiegen. Hierzu zählen unter anderem Asthma, ADHS, Epilepsie, Autismus und Depressionen. Das erfordert neben der komplexen medizinischen Versorgung der erkrankten Kinder auch eine Unterstützung der betroffenen Familien. Die Forschenden bei PedSupport widmen sich bei ihren Arbeiten deshalb gezielt Patienten und Patientinnen, die langfristig verschiedene gesundheitliche und soziale Leistungen in Anspruch nehmen und in ihren alltäglichen Aktivitäten eingeschränkt sind.\n\nDie Projektbeteiligten wollen einen Werkzeugkasten entwickeln, der die Entwicklung und Effektivität von eHealth-Angeboten zur Unterstützung von Familien chronisch kranker Kinder während des ersten Jahres nach Diagnosestellung verbessern soll. Die im Rahmen der Projektarbeiten identifizierten bestehenden eHealth-Angebote sollen in Bezug auf ihre Erfüllung der tatsächlichen Bedarfe und Bedürfnisse bei betroffenen Familien geprüft werden. So können Empfehlungen zur zukünftigen Optimierung dieser Angebote entwickelt werden.\n\nDas Projekt ist als versorgungswissenschaftliche Studie unter Alltagsbedingungen mit einem Multi-methodischen Ansatz konzipiert. Dieser umfasst eine längsschnittlich wiederholte Befragung einer Kohorte von Eltern chronisch kranker Kinder, die zeitlich detaillierte Erfassung subjektiver Erfahrungen der Eltern und qualitative Interviews mit Eltern und Versorgern im ersten Jahr nach Diagnose. Dazu kommen eine Analyse der Stärken und Schwächen bereits bestehender eHealth-Angebote und eine Befragung der Versicherten der beteiligten Krankenkassen zu diesen bestehenden Angeboten. Darauf basierend wird das Projektteam Anforderungen für bedarfsorientierte und empirisch gesicherte Formen, Inhalte und optimale Zeitpunkte für eHealth-basierte Unterstützungsangebote formulieren. Zusätzlich erarbeitet das Team Empfehlungen in Bezug auf eine erfolgreiche Implementierung dieser Angebote. Das Projekt wird für 43 Monate mit insgesamt ca. 2,1 Millionen Euro gefördert.\n\nIm Erfolgsfall gelingt es in Zukunft, mit Hilfe des Anforderungskatalogs und der Empfehlungen, vorhandene eHealth-basierte Unterstützungsangebote zu verbessern oder bedarfsbezogene Neuentwicklungen gezielt voran zu treiben. Auf diese Weise sollen Belastungen für die Betroffenen und ihre Familien reduziert, ihre Lebensqualität und die soziale Unterstützung der Familien gefördert werden.",
     "project_websites": [
       "https://heroes-kohorte.de/"
     ],
@@ -53613,6 +53613,7 @@
     "project_lead_city": "Düsseldorf",
     "consortium_partners": [
       "AOK Rheinland/Hamburg – Die Gesundheitskasse",
+      "Charité – Universitätsmedizin Berlin",
       "DAK-Gesundheit",
       "Deutsche Diabetes-Forschungsgesellschaft e. V.",
       "Katholisches Klinikum Bochum gGmbH",
@@ -57272,7 +57273,8 @@
     },
     "project_lead_city": "Essen",
     "consortium_partners": [
-      "Techniker Krankenkasse"
+      "Techniker Krankenkasse",
+      "Grabein Consulting GmbH"
     ],
     "essential_elements": {},
     "decision_date": null,
@@ -63796,7 +63798,7 @@
       "Versorgungsbereich": "ambulant",
       "Bundesländer": "Baden-Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern",
       "Förderkennzeichen": "01NVF22110",
-      "Laufzeit": "08/2023 – 01/2027",
+      "Laufzeit": "08/2023 – 07/2027",
       "Status": "laufend"
     },
     "funding_info": {
@@ -63824,9 +63826,9 @@
     ],
     "care_setting": "ambulant",
     "status": "laufend",
-    "duration_raw": "08/2023 – 01/2027",
+    "duration_raw": "08/2023 – 07/2027",
     "start_date": "2023-08",
-    "end_date": "2027-01",
+    "end_date": "2027-07",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 2,3 Mio. Euro",
     "funding_sum_eur": 2300000,
@@ -63835,7 +63837,7 @@
     "funding_process": "zweistufig lang",
     "funding_area": "Neue Versorgungsformen",
     "call_date": "17.03.2021",
-    "description": "Angaben der Weltgesundheitsorganisation (WHO) zufolge ist ein Viertel der Weltbevölkerung einmal im Leben von einer behandlungsbedürftigen psychischen Erkrankung betroffen. Im Krankheitsfall sollte eine Behandlung zügig, d. h. innerhalb einer Wartezeit von vier Wochen erfolgen. Wartezeiten von sechs Monaten und sogar über einem Jahr sind jedoch keine Seltenheit. Damit steigt das Risiko einer Verschlechterung der Erkrankung oder der Entwicklung von Folgestörungen, was Betroffene unnötig belastet und zu höheren Gesundheitskosten führt.\n\nFür Betroffene, die kurzfristig keine Aussicht auf einen Therapieplatz haben, sieht QUATEMAR eine telemedizinische Begleitung vor. Sie erhalten sechs bis zwölf 30-minütige Tele-Coachings, bei denen sie sich mit einer virtuell zugeschalteten therapierenden Person austauschen können. Zu den behandelten Themen zählen z. B. Planung und Umsetzung der Suche nach einem Therapieplatz, dabei auftretende Probleme und Lösungsansätze. Außerdem erhalten sie Informationen in Form von Texten, Audios und Videos über eine App. Diese sollen Unterstützung im Falle längerer Wartezeiten und Hilfe beim Umgang mit der Erkrankung bieten.\n\nDie Projektbeteiligten werten mithilfe von Fragebögen, Interviews und Daten der Krankenkassen zu den angefallenen Gesundheitskosten aus, wie sich die Begleitung durch QUATEMAR auswirkt. Dabei wird u. a. ermittelt, ob die Betroffenen motivierter nach einem Therapieplatz suchen und weniger lange auf einen solchen Platz warten müssen. Abgefragt wird auch, wie es um Lebensqualität und Symptombelastung bestellt ist, und ob die Betroffenen besser mit ihren krankheitsbedingten Problemen und Emotionen umgehen können. Das Projekt wird für dreieinhalb Jahre mit insgesamt ca. 2,3 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Projekt aufzeigen, wie von übermäßig langer Wartezeit betroffene Personen bestmöglich bei der Suche nach einem Therapieplatz sowie bei der Stabilisierung ihres psychischen Gesundheitszustandes während unvermeidbarer Wartezeiten unterstützt werden können. So könnte QUATEMAR zu einer besseren Lebensqualität der Betroffenen und verringerten Gesundheitskosten beitragen.",
+    "description": "Angaben der Weltgesundheitsorganisation (WHO) zufolge ist ein Viertel der Weltbevölkerung einmal im Leben von einer behandlungsbedürftigen psychischen Erkrankung betroffen. Im Krankheitsfall sollte eine Behandlung zügig, d. h. innerhalb einer Wartezeit von vier Wochen erfolgen. Wartezeiten von sechs Monaten und sogar über einem Jahr sind jedoch keine Seltenheit. Damit steigt das Risiko einer Verschlechterung der Erkrankung oder der Entwicklung von Folgestörungen, was Betroffene unnötig belastet und zu höheren Gesundheitskosten führt.\n\nFür Betroffene, die kurzfristig keine Aussicht auf einen Therapieplatz haben, sieht QUATEMAR eine telemedizinische Begleitung vor. Sie erhalten sechs bis zwölf 30-minütige Tele-Coachings, bei denen sie sich mit einer virtuell zugeschalteten therapierenden Person austauschen können. Zu den behandelten Themen zählen z. B. Planung und Umsetzung der Suche nach einem Therapieplatz, dabei auftretende Probleme und Lösungsansätze. Außerdem erhalten sie Informationen in Form von Texten, Audios und Videos über eine App. Diese sollen Unterstützung im Falle längerer Wartezeiten und Hilfe beim Umgang mit der Erkrankung bieten.\n\nDie Projektbeteiligten werten mithilfe von Fragebögen, Interviews und Daten der Krankenkassen zu den angefallenen Gesundheitskosten aus, wie sich die Begleitung durch QUATEMAR auswirkt. Dabei wird u. a. ermittelt, ob die Betroffenen motivierter nach einem Therapieplatz suchen und weniger lange auf einen solchen Platz warten müssen. Abgefragt wird auch, wie es um Lebensqualität und Symptombelastung bestellt ist, und ob die Betroffenen besser mit ihren krankheitsbedingten Problemen und Emotionen umgehen können. Das Projekt wird für 48 Monate mit insgesamt ca. 2,3 Millionen Euro gefördert.\n\nIm Erfolgsfall kann das Projekt aufzeigen, wie von übermäßig langer Wartezeit betroffene Personen bestmöglich bei der Suche nach einem Therapieplatz sowie bei der Stabilisierung ihres psychischen Gesundheitszustandes während unvermeidbarer Wartezeiten unterstützt werden können. So könnte QUATEMAR zu einer besseren Lebensqualität der Betroffenen und verringerten Gesundheitskosten beitragen.",
     "project_websites": [
       "https://klips.phil.fau.de/quatemar"
     ],
@@ -73160,7 +73162,7 @@
       "Versorgungsbereich": "ambulant",
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF22024",
-      "Laufzeit": "03/2023 – 08/2026",
+      "Laufzeit": "03/2023 – 12/2026",
       "Status": "laufend",
       "E-Health": "App",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Rehabilitation und Therapie , Selbstmanagement-Programme"
@@ -73187,9 +73189,9 @@
     ],
     "care_setting": "ambulant",
     "status": "laufend",
-    "duration_raw": "03/2023 – 08/2026",
+    "duration_raw": "03/2023 – 12/2026",
     "start_date": "2023-03",
-    "end_date": "2026-08",
+    "end_date": "2026-12",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 1,2 Mio. Euro",
     "funding_sum_eur": 1200000,
@@ -73198,7 +73200,7 @@
     "funding_process": "Versorgungsforschung",
     "funding_area": "Versorgungsforschung",
     "call_date": "07.06.2021",
-    "description": "Depressionen nach der Schwangerschaft, auch Postpartale Depressionen genannt, können schwerwiegende Folgen für die betroffenen Mütter, aber auch für die Gesundheit ihrer Kinder haben. Gleichzeitig bestehen große Barrieren bei der Diagnostik und der Behandlung betroffener Mütter. Eine systematische und leitliniengerechte psychotherapeutische Behandlung (Psychotherapie) ist oftmals nicht zeitnah verfügbar.\n\nZentrales Ziel des Projekts ist es daher, Frauen mit postpartal depressiver Symptomatik die Teilnahme an einer Intervention per Smartphone-App zu ermöglichen, um ein niedrigschwelliges, wirksames Angebot zu schaffen und die Versorgung zu verbessern. Das geplante Projekt durchläuft zwei Phasen: Die erste Phase dient der inhaltlichen Ausarbeitung der kognitiven Verhaltenstherapie und der appbasierten technischen Umsetzung der Intervention. In der zweiten Phase werden Wirksamkeit und Machbarkeit der Intervention in einer randomisierten kontrollierten Studie (RCT) im Vergleich zur Regelversorgung insbesondere hinsichtlich der depressiven Symptomatik und des Stressempfindens analysiert. Das Projekt wird für 42 Monate mit insgesamt ca. 1,2 Millionen Euro gefördert.\n\nBewährt sich der Einsatz der appbasierten Intervention, wird sie helfen, die Versorgung von Müttern mit einer postpartalen Depression zu verbessern. Projektbegleitend wird ein Nachhaltigkeitsbeirat eingerichtet. Seine Aufgabe ist es sicherzustellen, dass die Intervention in Zukunft betroffenen Frauen kostenfrei zur Verfügung gestellt werden kann.",
+    "description": "Depressionen nach der Schwangerschaft, auch Postpartale Depressionen genannt, können schwerwiegende Folgen für die betroffenen Mütter, aber auch für die Gesundheit ihrer Kinder haben. Gleichzeitig bestehen große Barrieren bei der Diagnostik und der Behandlung betroffener Mütter. Eine systematische und leitliniengerechte psychotherapeutische Behandlung (Psychotherapie) ist oftmals nicht zeitnah verfügbar.\n\nZentrales Ziel des Projekts ist es daher, Frauen mit postpartal depressiver Symptomatik die Teilnahme an einer Intervention per Smartphone-App zu ermöglichen, um ein niedrigschwelliges, wirksames Angebot zu schaffen und die Versorgung zu verbessern. Das geplante Projekt durchläuft zwei Phasen: Die erste Phase dient der inhaltlichen Ausarbeitung der kognitiven Verhaltenstherapie und der appbasierten technischen Umsetzung der Intervention. In der zweiten Phase werden Wirksamkeit und Machbarkeit der Intervention in einer randomisierten kontrollierten Studie (RCT) im Vergleich zur Regelversorgung insbesondere hinsichtlich der depressiven Symptomatik und des Stressempfindens analysiert. Das Projekt wird für 46 Monate mit insgesamt ca. 1,2 Millionen Euro gefördert.\n\nBewährt sich der Einsatz der appbasierten Intervention, wird sie helfen, die Versorgung von Müttern mit einer postpartalen Depression zu verbessern. Projektbegleitend wird ein Nachhaltigkeitsbeirat eingerichtet. Seine Aufgabe ist es sicherzustellen, dass die Intervention in Zukunft betroffenen Frauen kostenfrei zur Verfügung gestellt werden kann.",
     "project_websites": [
       "https://www.ewi-psy.fu-berlin.de/psychologie/einrichtungen/cmhds/Smart-E-Moms/index.html"
     ],
@@ -74117,7 +74119,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesland": "Sachsen",
       "Förderkennzeichen": "01NVF22108",
-      "Laufzeit": "08/2023 – 10/2026",
+      "Laufzeit": "08/2023 – 07/2027",
       "Status": "laufend",
       "E-Health": "App , Big Data und Gesundheitsdatenanalyse , digitale Informationsplattform / Wissensdatenbank / Therapiemodule , Telekonsil / Televisite / Teletherapie , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Gesundheitskompetenz und Gesundheitsressourcen , Patienten-Empowerment , Patientenkommunikation",
@@ -74145,9 +74147,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "08/2023 – 10/2026",
+    "duration_raw": "08/2023 – 07/2027",
     "start_date": "2023-08",
-    "end_date": "2026-10",
+    "end_date": "2027-07",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 4,1 Mio. Euro",
     "funding_sum_eur": 4100000,
@@ -74156,7 +74158,7 @@
     "funding_process": "zweistufig lang",
     "funding_area": "Neue Versorgungsformen",
     "call_date": "17.03.2021",
-    "description": "Krebserkrankungen sind die zweithäufigste Todesursache in Deutschland, jedoch erhöhen neue Behandlungsmethoden die Überlebenschancen von Erkrankten. Besonders bei Blutkrebs verbessern innovative Behandlungen wie Stammzelltransplantationen und die CAR-T-Zell-Therapie die Prognose von Betroffenen, eine Form der Immuntherapie, die das körpereigene Abwehr- bzw. Immunsystem gegen die Tumorzellen aktiviert. Obwohl die Zahl der Behandlungen mit diesen Therapien steigt, sind sie teilweise mit gravierenden Nebenwirkungen und lebensbedrohlichen Komplikationen verbunden. Dennoch gibt es derzeit keine strukturierten Nachsorgeprogramme für die Zeit nach Entlassung aus der Klinik.\n\nZiel des Projekts SPIZ ist es daher, ein Nachsorgekonzept für Patientinnen und Patienten zu erproben, die mit innovativer Zelltherapie behandelt wurden. Dabei werden die Betroffenen zusätzlich zur Versorgung durch Fachärzte von sog. Onko-Nurses der Kliniken betreut – sowohl im eigenen häuslichen Umfeld als auch in Videosprechstunden. Auch soll eine App zum Einsatz kommen, über die Betroffene selbst fortlaufend ihren Gesundheitszustand dokumentieren und über die sie Informationen zur Behandlung entnehmen können. Die einzelnen Komponenten der Nachbehandlung werden überdies von Case-Managern, die bei den Kliniken angesiedelt sind, koordiniert.\n\nIn die Studie sollen rund 300 Patientinnen und Patienten eingeschlossen werden, von denen die Hälfte mit dem SPIZ-Nachsorgekonzept behandelt wird und die andere Hälfte, die derzeit übliche Versorgung erhält. Die Forschenden untersuchen, ob sich das neue Nachsorgekonzept positiv auf die Versorgung der Betroffenen auswirkt, es zu weniger Todesfällen und Komplikationen kommt und sich die Lebensqualität der Betroffenen verbessert. Geprüft wird auch, ob das Konzept bei Betroffenen und Gesundheitspersonal gut aufgenommen wird und zu einer Kostenersparnis führt. Das Projekt wird für 39 Monate mit insgesamt ca. 4,1 Millionen Euro gefördert.\n\nIm Erfolgsfall soll das Nachsorgekonzept für die Versorgung von Patientinnen und Patienten in ganz Deutschland eingesetzt werden.",
+    "description": "Krebserkrankungen sind die zweithäufigste Todesursache in Deutschland, jedoch erhöhen neue Behandlungsmethoden die Überlebenschancen von Erkrankten. Besonders bei Blutkrebs verbessern innovative Behandlungen wie Stammzelltransplantationen und die CAR-T-Zell-Therapie die Prognose von Betroffenen, eine Form der Immuntherapie, die das körpereigene Abwehr- bzw. Immunsystem gegen die Tumorzellen aktiviert. Obwohl die Zahl der Behandlungen mit diesen Therapien steigt, sind sie teilweise mit gravierenden Nebenwirkungen und lebensbedrohlichen Komplikationen verbunden. Dennoch gibt es derzeit keine strukturierten Nachsorgeprogramme für die Zeit nach Entlassung aus der Klinik.\n\nZiel des Projekts SPIZ ist es daher, ein Nachsorgekonzept für Patientinnen und Patienten zu erproben, die mit innovativer Zelltherapie behandelt wurden. Dabei werden die Betroffenen zusätzlich zur Versorgung durch Fachärzte von sog. Onko-Nurses der Kliniken betreut – sowohl im eigenen häuslichen Umfeld als auch in Videosprechstunden. Auch soll eine App zum Einsatz kommen, über die Betroffene selbst fortlaufend ihren Gesundheitszustand dokumentieren und über die sie Informationen zur Behandlung entnehmen können. Die einzelnen Komponenten der Nachbehandlung werden überdies von Case-Managern, die bei den Kliniken angesiedelt sind, koordiniert.\n\nIn die Studie sollen rund 300 Patientinnen und Patienten eingeschlossen werden, von denen die Hälfte mit dem SPIZ-Nachsorgekonzept behandelt wird und die andere Hälfte, die derzeit übliche Versorgung erhält. Die Forschenden untersuchen, ob sich das neue Nachsorgekonzept positiv auf die Versorgung der Betroffenen auswirkt, es zu weniger Todesfällen und Komplikationen kommt und sich die Lebensqualität der Betroffenen verbessert. Geprüft wird auch, ob das Konzept bei Betroffenen und Gesundheitspersonal gut aufgenommen wird und zu einer Kostenersparnis führt. Das Projekt wird für 48 Monate mit insgesamt ca. 4,1 Millionen Euro gefördert.\n\nIm Erfolgsfall soll das Nachsorgekonzept für die Versorgung von Patientinnen und Patienten in ganz Deutschland eingesetzt werden.",
     "project_websites": [
       "https://www.nct-dresden.de/de/fuer-patienten/beratungs-und-unterstuetzungsangebote/besondere-versorgungsangebote"
     ],
@@ -75423,10 +75425,10 @@
       "IKK Südwest",
       "Leibniz-Institut für Präventionsforschung und Epidemiologie GmbH",
       "Leibniz-Institut für Resilienzforschung gGmbH",
+      "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau",
       "Techniker Krankenkasse",
       "Technische Universität Braunschweig",
       "Universität Leipzig",
-      "Universitätsklinikum Würzburg",
       "Zentralinstitut für Seelische Gesundheit"
     ],
     "essential_elements": {},
