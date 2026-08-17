@@ -1,5 +1,5 @@
 window.GBA_NEUROLOGY_DATA = {
-  "generatedAt": "2026-08-10T06:45:19+00:00",
+  "generatedAt": "2026-08-17T05:54:00+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 861,
@@ -6599,7 +6599,7 @@ window.GBA_NEUROLOGY_DATA = {
       "acronym": "LONTS-2025",
       "url": "https://innovationsfonds.g-ba.de/projekte/lonts-2025.649",
       "summary": "Die medikamentöse Behandlung chronischer nicht-tumorbedingter Schmerzen ist oftmals unverzichtbarer Bestandteil einer wirksamen Schmerztherapie.",
-      "description": "Die medikamentöse Behandlung chronischer nicht-tumorbedingter Schmerzen ist oftmals unverzichtbarer Bestandteil einer wirksamen Schmerztherapie. In Deutschland werden knapp fünf Prozent der Gesamtbevölkerung jährlich mit einer Einzelverordnung von Opioiden behandelt, und rund ein Prozent der gesetzlich Krankenversicherten werden sogar über mindestens drei Quartale damit behandelt. Vor allem die Langzeitanwendung von Opioiden ist mit erheblichen Risiken einer Über- Unter- oder Fehlbehandlung verbunden. In der Folge können Magen-Darm-Erkrankungen und psychische Einschränkungen bis hin zur Abhängigkeit auftreten.\n\nZiel der Forschenden im Projekt LONTS-2025 ist die Überarbeitung der bestehenden S3-Leilinie zur Langzeitanwendung von Opioiden bei chronischen nicht-tumorbedingten Schmerzen. Die Leitlinie dient Ärztinnen und Ärzten als Orientierungshilfe über Nutzen und Schaden Opioid-haltiger Schmerzmittel. Frauen sind häufiger von chronischen Schmerzen betroffen als Männer, daher sollen unter anderem die geschlechtsspezifischen Unterschiede in Bezug auf Wirkung und Nebenwirkungen von Opioiden in die Leitlinie aufgenommen werden. Das Forschungsteam arbeitet gemäß den Vorgaben der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF) und führt zunächst eine systematische Recherche in den vorhandenen Studien durch. Expertinnen und Experten, aus den unterschiedlichen Fachgebieten der Medizin sowie Vertretende aus Betroffenenverbände, werten die dabei gewonnenen Erkenntnisse anschließend in einer Steuerungsgruppe aus und erarbeiten dann im Konsens Empfehlungen.\n\nDas Projekt wird für eineinhalb Jahre mit insgesamt ca. 245.000 Euro gefördert.\n\nIm Erfolgsfall beinhaltet die neue S3-Leitlinie Handlungsempfehlungen und Erläuterungstexte, die den überlegten Umgang mit sowie die bedachte Verordnung von Opioiden in Deutschland unterstützen. Besondere Würdigung finden dabei Hinweise auf Wirkungen und Nebenwirkungen sowie das Geschlecht der zu Behandelnden.",
+      "description": "Die medikamentöse Behandlung chronischer nicht-tumorbedingter Schmerzen ist oftmals unverzichtbarer Bestandteil einer wirksamen Schmerztherapie. In Deutschland werden knapp fünf Prozent der Gesamtbevölkerung jährlich mit einer Einzelverordnung von Opioiden behandelt, und rund ein Prozent der gesetzlich Krankenversicherten werden sogar über mindestens drei Quartale damit behandelt. Vor allem die Langzeitanwendung von Opioiden ist mit erheblichen Risiken einer Über- Unter- oder Fehlbehandlung verbunden. In der Folge können Magen-Darm-Erkrankungen und psychische Einschränkungen bis hin zur Abhängigkeit auftreten.\n\nZiel der Forschenden im Projekt LONTS-2025 ist die Überarbeitung der bestehenden S3-Leilinie zur Langzeitanwendung von Opioiden bei chronischen nicht-tumorbedingten Schmerzen. Die Leitlinie dient Ärztinnen und Ärzten als Orientierungshilfe über Nutzen und Schaden Opioid-haltiger Schmerzmittel. Frauen sind häufiger von chronischen Schmerzen betroffen als Männer, daher sollen unter anderem die geschlechtsspezifischen Unterschiede in Bezug auf Wirkung und Nebenwirkungen von Opioiden in die Leitlinie aufgenommen werden. Das Forschungsteam arbeitet gemäß den Vorgaben der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF) und führt zunächst eine systematische Recherche in den vorhandenen Studien durch. Expertinnen und Experten, aus den unterschiedlichen Fachgebieten der Medizin sowie Vertretende aus Betroffenenverbände, werten die dabei gewonnenen Erkenntnisse anschließend in einer Steuerungsgruppe aus und erarbeiten dann im Konsens Empfehlungen.\n\nDas Projekt wird für 19 Monate mit insgesamt ca. 245.000 Euro gefördert.\n\nIm Erfolgsfall beinhaltet die neue S3-Leitlinie Handlungsempfehlungen und Erläuterungstexte, die den überlegten Umgang mit sowie die bedachte Verordnung von Opioiden in Deutschland unterstützen. Besondere Würdigung finden dabei Hinweise auf Wirkungen und Nebenwirkungen sowie das Geschlecht der zu Behandelnden.",
       "status": "laufend",
       "states": [
         "Berlin"
@@ -6630,9 +6630,9 @@ window.GBA_NEUROLOGY_DATA = {
       "fundingProcess": "Medizinische Leitlinien",
       "fundingSumLabel": "ca. 245.000 Euro",
       "fundingSumEur": 245000,
-      "duration": "03/2025 – 08/2026",
+      "duration": "03/2025 – 09/2026",
       "startDate": "2025-03",
-      "endDate": "2026-08",
+      "endDate": "2026-09",
       "transferRecommendation": "",
       "projectLead": {
         "raw_lines": [
