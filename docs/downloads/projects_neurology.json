@@ -426,7 +426,13 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/66/2021-10-31_AHeaD_Ergebnisbericht.pdf"
       }
     ],
-    "additional_documents": [],
+    "additional_documents": [
+      {
+        "title": "Versorgungskonzept",
+        "meta": "(PDF 1.009,76 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/515/2021-06-04_AHeaD_Anlage_3_Versorgungskonzept.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "exclusive",
@@ -927,7 +933,13 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/205/2022-06-24_ANNOTeM_Evaluationsbericht.pdf"
       }
     ],
-    "additional_documents": [],
+    "additional_documents": [
+      {
+        "title": "Kitteltaschenbuch Neurologische Notfälle",
+        "meta": "(PDF 1,17 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/525/2022-06-24_ANNOTeM_Ergebnisbericht_Anlage_4_Kitteltaschenbuch_Neurologische_Notfaelle.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "exclusive",
@@ -2114,6 +2126,96 @@
     "is_neurology": true
   },
   {
+    "project_id": 851,
+    "slug": "co-gesund.851",
+    "url": "https://innovationsfonds.g-ba.de/projekte/co-gesund.851",
+    "title": "CO-GESUND – Verläufe von Post-COVID Fatigue – Unterschiede zwischen Gesundeten und Betroffenen in der Versorgung? Eine Case-Control-Studie",
+    "acronym": "CO-GESUND",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Themenschwerpunkte": "Atemwegserkrankungen und Beatmung, Blut- und Immunsystemerkrankungen, Impfungen und Infektionskrankheiten, neurologische Erkrankungen, Sonstige",
+      "Zielgruppen": "Erwachsene, Sonstige",
+      "Versorgungsbereich": "sektorenübergreifend",
+      "Bundesland": "Baden-Württemberg",
+      "Förderkennzeichen": "01VSF26025",
+      "Laufzeit": "04/2027 – 03/2030",
+      "Status": "laufend",
+      "E-Health": "Big Data und Gesundheitsdatenanalyse , Künstliche Intelligenz / maschinelles Lernen / Algorithmen",
+      "Einsatz von Arzneimitteln": "Off-Label-Use",
+      "Heil- und Hilfsmittelversorgung": "Physiotherapie",
+      "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , ambulante spezialfachärztliche Versorgung (ASV) , Integrierte Versorgung (IV) , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , Patienten- und Behandlungspfade , personalisierte Medizin , spezialisierte Versorgungszentren , stationäre Versorgung"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,553 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Versorgung von Patientinnen und Patienten mit postviralen Symptomkomplexen wie z. B. Post-/Long-COVID, ME/CFS"
+    },
+    "thematic_focuses": [
+      "Atemwegserkrankungen und Beatmung",
+      "Blut- und Immunsystemerkrankungen",
+      "Impfungen und Infektionskrankheiten",
+      "neurologische Erkrankungen",
+      "Sonstige"
+    ],
+    "target_groups": [
+      "Erwachsene",
+      "Sonstige"
+    ],
+    "states": [
+      "Baden-Württemberg"
+    ],
+    "care_setting": "sektorenübergreifend",
+    "status": "laufend",
+    "duration_raw": "04/2027 – 03/2030",
+    "start_date": "2027-04",
+    "end_date": "2030-03",
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,553 Mio. Euro",
+    "funding_sum_eur": 1553000,
+    "funding_reference": "01VSF26025",
+    "themenfeld": "Versorgung von Patientinnen und Patienten mit postviralen Symptomkomplexen wie z. B. Post-/Long-COVID, ME/CFS",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Post-COVID-Fatigue zählt zu einer der häufigsten langfristigen Folgen einer SARS-CoV-2-Infektion. Viele Betroffene leiden über Monate oder Jahre hinweg unter starker Erschöpfung sowie erheblichen Einschränkungen im Alltag und Berufsleben. Warum sich einige Menschen erholen, während andere dauerhaft erkrankt bleiben, ist bislang kaum erforscht.\n\nDas Projekt Co-GESUND untersucht, welche Faktoren und Versorgungsangebote eine Genesung von Post-COVID-Fatigue unterstützen können. Die Forschenden vergleichen Personen, die sich von einer schweren Post-COVID-Fatigue ganz oder weitgehend erholt haben, mit solchen, die weiterhin betroffen sind. Dazu werden Genesene und Betroffene sowie deren Behandlerinnen und Behandler zu Krankheitsverläufen, Versorgung und hilfreichen Maßnahmen befragt. Das Ziel besteht darin, herauszufinden, welche Formen einer kontinuierlichen und individuell abgestimmten Versorgung mit besseren Genesungschancen verbunden sind. Es werden Informationen von 160 Patientinnen und Patienten erhoben und ausgewertet. Durch den Vergleich der Krankheitsverläufe können Zusammenhänge zwischen Behandlungen, Versorgungsstrukturen und einer Genesung identifiziert werden. Des Weiteren werden Routinedaten der BARMER mit einer erheblich größeren Zahl an Betroffenen analysiert, um auch hier Faktoren zu identifizieren, die eine Genesung bei Post-COVID-Fatigue begünstigen. Dabei werden kontinuierlich Hinweise auf mögliche Zusammenhänge geprüft, die sich im Projektverlauf aus den Ergebnissen der Befragung ergeben.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,5 Millionen Euro gefördert.\n\nDie Ergebnisse liefern konkrete Hinweise, welche Versorgungsangebote für Menschen mit Post-COVID-Fatigue besonders hilfreich sind. Sie können dazu beitragen, bestehende Versorgungskonzepte weiterzuentwickeln, Behandlungsabläufe besser zu koordinieren und die Versorgung stärker an den Bedürfnissen der Betroffenen auszurichten.",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Prof. Dr. Beate Wild",
+        "Universitätsklinikum Heidelberg",
+        "Klinik für Allgemeine Innere Medizin und Psychosomatik",
+        "Im Neuenheimer Feld 410",
+        "69120 Heidelberg",
+        "+49 6221 568663",
+        "beate.wild@med.uni-heidelberg.de"
+      ],
+      "display": "Prof. Dr. Beate Wild | Universitätsklinikum Heidelberg | Klinik für Allgemeine Innere Medizin und Psychosomatik | Im Neuenheimer Feld 410 | 69120 Heidelberg | +49 6221 568663 | beate.wild@med.uni-heidelberg.de",
+      "name": "Prof. Dr. Beate Wild",
+      "email": "beate.wild@med.uni-heidelberg.de",
+      "phone": "+49 6221 568663",
+      "postal_code": "69120",
+      "city": "Heidelberg",
+      "organization": "Universitätsklinikum Heidelberg",
+      "department": "Klinik für Allgemeine Innere Medizin und Psychosomatik",
+      "street": "Im Neuenheimer Feld 410"
+    },
+    "project_lead_city": "Heidelberg",
+    "consortium_partners": [
+      "aQua-Institut für angewandte Qualitätsförderung und Forschung im Gesundheitswesen GmbH",
+      "BARMER"
+    ],
+    "essential_elements": {},
+    "decision_date": null,
+    "result_documents": [],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": true,
+    "matches_neurology_online_filter": true,
+    "neurology_focus_scope": "multiple",
+    "is_neurology": true
+  },
+  {
     "project_id": 350,
     "slug": "comm4care-san.350",
     "url": "https://innovationsfonds.g-ba.de/projekte/comm4care-san.350",
@@ -2833,7 +2935,18 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/232/2022-07-14_DemTab_Ergebnisbericht.pdf"
       }
     ],
-    "additional_documents": [],
+    "additional_documents": [
+      {
+        "title": "S3-Checkliste für Praxen",
+        "meta": "(PDF 769,85 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/499/2022-07-14_DemTab_Anlage_2_S3_Checkliste_fuer_Praxen.pdf"
+      },
+      {
+        "title": "S3-Checkliste für pflegende Angehörige",
+        "meta": "(PDF 645,51 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/500/2022-07-14_DemTab_Anlage_3_S3_Checkliste_fuer_pflegende_Angehoerige.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -4481,7 +4594,8 @@
       "Bundesland": "Rheinland-Pfalz",
       "Förderkennzeichen": "01NVF19012",
       "Laufzeit": "10/2020 – 12/2024",
-      "Status": "Abschlussbericht wird erstellt",
+      "Status": "beendet",
+      "Transferempfehlung": "keine Empfehlung",
       "Einsatz von Arzneimitteln": "Medikationsmanagement , Multimedikation / Polypharmazie , unerwünschte Arzneimittelwirkungen",
       "Heil- und Hilfsmittelversorgung": "andere Hilfsmittel , Ergotherapie , Ernährungstherapie , Inkontinenz- und Stoma-Artikel , Logopädie , Physiotherapie",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , partizipative Entscheidungsfindung / Shared Decision Making (SDM) , Patienten-Empowerment , Patientenkommunikation , Rehabilitation und Therapie",
@@ -4515,11 +4629,11 @@
       "Rheinland-Pfalz"
     ],
     "care_setting": "ambulant",
-    "status": "Abschlussbericht wird erstellt",
+    "status": "beendet",
     "duration_raw": "10/2020 – 12/2024",
     "start_date": "2020-10",
     "end_date": "2024-12",
-    "transfer_recommendation": "",
+    "transfer_recommendation": "keine Empfehlung",
     "funding_sum_label": "ca. 4,6 Mio. Euro",
     "funding_sum_eur": 4600000,
     "funding_reference": "01NVF19012",
@@ -4559,9 +4673,76 @@
       "Universitätsmedizin der Johannes Gutenberg-Universität Mainz"
     ],
     "essential_elements": {},
-    "decision_date": null,
-    "result_documents": [],
-    "additional_documents": [],
+    "decision_date": "21.08.2026",
+    "result_documents": [
+      {
+        "title": "Beschlusstext",
+        "meta": "(PDF 148,72 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1204/2026-08-21_FAMOUS.pdf"
+      },
+      {
+        "title": "Ergebnisbericht",
+        "meta": "(PDF 10,30 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1205/2026-08-21_FAMOUS_Ergebnisbericht.pdf"
+      },
+      {
+        "title": "Evaluationsbericht",
+        "meta": "(PDF 2,29 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/1206/2026-08-21_FAMOUS_Evaluationsbericht.pdf"
+      }
+    ],
+    "additional_documents": [
+      {
+        "title": "Prozess- und Strukturanpassung",
+        "meta": "(PDF 283,57 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/460/2026-08-21_FAMOUS_Ergebnisbericht_Anlage_1_Prozess-_und_Strukturanpassung.pdf"
+      },
+      {
+        "title": "Modulübersicht APN-Fortbildung",
+        "meta": "(PDF 92,22 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/461/2026-08-21_FAMOUS_Ergebnisbericht_Anlage_2_Moduluebersicht_APN-Fortbildung.pdf"
+      },
+      {
+        "title": "Begleitkonzept",
+        "meta": "(PDF 231,45 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/462/2026-08-21_FAMOUS_Ergebnisbericht_Anlage_3_Begleitkonzept%20.pdf"
+      },
+      {
+        "title": "TIDieR Bedarfserhebung",
+        "meta": "(PDF 236,96 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/463/2026-08-21_FAMOUS_Ergebnisbericht_Anlage_4_TIDieR_Bedarfserhebung.pdf"
+      },
+      {
+        "title": "TIDieR Behandlungsplanung",
+        "meta": "(PDF 211,30 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/464/2026-08-21_FAMOUS_Ergebnisbericht_Anlage_5_TIDieR_Behandlungsplanung.pdf"
+      },
+      {
+        "title": "TIDieR Steuerung und Durchführung der Behandlung",
+        "meta": "(PDF 244,10 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/465/2026-08-21_FAMOUS_Ergebnisbericht_Anlage_6_TIDieR_Steuerung_und_Durchfuehrung_der_Behandlung.pdf"
+      },
+      {
+        "title": "Aufgabenprofil APN",
+        "meta": "(PDF 1,05 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/466/2026-08-21_FAMOUS_Ergebnisbericht_Anlage_7_Aufgabenprofil_APN.pdf"
+      },
+      {
+        "title": "Vernetzung/Handreichung APNs",
+        "meta": "(PDF 292,04 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/467/2026-08-21_FAMOUS_Ergebnisbericht_Anlage_8_Vernetzung_Handreichung_APNs.pdf"
+      },
+      {
+        "title": "Checkliste zum Start in der Hausarztpraxis",
+        "meta": "(PDF 216,09 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/468/2026-08-21_FAMOUS_Ergebnisbericht_Anlage_9_Checkliste_zum_Start_in_Hausarztpraxis.pdf"
+      },
+      {
+        "title": "Strategien zur Ausleitung von Patient:innen",
+        "meta": "(PDF 190,02 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/469/2026-08-21_FAMOUS_Ergebnisbericht_Anlage_10_Strategien_Ausleitung_von_Patient_innen.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -5172,7 +5353,7 @@
       "Versorgungsbereich": "sektorenübergreifend",
       "Bundesländer": "Hamburg, Nordrhein-Westfalen",
       "Förderkennzeichen": "01NVF25303",
-      "Laufzeit": "10/2026 – 03/2030",
+      "Laufzeit": "01/2027 – 06/2030",
       "Status": "laufend",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Beratungs-, Präventions- und Aufklärungsangebote , Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Rehabilitation und Therapie , Screeninginstrumente oder -verfahren",
       "Versorgungsmodelle und Behandlungsprogramme": "ambulante ärztliche Versorgung , Entlassmanagement / Nachsorge , Integrierte Versorgung (IV) , Netzwerk- und Zentrenbildung / interprofessionelle Zusammenarbeit , spezialisierte Versorgungszentren"
@@ -5209,9 +5390,9 @@
     ],
     "care_setting": "sektorenübergreifend",
     "status": "laufend",
-    "duration_raw": "10/2026 – 03/2030",
-    "start_date": "2026-10",
-    "end_date": "2030-03",
+    "duration_raw": "01/2027 – 06/2030",
+    "start_date": "2027-01",
+    "end_date": "2030-06",
     "transfer_recommendation": "",
     "funding_sum_label": "ca. 4,6 Mio. Euro",
     "funding_sum_eur": 4600000,
@@ -9244,6 +9425,11 @@
         "title": "Ergebnisse QiSA Band F2 - Multimorbidität",
         "meta": "(PDF 3,16 MB)",
         "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/208/01VSF16058%20MULTIqual%20Ergebnisse%20QiSA%20Band%20F2%20-%20Multimorbidit%C3%A4t.pdf"
+      },
+      {
+        "title": "Manual für die Anwendung der Qualitätsindikatoren",
+        "meta": "(PDF 3,32 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/495/2022-05-12_MULTIqual_Anlage_11_Manual_fuer_die_Anwendung_der_Qualitaetsindikatoren.pdf"
       }
     ],
     "has_explicit_neurology_focus": true,
@@ -9732,7 +9918,13 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/497/2023-12-15_NPPV_Evaluationsbericht.pdf"
       }
     ],
-    "additional_documents": [],
+    "additional_documents": [
+      {
+        "title": "Behandlungspfade",
+        "meta": "(PDF 1,32 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/545/2023-12-15_NPPV_Ergebnisbericht_Anlage_1_Behandlungspfade.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
@@ -10231,6 +10423,92 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/274/2022-10-17_OptiStruk_Ergebnisbericht.pdf"
       }
     ],
+    "additional_documents": [],
+    "has_explicit_neurology_focus": true,
+    "matches_neurology_online_filter": true,
+    "neurology_focus_scope": "multiple",
+    "is_neurology": true
+  },
+  {
+    "project_id": 850,
+    "slug": "orgameco.850",
+    "url": "https://innovationsfonds.g-ba.de/projekte/orgameco.850",
+    "title": "OrgaMECO – Die Rolle von Betroffenenorganisationen im Bereich ME/CFS und Post-COVID: aktuelle Situation, Barrieren und Potenziale – eine Mixed-Methods-Studie",
+    "acronym": "OrgaMECO",
+    "funding_category": "Versorgungsforschung",
+    "project_data": {
+      "Themenschwerpunkte": "neurologische Erkrankungen, Sonstige",
+      "Zielgruppen": "Angehörige, Erwachsene",
+      "Versorgungsbereich": "sektorenübergreifend",
+      "Bundesland": "Hamburg",
+      "Förderkennzeichen": "01VSF26024",
+      "Laufzeit": "10/2026 – 09/2029",
+      "Status": "laufend"
+    },
+    "funding_info": {
+      "Förderbereich": "Versorgungsforschung",
+      "Förderverfahren": "Versorgungsforschung",
+      "Fördersumme": "ca. 1,034 Mio. Euro",
+      "Förderbekanntmachung": "20.06.2025",
+      "Themenfeld": "Versorgung von Patientinnen und Patienten mit postviralen Symptomkomplexen wie z. B. Post-/Long-COVID, ME/CFS"
+    },
+    "thematic_focuses": [
+      "neurologische Erkrankungen",
+      "Sonstige"
+    ],
+    "target_groups": [
+      "Angehörige",
+      "Erwachsene"
+    ],
+    "states": [
+      "Hamburg"
+    ],
+    "care_setting": "sektorenübergreifend",
+    "status": "laufend",
+    "duration_raw": "10/2026 – 09/2029",
+    "start_date": "2026-10",
+    "end_date": "2029-09",
+    "transfer_recommendation": "",
+    "funding_sum_label": "ca. 1,034 Mio. Euro",
+    "funding_sum_eur": 1034000,
+    "funding_reference": "01VSF26024",
+    "themenfeld": "Versorgung von Patientinnen und Patienten mit postviralen Symptomkomplexen wie z. B. Post-/Long-COVID, ME/CFS",
+    "funding_process": "Versorgungsforschung",
+    "funding_area": "Versorgungsforschung",
+    "call_date": "20.06.2025",
+    "description": "Post-COVID und Myalgische Enzephalomyelitis / Chronisches Fatigue-Syndrom (ME/CFS) sind schwere, chronische Multisystemerkrankungen, die u. a. nach einer akuten Viruserkrankung wie einer SARS-CoV-2-Infektion auftreten können. Die Betroffenen können ihren alltäglichen Aufgaben, ihrem Beruf und ihren sozialen Kontakten nur noch eingeschränkt oder gar nicht mehr nachgehen, häufig aufgrund einer massiven Kraftlosigkeit und erheblich eingeschränkter körperlicher Leistungsfähigkeit. Dies geht auch mit Belastungen für Angehörige einher. In dieser Situation übernehmen Betroffenenorganisationen (BO) eine wichtige und entlastende Rolle: Sie informieren über die Erkrankungen, beraten zu Behandlungsmöglichkeiten und unterstützen Betroffene sowie Angehörige.\n\nOrgaMECO untersucht die Rolle von BO bei Post-COVID und ME/CFS im Gesundheitswesen. Dazu werden die aktuelle Versorgungssituation und die Bedarfe ermittelt sowie die Barrieren, Erfolgsfaktoren und förderlichen Rahmenbedingungen analysiert. Im Fokus steht die Zusammenarbeit der BO mit Betroffenen, Angehörigen und Versorgenden. Nach einer Literaturrecherche, die auch etablierte Kooperations- und Unterstützungsmodelle bei Krebs, HIV/AIDS und Multipler Sklerose einbezieht, werden darauf aufbauend Betroffene, deren Angehörige, Gesundheitspersonal sowie BO interviewt sowie in einem Online-Survey umfassend befragt. Abschließend werden in einem Workshop gemeinsam mit den genannten Akteuren praxisnahe Handlungsempfehlungen für BO, Versorgende, die gesetzliche Krankenversicherung und gesundheitspolitische Entscheidungsträger erarbeitet.\n\nDas Projekt wird für drei Jahre mit ca. einer Million Euro gefördert.\n\nDie Handlungsempfehlungen zeigen im Erfolgsfall konkrete Wege auf, wie BO zukünftig strukturierter, sichtbarer und nachhaltiger in die Versorgung integriert werden können. Dadurch soll sich die Versorgung von Menschen mit ME/CFS und Post-COVID verbessern. Zudem können die Erkenntnisse auf andere Krankheitsbilder übertragen werden.",
+    "project_websites": [],
+    "project_lead": {
+      "raw_lines": [
+        "Dr. Christine Blome",
+        "Universitätsklinikum Hamburg-Eppendorf",
+        "Institut für Versorgungsforschung in der Dermatologie und bei Pflegeberufen",
+        "Martinistraße 52 / CPW",
+        "20246 Hamburg",
+        "+49 40 7410-57387",
+        "c.blome@uke.de"
+      ],
+      "display": "Dr. Christine Blome | Universitätsklinikum Hamburg-Eppendorf | Institut für Versorgungsforschung in der Dermatologie und bei Pflegeberufen | Martinistraße 52 / CPW | 20246 Hamburg | +49 40 7410-57387 | c.blome@uke.de",
+      "name": "Dr. Christine Blome",
+      "email": "c.blome@uke.de",
+      "phone": "+49 40 7410-57387",
+      "postal_code": "20246",
+      "city": "Hamburg",
+      "organization": "Universitätsklinikum Hamburg-Eppendorf",
+      "department": "Institut für Versorgungsforschung in der Dermatologie und bei Pflegeberufen",
+      "street": "Martinistraße 52 / CPW"
+    },
+    "project_lead_city": "Hamburg",
+    "consortium_partners": [],
+    "essential_elements": {
+      "Prävention, Gesundheitsförderung und Gesundheitsverhalten": [
+        "Beratungs-, Präventions- und Aufklärungsangebote",
+        "Gesundheitskompetenz und Gesundheitsressourcen",
+        "Patienten-Empowerment"
+      ]
+    },
+    "decision_date": null,
+    "result_documents": [],
     "additional_documents": [],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
@@ -11712,7 +11990,63 @@
         "url": "https://innovationsfonds.g-ba.de/downloads/beschluss-dokumente/210/2022-06-24_PAWEL_Ergebnisbericht.pdf"
       }
     ],
-    "additional_documents": [],
+    "additional_documents": [
+      {
+        "title": "Informationsbroschüre für Angehörige und Interessierte",
+        "meta": "(PDF 1,32 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/501/2022-06-24_PAWEL_Anlage_1.3_Informationsbroschuere_fuer_Angehoerige_und_Interessierte.pdf"
+      },
+      {
+        "title": "Informationsbroschüre für Angehörige und Interessierte Tübingen",
+        "meta": "(PDF 1,21 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/502/2022-06-24_PAWEL_Anlage_1.4_Informationsbroschuere_fuer_Angehoerige_und_Interessierte_Tuebingen.pdf"
+      },
+      {
+        "title": "Pocketcard Delir – Ärzte",
+        "meta": "(PDF 87,31 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/503/2022-06-24_PAWEL_Anlage_1.5_Pocketcard_Delir_-_Aerzte.pdf"
+      },
+      {
+        "title": "Pocketcard Delir – Infekt",
+        "meta": "(PDF 77,09 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/504/2022-06-24_PAWEL_Anlage_1.6_Pocketcard_Delir_-_Infekt.pdf"
+      },
+      {
+        "title": "Pocketcard Delir – Risikoerkennung",
+        "meta": "(PDF 599,91 kB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/505/2022-06-24_PAWEL_Anlage_1.7_Pocketcard_Delir_-_Risikoerkennung.pdf"
+      },
+      {
+        "title": "Aktiver-Handbuch",
+        "meta": "(PDF 1,65 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/506/2022-06-24_PAWEL_Anlage_2.1_Aktiver-Handbuch.pdf"
+      },
+      {
+        "title": "Präsentation Schulung Assessoren – Teil 1",
+        "meta": "(PDF 11,28 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/507/2022-06-24_PAWEL_Anlage_3.1_Praesentation_Schulung_Assessoren_-_Teil_1.pdf"
+      },
+      {
+        "title": "Präsentation Schulung Assessoren – Teil 2",
+        "meta": "(PDF 1,81 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/508/2022-06-24_PAWEL_Anlage_3.2_Praesentation_Schulung_Assessoren_-_Teil_2.pdf"
+      },
+      {
+        "title": "Präsentation Schulung – Basis",
+        "meta": "(PDF 1,43 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/509/2022-06-24_PAWEL_Anlage_3.3_Praesentation_Schulung_-_Basis.pdf"
+      },
+      {
+        "title": "Präsentation Schulung – Delir-Scout",
+        "meta": "(PDF 4,93 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/510/2022-06-24_PAWEL_Anlage_3.4_Praesentation_Schulung_-_Delir-Scout.pdf"
+      },
+      {
+        "title": "Präsentation Schulung – Delir-Champion",
+        "meta": "(PDF 5,24 MB)",
+        "url": "https://innovationsfonds.g-ba.de/downloads/projekt-dokumente/511/2022-06-24_PAWEL_Anlage_3.5_Praesentation_Schulung_-_Delir-Champion.pdf"
+      }
+    ],
     "has_explicit_neurology_focus": true,
     "matches_neurology_online_filter": true,
     "neurology_focus_scope": "multiple",
