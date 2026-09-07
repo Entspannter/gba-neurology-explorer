@@ -9925,9 +9925,7 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "20.02.2017",
     "description": "Das geriatrische Frailty-Syndrom bezeichnet einen Zustand körperlicher Gebrechlichkeit, der mit verminderter Lebenserwartung und erhöhten Risiken für Verwirrtheitszustände, Stürze und Krankenhauseinweisungen verbunden ist. Die medizinische Versorgung von Patientinnen und Patienten mit Frailty ist komplex, da viele einzelne Gesundheitsprobleme gleichzeitig bestehen und der Nutzen vieler medikamentöser und nichtmedikamentöser Therapien für diese Patientengruppe nicht gesichert ist. Eine besondere Rolle kommt der Polypharmazie (Einnahme von fünf oder mehr Wirkstoffen) zu, die als verstärkender Faktor für das geriatrische Frailty-Syndrom angesehen wird. Die Reduktion von Polypharmazie stellt daher eine vielversprechende Intervention zur Stabilisierung des gesundheitlichen Zustands dar.\n\nDas Projekt COFRAIL zielt darauf, die hausärztliche Versorgung ambulanter Patientinnen und Patienten zu verbessern. In sogenannten Familienkonferenzen sollen Hausärzte gemeinsam mit den Patienten und Patientinnen und ihren pflegenden Angehörigen besprechen, welche Behandlungsziele mit welchen Mitteln verfolgt werden sollen. Das Ziel ist ein gemeinsamer Beschluss darüber, welche medizinischen Maßnahmen weitergeführt oder ergriffen werden sollen und auf welche Maßnahmen verzichtet werden soll. Ein besonderes Augenmerk soll dabei auf die Priorisierung der Arzneimitteltherapie gelegt werden.\n\nIm Projekt werden bei 670 Patientinnen und Patienten je drei Familienkonferenzen durchgeführt. Dazu erhalten die Hausärztinnen und Hausärzte mehrere Fortbildungen. Anschließend wird untersucht, wie sich die Familienkonferenzen auf die Versorgung auswirken und welche Unterschiede zur regulären Versorgung erkennbar sind. Das Projekt wird für 42 Monate mit ca. 1,3 Millionen Euro gefördert.\n\nIm Erfolgsfall können Krankenkassen und Kassenärztliche Vereinigungen das Konzept in die ärztliche Aus- und Fortbildung sowie Programme zur strukturierten Versorgung geriatrischer Patienten einbauen.",
-    "project_websites": [
-      "https://www.cofrail.com/"
-    ],
+    "project_websites": [],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Stefan Wilm, PD Dr. Achim Mortsiefer",
@@ -14108,7 +14106,7 @@
     "project_id": 838,
     "slug": "direct.838",
     "url": "https://innovationsfonds.g-ba.de/projekte/direct.838",
-    "title": "DIRECT – S3-Leitlinie standardisierte Ersteinschätzung zur Steuerung in der Notfall–und Akutversorgung am Krankenhausstandort und in integrierten Notfallstrukturen",
+    "title": "DIRECT – S3-Leitlinie standardisierte Ersteinschätzung zur Steuerung in der Notfall– und Akutversorgung am Krankenhausstandort und in integrierten Notfallstrukturen",
     "acronym": "DIRECT",
     "funding_category": "Versorgungsforschung",
     "project_data": {
@@ -16459,7 +16457,7 @@
       "Bundesland": "Nordrhein-Westfalen",
       "Förderkennzeichen": "01NVF21114",
       "Laufzeit": "09/2022 – 08/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "E-Health": "Digitale Gesundheitsanwendungen (DiGA) , elektronisches Rezept (E-Rezept) / Medikationsplan (eMP) / Patientenakte (ePA) , Telekonsil / Televisite / Teletherapie , Telemonitoring / Surveillance / digitale Erhebung von Vitalparametern",
       "Einsatz von Arzneimitteln": "Medikationsmanagement",
       "Heil- und Hilfsmittelversorgung": "Physiotherapie , technische Produkte",
@@ -16496,7 +16494,7 @@
       "Nordrhein-Westfalen"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "09/2022 – 08/2026",
     "start_date": "2022-09",
     "end_date": "2026-08",
@@ -20320,9 +20318,7 @@
     "funding_area": "Versorgungsforschung",
     "call_date": "19.10.2018",
     "description": "Autismus-Spektrum-Störungen (ASS) sind schwerwiegende und lebenslange Erkrankungen. Aktuell sind in Deutschland 0,9 bis 1,1 Prozent der Bevölkerung an ASS erkrankt; aufgrund der Vielzahl der an Diagnostik und Versorgung beteiligten Institutionen sowie der für die Betroffenen lebenslangen krankheitsbedingten Beeinträchtigungen entstehen sowohl den Leistungserbringern als auch der Gesellschaft als Ganzes durch ASS hohe Kosten.\n\nDie Diagnostik ist komplex und erfolgt durch spezialisierte Institutionen, die mit allen Erscheinungsformen sowie Differentialdiagnosen vertraut sind. Patienten mit Verdacht auf ASS müssen oft bis zu einem Jahr auf den Ersttermin warten. Je früher aber die spezialisierte Diagnostik und Behandlung einsetzen, desto besser ist die Langzeitprognose. Um diese Versorgungslücke zu schließen, soll ein Screening-Tool entwickelt werden, das einen frühen Zugang zu spezialisierter Diagnostik und Therapie sichern soll. Dieses webbasierte Screening-Tool wird gestuft implementiert, evaluiert und anschließend dem Gesundheitssystem zur Verfügung gestellt. Das Tool enthält Informationen zum Störungsbild sowie ausführliche Text-, Bild- und Videobeispiele, die es dem Anwender erleichtern, das Screening durchzuführen.\n\nDas Projekt wird vier Jahre mit ca. 1,6 Millionen Euro gefördert.\n\nUnmittelbares Ergebnis von EVAS ist der Erkenntnisgewinn über Akzeptanz, Machbarkeit und Effizienz eines innovativen, webbasierten Screening-Tools. Rückmeldungen der Anwender können bei der Entwicklung und Implementierung des Tools berücksichtigt werden, das Screening-Tool selbst soll am Ende der Projektlaufzeit in der Routineversorgung zum Einsatz kommen. Das Screening-Tool ist prinzipiell auch auf andere Störungsbilder anwendbar, die innovative Präsentation mittels Text-, Bild- und Videodarstellungen hat Modellcharakter.",
-    "project_websites": [
-      "https://www.autismus-lotse.de/de"
-    ],
+    "project_websites": [],
     "project_lead": {
       "raw_lines": [
         "Prof. Dr. Inge Kamp-Becker",
@@ -63088,7 +63084,7 @@
       "Bundesland": "Berlin",
       "Förderkennzeichen": "01VSF24023",
       "Laufzeit": "10/2024 – 08/2026",
-      "Status": "laufend",
+      "Status": "Abschlussbericht wird erstellt",
       "Einsatz von Arzneimitteln": "Arzneimitteltherapiesicherheit (AMTS)",
       "Prävention, Gesundheitsförderung und Gesundheitsverhalten": "Früherkennung , Gesundheitsinformationen / Flyer / Infobriefe , Gesundheitskompetenz und Gesundheitsressourcen , Screeninginstrumente oder -verfahren"
     },
@@ -63141,7 +63137,7 @@
       "Berlin"
     ],
     "care_setting": "sektorenübergreifend",
-    "status": "laufend",
+    "status": "Abschlussbericht wird erstellt",
     "duration_raw": "10/2024 – 08/2026",
     "start_date": "2024-10",
     "end_date": "2026-08",
@@ -74051,7 +74047,7 @@
     "call_date": "21.06.2024",
     "description": "Die Sichelzellkrankheit (SCD) ist eine Erbkrankheit der roten Blutkörperchen, die eine weltweite gesundheitspolitische Herausforderung darstellt. Obwohl sie ursprünglich in Subsahara-Afrika, im östlichen Mittelmeerraum, im Nahen Osten und dem indischen Subkontinent vorkommt, hat die globale Migration und Vertreibung von Menschen dazu geführt, dass sie heute weltweit verbreitet ist. Jährlich werden etwa 500.000 Kinder weltweit mit SCD geboren, in Deutschland sind es jährlich rund 150 Neugeborene, Tendenz steigend.\n\nBei der SCD können sich die roten Blutkörperchen unter bestimmten Bedingungen (beispielsweise bei Anstrengung, Kälte, Infektionen) zu „Sichelzellen“ verformen, was zu Durchblutungsstörungen in den Organen führen und mit starken Schmerzen einhergehen kann. Langfristig können eine chronische Blutarmut und dauerhafte Organschäden entstehen. Die Lebenserwartung ist deutlich reduziert, und die Lebensqualität und gesellschaftliche Teilhabe eingeschränkt. Besonders für Kinder ist eine konsequente Vorsorge und Therapie entscheidend, um schwere Folgen wie psychische Erkrankungen, Nierenversagen, Schlaganfälle oder Herz-Lungenerkrankungen zu verhindern. Trotz der bestehenden S2k-Leitlinie werden in Deutschland viele Betroffene nicht optimal versorgt, wobei die Ursachen hierfür noch unklar sind. Studien aus anderen Ländern legen nahe, dass gesellschaftliche Einflussfaktoren und strukturelle Barrieren im Gesundheitssystem den Krankheitsverlauf erheblich beeinflussen.\n\nDas Projekt setzt hier an: es untersucht erstmals die Versorgungssituation von Kindern mit SCD in Deutschland unter Berücksichtigung psychosozialer Aspekte und struktureller Gegebenheiten, um relevante Faktoren für eine bedarfsgerechte präventive Versorgung zu identifizieren. Dabei wird auch die entstehende Kostenbelastung beschrieben. Zur Datenerhebung werden Kinder mit SCD und ihre Sorgeberechtigten befragt und Interviews mit Fachkräften aus verschiedenen Disziplinen geführt. Zusätzlich werden Daten aus Krankenakten, Daten aus der Kinder-Gesundheitsstudie KiGGS sowie von Krankenkassen genutzt.\n\nDas Projekt wird für drei Jahre mit insgesamt ca. 1,1 Millionen Euro gefördert.\n\nDie erarbeiteten Empfehlungen können helfen, Menschen mit SCD in Deutschland effizienter zu versorgen: dadurch kann ihre Gesundheit verbessert und unnötige Kosten im Gesundheitssystem vermieden werden. Die Erkenntnisse sind auch auf andere Projekte mit vulnerablen Zielgruppen oder mit Wechselwirkungen von Migration und Gesundheit übertragbar.",
     "project_websites": [
-      "https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/klinik-fuer-kinder-onkologie-haematologie-und-klinische-immunologie/forschungsbereiche/sikicare"
+      "https://www.sikicare.de"
     ],
     "project_lead": {
       "raw_lines": [
