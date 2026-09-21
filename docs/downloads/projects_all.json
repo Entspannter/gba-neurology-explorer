@@ -30058,7 +30058,7 @@
     "call_date": "",
     "description": "Die Erfolgsaussichten einer Transplantation haben sich dank des medizinischen Fortschritts stetig verbessert; das gilt auch für die Niere, das in Deutschland am häufigsten transplantierte Organ. Dennoch ist es vor allem im ersten Jahr nach dem Eingriff wichtig, dass Empfängerinnen und Empfänger ihre Medikamente regelmäßig einnehmen und den vorgegebenen Behandlungsplan einhalten. Sie müssen zunächst lernen, worauf im Alltag zu achten ist und welche körperlichen Veränderungen Alarmsignale darstellen können. Deren Überwachung ist zur Vermeidung von Komplikationen entscheidend. Obwohl die technischen Voraussetzungen zur Erfassung der entscheidenden Faktoren existieren, werden diese Informationen bisher nicht systematisch erhoben und für die Behandlung genutzt.\n\nDas Projekt smartNTX zielt drauf ab, dies zu verbessern. Dazu dokumentieren Transplantierte mittels Apps und App-gekoppelter Messgeräte ihre Vitaldaten, ihr Wohlbefinden und ihre Medikamenteneinnahme. Diese Daten werden digital an ein Telemedizinteam übermittelt, das die Transplantierten kontaktiert, falls ihre Werte sich verschlechtern. Um die Daten der Transplantierten auszuwerten und Therapieempfehlungen abzuleiten, sollen zur Unterstützung der Ärztinnen und Ärzte Verfahren der künstlichen Intelligenz eingesetzt werden. In wöchentlichen Fallkonferenzen besprechen das Telemedizinteam und der behandelnde Nephrologe oder die Nephrologin weitere Therapieentscheidungen.\n\nZur Erprobung des Verfahrens wird eine Studie mit 384 Transplantierten durchgeführt. Dabei wird die Hälfte der Teilnehmenden zwölf Monate lang mit der neuen Versorgungsform behandelt, die andere Hälfte gemäß der Regelversorgung. Anschließend wird verglichen, in welcher Patientengruppe der Zustand des Transplantats, die Prognose, die Lebensqualität und das Krankheitsmanagement besser ist.\n\nDas Projekt wird für 46 Monate mit insgesamt ca. 5,8 Millionen Euro gefördert.\n\nLassen sich mit der neuen Versorgungsform bessere Behandlungsergebnisse erzielen, könnte sie auf andere Bereiche der Transplantationsmedizin ausgedehnt werden.",
     "project_websites": [
-      "https://www.smartntx.de/"
+      "https://www.medizin4.uk-erlangen.de/forschung/patientennahe-forschung/innovationsstudie-smartntx/"
     ],
     "project_lead": {},
     "project_lead_city": null,
@@ -30714,8 +30714,8 @@
     "project_id": 717,
     "slug": "stress-care.717",
     "url": "https://innovationsfonds.g-ba.de/projekte/stress-care.717",
-    "title": "STRESS-Care – Ein Stepped-Care-Programm zur Förderung von Resilienz und Reduktion psychischer Belastung bei jugendlichen Schüler:innen",
-    "acronym": "STRESS-Care",
+    "title": "stress care – Ein Stepped-Care-Programm zur Förderung von Resilienz und Reduktion psychischer Belastung bei jugendlichen Schüler:innen",
+    "acronym": "stress care",
     "funding_category": "Neue Versorgungsformen",
     "project_data": {},
     "funding_info": {},
