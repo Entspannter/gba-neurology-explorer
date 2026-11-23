@@ -1,5 +1,5 @@
 window.GBA_NEUROLOGY_DATA = {
-  "generatedAt": "2026-11-16T13:42:17+00:00",
+  "generatedAt": "2026-11-23T16:02:20+00:00",
   "source": {
     "listUrl": "https://innovationsfonds.g-ba.de/projekte/",
     "projectCount": 861,
@@ -2810,9 +2810,7 @@ window.GBA_NEUROLOGY_DATA = {
       "projectLead": {},
       "projectLeadCity": null,
       "partners": [],
-      "projectWebsites": [
-        "https://kocon-projekt.de/"
-      ],
+      "projectWebsites": [],
       "decisionDate": null,
       "documents": [],
       "essentialElements": {}
